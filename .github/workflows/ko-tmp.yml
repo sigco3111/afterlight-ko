@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: dump2 / write
+        description: dump3 / write
         required: false
-        default: dump2
+        default: dump3
 permissions:
   contents: write
 jobs:
@@ -18,61 +18,72 @@ jobs:
           node-version: 20
       - name: merge
         run: node tools/merge-ko.mjs
-      - name: dump2
-        if: inputs.mode == 'dump2'
+      - name: dump3
+        if: inputs.mode == 'dump3'
         run: |
-          mkdir -p .dump
-          ls src/story > .dump/story.txt
-          grep -ril "tutorial" src > .dump/tutorial.txt || true
-          cat > .dump/scan.mjs <<'EOF'
+          mkdir -p .dump/cat
+          cat > .dump/scan3.mjs <<'EOF'
           import fs from 'node:fs';
-          import path from 'node:path';
           const ko = JSON.parse(fs.readFileSync('src/i18n/ko.json', 'utf8'));
-          const walk = (d, o = []) => {
-            for (const e of fs.readdirSync(d, { withFileTypes: true })) {
-              const p = path.join(d, e.name);
-              if (e.isDirectory()) walk(p, o);
-              else if (p.endsWith('.js')) o.push(p);
-            }
-            return o;
-          };
-          const out = {};
-          let total = 0;
-          const re = /(['"`])((?:\\.|(?!\1)[^\\])*)\1/g;
-          for (const f of walk('src')) {
-            if (f.startsWith('src/i18n')) continue;
-            const src = fs.readFileSync(f, 'utf8');
-            const set = new Set();
+          const list = (d, re) => fs.readdirSync(d).filter((f) => re.test(f)).map((f) => d + '/' + f);
+          const generic = (src, out) => {
+            const re = /(['"`])((?:\\.|(?!\1)[^\\])*)\1/g;
             let m;
-            re.lastIndex = 0;
             while ((m = re.exec(src))) {
               const q = m[1];
               const s = m[2];
               if (q === '`' && s.includes('${')) continue;
-              if (s.length < 3 || s.length > 400) continue;
+              if (s.length < 2 || s.length > 500) continue;
               if (!/[A-Za-z]/.test(s)) continue;
-              if (!/\s/.test(s)) continue;
-              if (/^(\.|\/|#|http|data:|@)/.test(s)) continue;
-              if (/^[a-z][a-z0-9_-]*$/.test(s)) continue;
               if (ko[s] !== undefined) continue;
-              set.add(s);
+              out.add(s);
             }
-            if (set.size) {
-              out[f] = [...set];
-              total += set.size;
+          };
+          const keyed = (src, out) => {
+            const re = /(?:name|region|label|title|area|place|sub|text)\s*:\s*(['"])((?:\\.|(?!\1)[^\\])*)\1/g;
+            let m;
+            while ((m = re.exec(src))) {
+              const s = m[2];
+              if (s.length < 2 || s.length > 500) continue;
+              if (!/[A-Za-z]/.test(s)) continue;
+              if (ko[s] !== undefined) continue;
+              out.add(s);
             }
+          };
+          const groups = {
+            ch2: [],
+            tutorial: ['src/data/tutorials.js', 'src/ui/Tutorial.js'],
+            battle: list('src/battle', /^[A-Za-z]+\.js$/),
+            maps: list('src/data/maps', /^[A-Za-z0-9_]+\.js$/),
+          };
+          for (const f of fs.readdirSync('src/story')) if (/^ch2_/.test(f)) groups.ch2.push('src/story/' + f);
+          for (const f of list('src/data/maps', /^ch2_/)) groups.ch2.push(f);
+          for (const f of fs.readdirSync('src/data/maps/layouts')) groups.maps.push('src/data/maps/layouts/' + f);
+          const res = {};
+          for (const [k, files] of Object.entries(groups)) {
+            const out = new Set();
+            for (const f of files) {
+              let src = '';
+              try { src = fs.readFileSync(f, 'utf8'); } catch { continue; }
+              if (k === 'maps') keyed(src, out);
+              else generic(src, out);
+            }
+            res[k] = [...out];
           }
-          fs.writeFileSync('.dump/missing.json', JSON.stringify(out, null, 1));
-          const stat = ['files ' + Object.keys(out).length + ' strings ' + total];
-          for (const [k, v] of Object.entries(out)) stat.push(k + ' ' + v.length);
-          fs.writeFileSync('.dump/stat.txt', stat.join('\n'));
-          console.log(stat.join('\n'));
+          const lines = [];
+          for (const [k, v] of Object.entries(res)) {
+            fs.writeFileSync('.dump/cat/' + k + '.json', JSON.stringify(v, null, 1));
+            lines.push(k + ' ' + v.length);
+          }
+          lines.push('ko ' + Object.keys(ko).length);
+          fs.writeFileSync('.dump/stat3.txt', lines.join('\n'));
+          console.log(lines.join('\n'));
           EOF
-          node .dump/scan.mjs
+          node .dump/scan3.mjs
       - name: commit
         run: |
           git config user.name sigco3111
           git config user.email sigco3111@users.noreply.github.com
           git add -A .dump
-          git commit -m "임시: 덤프2" || echo none
+          git commit -m "임시: 덤프3" || echo none
           git push
