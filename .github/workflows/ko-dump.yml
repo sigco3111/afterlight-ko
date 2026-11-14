@@ -1,0 +1,37 @@
+name: ko-dump
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          cat > /tmp/d.mjs <<'JS'
+          import fs from 'node:fs'; import path from 'node:path';
+          const F=['name','desc','title','text','label','hint','summary','flavor'];
+          const SRC={skills:'src/data/skills.js',enemies:'src/data/enemies.js',equipment:'src/data/equipment.js',characters:'src/data/characters.js',tutorials:'src/data/tutorials.js',crests:'src/data/crests.js',artInfo:'src/data/artInfo.js',monsterInfo:'src/data/monsterInfo.js'};
+          const out={};
+          for(const [k,f] of Object.entries(SRC)){
+            let m; try{m=await import(path.resolve(f));}catch(e){out[k]=['ERR '+e.message];continue;}
+            const a=[]; const seen=new Set();
+            const walk=(o)=>{ if(!o||typeof o!=='object')return; if(Array.isArray(o)){o.forEach(walk);return;} for(const f of F) if(typeof o[f]==='string'&&!seen.has(o[f])){seen.add(o[f]);a.push(o[f]);} for(const v of Object.values(o)) if(v&&typeof v==='object') walk(v); };
+            for(const v of Object.values(m)) walk(v);
+            out[k]=a;
+          }
+          fs.mkdirSync('docs/_dump',{recursive:true});
+          for(const [k,a] of Object.entries(out)){
+            let md='# '+k+' ('+a.length+')\n', n=0, part=1;
+            a.forEach((s,i)=>{ const t=String(s); for(let j=0;j<t.length;j+=120){ md+='- '+k+'.'+i+'.'+(j/120)+' '+t.slice(j,j+120).replace(/\n/g,' ')+'\n'; n++; if(n>150){ fs.writeFileSync('docs/_dump/'+k+'-'+part+'.md',md); md='# '+k+' p'+(part+1)+'\n'; n=0; part++; } } });
+            fs.writeFileSync('docs/_dump/'+k+'-'+part+'.md',md);
+          }
+          console.log('ok');
+          JS
+          node /tmp/d.mjs
+          git config user.name sigco3111
+          git config user.email sigco3111@users.noreply.github.com
+          git add -A
+          git commit -m "작업: 번역 원문 덤프" || true
+          git push
