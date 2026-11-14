@@ -1,209 +1,80 @@
-<div align="center">
+# Afterlight — 한국어판 (비공식)
 
-<img src="docs/screenshots/title.jpg" alt="Afterlight title screen: a lighthouse at dusk over a seaside village" width="820">
+*세상이 끝난 날, 나는 열여섯이 되었다. 이 이야기는 그 뒤에 우리가 세운 것에 대한 것이다.*
 
-# Afterlight
+three.js로 만든 2D-HD JRPG **Afterlight**의 비공식 한국어판입니다.
 
-*The world ended on the day I came of age. This is what we built after.*
+- 배포: <https://sigco3111.github.io/afterlight-ko/>
+- 원작: <https://github.com/FriendlyUser/afterlight> (FriendlyUser)
+- 한국어판 저장소: <https://github.com/sigco3111/afterlight-ko>
 
-A 2D-HD JRPG built with three.js — pixel-art characters in lit, depth-of-field
-dioramas — about a girl who causes the end of the world at sixteen, and grows up anyway.
+## 원작 소개
 
-**[▶ Play in your browser](https://friendlyuser.github.io/afterlight/)** · [Run it locally](#run-it-locally) · [Controls](#controls) · [Features](#features) · [Build & deploy](#build--deploy)
+픽셀 아트 캐릭터를 조명과 심도 표현이 들어간 디오라마에 올려 놓은 2D-HD JRPG입니다.
+열여섯 살에 세상의 끝을 불러온 소녀가 그럼에도 자라나는 이야기로, 본편 12장과 포스트게임,
+24개 클래스(크레스트)와 10랭크, 전투 중 가드/브레이크, 낚시, 도감, 저장 6슬롯+자동 저장 등을 갖추고 있습니다.
 
-</div>
+## 한글화 방식
 
----
+원작 소스를 가능한 한 그대로 두고 **오버레이 방식**으로 번역했습니다.
 
-## Screenshots
+- `i18n/parts/*.json` : 영어 원문 → 한국어 사전(키 = 원문 문자열). 빌드 전 `tools/merge-ko.mjs`가 `src/i18n/ko.json`으로 합칩니다.
+- `src/i18n/index.js` : `t()` 조회, 언어 결정(`?lang=ko|en`, `localStorage.afterlight.lang`, 기본 한국어).
+- `src/i18n/dom.js` : 화면에 그려진 텍스트 노드를 사전으로 치환하는 감시자 + 우하단 **EN/한글** 토글 버튼.
+- `src/i18n/data.js` : 아이템·장비·스킬·적·크레스트·상태·튜토리얼의 표시 문자열을 로드 후 치환(id는 그대로라 게임 로직 영향 없음).
+- 대사는 `ScriptContext.fill()`과 `UI.dialogue()` 한 곳에서 번역되므로, 사전에 없는 문장은 **영어 그대로** 표시되고 게임은 깨지지 않습니다.
 
-<table>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/town.jpg" alt="Exploring the city of Aurenne with the party and minimap"><br><sub><b>Aurenne</b> — the party walks the city as a caravan.</sub></td>
-    <td width="50%"><img src="docs/screenshots/battle-storm.jpg" alt="Battle against the Thunderhead, a living storm cloud"><br><sub><b>The Thunderhead</b> — telegraphed attacks you can Guard or Break.</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/crests.jpg" alt="Crest screen showing ranks, Arts and Supports"><br><sub><b>Crests</b> — 24 classes, 10 ranks each, primary + secondary.</sub></td>
-    <td width="50%"><img src="docs/screenshots/worldmap.jpg" alt="World map of Solmere with travel destinations"><br><sub><b>Solmere</b> — fast travel across the world (before it breaks).</sub></td>
-  </tr>
-</table>
+### 언어 바꾸기
 
-## Run it locally
+- 화면 오른쪽 아래 **EN / 한글** 버튼, 또는
+- 주소에 `?lang=en` / `?lang=ko` 를 붙이거나, 브라우저 콘솔에서 `localStorage.setItem('afterlight.lang','en')` 후 새로고침.
 
-No install and no build step: every sprite, texture and note of music is generated at
-runtime (only the fonts are files). The game just needs to be served over HTTP:
+### 폰트
+
+한글은 시스템 폰트(맑은 고딕, Apple SD Gothic Neo, Noto Sans KR, 나눔고딕)를 우선 사용합니다(`css/ko.css`).
+추가 웹폰트를 내려받지 않습니다. 영어로 전환하면 원작의 Alegreya/Cinzel이 그대로 쓰입니다.
+
+## 번역 범위 (2026-11 기준)
+
+| 영역 | 상태 |
+|---|---|
+| 타이틀·설정·메인 메뉴·아이템/상태 화면 등 UI | 대부분 번역 |
+| 아이템 이름·설명, 상태 이상, 기본 크레스트 이름 | 번역 |
+| 1장(프롤로그) 대사·목표·일지 | 번역 |
+| 2장 이후 대사, 스킬 이름/설명, 적 이름/설명, 맵 이름, 전투 로그 | **미번역(영어)** |
+
+미번역 구간은 영어로 표시됩니다. 번역 추가는 `i18n/parts/`에 JSON을 더하고 다시 배포하면 됩니다.
+
+## 번역 외 변경
+
+- `src/main.js`, `src/ui/UI.js`, `src/script/ScriptContext.js`에 i18n 훅 3곳 추가(위 설명).
+- `index.html`에 `css/ko.css` 링크 추가, `tools/patch-i18n.mjs`로 재현 가능.
+- 외부 서버·통계·의견 수집 기능은 원작에 없어 제거할 것이 없었습니다(소스에 분석/텔레메트리 호출 없음).
+- 게임 플레이는 모두 브라우저 안에서 실행되며 저장 데이터는 localStorage에만 남습니다.
+
+## 빌드 · 배포
 
 ```bash
-python3 -m http.server 8765
+node tools/merge-ko.mjs      # i18n/parts/*.json -> src/i18n/ko.json
+npm install
+npx vite build --base=./     # dist/
 ```
 
-Then open **<http://localhost:8765/>** in a modern browser with WebGL2 (Chrome, Edge,
-Firefox or Safari). Saves (6 slots + an autosave) are kept in the browser, separately
-for each site address. To back one up or move it to another computer or to the hosted
-version, press <kbd>F</kbd> on a slot in the Save / Load screen to export it to a file
-or import one.
+저장소의 `.github/workflows/ko-build.yml`이 main 푸시/수동 실행 시 위 과정을 거쳐 GitHub Pages로 배포합니다.
+자산 경로는 모두 상대 경로(`base: './'`)이며, 빌드 단계에서 루트 절대경로(`/...`) 참조가 0건인지 확인합니다.
 
-## Controls
+## 크레딧
 
-| Action | Keyboard | Gamepad |
-|---|---|---|
-| Move | <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> or <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> | D-pad / left stick |
-| Run (hold) | <kbd>Shift</kbd> | <kbd>X</kbd> |
-| Confirm · talk · examine | <kbd>Z</kbd> <kbd>Enter</kbd> <kbd>Space</kbd> | <kbd>A</kbd> |
-| Cancel · back | <kbd>X</kbd> <kbd>Backspace</kbd> <kbd>Esc</kbd> | <kbd>B</kbd> |
-| Open the menu | <kbd>C</kbd> <kbd>Tab</kbd> <kbd>Esc</kbd> | <kbd>Y</kbd> / <kbd>Start</kbd> |
-| Switch leader (field) · Surge (battle) | <kbd>Q</kbd> / <kbd>E</kbd> | <kbd>LB</kbd> / <kbd>RB</kbd> |
-| Backlog: reread the last 100 lines (during dialogue) | <kbd>↑</kbd> | D-pad up |
-| Skip a scene (hold for 1 second) | <kbd>C</kbd> <kbd>Tab</kbd> <kbd>Esc</kbd> | <kbd>Y</kbd> / <kbd>Start</kbd> |
-| Auto-battle (battle) · Optimize (Equipment) · Export / Import (save slots) | <kbd>F</kbd> | <kbd>Back</kbd> |
-| Fast Mode on / off (2–4×, set in Settings) | <kbd>T</kbd> | Left-stick click |
+- 원작 및 모든 게임 콘텐츠: **FriendlyUser** — <https://github.com/FriendlyUser/afterlight>
+- 엔진: three.js (MIT), 폰트: Alegreya / Alegreya Sans SC / Cinzel (SIL Open Font License 1.1)
+- 한국어 번역·오버레이: sigco3111
 
-These are the default keys: remap any of them in **Settings → Controls** (up to three
-keys per action; <kbd>Esc</kbd> always cancels and opens the menu). Your bindings are
-saved with your game and travel with exported save files.
+원작 README(영문)는 `README.en.md`에 그대로 보존했습니다.
 
-New Game asks for a difficulty (Story / Normal / Hard) before the opening movie; you can
-change it any time in Settings, along with text size and speed, auto-advancing text, scene hints,
-encounter rate, battle speed, Fast Mode speed, the minimap, the Quest Guide, and reduced
-flashes & screen shake.
+## 라이선스 상태 (중요)
 
-## Features
+원작 저장소에는 **라이선스 파일이 없습니다**. 포함된 제3자 구성 요소는 three.js(MIT)와 폰트(OFL)뿐이며,
+그 라이선스 텍스트는 원작과 동일하게 `fonts/OFL-*.txt`, `vendor/three/`에 있습니다.
 
-**Story** — 14 chapters across three acts (~74k words of scenes), two endings, and a
-post-game descent through the 30-floor Gloam Abyss. A 75-second opening movie, cut to its
-own theme, introduces the cast and the world (it plays after New Game, or if the title
-screen is left idle; any key skips it).
-
-**Battle** — a turn-order timeline that previews where each command would put your
-next turn, Poise & Break, and the shared Afterglow gauge for Surge and duo/trio Link
-Arts. Hits land with weight: a chime and a held frame for a struck weakness, a crack
-for a critical, a thud for a resisted blow. Bosses telegraph their big attacks: Guard
-against them, or Break the boss while it winds up to interrupt them. Swap party
-members mid-fight, or hand it to auto-battle — and turn on Fast Mode to fly through
-fights and cutscenes. If the party falls: try again, load the last save, or the title.
-
-**Dialogue** — every speaker has their own typing voice, a backlog keeps the last
-hundred lines, and Auto-Advance lets scenes play themselves. Hold Menu to skip a scene
-you have seen; hints in the corner show how, and `>>` when Fast Mode is on. Scenes are written in a
-small line language with conditional lines and branches, so characters react to who is
-in the party and what you have done. Recorded voice lines are optional: drop files into
-[`voice/`](voice/README.md) and they play in place of the typing blips.
-
-**Class customization** — 28 Crests (8 callings, 10 braided, 6 legendary, 4 lost) × 10 ranks,
-a primary and a secondary Crest per character, Supports on a point budget, and 300+ Arts.
-A mastered Crest leaves a *Legacy* — a small bonus you keep whatever you wear — and CP
-past mastery climbs five Ascension stars that strengthen its stats and Arts and teach its
-two signature *Mastery Arts*. Every Art's full details can be read in the Arts menu.
-Four *Lost Crests* — the Tidecaller, Bellwright, Kitewright and Mnemonist, callings the
-Choir struck from its rolls — are found through optional quests after the Sundering.
-
-**Exploration** — 145 hand-laid maps, a party that follows you, a Quest Guide that
-marks where to go next (gold for the story, blue for side quests; in the field, on the
-minimap, on an enlargeable area map and on the world map), doors that
-swing open as you walk in, a minimap, a world map with fast travel (to towns, and to any route or dungeon Hearthstone you've passed), a mount — Kindle, an Emberhart whose antlers burn with Lantern-light, ridden on open roads with no random battles — fishing, per-town side quests, the Hunters' Lodge bounty board
-(10 marks + 2 hidden hunts), four optional dungeons, three arenas (the Bellring colosseum's
-four cups in Act I, the Scrap Arena in Act II, the post-game Echo Colosseum), and New Game+.
-
-**Presentation** — three.js 2D-HD rendering (bloom, tilt-shift depth of field, color
-grading) with procedural pixel art for characters, monsters, tiles and props, and a
-WebAudio soundtrack of 30 songs.
-
-## Build & deploy
-
-The game runs as-is, but for a release Vite bundles and minifies it into `dist/`:
-an HTML file, a stylesheet, fonts, and ~25 JS chunks (the engine, three.js, one per
-chapter) — about 3 MB, under 1 MB gzipped. All paths are relative, so `dist/` works on
-any static host (GitHub Pages, itch.io, Netlify…).
-
-```bash
-npm install       # once — dev tools only (Vite, TypeScript)
-npm run typecheck # type-check the JavaScript (nothing is emitted)
-npm run build     # bundle into dist/
-npm run preview   # serve dist/ on http://localhost:8767/
-npm run dev       # optional: Vite dev server on http://localhost:8766/
-```
-
-**GitHub Pages:** [`.github/workflows/pages.yml`](.github/workflows/pages.yml) runs
-`npm ci` → `npm run typecheck` → `npm run build` → deploys `dist/` on every push to `main` (or manually from
-the Actions tab). One-time setup: repository **Settings → Pages → Source: GitHub
-Actions**. The game is then served at `https://<user>.github.io/<repo>/`.
-
-**Type-checking:** the game stays plain JavaScript (no build step to play or test), and
-TypeScript checks it in place: `tsconfig.json` turns on `checkJs`, and the shapes of the
-game data — maps, enemies, troops, skills, items, gear, Crests, story scripts, quest
-targets — live in [`src/types/data.d.ts`](src/types/data.d.ts). Data modules opt in with
-a JSDoc `@type`, so a misspelled field or script call is an error in the editor and in CI.
-
-<details>
-<summary><b>Building from WSL with Windows Node</b></summary>
-
-Use `tools/npm.sh install`, `tools/npm.sh run build`, etc. It runs the Windows npm against
-the WSL folder and makes Vite poll for file changes, since native watching doesn't work
-across that share. Windows npm can't delete a `node_modules/` on the share, so remove
-that folder from WSL before `npm ci`.
-</details>
-
-## Development
-
-<details>
-<summary><b>Debug shortcuts</b></summary>
-
-Add these to the URL to jump straight into the game:
-
-| Parameter | Effect |
-|---|---|
-| `?map=<id>&x=&y=` | Start on a map at a tile |
-| `&party=ilse,bram&lv=20` | Party members and level |
-| `&flags=a,b` | Set story flags |
-| `&cp=vanguard:1500,mender:800` | Crest CP for every member (800 = mastered, more = Ascension) |
-| `&ride` | Start riding Kindle (any map, for previews) |
-| `&battle=<troop>&bg=<bg>` | Start a battle |
-| `&menu=crests\|world\|settings\|shop:<id>` | Open a menu |
-| `&debug` | FPS, draw calls and triangles overlay |
-| `?opening` or `?opening=<shot>` | Play the opening movie (from a shot), then the title |
-</details>
-
-<details>
-<summary><b>Tests and tools</b> (headless Chrome)</summary>
-
-| Command | What it does |
-|---|---|
-| `tools/npm.sh run typecheck` | Type-check all source (about 12 s) |
-| `tools/test.sh validate 40000` | Cross-reference checks for all content |
-| `SIM=240 tools/test.sh <test> 2400000` | One story smoke test from `tests/` |
-| `SIM=240 tools/test_all.sh [regex]` | The whole suite, one test at a time |
-| `tools/test.sh balance 1500000` | Simulate every enemy troop with an even-level party |
-| `tools/test.sh crest_balance 900000` | Check every Crest is viable |
-| `EXTRA='troop=<id>' tools/test.sh fightlog 100000` | One fight, turn by turn |
-| `tools/shot.sh "<url>" out.png 9000` | Screenshot (page + UI) |
-| `tools/frame.sh "map=…&battle=…" out.jpg` | The rendered 3D frame (use for battles) |
-| `tools/frame.sh "opening=<shot>&wait=<sec>" out.jpg` | A frame of the opening movie |
-| `python3 tools/voice.py export` | List every line of dialogue with its voice id (`voice/lines.csv`) |
-| `python3 tools/voice.py manifest` | Register the recordings found in `voice/` |
-
-The runners drive Windows Chrome from WSL. More in [`docs/PROGRESS.md`](docs/PROGRESS.md).
-</details>
-
-### Project layout
-
-| Path | Contents |
-|---|---|
-| `src/core` | Game loop, input |
-| `src/render` | Renderer, post-processing, moods, procedural sprites and props |
-| `src/world` | Field scene, maps, actors, followers, minimap, world map |
-| `src/battle` | Battle rules, enemy AI, auto-play, presentation |
-| `src/ui` | Menus and HUD |
-| `src/audio` | Synthesizer, songs, sound effects, the optional voice-line player |
-| `src/state` | Characters, inventory, save data |
-| `src/data` | Game data and the chapter content packs |
-| `src/script` | The script API for scenes and the dialogue line language |
-| `src/story` | Scripted scenes for every chapter |
-| `voice/` | Optional recorded dialogue (empty by default; see its [README](voice/README.md)) |
-| `tools/`, `tests/` | Map painter, voice-line lister, test runners, headless tests |
-| `docs/` | [Story bible](docs/STORY.md), [authoring guide](docs/AUTHORING.md), [progress](docs/PROGRESS.md), [polish brief](docs/OVERHAUL_PROMPT.md) |
-
-## Credits
-
-- [three.js](https://threejs.org/) r170 (MIT), vendored in `vendor/three`.
-- Fonts: Alegreya and Alegreya Sans SC (The Alegreya Project Authors) and Cinzel
-  (The Cinzel Project Authors), under the SIL Open Font License 1.1 — see `fonts/`.
+원작자의 명시적 허락 없이 공개된 비공식 번역판입니다. **원작자(FriendlyUser)가 삭제를 요청하면 이 저장소와 배포 페이지를 즉시 내립니다.**
+문제가 있다면 저장소 이슈로 알려 주세요.
