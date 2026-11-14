@@ -1,3 +1,4 @@
+
 # 용어집 (Glossary)
 
 일관성을 위해 고정한 표기입니다. 새 번역을 추가할 때 이 표를 따릅니다.
@@ -90,34 +91,34 @@
 
 | English | 한국어 | 비고 |
 |---|---|---|
-| Greyspine | 그레이스파인 |  |
-| Frosthollow | 프로스트홀로 |  |
-| Skyreach | 스카이리치 |  |
+| Greyspine | 그레이스파인 | |
+| Frosthollow | 프로스트홀로 | |
+| Skyreach | 스카이리치 | |
 | Stormfoot | 폭풍발치 | 본문 표기로 통일(구 '스톰풋') |
-| Stormcrown | 폭풍왕관 |  |
-| Verdance | 버던스 |  |
-| Rootholm | 루트홀름 |  |
-| Mirefen | 마이어펀 |  |
-| Kiteholm | 카이트홀름 |  |
-| Corvin's Roost | 코르빈의 둥지 |  |
-| The Underhang | 언더행 |  |
+| Stormcrown | 폭풍왕관 | |
+| Verdance | 버던스 | |
+| Rootholm | 루트홀름 | |
+| Mirefen | 마이어펀 | |
+| Kiteholm | 카이트홀름 | |
+| Corvin's Roost | 코르빈의 둥지 | |
+| The Underhang | 언더행 | |
 | The Boneyard | 해골밭 | 본문 기준으로 수정 |
 | The Cinderdeep | 잿더미 광산 | 본문 기준으로 수정 |
 | The Noon Spire | 정오 첨탑 | 본문 기준으로 수정 |
 | The Ledger House | 장부 회관 | 본문 기준으로 수정 |
 | The Last Call | 마지막 한잔 | 본문 기준으로 수정 |
-| The Kite Nest | 연의 둥지 |  |
-| The Baron's Hall | 남작의 저택 |  |
-| The Rusty Anchor | 녹슨 닻 |  |
+| The Kite Nest | 연의 둥지 | |
+| The Baron's Hall | 남작의 저택 | |
+| The Rusty Anchor | 녹슨 닻 | |
 | The Squall | 폭풍 | 본문 기준으로 수정 |
-| Wreck of the Vigil | 비질의 난파선 |  |
-| Wreck of the Benediction | 베네딕션의 난파선 |  |
-| The Halcyon | 할시온 |  |
-| Evernoon | 에버눈 |  |
-| The Scrap Arena | 고철 투기장 |  |
-| The Gate of Evernoon | 에버눈의 문 |  |
-| Lanternfall | 랜턴폴 |  |
-| Sunscar | 태양흉터 |  |
+| Wreck of the Vigil | 비질의 난파선 | |
+| Wreck of the Benediction | 베네딕션의 난파선 | |
+| The Halcyon | 할시온 | |
+| Evernoon | 에버눈 | |
+| The Scrap Arena | 고철 투기장 | |
+| The Gate of Evernoon | 에버눈의 문 | |
+| Lanternfall | 랜턴폴 | |
+| Sunscar | 태양흉터 | |
 
 ### 인명·조직
 
@@ -205,4 +206,32 @@
 | Dagny / Hobb / Ines | 다그니 / 홉 / 이네스 | 잿더미 광산의 광부 |
 | Nell | 넬 | 다그니의 딸 |
 | Mercy | 메르시 | 성가대 수녀 |
-| Nell | 넬 |  |
+| Nell | 넬 | |
+
+## 12장 표기 (일곱 상흔·잔영)
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| Seven Wounds | 일곱 상흔 | 12장 제목·퀘스트 |
+| Remnant | 잔영 | 수호자에게 남은 것 |
+| The Ruin | 폐허 | 무너진 세계 |
+| Grand Lantern | 대랜턴 | 아우렌의 랜턴 |
+| Widow's Lamp | 미망인의 등불 | 서쪽 하늘의 빛 |
+| Thornwood | 쏜우드 | 북서쪽 숲 |
+| Scrapfall | 스크랩폴 | 고철 벌판 |
+| Stormwall | 폭풍벽 | 폭풍의 장벽 |
+| Drift Market | 표류 시장 | 매그스의 좌판 |
+| Vigil Hall | 비질 회관 | 그레이스파인의 기사 회관 |
+
+### 인명
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| Tamsin | 탬신 | 솔트글래스의 수호자 잔영 |
+| Halvard | 할바르드 | 프로스트홀로의 잔영 |
+| Osk | 오스크 | 마이어펀의 잔영 |
+| Elowen | 엘로웬 | 쏜우드의 잔영 |
+| Vasha | 바샤 | 스톰크라운의 약탈자 |
+| Tilly | 틸리 | 핍의 친구, 스크랩폴로 간 아이 |
+| Juniper | 주니퍼 | 연들 단원 |
+| Bram Kestrel | 브람 케스트럴 | 브람의 성 |
