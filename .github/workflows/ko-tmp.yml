@@ -1,29 +1,78 @@
 name: ko-tmp
 on:
   workflow_dispatch:
+    inputs:
+      mode:
+        description: dump2 / write
+        required: false
+        default: dump2
 permissions:
   contents: write
 jobs:
-  probe:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: probe
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: merge
+        run: node tools/merge-ko.mjs
+      - name: dump2
+        if: inputs.mode == 'dump2'
         run: |
           mkdir -p .dump
-          git ls-files src | xargs -I{} sh -c 'echo "{} $(wc -l < "{}")"' > .dump/list.txt
-          echo "--- grep storm" >> .dump/list.txt
-          grep -rl "The storm has scrubbed" src >> .dump/list.txt || true
-          echo "--- ch2 files" >> .dump/list.txt
-          grep -rl "c2_gale_road\|c2_wold_outer" src >> .dump/list.txt || true
-          echo "--- parts" >> .dump/list.txt
-          ls -la i18n/parts >> .dump/list.txt
-          node tools/merge-ko.mjs >> .dump/list.txt 2>&1 || true
-          wc -c src/i18n/ko.json >> .dump/list.txt || true
+          ls src/story > .dump/story.txt
+          grep -ril "tutorial" src > .dump/tutorial.txt || true
+          cat > .dump/scan.mjs <<'EOF'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          const ko = JSON.parse(fs.readFileSync('src/i18n/ko.json', 'utf8'));
+          const walk = (d, o = []) => {
+            for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+              const p = path.join(d, e.name);
+              if (e.isDirectory()) walk(p, o);
+              else if (p.endsWith('.js')) o.push(p);
+            }
+            return o;
+          };
+          const out = {};
+          let total = 0;
+          const re = /(['"`])((?:\\.|(?!\1)[^\\])*)\1/g;
+          for (const f of walk('src')) {
+            if (f.startsWith('src/i18n')) continue;
+            const src = fs.readFileSync(f, 'utf8');
+            const set = new Set();
+            let m;
+            re.lastIndex = 0;
+            while ((m = re.exec(src))) {
+              const q = m[1];
+              const s = m[2];
+              if (q === '`' && s.includes('${')) continue;
+              if (s.length < 3 || s.length > 400) continue;
+              if (!/[A-Za-z]/.test(s)) continue;
+              if (!/\s/.test(s)) continue;
+              if (/^(\.|\/|#|http|data:|@)/.test(s)) continue;
+              if (/^[a-z][a-z0-9_-]*$/.test(s)) continue;
+              if (ko[s] !== undefined) continue;
+              set.add(s);
+            }
+            if (set.size) {
+              out[f] = [...set];
+              total += set.size;
+            }
+          }
+          fs.writeFileSync('.dump/missing.json', JSON.stringify(out, null, 1));
+          const stat = ['files ' + Object.keys(out).length + ' strings ' + total];
+          for (const [k, v] of Object.entries(out)) stat.push(k + ' ' + v.length);
+          fs.writeFileSync('.dump/stat.txt', stat.join('\n'));
+          console.log(stat.join('\n'));
+          EOF
+          node .dump/scan.mjs
       - name: commit
         run: |
-          git config user.name "sigco3111"
-          git config user.email "sigco3111@users.noreply.github.com"
+          git config user.name sigco3111
+          git config user.email sigco3111@users.noreply.github.com
           git add -A .dump
-          git commit -m "임시: 덤프(목록)" || echo none
+          git commit -m "임시: 덤프2" || echo none
           git push
