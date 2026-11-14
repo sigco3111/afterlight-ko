@@ -1,0 +1,22 @@
+name: ko-clean
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  w:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: clean
+        run: |
+          set -e
+          git config user.name sigco3111
+          git config user.email sigco3111k@gmail.com
+          git rm -q .github/workflows/ko-dump.yml .github/workflows/ko-w1.yml .github/workflows/ko-w2.yml .github/workflows/ko-w3.yml .github/workflows/ko-w4.yml .github/workflows/ko-w5.yml .github/workflows/ko-w6.yml .github/workflows/ko-w7.yml .github/workflows/ko-clean.yml
+          git rm -r -q tmp || true
+          ls .github/workflows
+          git commit -m "정리: 임시 워크플로·영문 덤프 삭제"
+          git push origin HEAD:main
