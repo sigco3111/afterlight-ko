@@ -1,16 +1,23 @@
 import fs from 'node:fs';
 const ko = JSON.parse(fs.readFileSync('src/i18n/ko.json', 'utf8'));
 const list = (d, re) => fs.readdirSync(d).filter((f) => re.test(f)).map((f) => d + '/' + f);
+const ok = (s) => {
+  if (s.length < 4 || s.length > 400) return false;
+  if (!/[A-Za-z]/.test(s)) return false;
+  if (!/\s/.test(s)) return false;
+  if (!/^["'(_*A-Z]/.test(s)) return false;
+  if (/[{}$;=<>[\]]|\bpx\b|rgba?\(|url\(|::|\\n\\n/.test(s)) return false;
+  if (ko[s] !== undefined) return false;
+  return true;
+};
 const generic = (src, out) => {
   const re = /(['"`])((?:\\.|(?!\1)[^\\])*)\1/g;
   let m;
   while ((m = re.exec(src))) {
     const q = m[1];
-    const s = m[2];
+    const s = m[2].replace(/\\'/g, "'");
     if (q === '`' && s.includes('${')) continue;
-    if (s.length < 2 || s.length > 500) continue;
-    if (!/[A-Za-z]/.test(s)) continue;
-    if (ko[s] !== undefined) continue;
+    if (!ok(s)) continue;
     out.add(s);
   }
 };
@@ -50,6 +57,5 @@ for (const [k, v] of Object.entries(res)) {
   fs.writeFileSync('.dump/cat/' + k + '.json', JSON.stringify(v, null, 1));
   lines.push(k + ' ' + v.length);
 }
-lines.push('ko ' + Object.keys(ko).length);
 fs.writeFileSync('.dump/stat3.txt', lines.join('\n'));
 console.log(lines.join('\n'));

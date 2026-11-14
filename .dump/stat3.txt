@@ -1,5 +1,4 @@
-ch2 1192
-tutorial 64
-battle 734
+ch2 631
+tutorial 37
+battle 17
 maps 804
-ko 1332
