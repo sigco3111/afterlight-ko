@@ -84,3 +84,89 @@
 | Halcyon | 할시온 | 비행선 |
 | Sprocket | 스프로킷 | |
 
+## 4~9장 표기 (본문 기준)
+
+지명은 대사·목표·일지에 나온 표기를 기준으로 맞췄습니다. 지도 라벨(i18n/parts/maps-names.json)도 같은 표기를 씁니다.
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| Greyspine | 그레이스파인 |  |
+| Frosthollow | 프로스트홀로 |  |
+| Skyreach | 스카이리치 |  |
+| Stormfoot | 폭풍발치 | 본문 표기로 통일(구 '스톰풋') |
+| Stormcrown | 폭풍왕관 |  |
+| Verdance | 버던스 |  |
+| Rootholm | 루트홀름 |  |
+| Mirefen | 마이어펀 |  |
+| Kiteholm | 카이트홀름 |  |
+| Corvin's Roost | 코르빈의 둥지 |  |
+| The Underhang | 언더행 |  |
+| The Boneyard | 해골밭 | 본문 기준으로 수정 |
+| The Cinderdeep | 잿더미 광산 | 본문 기준으로 수정 |
+| The Noon Spire | 정오 첨탑 | 본문 기준으로 수정 |
+| The Ledger House | 장부 회관 | 본문 기준으로 수정 |
+| The Last Call | 마지막 한잔 | 본문 기준으로 수정 |
+| The Kite Nest | 연의 둥지 |  |
+| The Baron's Hall | 남작의 저택 |  |
+| The Rusty Anchor | 녹슨 닻 |  |
+| The Squall | 폭풍 | 본문 기준으로 수정 |
+| Wreck of the Vigil | 비질의 난파선 |  |
+| Wreck of the Benediction | 베네딕션의 난파선 |  |
+| The Halcyon | 할시온 |  |
+| Evernoon | 에버눈 |  |
+| The Scrap Arena | 고철 투기장 |  |
+| The Gate of Evernoon | 에버눈의 문 |  |
+| Lanternfall | 랜턴폴 |  |
+| Sunscar | 태양흉터 |  |
+
+### 인명·조직
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| The Penitent | 참회자 | 에버눈의 기사 |
+| Sir Aldous Venn | 알두스 벤 경 | 참회자가 되기 전 케스트럴의 스승 |
+| Vespers | 베스퍼 | 성가대의 무장 조직 |
+| Kites | 연들 | 카이트홀름의 아이들 무리 |
+| Boss (Pip) | 두목 | 연들이 핍을 부르는 말 |
+| Tansy | 탠지 | 연의 둥지 실무 책임 |
+| Dorran | 도란 | 녹슨 닻 단골 |
+| Wick | 윅 | 연, 지도 제작자 |
+| Moth | 모스 | 연, 잠에서 깨면 우는 아이 |
+| Ferro | 페로 | 마지막 한잔의 카드꾼 |
+| Odessa Quill | 오데사 퀼 | 장부의 주인, 은행가 |
+| Mags | 매그스 | 할시온의 기관장 |
+| Ruddock | 러독 | 통행 바지선의 뱃사공 |
+| Severine | 세브린 | 스테드패스트의 기사 대장 |
+| Corvin Ashe | 코르빈 애시 | 할시온의 선장 |
+| Bailiff Tamm | 집행관 탐 | 장부 회관 문지기 |
+| Gaffer Quill | 개퍼 퀼 | 연 장인 |
+| Madame Ratchet | 라셰 부인 | 고물 투기장 운영자 |
+| Ox | 옥스 | 시계 수리공 |
+| Lonnie | 로니 | 장부에 빚진 사람 |
+| Fen | 펜 | 카이트홀름 아이 |
+| Dory | 도리 | 카이트홀름 아이 |
+
+### 용어
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| Long Bell | 긴 종 | 둥지의 시각·거래 기준 |
+| Day of the Vespersong | 저녁성가의 날 | 태양이 무너진 날 |
+| High-Low | 하이로우 | 페로의 카드놀이 |
+| Gloam-rot | 어둑빛 썩음 | 보라색으로 번지는 병 |
+| sunsalt | 햇소금 | 썩음을 붙잡는 치료제 |
+| Ember Ward | 엠버 병동 | 아우렌의 병원 |
+| Ward Mother | 병동 어머니 | 일세의 별칭 |
+| lift-coil | 승력 코일 | 비행선 부품 |
+| lift-sail | 승력 돛 | 비행선 부품 |
+| stormsilk | 폭풍비단 | 승력 돛의 재료 |
+| heart-ember | 심장불씨 | 비행선의 심장 |
+| scrap golem | 고물 골렘 | 언더행의 적 |
+| Scrap Gear | 고물 톱니바퀴 | 활공기 부품 |
+| The Foreman | 공장장 | 난파선 고물을 모으는 존재 |
+| Squall drake | 폭풍 비룡 | 폭풍에 둥지를 트는 비룡 |
+| Sunworm | 태양벌레 | 불씨를 먹는 벌레 |
+| Noon Spire | 정오 첨탑 | 에버눈의 탑 |
+| Steadfast | 스테드패스트 | 성가대의 군함 |
+| Benediction | 베네딕션 | 성가대의 순례 갤리온 |
+| Halcyon | 할시온 | 코르빈의 비행선 |
