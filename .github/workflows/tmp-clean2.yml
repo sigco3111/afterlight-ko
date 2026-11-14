@@ -1,0 +1,19 @@
+name: tmp-clean2
+on:
+  push:
+    paths:
+      - 'clean2/**'
+permissions:
+  contents: write
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name sigco3111
+          git config user.email sigco3111@users.noreply.github.com
+          for d in _extract go clean clean2; do git rm -r -f "$d" 2>/dev/null || true; done
+          git rm -f .github/workflows/tmp-clean2.yml 2>/dev/null || true
+          git commit -m "정리: 임시 작업 폴더 삭제" || echo nothing
+          git push
