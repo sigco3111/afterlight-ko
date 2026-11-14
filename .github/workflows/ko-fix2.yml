@@ -1,0 +1,22 @@
+name: ko-fix2
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: fix names
+        run: |
+          set -e
+          git config user.name sigco3111
+          git config user.email sigco3111k@gmail.com
+          echo 'aW1wb3J0IGpzb24KcD0naTE4bi9wYXJ0cy9jaDlkLmpzb24nCmQ9anNvbi5sb2FkKG9wZW4ocCkpCm49MApmb3Igayx2IGluIGxpc3QoZC5pdGVtcygpKToKICAgIGlmICfrp6XsiqQnIGluIHY6CiAgICAgICAgZFtrXT12LnJlcGxhY2UoJ+unpeyKpCcsJ+unpOq3uOyKpCcpOyBuKz0xCmpzb24uZHVtcChkLG9wZW4ocCwndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxzZXBhcmF0b3JzPSgnLCcsJzonKSkKcDI9J2kxOG4vcGFydHMvY2g4OS1uYW1lcy5qc29uJwpkMj1qc29uLmxvYWQob3BlbihwMikpCmlmIGQyLmdldCgnTWFncycpIT0n66ek6re47IqkJzoKICAgIGQyWydNYWdzJ109J+unpOq3uOyKpCc7IG4rPTEKanNvbi5kdW1wKGQyLG9wZW4ocDIsJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2Usc2VwYXJhdG9ycz0oJywnLCc6JykpCnAzPSdpMThuL3BhcnRzL2NoOGMuanNvbicKZDM9anNvbi5sb2FkKG9wZW4ocDMpKQppZiAnWWVhaD8nIGluIGQzIGFuZCBkM1snWWVhaD8nXSE9J+q3uOuemD8nOgogICAgZDNbJ1llYWg/J109J+q3uOuemD8nOyBuKz0xCmpzb24uZHVtcChkMyxvcGVuKHAzLCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLHNlcGFyYXRvcnM9KCcsJywnOicpKQpwcmludCgnY2hhbmdlZCcsbikK' | base64 -d > /tmp/fix2.py
+          python3 /tmp/fix2.py
+          git add i18n/parts/ch9d.json i18n/parts/ch89-names.json i18n/parts/ch8c.json
+          git commit -m "ko: 9장 매그스 표기 통일"
+          git push origin HEAD:main
