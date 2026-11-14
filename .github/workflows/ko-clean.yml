@@ -1,0 +1,20 @@
+name: ko-clean
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: remove temp files
+        run: |
+          set -e
+          git config user.name sigco3111
+          git config user.email sigco3111k@gmail.com
+          git rm -f --ignore-unmatch .github/workflows/dump-ko.yml .github/workflows/ko-w1.yml .github/workflows/ko-w2.yml .github/workflows/ko-w3.yml .github/workflows/ko-w4.yml .github/workflows/ko-w5.yml .github/workflows/ko-doc.yml .github/workflows/ko-clean.yml i18n/parts/_probe.json
+          git commit -m "정리: 임시 워크플로·파일 삭제"
+          git push origin HEAD:main
