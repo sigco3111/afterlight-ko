@@ -1,0 +1,22 @@
+name: ko-put-ui
+on:
+  push:
+    paths:
+      - '.github/workflows/ko-put-ui.yml'
+permissions:
+  contents: write
+jobs:
+  put:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: write part
+        run: |
+          mkdir -p i18n/parts
+          echo 'ewogIkl0ZW1zIjogIuyVhOydtO2FnCIsCiAiQ3Jlc3RzIjogIu2BrOugiOyKpO2KuCIsCiAiQXJ0cyI6ICLquLDsiKAiLAogIlN1cHBvcnRzIjogIuyngOybkCIsCiAiRXF1aXBtZW50IjogIuyepeu5hCIsCiAiU3RhdHVzIjogIuyDge2DnCIsCiAiRm9ybWF0aW9uIjogIuynhO2YlSIsCiAiVHJhdmVsIjogIuydtOuPmSIsCiAiQ29tcGVuZGl1bSI6ICLrj4TqsJAiLAogIkpvdXJuYWwiOiAi7J287KeAIiwKICJHdWlkZSI6ICLslYjrgrQiLAogIlNldHRpbmdzIjogIuyEpOyglSIsCiAiU2F2ZSI6ICLsoIDsnqUiLAogIlF1aXQgdG8gVGl0bGUiOiAi7YOA7J207YuA66GcIiwKICJSZXR1cm4gdG8gdGl0bGUiOiAi7YOA7J207YuA66GcIOuPjOyVhOqwgOq4sCIsCiAiQ2FuY2VsIjogIuy3qOyGjCIsCiAiVW5zYXZlZCBwcm9ncmVzcyB3aWxsIGJlIGxvc3QuIjogIuyggOyepe2VmOyngCDslYrsnYAg7KeE7ZaJ7J2AIOyCrOudvOynkeuLiOuLpC4iLAogIk5vdGhpbmcgaGVyZS4iOiAi7JWE66y06rKD64+EIOyXhuyKteuLiOuLpC4iLAogIlJlc2VydmUiOiAi7ZuE7Je0IiwKICJNYXggSFAiOiAi7LWc64yAIEhQIiwKICJNYXggTVAiOiAi7LWc64yAIE1QIiwKICJBdHRhY2siOiAi6rO16rKpIiwKICJNYWdpYyI6ICLrp4jrspUiLAogIkRlZmVuc2UiOiAi67Cp7Ja0IiwKICJSZXNpc3QiOiAi7KCA7ZWtIiwKICJTcGVlZCI6ICLsho3rj4QiLAogIkx1Y2siOiAi7ZaJ7Jq0IiwKICJDcml0aWNhbCI6ICLsuZjrqoXtg4AiLAogIkV2YXNpb24iOiAi7ZqM7ZS8IiwKICJDb250aW51ZSI6ICLsnbTslrTtlZjquLAiLAogIk5ldyBHYW1lIjogIuyDiCDqsozsnoQiLAogIk5ldyBHYW1lKyI6ICLsg4gg6rKM7J6EKyIsCiAiTG9hZCBHYW1lIjogIuu2iOufrOyYpOq4sCIsCiAiU1RSIjogIu2emCIsCiAiTUFHIjogIuuniOugpSIsCiAiREVGIjogIuuwqeyWtCIsCiAiUkVTIjogIuyggO2VrSIsCiAiU1BEIjogIuyGjeuPhCIsCiAiRVZBIjogIu2ajO2UvCIsCiAiTENLIjogIu2WieyatCIsCiAiQlJFQUsiOiAi67iM66CI7J207YGsIiwKICJMZXZlbCBVcCEiOiAi66CI67KoIOyXhSEiLAogIkxpbmsgQXJ0cyI6ICLsl7Dqs4Qg6riw7IigIiwKICJHdWFyZCI6ICLqsIDrk5wiLAogIlN3YXAiOiAi6rWQ64yAIiwKICJGbGVlIjogIuuPhOyjvCIsCiAiQXV0byI6ICLsnpDrj5kiLAogIlNraXAiOiAi6rG064SI65uw6riwIiwKICJTd2FwIGluIjogIuq1kOuMgCDtiKzsnoUiLAogIkFsbCBhbGxpZXMiOiAi7JWE6rWwIOyghOyytCIsCiAiQWxsIGZvZXMiOiAi7KCBIOyghOyytCIsCiAiQmFja2xvZyI6ICLquLDroZ0iLAogIk9idGFpbmVkICp7MH0qezF9LiI6ICIqezB9KnsxfeydhCjrpbwpIOyWu+yXiOuLpC4iLAogIlJlY2VpdmVkICp7MH0qIGdvbGQuIjogIuq4iO2ZlCAqezB9KuqwnOulvCDrsJvslZjri6QuIiwKICIqezB9KiBqb2luZWQgdGhlIHBhcnR5ISI6ICIqezB9KuydtCjqsIApIO2MjO2LsOyXkCDtlanrpZjtlojri6QhIiwKICJOZXcgQ3Jlc3QgYXZhaWxhYmxlOiAqezB9KiI6ICLsg4gg7YGs66CI7Iqk7Yq4IO2VtOq4iDogKnswfSoiCn0=' | base64 -d > i18n/parts/ui.json
+          node tools/merge-ko.mjs
+          git config user.name afterlight-ko
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git diff --cached --quiet || git commit -m 'i18n: UI 문자열 사전(parts/ui.json)'
+          git push
