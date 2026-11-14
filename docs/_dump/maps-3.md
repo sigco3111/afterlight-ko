@@ -1,0 +1,152 @@
+# maps p3
+- maps.302.0 data/maps/ch4a_desert.js :: Sunscar Desert
+- maps.303.0 data/maps/ch4a_greyspine.js :: Greyspine Pass
+- maps.304.0 data/maps/ch4a_greyspine.js :: Greyspine Mountains
+- maps.305.0 data/maps/ch4a_greyspine.js :: Pilgrim Mae
+- maps.306.0 data/maps/ch4a_greyspine.js :: Frosthollow
+- maps.307.0 data/maps/ch4a_greyspine.js :: Greyspine Mountains
+- maps.308.0 data/maps/ch4a_greyspine.js :: Brother Ansel
+- maps.309.0 data/maps/ch4a_greyspine.js :: Sister Agathe
+- maps.310.0 data/maps/ch4a_greyspine.js :: Brother Ivo
+- maps.311.0 data/maps/ch4a_greyspine.js :: Sister Rhoswen
+- maps.312.0 data/maps/ch4a_greyspine.js :: Sister Wenna
+- maps.313.0 data/maps/ch4a_greyspine.js :: Pilgrim Davit
+- maps.314.0 data/maps/ch4a_greyspine.js :: Brother Sigurd
+- maps.315.0 data/maps/ch4a_greyspine.js :: Ebba
+- maps.316.0 data/maps/ch4a_greyspine.js :: Tomas
+- maps.317.0 data/maps/ch4a_greyspine.js :: Lars
+- maps.318.0 data/maps/ch4a_greyspine.js :: Oskar
+- maps.319.0 data/maps/ch4a_greyspine.js :: Garrick
+- maps.320.0 data/maps/ch4a_greyspine.js :: Halvard
+- maps.321.0 data/maps/ch4a_greyspine.js :: Vesper Soldier
+- maps.322.0 data/maps/ch4a_greyspine.js :: The Hall of Echoes
+- maps.323.0 data/maps/ch4a_greyspine.js :: Halvard
+- maps.324.0 data/maps/ch4a_greyspine.js :: Brother Quill
+- maps.325.0 data/maps/ch4a_greyspine.js :: Yrsa
+- maps.326.0 data/maps/ch4a_greyspine.js :: Frosthollow Guesthouse
+- maps.327.0 data/maps/ch4a_greyspine.js :: Brother Tolle
+- maps.328.0 data/maps/ch4a_greyspine.js :: Linnea
+- maps.329.0 data/maps/ch4a_greyspine.js :: Sister Agathe
+- maps.330.0 data/maps/ch4a_greyspine.js :: The Bell Stair
+- maps.331.0 data/maps/ch4a_greyspine.js :: Greyspine Mountains
+- maps.332.0 data/maps/ch4a_greyspine.js :: Below the Bell Tower
+- maps.333.0 data/maps/ch4a_greyspine.js :: Greyspine Mountains
+- maps.334.0 data/maps/ch4a_saltglass.js :: Saltglass
+- maps.335.0 data/maps/ch4a_saltglass.js :: Sunscar Desert
+- maps.336.0 data/maps/ch4a_saltglass.js :: Sister Marisol
+- maps.337.0 data/maps/ch4a_saltglass.js :: Faroukh
+- maps.338.0 data/maps/ch4a_saltglass.js :: Leyla
+- maps.339.0 data/maps/ch4a_saltglass.js :: Old Dima
+- maps.340.0 data/maps/ch4a_saltglass.js :: Grandmother Zeyneb
+- maps.341.0 data/maps/ch4a_saltglass.js :: Master Ruel
+- maps.342.0 data/maps/ch4a_saltglass.js :: Captain Idris
+- maps.343.0 data/maps/ch4a_saltglass.js :: Nim
+- maps.344.0 data/maps/ch4a_saltglass.js :: Oyelaran
+- maps.345.0 data/maps/ch4a_saltglass.js :: Teo
+- maps.346.0 data/maps/ch4a_saltglass.js :: Hesper
+- maps.347.0 data/maps/ch4a_saltglass.js :: Rafi
+- maps.348.0 data/maps/ch4a_saltglass.js :: Suri
+- maps.349.0 data/maps/ch4a_saltglass.js :: Brother Tolle
+- maps.350.0 data/maps/ch4a_saltglass.js :: Yrsa
+- maps.351.0 data/maps/ch4a_saltglass.js :: The Saltglass Lantern
+- maps.352.0 data/maps/ch4a_saltglass.js :: Keeper Tamsin
+- maps.353.0 data/maps/ch4a_saltglass.js :: The Cool Well
+- maps.354.0 data/maps/ch4a_saltglass.js :: Innkeeper Yusra
+- maps.355.0 data/maps/ch4a_saltglass.js :: Velvet Ines
+- maps.356.0 data/maps/ch4a_saltglass.js :: Caravaneer
+- maps.357.0 data/maps/ch4a_saltglass.js :: Amal the Lutenist
+- maps.358.0 data/maps/ch4a_saltglass.js :: Asha\
+- maps.359.0 data/maps/ch4a_saltglass.js :: Asha
+- maps.360.0 data/maps/ch4a_saltglass.js :: Jorah
+- maps.361.0 data/maps/ch4a_saltglass.js :: Nim
+- maps.362.0 data/maps/ch4a_saltglass.js :: The Glass Caverns
+- maps.363.0 data/maps/ch4a_saltglass.js :: Sunscar Desert
+- maps.364.0 data/maps/ch4a_saltglass.js :: Jorah
+- maps.365.0 data/maps/ch4a_saltglass.js :: The Queen\
+- maps.366.0 data/maps/ch4a_saltglass.js :: The Glass Caverns
+- maps.367.0 data/maps/ch4b_mirefen.js :: The Fenward Causeway
+- maps.368.0 data/maps/ch4b_mirefen.js :: The Fens of Mirefen
+- maps.369.0 data/maps/ch4b_mirefen.js :: Gaspar
+- maps.370.0 data/maps/ch4b_mirefen.js :: Coughing Pilgrim
+- maps.371.0 data/maps/ch4b_mirefen.js :: Pilgrim\
+- maps.372.0 data/maps/ch4b_mirefen.js :: Mirefen
+- maps.373.0 data/maps/ch4b_mirefen.js :: The Fens
+- maps.374.0 data/maps/ch4b_mirefen.js :: Doctor Vey
+- maps.375.0 data/maps/ch4b_mirefen.js :: Cantor Lisette
+- maps.376.0 data/maps/ch4b_mirefen.js :: Nettie
+- maps.377.0 data/maps/ch4b_mirefen.js :: Corporal Dace
+- maps.378.0 data/maps/ch4b_mirefen.js :: Mag Tiller
+- maps.379.0 data/maps/ch4b_mirefen.js :: Widow Pell
+- maps.380.0 data/maps/ch4b_mirefen.js :: Corla
+- maps.381.0 data/maps/ch4b_mirefen.js :: Benet
+- maps.382.0 data/maps/ch4b_mirefen.js :: Sedge
+- maps.383.0 data/maps/ch4b_mirefen.js :: Granny Wisk
+- maps.384.0 data/maps/ch4b_mirefen.js :: Hesk
+- maps.385.0 data/maps/ch4b_mirefen.js :: Little Moll
+- maps.386.0 data/maps/ch4b_mirefen.js :: Jetty Warden
+- maps.387.0 data/maps/ch4b_mirefen.js :: The Leaning Heron
+- maps.388.0 data/maps/ch4b_mirefen.js :: Rusk
+- maps.389.0 data/maps/ch4b_mirefen.js :: Fen-Tom
+- maps.390.0 data/maps/ch4b_mirefen.js :: Lark
+- maps.391.0 data/maps/ch4b_mirefen.js :: The Mirefen Lantern
+- maps.392.0 data/maps/ch4b_mirefen.js :: Mother Osk
+- maps.393.0 data/maps/ch4b_mirefen.js :: Hesk
+- maps.394.0 data/maps/ch4b_mirefen.js :: The Drownmere
+- maps.395.0 data/maps/ch4b_mirefen.js :: The Fens
+- maps.396.0 data/maps/ch4b_stormcrown.js :: Stormfoot
+- maps.397.0 data/maps/ch4b_stormcrown.js :: The Stormcrown
+- maps.398.0 data/maps/ch4b_stormcrown.js :: Corvin
+- maps.399.0 data/maps/ch4b_stormcrown.js :: Joss
+- maps.400.0 data/maps/ch4b_stormcrown.js :: The Halcyon
+- maps.401.0 data/maps/ch4b_stormcrown.js :: Above the Stormcrown
+- maps.402.0 data/maps/ch4b_stormcrown.js :: Skyreach
+- maps.403.0 data/maps/ch4b_stormcrown.js :: Above the Stormcrown
+- maps.404.0 data/maps/ch4b_stormcrown.js :: Ilka
+- maps.405.0 data/maps/ch4b_stormcrown.js :: Kesi
+- maps.406.0 data/maps/ch4b_stormcrown.js :: Kite-flier
+- maps.407.0 data/maps/ch4b_stormcrown.js :: Oona
+- maps.408.0 data/maps/ch4b_stormcrown.js :: Quill
+- maps.409.0 data/maps/ch4b_stormcrown.js :: Old Brannagh
+- maps.410.0 data/maps/ch4b_stormcrown.js :: Windspeaker Cael
+- maps.411.0 data/maps/ch4b_stormcrown.js :: Wing-pilot Sorrel
+- maps.412.0 data/maps/ch4b_stormcrown.js :: Dockhand
+- maps.413.0 data/maps/ch4b_stormcrown.js :: Keel-warden Tamm
+- maps.414.0 data/maps/ch4b_stormcrown.js :: Corvin
+- maps.415.0 data/maps/ch4b_stormcrown.js :: The Skyreach Lantern
+- maps.416.0 data/maps/ch4b_stormcrown.js :: Ardent Vasha
+- maps.417.0 data/maps/ch4b_stormcrown.js :: The Undercradle
+- maps.418.0 data/maps/ch4b_stormcrown.js :: Beneath Skyreach
+- maps.419.0 data/maps/ch4b_verdance.js :: Rootholm
+- maps.420.0 data/maps/ch4b_verdance.js :: Verdance
+- maps.421.0 data/maps/ch4b_verdance.js :: Elder Bracken
+- maps.422.0 data/maps/ch4b_verdance.js :: Fern
+- maps.423.0 data/maps/ch4b_verdance.js :: Ama
+- maps.424.0 data/maps/ch4b_verdance.js :: Old Holm
+- maps.425.0 data/maps/ch4b_verdance.js :: Hazel
+- maps.426.0 data/maps/ch4b_verdance.js :: Juniper
+- maps.427.0 data/maps/ch4b_verdance.js :: Rowan
+- maps.428.0 data/maps/ch4b_verdance.js :: Aspen
+- maps.429.0 data/maps/ch4b_verdance.js :: Linden
+- maps.430.0 data/maps/ch4b_verdance.js :: Willa
+- maps.431.0 data/maps/ch4b_verdance.js :: Wick
+- maps.432.0 data/maps/ch4b_verdance.js :: Bryony
+- maps.433.0 data/maps/ch4b_verdance.js :: Tamsel
+- maps.434.0 data/maps/ch4b_verdance.js :: The Thornwood
+- maps.435.0 data/maps/ch4b_verdance.js :: Verdance
+- maps.436.0 data/maps/ch4b_verdance.js :: Wick
+- maps.437.0 data/maps/ch4b_verdance.js :: Bryony
+- maps.438.0 data/maps/ch4b_verdance.js :: Tamsel
+- maps.439.0 data/maps/ch4b_verdance.js :: The Heartwood
+- maps.440.0 data/maps/ch4b_verdance.js :: Verdance
+- maps.441.0 data/maps/ch4b_verdance.js :: Elowen
+- maps.442.0 data/maps/ch5_dungeons.js :: The Tide Caves
+- maps.443.0 data/maps/ch5_dungeons.js :: Gloam-touched
+- maps.444.0 data/maps/ch5_dungeons.js :: The Keeper\
+- maps.445.0 data/maps/ch5_dungeons.js :: Lanternfall
+- maps.446.0 data/maps/ch5_dungeons.js :: The Lantern of Lanternfall
+- maps.447.0 data/maps/ch5_lanternfall.js :: Lanternfall
+- maps.448.0 data/maps/ch5_lanternfall.js :: The Last Sunset
+- maps.449.0 data/maps/ch5_lanternfall.js :: Fisher Tobias
+- maps.450.0 data/maps/ch5_lanternfall.js :: Vesper Sergeant
+- maps.451.0 data/maps/ch5_lanternfall.js :: Vesper Soldier
+- maps.452.0 data/maps/ch5_lanternfall.js :: Vesper Soldier
