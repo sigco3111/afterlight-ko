@@ -1,0 +1,18 @@
+name: ko-clean
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  c:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          rm -rf docs/_dump
+          rm -f .github/workflows/ko-dump.yml .github/workflows/ko-dump2.yml .github/workflows/ko-eq.yml
+          git config user.name sigco3111
+          git config user.email sigco3111@users.noreply.github.com
+          git add -A
+          git commit -m "정리: 임시 덤프·생성 워크플로와 덤프 문서 삭제" || true
+          git push
