@@ -1,0 +1,54 @@
+name: ko-dump
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: dump
+        run: |
+          set -e
+          git config user.name sigco3111
+          git config user.email sigco3111k@gmail.com
+          cat > /tmp/dump.mjs <<'EOF'
+          import fs from 'node:fs';
+          const files = ['src/story/ch9.js','src/story/ch9_side.js','src/story/ch10.js','src/story/ch10_side.js'];
+          let ko = {};
+          try { ko = JSON.parse(fs.readFileSync('src/i18n/ko.json','utf8')); } catch (e) { console.log('no ko.json'); }
+          const seen = new Set();
+          const out = [];
+          const re = /'((?:[^'\\\n]|\\.)*)'|"((?:[^"\\\n]|\\.)*)"/g;
+          for (const f of files) {
+            const src = fs.readFileSync(f,'utf8');
+            let m;
+            while ((m = re.exec(src))) {
+              let s = m[1] !== undefined ? m[1] : m[2];
+              if (!s) continue;
+              s = s.replace(/\\(['"\\])/g, '$1');
+              if (s.length < 2) continue;
+              if (!/[A-Za-z]/.test(s)) continue;
+              if (/^[a-z0-9_]+$/.test(s)) continue;
+              if (/^[0-9,. ]+$/.test(s)) continue;
+              if (ko[s] !== undefined) continue;
+              if (seen.has(s)) continue;
+              seen.add(s);
+              out.push(s);
+            }
+          }
+          fs.mkdirSync('tmp/en',{recursive:true});
+          let ci=1, buf=[], len=0;
+          const flush=()=>{ if(!buf.length) return; fs.writeFileSync('tmp/en/part'+String(ci).padStart(2,'0')+'.txt', buf.join('\n')+'\n'); ci++; buf=[]; len=0; };
+          for (const s of out) { const line = s.replace(/\n/g,' '); buf.push(line); len+=line.length+1; if (len>11000) flush(); }
+          flush();
+          fs.writeFileSync('tmp/en/index.txt', 'strings '+out.length+' chunks '+(ci-1));
+          console.log('strings', out.length, 'chunks', ci-1);
+EOF
+          node /tmp/dump.mjs
+          git add -A tmp
+          git commit -m "작업: 영문 문자열 덤프"
+          git push origin HEAD:main
