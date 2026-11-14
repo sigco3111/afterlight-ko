@@ -1,0 +1,27 @@
+name: tmp-gate
+on:
+  push:
+    paths:
+      - 'go/**'
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: work
+        run: |
+          if ls inbox/*.json >/dev/null 2>&1; then
+            node tmp-apply.mjs
+          else
+            node tmp-ex.mjs src/story/ch12.js src/story/ch12_finale.js
+            echo "tmp: extract missing strings" > /tmp/msg.txt
+          fi
+      - name: commit
+        run: |
+          git config user.name sigco3111
+          git config user.email sigco3111@users.noreply.github.com
+          git add -A
+          git commit -F /tmp/msg.txt || echo nothing
+          git push
