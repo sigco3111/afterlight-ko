@@ -1,0 +1,36 @@
+name: dump-ko
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "dump or clean"
+        required: false
+        default: dump
+permissions:
+  contents: write
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: split
+        if: ${{ inputs.mode != 'clean' }}
+        run: |
+          rm -rf tmpdump; mkdir -p tmpdump
+          for f in src/story/ch3.js src/story/ch3_side.js src/story/ch4a.js src/story/ch4a_mountain.js src/story/ch4b.js src/story/ch4b_sky.js src/story/ch4b_verdance.js src/story/ch4b_common.js; do
+            b=$(basename "$f" .js)
+            split -b 14000 -d -a 2 "$f" "tmpdump/${b}."
+          done
+          ls tmpdump
+      - name: push branch
+        if: ${{ inputs.mode != 'clean' }}
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git checkout -b tmpdump
+          git add -A tmpdump
+          git commit -m "dump: en text chunks (temp branch)"
+          git push -f origin tmpdump
+      - name: delete branch
+        if: ${{ inputs.mode == 'clean' }}
+        run: git push origin --delete tmpdump
