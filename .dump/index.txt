@@ -1,0 +1,17 @@
+ch2 632
+  .dump/chunks/ch2-1.json 120
+  .dump/chunks/ch2-2.json 120
+  .dump/chunks/ch2-3.json 120
+  .dump/chunks/ch2-4.json 120
+  .dump/chunks/ch2-5.json 120
+  .dump/chunks/ch2-6.json 32
+tutorial 37
+  .dump/chunks/tutorial-1.json 37
+battle 17
+  .dump/chunks/battle-1.json 17
+maps 504
+  .dump/chunks/maps-1.json 120
+  .dump/chunks/maps-2.json 120
+  .dump/chunks/maps-3.json 120
+  .dump/chunks/maps-4.json 120
+  .dump/chunks/maps-5.json 240 .dump/battlefmt.txt

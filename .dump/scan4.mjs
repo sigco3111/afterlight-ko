@@ -1,0 +1,69 @@
+import fs from 'node:fs';
+const ko = JSON.parse(fs.readFileSync('src/i18n/ko.json', 'utf8'));
+const list = (d, re) => fs.readdirSync(d).filter((f) => re.test(f)).map((f) => d + '/' + f);
+const unesc = (s) => {
+  try { return JSON.parse('"' + s.replace(/\\'/g, "'").replace(/"/g, '\\"') + '"'); } catch { return s; }
+};
+const ok = (s) => {
+  if (s.length < 3 || s.length > 400) return false;
+  if (!/[A-Za-z]/.test(s)) return false;
+  if (!/\s/.test(s)) return false;
+  if (!/^["'(_*A-Z]/.test(s)) return false;
+  if (/[{}$;=<>[\]]|\bpx\b|rgba?\(|url\(|::/.test(s)) return false;
+  if (ko[s] !== undefined) return false;
+  return true;
+};
+const generic = (src, out) => {
+  const re = /(['"`])((?:\\.|(?!\1)[^\\])*)\1/g;
+  let m;
+  while ((m = re.exec(src))) {
+    const q = m[1];
+    const s = unesc(m[2]);
+    if (q === '`' && s.includes('${')) continue;
+    if (!ok(s)) continue;
+    out.add(s);
+  }
+};
+const keyed = (src, out) => {
+  const re = /(?:name|region|label|title|area|place|sub)\s*:\s*(['"])((?:\\.|(?!\1)[^\\])*)\1/g;
+  let m;
+  while ((m = re.exec(src))) {
+    const s = unesc(m[2]);
+    if (s.length < 2 || s.length > 500) continue;
+    if (!/[A-Za-z]/.test(s)) continue;
+    if (ko[s] !== undefined) continue;
+    out.add(s);
+  }
+};
+const groups = {
+  ch2: [],
+  tutorial: ['src/data/tutorials.js', 'src/ui/Tutorial.js'],
+  battle: list('src/battle', /^[A-Za-z]+\.js$/),
+  maps: list('src/data/maps', /^[A-Za-z0-9_]+\.js$/),
+};
+for (const f of fs.readdirSync('src/story')) if (/^ch2_/.test(f)) groups.ch2.push('src/story/' + f);
+for (const f of list('src/data/maps', /^ch2_/)) groups.ch2.push(f);
+for (const f of fs.readdirSync('src/data/maps/layouts')) groups.maps.push('src/data/maps/layouts/' + f);
+const res = {};
+for (const [k, files] of Object.entries(groups)) {
+  const out = new Set();
+  for (const f of files) {
+    let src = '';
+    try { src = fs.readFileSync(f, 'utf8'); } catch { continue; }
+    if (k === 'maps') keyed(src, out);
+    else generic(src, out);
+  }
+  res[k] = [...out].sort();
+}
+const idx = [];
+for (const [k, v] of Object.entries(res)) {
+  idx.push(k + ' ' + v.length);
+  for (let i = 0; i < v.length; i += 120) {
+    const part = v.slice(i, i + 120);
+    const name = '.dump/chunks/' + k + '-' + String(i / 120 + 1) + '.json';
+    fs.writeFileSync(name, JSON.stringify(part, null, 0));
+    idx.push('  ' + name + ' ' + part.length);
+  }
+}
+fs.writeFileSync('.dump/index.txt', idx.join('\n'));
+console.log(idx.join('\n'));
