@@ -1,0 +1,48 @@
+name: ko-build
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'i18n/parts/**'
+      - 'src/**'
+      - 'css/**'
+      - 'index.html'
+      - 'tools/merge-ko.mjs'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: 사전 병합
+        run: node tools/merge-ko.mjs
+      - name: 의존성 설치
+        run: npm install --no-audit --no-fund
+      - name: 빌드
+        run: npx vite build --base=./
+      - name: 루트 절대경로 참조 확인
+        run: |
+          echo 'root-absolute refs:'
+          grep -rIlE '(src|href)="/[^/]' dist | wc -l
+          if grep -rIlE '(src|href)="/[^/]' dist; then exit 1; fi
+      - name: .nojekyll
+        run: touch dist/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${ steps.dep.outputs.page_url }
+    steps:
+      - id: dep
+        uses: actions/deploy-pages@v4
