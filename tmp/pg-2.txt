@@ -1,0 +1,350 @@
+    await s.say('Wren', 'Then we come back with a better one.');
+    s.quest('pg_abyss', null, 'Thirty stairs beneath the Nadir Light. Below B10 the dark is sealed: it will take a new kind of light. (Continue the story.)');
+  },
+
+  async liftUp(s, n) {
+    if (!(await s.confirm('Ride the Lantern-lift up to the Abyss Gate?'))) return;
+    s.sfx('rumble');
+    await s.teleport('abyss_gate', GATE.spots.lift_arrive[0], GATE.spots.lift_arrive[1], 'down');
+    if (n === FLOORS) s.toast('The lift remembers the bottom now.');
+  },
+
+  async liftDown(s) {
+    const stops = [10, 20, 30].filter((n) => s.flag(n === FLOORS ? 'pg_first_dark' : `pg_boss_${n}`));
+    if (!stops.length) {
+      await s.narrate('A cage on a chain long enough to make you dizzy. It only stops at the stairs where someone has beaten the warden.');
+      return;
+    }
+    const pick = await s.choice([...stops.map((n) => `Down to B${n}`), 'Stay up here'], { prompt: 'The Lantern-lift creaks on its chain.', cancel: stops.length });
+    if (pick >= stops.length) return;
+    const n = stops[pick];
+    const L = ABYSS_LAYOUTS[n];
+    s.sfx('rumble');
+    await s.fadeOut(0.6);
+    await s.teleport(`abyss_${n}`, L.spots.liftArrive[0], L.spots.liftArrive[1], 'down');
+  },
+
+  // ------------------------------------------------------------------ wardens
+  async knight(s) {
+    if (s.flag('pg_boss_10')) return;
+    const L = ABYSS_LAYOUTS[10].spots;
+    await s.pan(L.exitFront[0], L.exitFront[1], 1);
+    await s.narrate('A knight stands before the stair down, its armor fused with the rubble. Its shield has no crest. Its tabard has no color.');
+    await s.say('Unremembered Knight', '...Halt. State your name and company.');
+    await s.say('Bram', 'Bram Kestrel. Of — well. Of these people.');
+    await s.say('Unremembered Knight', [
+      'Name. I had one. They read it out at the funeral and then nobody ever said it again.',
+      'Every soldier no one remembers comes here, Kestrel. We are a very large army.',
+    ]);
+    await s.say('Bram', 'Sir Aldous Venn was remembered. I made sure of it. I say his name every day.');
+    await s.say('Unremembered Knight', 'Then you will make sure of nothing else. Draw.');
+    await s.follow(0.5);
+    if (await s.battle('pg_boss_unremembered') !== 'win') return;
+    s.setFlag('pg_boss_10');
+    s.remove('pg_knight');
+    await s.say('Unremembered Knight', '...Kestrel. Say one more name. Any name. Before I go.');
+    await s.say('Bram', '...Aldous Venn.');
+    await s.say('Unremembered Knight', 'Good. That one is safe.');
+    await s.narrate('The armor comes apart like a held breath let go. For a moment you hear a great many people say thank you.');
+    await s.say('Bram', 'I\'m fine. Something in my eye. A knight. A whole knight in my eye.');
+    s.toast('The Lantern-lift now stops at B10.');
+    if (s.flag('gameClear')) {
+      s.clearBlocker('seal');
+      s.objective('Descend deeper into the Gloam Abyss.');
+    } else {
+      await PG.deepSeal(s);
+    }
+    s.journal('The tenth stair was guarded by every soldier nobody remembered. Bram gave them one name to keep.');
+  },
+
+  async sovereign(s) {
+    if (s.flag('pg_boss_20')) return;
+    const L = ABYSS_LAYOUTS[20].spots;
+    await s.pan(L.exitFront[0], L.exitFront[1], 1);
+    await s.narrate('The stairwell is sealed by ice as old as the first winter. Something vast is asleep in it, curled around the way down.');
+    await s.say('Pip', 'Don\'t. Nobody poke it.');
+    await s.say('Corvin', 'Nobody is going to poke the—');
+    s.shake(0.4, 1);
+    await s.say('Rime Sovereign', '{blue|WHO. REMEMBERS. ME.}');
+    await s.say('Sable', 'Nobody. That is why you are here.');
+    await s.say('Rime Sovereign', '{blue|THEN I WILL BE REMEMBERED AS THE COLD IN YOUR BONES.}');
+    await s.say('Wren', 'Okay. Okay. Big lizard. Fire, everybody.');
+    await s.follow(0.5);
+    if (await s.battle('pg_boss_rime') !== 'win') return;
+    s.setFlag('pg_boss_20');
+    s.clearBlocker('seal');
+    await s.narrate('The Sovereign shatters into a snowfall so fine it never lands. Something heavy clinks onto the ice where her head was.');
+    await s.give('pg_first_crown');
+    await s.say('Ilse', 'I\'m writing that one down myself. Orrin can copy it.');
+    s.toast('The Lantern-lift now stops at B20.');
+    s.objective('Descend to the bottom of the Gloam Abyss.');
+    s.journal('The twentieth stair had a queen of snow with no kingdom. Wren\'s plan was "fire." It worked.');
+  },
+
+  // ------------------------------------------------------------------ the First Dark
+  async firstDark(s) {
+    if (s.flag('pg_first_dark')) return;
+    s.place('player', 18, 13, 'up');
+    const party = gatherParty(s, [[16, 14], [20, 14], [14, 14], [22, 14], [18, 15]]);
+    s.stopMusic(2);
+    await s.pan(18, 9, 2.5);
+    await s.narrate([
+      'The marble ends. Beyond it there is no floor, no wall, no color. Only a white so total it has no direction.',
+      'In the middle of the white, something without any edges at all turns its attention toward you.',
+    ]);
+    s.shake(0.3, 2);
+    await s.say('The First Dark', '{purple|...you are very loud.}');
+    await s.say('The First Dark', '{purple|all of you. so many edges. doesn\'t it hurt?}');
+    await s.say('Wren', 'Sometimes.');
+    await s.say('The First Dark', [
+      '{purple|come back down. no names. no edges. nothing to lose. nothing to be.}',
+      '{purple|you will not have to choose anymore. not one crest. not many. none.}',
+    ]);
+    await s.say('Ilse', 'It\'s offering us *nothing*.');
+    await s.say('Corvin', 'It\'s a very sincere nothing. I almost respect it.');
+    await s.say('Sable', [
+      'I was made from you. A little. I remember being nothing. It was quiet.',
+      'Then someone gave me bread. It was warm.',
+      'I would rather have bread.',
+    ]);
+    await s.say('Pip', 'Me too. I\'d rather have bread than be nothing. That\'s not even close.');
+    await s.say('Bram', 'I would rather be afraid than be nothing. I have given this a great deal of thought.');
+    await s.say('Wren', 'Edges hurt. That\'s how you know where you stop and someone else starts.');
+    await s.say('Wren', 'We\'re keeping ours.');
+    await s.say('The First Dark', '{purple|then i will take them off you. gently. one by one.}');
+    s.flash('#ffffff', 0.6);
+    if (await s.battle('pg_boss_first_dark') !== 'win') return;
+    s.setFlag('pg_first_dark');
+    s.music('afterlight');
+    await s.narrate([
+      'The First Dark does not die. There is nothing in it that could.',
+      'It shrinks. It folds. The white around it grays, then dims, then — for the first time in all of time — becomes a color:',
+      'the deep blue of the sky an hour after sunset.',
+    ]);
+    await s.say('The First Dark', '{purple|...what is this.}');
+    await s.say('Sable', 'It is called dusk. It is the edge between the day and the night.');
+    await s.say('Sable', 'You have one now. An edge.');
+    await s.say('The First Dark', '{purple|...it is small.}');
+    await s.say('Sable', 'They start small.');
+    await s.say('The First Dark', '{purple|...then i will sleep in it. wake me when it is bigger.}');
+    await s.narrate('The dark folds itself into the dusk the way a cat folds into a lap, and is still.');
+    await s.wait(0.6);
+    s.flash('#ffe0a0', 0.8);
+    await s.narrate('Something warm moves out of the stillness and into all six of you: a heat like a forge, and a glow like the hour after the sun.');
+    await s.learnCrest('sunforged');
+    await s.learnCrest('afterlight');
+    await s.give('breakers_gem');
+    await s.say('Bram', 'We did it. We punched the dark in the face.');
+    await s.say('Ilse', 'We gave the dark a bedtime.');
+    await s.say('Pip', 'Same thing.');
+    await s.narrate('Far, far above, a lamp on a chain begins its long swing down to find you.');
+    dismiss(s, party);
+    s.quest('pg_abyss', null, null, 'done');
+    s.objective('The First Dark sleeps. Ride the Lantern-lift home — and tell Orrin.');
+    s.journal('At the bottom of everything was the First Dark. It wanted us to be nothing. Sable gave it dusk instead, and it went to sleep in it like a kid. Two new Crests woke up in all of us.');
+    await s.fadeOut(1);
+    await s.teleport(`abyss_${FLOORS}`, ABYSS_LAYOUTS[FLOORS].spots.liftArrive[0], ABYSS_LAYOUTS[FLOORS].spots.liftArrive[1], 'up');
+  },
+
+  // ------------------------------------------------------------------ Hide and Seek
+  async chalkGate(s) {
+    const found = CHALK_FLOORS.filter((n) => s.flag(`pg_chalk_${n}`)).length;
+    if (found >= CHALK_FLOORS.length) return PG.chalkDoor(s);
+    await s.narrate('An old wall, scrawled with chalk: a girl with long black hair and a ribbon, and an arrow pointing down into the rift. Under it, in careful capitals: COUNT TO A HUNDRED. NO PEEKING.');
+    if (s.flag('pg_chalk_gate')) {
+      if (found) await s.narrate(`You have found ${found} of her chalk marks below.`);
+      return;
+    }
+    s.setFlag('pg_chalk_gate');
+    await s.say('Sable', '...That is my face. That is my ribbon.');
+    await s.say('Wren', 'Not yours. Hers.');
+    await s.say('Sable', 'Lysa. She drew herself. Small. The way children draw themselves when they want to be found.');
+    await s.say('Ilse', 'Chalk doesn\'t last forty years in the open.');
+    await s.say('Corvin', 'Unless someone keeps redrawing it.');
+    s.quest('pg_hideseek', 'Hide and Seek', 'Someone has been leaving chalk marks in the Gloam Abyss. Find them all: they lead somewhere.');
+  },
+
+  async chalk(s, n) {
+    const LINES = {
+      6: 'Chalk on the stone in a child\'s hand: a hopscotch grid, and beside it — I\'M HIDING. DON\'T LOOK HERE. (She was not hiding here.)',
+      13: 'A chalk arrow, pointing the way she went. Underneath: WARMER!',
+      21: 'Chalk, faded but careful: CASSIAN ALWAYS FINDS ME. HE\'S THE BEST AT THIS GAME. Below it, very small: are you cassian?',
+      27: 'A chalk door, drawn small, rubbed out, and drawn again bigger. Under it: I GOT TIRED OF WAITING. I\'M SOMEWHERE NICE NOW. THE DOOR IS WHERE IT STARTED.',
+    };
+    await s.narrate(LINES[n]);
+    if (s.flag(`pg_chalk_${n}`)) return;
+    s.setFlag(`pg_chalk_${n}`);
+    if (n === 6) await s.say('Pip', 'Hopscotch. Down here. That\'s... that\'s the creepiest nice thing I\'ve ever seen.');
+    if (n === 13) await s.say('Sable', 'She is playing. She thinks this is still a game.');
+    if (n === 21) {
+      await s.say('Wren', '...She\'s waiting for her brother.');
+      await s.say('Sable', 'For forty years.');
+    }
+    const found = CHALK_FLOORS.filter((f) => s.flag(`pg_chalk_${f}`)).length;
+    if (found >= CHALK_FLOORS.length) {
+      await s.say('Ilse', 'Where it started. The wall by the Abyss Gate — that\'s where the first drawing was.');
+      s.objective('Lysa\'s chalk marks point back to the wall by the Abyss Gate.');
+      s.quest('pg_hideseek', 'Hide and Seek', 'The last chalk mark says the door is "where it started" — the chalk wall at the Abyss Gate.');
+    } else {
+      s.toast(`Chalk marks found: ${found} / ${CHALK_FLOORS.length}`);
+    }
+  },
+
+  async chalkDoor(s) {
+    if (s.flag('pg_lysa_done')) {
+      await s.narrate('The chalk door is still there. It is closed now, and someone has drawn a small, smiling sun above it.');
+      return;
+    }
+    await s.narrate('Where the drawing of the girl was, there is now a door — drawn in chalk, on a wall that has no door. It is slightly open.');
+    if (!(await s.confirm('Step through the chalk door?'))) return;
+    await s.fadeOut(1, '#fff8e0');
+    await s.teleport('pg_hiding_place', HIDE.spots.arrive[0], HIDE.spots.arrive[1], 'up');
+  },
+
+  async hidingEnter(s) {
+    if (s.flag('pg_lysa_done')) return;
+    const spots = Object.keys(HIDING_SPOTS);
+    s.state.vars.pg_lysa_spot = spots[Math.floor(Math.random() * spots.length)];
+    if (s.flag('pg_hiding_seen')) return;
+    s.setFlag('pg_hiding_seen');
+    await s.wait(0.6);
+    await s.narrate('A summer night in a city that does not exist anymore. Paper lanterns. Bunting. A fountain still warm from the day. Nobody here.');
+    await s.say('Corvin', '...Aurenne. The festival. This is the night. The night the Lantern failed.');
+    await s.narrate('From somewhere far away, a boy\'s voice, counting: "...ninety-eight... ninety-nine..."');
+    await s.wait(0.8);
+    await s.narrate('"...a hundred! Ready or not!" The voice stops. It never starts again.');
+    await s.wait(0.6);
+    await s.narrate('Somewhere in the square, someone small giggles.');
+    await s.say('Sable', 'She is hiding. She has been hiding all this time.');
+    await s.say('Wren', 'Then let\'s find her.');
+    s.objective('Search the festival square for Lysa. (Check the hiding places.)');
+  },
+
+  async hideSpot(s, spot) {
+    if (s.flag('pg_lysa_done')) return s.narrate('Nobody is hiding here anymore. It\'s just a nice place to sit.');
+    const want = s.state.vars.pg_lysa_spot;
+    if (spot === want) return PG.lysaFound(s, spot);
+    const [ax, ay] = HIDING_SPOTS[spot].at, [bx, by] = HIDING_SPOTS[want].at;
+    const d = Math.hypot(ax - bx, ay - by);
+    const hint = d < 8 ? '"Warmer! Warmer!"' : d < 15 ? '"Cold!"' : '"Freezing! Brrr!"';
+    await s.narrate(`${HIDING_SPOTS[spot].empty} From somewhere across the square, a small voice: ${hint}`);
+  },
+
+  async lysaFound(s, spot) {
+    const [px, py] = HIDING_SPOTS[spot].pop;
+    s.spawn('lysa', 'lysa', px, py, 'down');
+    await s.hop('lysa');
+    await s.say('Lysa', 'You found me!');
+    await s.say('Lysa', 'Nobody EVER finds me. I\'m the best at hiding. Cassian says so.');
+    s.setFlag('pg_lysa_found');
+    if (inParty(s, 'sable')) {
+      await s.emote('lysa', '?');
+      await s.say('Lysa', '...You have my face.');
+      await s.say('Sable', 'Yes. I am sorry. I did not choose it.');
+      await s.say('Lysa', 'It looks nice on you. You\'re taller.');
+      await s.say('Lysa', '...Is that what I\'d look like? If I grew up?');
+      await s.say('Sable', '...Yes. I think so.');
+      await s.say('Lysa', 'Huh.');
+    }
+    await s.say('Lysa', 'Where\'s Cassian? He\'s supposed to be seeking. He\'s *always* seeking.');
+    await s.say('Wren', '...Lysa. How long have you been hiding?');
+    await s.say('Lysa', [
+      'Since the festival. It got dark all of a sudden — REALLY dark — and I thought: this is the best hiding place ever. Nobody will ever find me in the dark.',
+      'And nobody did.',
+    ]);
+    await s.wait(0.8);
+    await s.say('Ilse', 'Wren.');
+    await s.say('Wren', 'I know.');
+    await s.say('Lysa', 'It\'s my turn to seek now. That\'s the rule! Whoever gets found has to seek!');
+    await s.say('Lysa', 'Ready or not!');
+    if (await s.battle('pg_boss_lysa') !== 'win') return;
+    s.setFlag('pg_lysa_done');
+    s.music('sad');
+    await s.narrate('Lysa sits down hard on the edge of the fountain, out of breath and grinning.');
+    await s.say('Lysa', 'Okay. Okay, you win. You\'re really good.');
+    await s.say('Lysa', 'Did Cassian grow up?');
+    await s.say('Wren', 'He did. He got old. He was the most important man in the world.');
+    await s.say('Lysa', 'Cassian? He\'s scared of geese.');
+    await s.say('Corvin', 'Is he, now.');
+    await s.say('Lysa', '...Was he happy?');
+    await s.wait(1);
+    await s.say(inParty(s, 'sable') ? 'Sable' : 'Wren', [
+      'No. He missed you every day. He looked for you for forty years.',
+      'He built a whole world to find you in.',
+    ]);
+    await s.say('Lysa', '...He\'s so *bad* at this game.');
+    await s.say('Lysa', 'Did he stop? Looking?');
+    if (inParty(s, 'sable')) {
+      await s.say('Sable', 'At the very end. He held my hand. And then he let go.');
+    } else {
+      await s.say('Wren', 'At the very end. He let go.');
+    }
+    await s.say('Lysa', [
+      'Good.',
+      'That\'s how it\'s supposed to go. You look and you look, and if you can\'t find them you go home for supper. You\'re not supposed to look forever.',
+    ]);
+    if (inParty(s, 'sable')) {
+      await s.say('Lysa', 'Hey. Face-girl. Will you do something for me? Get really old. Get wrinkly. Get gray hair. Do ALL of it.');
+      await s.say('Sable', 'I will. I promise. I will be very wrinkled.');
+    }
+    await s.say('Lysa', 'And — here. For drawing doors. In case you ever need one.');
+    await s.give('pg_chalk_stub');
+    await s.say('Lysa', 'I think I\'ll go home now. I\'ve been out *really* late.');
+    await s.fadeOut(1.6, '#fff8e0');
+    s.remove('lysa');
+    await s.wait(0.8);
+    await s.fadeIn(1.6);
+    await s.narrate('Where she sat there is only a little chalk on the fountain\'s edge, and the warmth of the stone.');
+    await s.say('Pip', 'I\'m not crying. There\'s chalk in my eye.');
+    await s.say('Bram', 'There is chalk in ALL of our eyes, Pip.');
+    s.quest('pg_hideseek', null, null, 'done');
+    s.objective('Lysa went home. Return through the chalk door.');
+    s.journal('We found Lysa. Forty years of hiding, and she just wanted someone to say "found you." She asked Sable to get old. Sable promised.');
+  },
+
+  // ------------------------------------------------------------------ the Colosseum
+  async dace(s) {
+    if (!s.flag('pg_dace_met')) {
+      s.setFlag('pg_dace_met');
+      await s.say('Dace', [
+        'Ladies! Gentlemen! And things that used to be gentlemen! Welcome to the ECHO COLOSSEUM!',
+        'Kiteholm had a colosseum. Then it had a fire. Now it has a very nice memorial. I brought the betting slips.',
+        'Here\'s the trick: the Gloam remembers every fight there ever was. I just... ask it to remember them *here*, where I sell tickets.',
+        'Ten ranks. Ten memories. Each one nastier than the last. Prizes for the living!',
+      ]);
+      s.quest('pg_colosseum', 'The Echo Colosseum', 'Dace runs ten ranks of remembered fights beneath the Abyss Gate. Win them all.');
+    }
+    const cleared = s.state.vars.pg_arena || 0;
+    const open = Math.min(ARENA.length, cleared + 1);
+    const options = ARENA.slice(0, open).map((r, i) => `Rank ${ROMAN[i + 1]} — ${r.name} (Lv ${r.lv})${i < cleared ? ' ✓' : ''}`);
+    const pick = await s.choice([...options, 'Not today'], { prompt: 'Dace fans out a hand of fight cards.', cancel: open });
+    if (pick >= open) return s.say('Dace', 'The Gloam will remember you tomorrow. It always does.');
+    return PG.bout(s, pick + 1);
+  },
+
+  async bout(s, rank) {
+    const r = ARENA[rank - 1];
+    await s.say('Dace', r.intro);
+    s.heal();
+    const result = await s.battle(r.troop, { loseOk: true });
+    s.heal();
+    if (result !== 'win') return s.say('Dace', ['And they\'re DOWN! Medics! Medics, the expensive ones!', 'Don\'t worry about it. Losing to a memory is the most natural thing in the world.']);
+    const first = (s.state.vars.pg_arena || 0) < rank;
+    if (!first) return s.say('Dace', 'A rematch, and a win! The crowd goes mild!');
+    s.state.vars.pg_arena = rank;
+    await s.say('Dace', r.win);
+    await s.give(r.prize);
+    if (rank === ARENA.length) {
+      s.quest('pg_colosseum', null, null, 'done');
+      s.journal('We fought ourselves in the Echo Colosseum — the versions of us the Gloam would have kept. We won. I don\'t know how to feel about that, but Wick made four coppers.');
+    }
+  },
+};
+
+// Hiding places in the festival square: inspect tiles, a centre for hot/cold, and where Lysa pops out.
+export const HIDING_SPOTS = {
+  red_stall: { tiles: [[7, 9]], at: [7, 9], pop: [7, 10], empty: 'Under the red stall: candied plums, a lost shoe. Nobody.' },
+  blue_stall: { tiles: [[27, 9]], at: [27, 9], pop: [27, 10], empty: 'Behind the blue stall: a stack of paper kites. Nobody.' },
+  yellow_stall: { tiles: [[9, 19]], at: [9, 19], pop: [9, 20], empty: 'Inside the yellow stall: a fortune-teller\'s cards, all blank. Nobody.' },
+  barrels: { tiles: [[24, 18], [25, 18], [24, 19]], at: [24, 18], pop: [25, 19], empty: 'Behind the barrels: cider, by the smell. Nobody.' },
+  crates: { tiles: [[4, 13], [5, 13]], at: [4, 13], pop: [4, 14], empty: 'Behind the crates: bunting, unpacked. Nobody.' },
