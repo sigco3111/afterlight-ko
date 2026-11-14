@@ -1,0 +1,19 @@
+name: tmp-clean
+on:
+  push:
+    paths:
+      - 'clean/**'
+permissions:
+  contents: write
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name sigco3111
+          git config user.email sigco3111@users.noreply.github.com
+          git rm -r -f _extract inbox go clean 2>/dev/null || true
+          git rm -f tmp-ex.mjs tmp-apply.mjs .github/workflows/tmp-gate.yml .github/workflows/tmp-clean.yml 2>/dev/null || true
+          git commit -m "정리: 임시 번역 러너 워크플로와 작업 파일 삭제"
+          git push
