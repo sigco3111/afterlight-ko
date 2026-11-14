@@ -1,0 +1,7 @@
+name: t
+on: workflow_dispatch
+jobs:
+  a:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ewogIlJlc3RvcmVzIDE1MCBIUC4iOiAiSFDrpbwgMTUwIO2ajOuzte2VnOuLpC4iCn0=
