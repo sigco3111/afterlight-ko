@@ -271,3 +271,65 @@
 | Dov | 도브 | 브람의 제자 |
 | Hesk | 헤스크 | 아우렌 재건의 목수 |
 | Tobias | 토바이스 | 랜턴폴의 어부 |
+
+## 포스트게임 표기 (어둑빛 심연·메아리 투기장)
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| The Gloam Abyss | 어둑빛 심연 | 포스트게임의 계단 30개 |
+| Gloamdeep | 어둑빛 깊은 곳 | 심연 첫 구역 |
+| The Tally | 명부 | 오린의 이름 장부 |
+| Nadir Light | 나디르 등불 | 여덟 번째 랜턴 |
+| Underkeeper | 아래지기 | 나디르 등불의 관리자 |
+| Lantern-lift | 랜턴 승강기 | 심연의 승강기 |
+| Echo Colosseum | 메아리 투기장 | 데이스의 투기장 |
+| The First Dark | 첫 어둠 | 화로태양 이전의 어둠 |
+| dusk | 황혼 | 첫 어둠이 얻은 경계 |
+| edge | 가장자리 | 첫 어둠이 말하는 '경계' |
+| The Hiding Place | 숨은 곳 | 라이사의 분필 문 너머 |
+| unranked | 순위 없음 | 투기장 표기 |
+
+### 인명
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| Orrin Vey | 오린 베이 | 나디르 등불의 아래지기 |
+| Sorrel | 소렐 | 고물 상점 주인 |
+| Quill | 퀼 | 심연 지도 제작자 |
+| Tobb | 토브 | 딸의 편지를 잃은 사람 |
+| Nils | 닐스 | 성가대 출신 등불지기 |
+| Dace | 데이스 | 메아리 투기장 운영자 |
+| Mara | 마라 | 토브의 딸 |
+| Unremembered Knight | 기억되지 못한 기사 | B10의 수호자 |
+| Rime Sovereign | 서리 군주 | B20의 수호자 |
+
+## 곁가지 표기 (종소리 경기장·수렵·잿불사슴)
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| The Bellring | 종소리 경기장 | 아우렌의 투기장 |
+| Bell Token | 종 토큰 | 경기장 화폐 |
+| Copper Cup / Silver Cup / Gold Cup | 구리 컵 / 은 컵 / 금 컵 | |
+| Sunsteel Cup | 태양강철 컵 | 최종 컵 |
+| Collegium | 콜레기움 | 야수학자 조직 |
+| bestiarist | 야수학자 | |
+| Keelhaven | 킬헤이븐 | 항구 마을 |
+| The Hollow | 빈터 | 위스퍼월드의 빈터 |
+| Emberhart | 잿불사슴 | 뿔이 랜턴 빛으로 타는 사슴 |
+| Kindle | 킨들 | 잿불사슴의 이름 |
+| The Drift | 표류지 | 랜턴폴의 재 벌판 |
+| Wold | 월드 | 위스퍼월드의 준말 |
+| Drowned Hound | 익사한 사냥개 | 투기장 1위 |
+| Brinefang | 소금아귀 | 투기장 2위 |
+| Glasswyrm | 유리뱀 | 투기장 5위 |
+| The Noon King | 정오의 왕 | 투기장 9위 |
+| Remnant Chorus | 잔영의 합창 | 투기장 8위 |
+
+### 인명
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| Ottavio Brass | 오타비오 브라스 | 종소리 경기장 진행자 |
+| Valka | 발카 | 무패의 검투사 |
+| Prize Clerk | 상품 서기 | 종 토큰 교환 담당 |
+| Greer Thackery | 그리어 새커리 | 콜레기움의 야수학자 |
