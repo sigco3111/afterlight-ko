@@ -1,0 +1,22 @@
+name: ko-dump
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: dump
+        run: |
+          set -e
+          git config user.name sigco3111
+          git config user.email sigco3111k@gmail.com
+          echo "aW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwpjb25zdCBmaWxlcyA9IFsnc3JjL3N0b3J5L2NoOS5qcycsJ3NyYy9zdG9yeS9jaDlfc2lkZS5qcycsJ3NyYy9zdG9yeS9jaDEwLmpzJywnc3JjL3N0b3J5L2NoMTBfc2lkZS5qcyddOwpsZXQga28gPSB7fTsKdHJ5IHsga28gPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYygnc3JjL2kxOG4va28uanNvbicsJ3V0ZjgnKSk7IH0gY2F0Y2ggKGUpIHsgY29uc29sZS5sb2coJ25vIGtvLmpzb24nKTsgfQpjb25zdCBzZWVuID0gbmV3IFNldCgpOwpjb25zdCBvdXQgPSBbXTsKY29uc3QgcmUgPSAvJygoPzpbXidcXFxuXXxcXC4pKiknfCIoKD86W14iXFxcbl18XFwuKSopIi9nOwpmb3IgKGNvbnN0IGYgb2YgZmlsZXMpIHsKICBjb25zdCBzcmMgPSBmcy5yZWFkRmlsZVN5bmMoZiwndXRmOCcpOwogIGxldCBtOwogIHdoaWxlICgobSA9IHJlLmV4ZWMoc3JjKSkpIHsKICAgIGxldCBzID0gbVsxXSAhPT0gdW5kZWZpbmVkID8gbVsxXSA6IG1bMl07CiAgICBpZiAoIXMpIGNvbnRpbnVlOwogICAgcyA9IHMucmVwbGFjZSgvXFwoWyciXFxdKS9nLCAnJDEnKTsKICAgIGlmIChzLmxlbmd0aCA8IDIpIGNvbnRpbnVlOwogICAgaWYgKCEvW0EtWmEtel0vLnRlc3QocykpIGNvbnRpbnVlOwogICAgaWYgKC9eW2EtejAtOV9dKyQvLnRlc3QocykpIGNvbnRpbnVlOwogICAgaWYgKC9eWzAtOSwuIF0rJC8udGVzdChzKSkgY29udGludWU7CiAgICBpZiAoa29bc10gIT09IHVuZGVmaW5lZCkgY29udGludWU7CiAgICBpZiAoc2Vlbi5oYXMocykpIGNvbnRpbnVlOwogICAgc2Vlbi5hZGQocyk7CiAgICBvdXQucHVzaChzKTsKICB9Cn0KZnMubWtkaXJTeW5jKCd0bXAvZW4nLHtyZWN1cnNpdmU6dHJ1ZX0pOwpsZXQgY2k9MSwgYnVmPVtdLCBsZW49MDsKY29uc3QgZmx1c2g9KCk9PnsgaWYoIWJ1Zi5sZW5ndGgpIHJldHVybjsgZnMud3JpdGVGaWxlU3luYygndG1wL2VuL3BhcnQnK1N0cmluZyhjaSkucGFkU3RhcnQoMiwnMCcpKycudHh0JywgYnVmLmpvaW4oJ1xuJykrJ1xuJyk7IGNpKys7IGJ1Zj1bXTsgbGVuPTA7IH07CmZvciAoY29uc3QgcyBvZiBvdXQpIHsgY29uc3QgbGluZSA9IHMucmVwbGFjZSgvXG4vZywnICcpOyBidWYucHVzaChsaW5lKTsgbGVuKz1saW5lLmxlbmd0aCsxOyBpZiAobGVuPjExMDAwKSBmbHVzaCgpOyB9CmZsdXNoKCk7CmZzLndyaXRlRmlsZVN5bmMoJ3RtcC9lbi9pbmRleC50eHQnLCAnc3RyaW5ncyAnK291dC5sZW5ndGgrJyBjaHVua3MgJysoY2ktMSkpOwpjb25zb2xlLmxvZygnc3RyaW5ncycsIG91dC5sZW5ndGgsICdjaHVua3MnLCBjaS0xKTsK" | base64 -d > /tmp/dump.mjs
+          node /tmp/dump.mjs
+          git add -A tmp
+          git commit -m "작업: 영문 문자열 덤프"
+          git push origin HEAD:main
