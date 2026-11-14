@@ -1,0 +1,34 @@
+name: dump-ko
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: split files
+        run: |
+          set -e
+          rm -rf /tmp/dump && mkdir -p /tmp/dump
+          split -b 20000 -d -a 2 src/story/ch8.js /tmp/dump/ch8_
+          split -b 20000 -d -a 2 src/story/ch9.js /tmp/dump/ch9_
+          split -b 20000 -d -a 2 src/story/ch9_side.js /tmp/dump/ch9side_
+          split -b 20000 -d -a 2 i18n/parts/maps-names.json /tmp/dump/maps_
+          split -b 20000 -d -a 2 docs/glossary.md /tmp/dump/gloss_
+          ls -l /tmp/dump
+      - name: push tmpdump branch
+        run: |
+          set -e
+          git config user.name "sigco3111"
+          git config user.email "sigco3111k@gmail.com"
+          git checkout --orphan tmpdump
+          git rm -rf . >/dev/null 2>&1 || true
+          mkdir -p dump
+          cp /tmp/dump/* dump/
+          git add -A dump
+          git commit -m "dump: ch8-ch9-maps-gloss"
+          git push -f origin tmpdump
