@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: dump3 / write
+        description: dump4
         required: false
-        default: dump3
+        default: dump4
 permissions:
   contents: write
 jobs:
@@ -18,20 +18,23 @@ jobs:
           node-version: 20
       - name: merge
         run: node tools/merge-ko.mjs
-      - name: dump3
-        if: inputs.mode == 'dump3'
+      - name: dump4
+        if: inputs.mode == 'dump4'
         run: |
-          mkdir -p .dump/cat
-          cat > .dump/scan3.mjs <<'EOF'
+          mkdir -p .dump/chunks
+          cat > .dump/scan4.mjs <<'EOF'
           import fs from 'node:fs';
           const ko = JSON.parse(fs.readFileSync('src/i18n/ko.json', 'utf8'));
           const list = (d, re) => fs.readdirSync(d).filter((f) => re.test(f)).map((f) => d + '/' + f);
+          const unesc = (s) => {
+            try { return JSON.parse('"' + s.replace(/\\'/g, "'").replace(/"/g, '\\"') + '"'); } catch { return s; }
+          };
           const ok = (s) => {
-            if (s.length < 4 || s.length > 400) return false;
+            if (s.length < 3 || s.length > 400) return false;
             if (!/[A-Za-z]/.test(s)) return false;
             if (!/\s/.test(s)) return false;
             if (!/^["'(_*A-Z]/.test(s)) return false;
-            if (/[{}$;=<>[\]]|\bpx\b|rgba?\(|url\(|::|\\n\\n/.test(s)) return false;
+            if (/[{}$;=<>[\]]|\bpx\b|rgba?\(|url\(|::/.test(s)) return false;
             if (ko[s] !== undefined) return false;
             return true;
           };
@@ -40,17 +43,17 @@ jobs:
             let m;
             while ((m = re.exec(src))) {
               const q = m[1];
-              const s = m[2].replace(/\\'/g, "'");
+              const s = unesc(m[2]);
               if (q === '`' && s.includes('${')) continue;
               if (!ok(s)) continue;
               out.add(s);
             }
           };
           const keyed = (src, out) => {
-            const re = /(?:name|region|label|title|area|place|sub|text)\s*:\s*(['"])((?:\\.|(?!\1)[^\\])*)\1/g;
+            const re = /(?:name|region|label|title|area|place|sub)\s*:\s*(['"])((?:\\.|(?!\1)[^\\])*)\1/g;
             let m;
             while ((m = re.exec(src))) {
-              const s = m[2];
+              const s = unesc(m[2]);
               if (s.length < 2 || s.length > 500) continue;
               if (!/[A-Za-z]/.test(s)) continue;
               if (ko[s] !== undefined) continue;
@@ -75,21 +78,28 @@ jobs:
               if (k === 'maps') keyed(src, out);
               else generic(src, out);
             }
-            res[k] = [...out];
+            res[k] = [...out].sort();
           }
-          const lines = [];
+          const idx = [];
           for (const [k, v] of Object.entries(res)) {
-            fs.writeFileSync('.dump/cat/' + k + '.json', JSON.stringify(v, null, 1));
-            lines.push(k + ' ' + v.length);
+            idx.push(k + ' ' + v.length);
+            for (let i = 0; i < v.length; i += 120) {
+              const part = v.slice(i, i + 120);
+              const name = '.dump/chunks/' + k + '-' + String(i / 120 + 1) + '.json';
+              fs.writeFileSync(name, JSON.stringify(part, null, 0));
+              idx.push('  ' + name + ' ' + part.length);
+            }
           }
-          fs.writeFileSync('.dump/stat3.txt', lines.join('\n'));
-          console.log(lines.join('\n'));
+          fs.writeFileSync('.dump/index.txt', idx.join('\n'));
+          console.log(idx.join('\n'));
           EOF
-          node .dump/scan3.mjs
+          node .dump/scan4.mjs
+          grep -n "fmt(" src/battle/*.js > .dump/battlefmt.txt || true
+          wc -l .dump/battlefmt.txt >> .dump/index.txt
       - name: commit
         run: |
           git config user.name sigco3111
           git config user.email sigco3111@users.noreply.github.com
           git add -A .dump
-          git commit -m "임시: 덤프3(엄격 필터)" || echo none
+          git commit -m "임시: 덤프4(청크)" || echo none
           git push
