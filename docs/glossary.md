@@ -170,3 +170,39 @@
 | Steadfast | 스테드패스트 | 성가대의 군함 |
 | Benediction | 베네딕션 | 성가대의 순례 갤리온 |
 | Halcyon | 할시온 | 코르빈의 비행선 |
+
+## 10~11장 표기 (할시온·라이사)
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| The Ledger Queen | 장부의 여왕 | 오데사의 별칭 |
+| Toll Barge | 통행 바지선 | 러독의 배 |
+| The Lip | 절벽 끝 | 둥지 서쪽 정박지 |
+| Gilded Gull | 길디드 걸 | 승력 코일을 만든 배 |
+| Skyreach Yards | 스카이리치 조선소 | |
+| The Noon Gate | 정오의 문 | 정오 첨탑의 문 |
+| The Hour-Warden | 시간 관리인 | 첨탑의 석상 |
+| Festival of the Long Light | 긴 빛의 축제 | 랜턴이 꺼지기 전 마지막 축제 |
+| Sun Shard | 태양 파편 | 부서진 태양의 조각 |
+| Squallmaw | 폭풍아귀 | 폭풍 비룡 우두머리 |
+| Vesper Lift-Warden | 베스퍼 승강기 관리인 | 첨탑 문지기 |
+| Rest Ye, Dawn-Bound | 새벽으로 가는 이여, 쉬어가라 | 순례자 성가 |
+
+### 인명
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| Lysa | 라이사 | 카시안의 누이, 세이블의 전 이름 |
+| Keeper Lorne | 수호자 로른 | 카시안의 아버지 |
+| Young Cassian | 젊은 카시안 | 회상 속 모습 |
+| Edrin | 에드린 | 렌의 아버지 |
+| Ana Marrow | 아나 매로우 | 일세의 어머니 |
+| Hal | 할 | 코르빈의 형 |
+| Mam | 엄마 | 핍의 어머니 |
+| Old Bess | 늙은 베스 | 에버눈 강가의 노파 |
+| Tomas | 토마스 | 베스의 남편 |
+| Della / Rafe | 델라 / 라페 | 강 위 다리의 연인 |
+| Dagny / Hobb / Ines | 다그니 / 홉 / 이네스 | 잿더미 광산의 광부 |
+| Nell | 넬 | 다그니의 딸 |
+| Mercy | 메르시 | 성가대 수녀 |
+| Nell | 넬 |  |
