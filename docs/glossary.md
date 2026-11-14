@@ -48,3 +48,39 @@
 | Tonic | 토닉 | 회복 아이템 |
 | Ether | 에테르 | MP 회복 |
 | Gil/Gold | 금화 | 화폐 |
+## 2장·튜토리얼에서 추가된 표기
+
+| English | 한국어 | 비고 |
+|---|---|---|
+| Dawnguard | 새벽수호대 | 성가대의 병력 |
+| Thorne's Own | 쏜의 친위대 | 사령관 직속 |
+| Garrick Thorne | 게릭 쏜 | 사령관 |
+| Lieutenant Harrow | 해리 중위 | |
+| Afterglow | 잔광 | 연계 기술 게이지 |
+| Link Art | 연계 기술 | |
+| Poise | 자세 | 브레이크 방패 |
+| Hearthstone | 화롯돌 | 회복·저장 지점 |
+| Mark | 마크 | 도감의 희귀 야수 |
+| Greer's Ledger | 그리어의 장부 | 도감 |
+| Lost Calling | 잃어버린 소명 | |
+| Braided Calling | 엮인 소명 | 크레스트 엮기 |
+| Crestless Sage | 크레스트 없는 현자 | 베탄 |
+| Bethan | 베탄 | 크레스트 없는 현자 |
+| Hollow Mother | 텅 빈 어머니 | 위스퍼월드의 어머니나무 |
+| Listening Stone | 듣는 돌 | 숲의 돌 |
+| Red Tam | 붉은 탐 | 산적 두목 |
+| The Gale Coast | 게일 해안 | |
+| Gull Light | 갈매기 등대 | 헤스케스의 등대 |
+| Undercroft | 언더크로프트 | 아우렌 지하 |
+| Saltglass | 솔트글래스 | |
+| Frosthollow | 프로스트홀로 | |
+| Mirefen | 마이어펀 | |
+| Skyreach | 스카이리치 | |
+| Kiteholm | 카이트홀름 | |
+| Greyspine | 그레이스파인 | |
+| Sunscar | 태양흉터 | |
+| Stormcrown | 폭풍왕관 | |
+| Evernoon | 에버눈 | |
+| Halcyon | 할시온 | 비행선 |
+| Sprocket | 스프로킷 | |
+
