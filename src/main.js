@@ -10,6 +10,8 @@ import { FieldScene } from './world/FieldScene.js';
 import { LOOKS } from './data/looks.js';
 import './data/fish.js'; // registers fish as items
 import { contentReady } from './data/content/index.js';
+import { installI18n } from './i18n/dom.js';
+import { localizeData } from './i18n/data.js';
 
 const game = new Game({
   canvas: document.getElementById('view'),
@@ -35,6 +37,7 @@ ui.setLookResolver((name) => {
   return LOOKS[key] || null;
 });
 
+installI18n(); // 한국어 오버레이(DOM 텍스트)와 언어 토글 버튼
 window.afterlight = game; // handy for debugging in the console
 if (new URLSearchParams(location.search).has('trace')) {
   game.debugTrace = (m) => { document.title = `${document.title.slice(-200)} | ${m}`; };
@@ -86,6 +89,7 @@ game.onGameOver = () => {
 async function boot() {
   const params = new URLSearchParams(location.search);
   await contentReady; // all chapter packs registered
+  localizeData(); // 아이템·스킬·적·크레스트 이름/설명 번역
   const { MenuSystem } = await import('./ui/Menus.js').catch(() => ({ MenuSystem: null }));
   if (MenuSystem) game.menus = new MenuSystem(game);
 

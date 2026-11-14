@@ -5,6 +5,7 @@
 import { getPortrait } from '../render/SpriteFactory.js';
 import { blipFor } from '../data/voices.js';
 import { keyCap } from '../core/Input.js';
+import { t as tr } from '../i18n/index.js';
 
 export function el(tag, cls, html) {
   const e = document.createElement(tag);
@@ -97,6 +98,7 @@ export class UI {
    * auto (seconds), voice (a voice-line id: plays if the voice pack has it).
    */
   dialogue(speaker, text, opts = {}) {
+    speaker = tr(speaker); text = tr(text);
     this.history.push({ speaker, text: plainText(text), style: opts.style });
     if (this.history.length > HISTORY_LINES) this.history.splice(0, this.history.length - HISTORY_LINES);
     if (this.game.skipping) return Promise.resolve(); // a skipped scene: the line is in the backlog

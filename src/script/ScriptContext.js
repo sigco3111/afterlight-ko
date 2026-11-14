@@ -9,6 +9,7 @@ import { CHAPTERS } from '../story/chapters.js';
 import { LOOKS } from '../data/looks.js';
 import { playFishing } from '../ui/Fishing.js';
 import { playLines, testCond } from './Lines.js';
+import { t, fmt } from '../i18n/index.js';
 
 export class ScriptContext {
   constructor(game, field) {
@@ -87,7 +88,7 @@ export class ScriptContext {
    */
   fill(text) {
     const st = this.state;
-    return String(text)
+    return t(String(text))
       .replace(/\{gold\}/g, () => String(st.gold))
       .replace(/\{var:([\w.-]+)\}/g, (_, k) => String(st.vars[k] ?? 0))
       .replace(/\{item:([\w.-]+)\}/g, (_, k) => String(st.inventory.count(k)))
@@ -198,7 +199,7 @@ export class ScriptContext {
     if (EQUIPMENT[itemId]) queueTutorial(this.game, 'equipment');
     if (!quiet) {
       this.sfx('item');
-      await this.ui.message(`Obtained *${this.state.inventory.itemName(itemId)}*${count > 1 ? ` ×${count}` : ''}.`);
+      await this.ui.message(fmt('Obtained *{0}*{1}.', this.state.inventory.itemName(itemId), count > 1 ? ` ×${count}` : ''));
     }
   }
 
@@ -207,14 +208,14 @@ export class ScriptContext {
 
   async gold(amount, quiet = false) {
     this.state.gold = Math.max(0, this.state.gold + amount);
-    if (!quiet && amount > 0) { this.sfx('item'); await this.ui.message(`Received *${amount}* gold.`); }
+    if (!quiet && amount > 0) { this.sfx('item'); await this.ui.message(fmt('Received *{0}* gold.', amount)); }
   }
 
   async join(charId, quiet = false) {
     this.state.joinParty(charId);
     if (!quiet) {
       this.sfx('join');
-      await this.ui.message(`*${this.state.characters[charId].name}* joined the party!`);
+      await this.ui.message(fmt('*{0}* joined the party!', this.state.characters[charId].name));
     }
   }
 
@@ -222,7 +223,7 @@ export class ScriptContext {
 
   async learnCrest(crestId, quiet = false) {
     this.state.unlockCrest(crestId);
-    if (!quiet) { this.sfx('join'); await this.ui.message(`New Crest available: *${this.state.crestName(crestId)}*`); }
+    if (!quiet) { this.sfx('join'); await this.ui.message(fmt('New Crest available: *{0}*', this.state.crestName(crestId))); }
   }
 
   heal() { this.state.healParty(); }
