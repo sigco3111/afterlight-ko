@@ -1,0 +1,25 @@
+# characters (24)
+- characters.0.0 Wren
+- characters.1.0 The Restless Heart
+- characters.2.0 Resolve
+- characters.3.0 Afterglow gain +25%. Once per battle, survive a lethal blow at 1 HP.
+- characters.4.0 Ilse
+- characters.5.0 The Careful Hand
+- characters.6.0 Triage
+- characters.7.0 Healing on allies below 30% HP is 50% stronger.
+- characters.8.0 Bram
+- characters.9.0 The Frightened Shield
+- characters.10.0 Bulwark
+- characters.11.0 Once per battle, take a lethal blow meant for an ally.
+- characters.12.0 Sable
+- characters.13.0 The Girl from the Sea
+- characters.14.0 Gloamtouch
+- characters.15.0 Attacks may inflict a random ailment. Immune to Doom.
+- characters.16.0 Pip
+- characters.17.0 The Gutter Prince
+- characters.18.0 Pilfer
+- characters.19.0 Basic attacks may steal.
+- characters.20.0 Corvin
+- characters.21.0 The Runaway Captain
+- characters.22.0 Gambit
+- characters.23.0 1 in 6 chance a skill costs no MP and hits twice as hard.

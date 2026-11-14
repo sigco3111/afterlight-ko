@@ -1,0 +1,152 @@
+# skills p2
+- skills.151.0 Holy
+- skills.152.0 Light damage.
+- skills.153.0 Mend III
+- skills.154.0 Restore vast HP to one ally.
+- skills.155.0 Dispel
+- skills.156.0 Strip a foe's buffs.
+- skills.157.0 Tornado
+- skills.158.0 Wind on all foes.
+- skills.159.0 Reraise
+- skills.160.0 Auto-revive once when felled.
+- skills.161.0 Starlight
+- skills.162.0 Call: Hawk
+- skills.163.0 A hawk spirit dives. May blind.
+- skills.164.0 Call: Tortoise
+- skills.165.0 Protect the party.
+- skills.166.0 Call: Wolf
+- skills.167.0 A wolf pack tears through all foes.
+- skills.168.0 Call: Stag
+- skills.169.0 Heal and cure the party.
+- skills.170.0 Call: Serpent
+- skills.171.0 Ice on all foes; may slow.
+- skills.172.0 Call: Bear
+- skills.173.0 A crushing blow.
+- skills.174.0 Call: Phoenix
+- skills.175.0 Fire on all foes; revives the fallen.
+- skills.176.0 Acid Flask
+- skills.177.0 Corrode armor.
+- skills.178.0 Fire Flask
+- skills.179.0 Burning flasks on all foes.
+- skills.180.0 Elixir Mist
+- skills.181.0 Restore 25% HP and 10% MP to the party.
+- skills.182.0 Alchemize
+- skills.183.0 Turn a foe's essence into gold.
+- skills.184.0 Panacea
+- skills.185.0 Cure all ailments; Regen.
+- skills.186.0 Philosopher's Bomb
+- skills.187.0 Unaligned blast on all foes.
+- skills.188.0 Jump
+- skills.189.0 Leap out of reach; land next turn.
+- skills.190.0 Lance Sweep
+- skills.191.0 A wide sweep.
+- skills.192.0 High Jump
+- skills.193.0 A higher, harder Jump.
+- skills.194.0 Gale Lance
+- skills.195.0 A lance riding the wind.
+- skills.196.0 Skewer
+- skills.197.0 Pierce through; DEF down.
+- skills.198.0 Skyfall
+- skills.199.0 Jump, then fall on all foes.
+- skills.200.0 Haste
+- skills.201.0 Ally acts more often.
+- skills.202.0 Slow
+- skills.203.0 Foe acts less often.
+- skills.204.0 Stasis
+- skills.205.0 Push a foe far back in the turn order.
+- skills.206.0 Regen
+- skills.207.0 Gradual healing.
+- skills.208.0 Hastega
+- skills.209.0 Haste the party.
+- skills.210.0 Gravity
+- skills.211.0 Remove 25% of a foe's current HP.
+- skills.212.0 Quicken
+- skills.213.0 An ally acts immediately.
+- skills.214.0 Event Horizon
+- skills.215.0 Dark on all foes; may slow.
+- skills.216.0 Blade Dance
+- skills.217.0 Four strikes on random foes.
+- skills.218.0 Allure
+- skills.219.0 A foe may attack its allies.
+- skills.220.0 Healing Waltz
+- skills.221.0 Heal the party.
+- skills.222.0 Mesmerize
+- skills.223.0 Foe STR and MAG down sharply.
+- skills.224.0 Twilight Tango
+- skills.225.0 Dark on all foes; may sleep.
+- skills.226.0 Rejuvenate
+- skills.227.0 Restore 25 MP to an ally.
+- skills.228.0 Grand Finale
+- skills.229.0 Heal 50% and raise all stats.
+- skills.230.0 Rampage
+- skills.231.0 Three wild blows.
+- skills.232.0 Blood Price
+- skills.233.0 Pay 20% HP for a terrible blow.
+- skills.234.0 War Cry
+- skills.235.0 STR up sharply, DEF down.
+- skills.236.0 Earthsplitter
+- skills.237.0 Split the ground under all foes.
+- skills.238.0 Frenzy
+- skills.239.0 Berserk; STR maximized.
+- skills.240.0 Ragnarok
+- skills.241.0 Pay 30% HP to break the world.
+- skills.242.0 Beacon
+- skills.243.0 Light on all foes; reveals weaknesses.
+- skills.244.0 Guiding Light
+- skills.245.0 Tidesong
+- skills.246.0 The sea remembers. Ice on all foes.
+- skills.247.0 Lighthouse
+- skills.248.0 Protect, Shell and Regen the party.
+- skills.249.0 Sunrise
+- skills.250.0 Revive and restore all allies to 60%.
+- skills.251.0 First Light
+- skills.252.0 The first light after the last night.
+- skills.253.0 Umbra
+- skills.254.0 Dark damage.
+- skills.255.0 Hex
+- skills.256.0 Inflict a random ailment.
+- skills.257.0 Siphon
+- skills.258.0 Drain life.
+- skills.259.0 Nightshade
+- skills.260.0 Dark on all foes; may poison.
+- skills.261.0 Doom
+- skills.262.0 A foe falls in three turns.
+- skills.263.0 Unmake
+- skills.264.0 Unravel a foe and strip its buffs.
+- skills.265.0 Oblivion
+- skills.266.0 Return them to the Gloam.
+- skills.267.0 Comet
+- skills.268.0 A small star, falling.
+- skills.269.0 Foresight
+- skills.270.0 Party evasion up sharply.
+- skills.271.0 Constellation
+- skills.272.0 Five stars of random elements.
+- skills.273.0 Astral Veil
+- skills.274.0 Party RES up sharply.
+- skills.275.0 Eclipse
+- skills.276.0 Dark on all foes.
+- skills.277.0 Supernova
+- skills.278.0 A dying star.
+- skills.279.0 Loaded Dice
+- skills.280.0 Roll 2d6. Damage scales with the roll and your level.
+- skills.281.0 Wild Card
+- skills.282.0 Draw a card. Anything can happen.
+- skills.283.0 All In
+- skills.284.0 50% chance to land a massive shot.
+- skills.285.0 Coin Barrage
+- skills.286.0 Throw 2% of your gold. Damage = gold thrown.
+- skills.287.0 Double Down
+- skills.288.0 Your next skill hits twice.
+- skills.289.0 Royal Flush
+- skills.290.0 Five critical shots.
+- skills.291.0 Solar Flare
+- skills.292.0 Forge Strike
+- skills.293.0 Steel, struck on a sun.
+- skills.294.0 Sun Aegis
+- skills.295.0 Protect, Shell, Regen and Haste for the party.
+- skills.296.0 Helios
+- skills.297.0 The noon sun, falling.
+- skills.298.0 Corona
+- skills.299.0 A ring of killing light.
+- skills.300.0 Afterglow Strike
+- skills.301.0 Stronger with more Afterglow.

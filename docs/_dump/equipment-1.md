@@ -1,0 +1,152 @@
+# equipment (378)
+- equipment.0.0 Driftwood Blade
+- equipment.1.0 Sword. Tier 1.
+- equipment.2.0 Iron Sword
+- equipment.3.0 Sword. Tier 2.
+- equipment.4.0 Steel Longsword
+- equipment.5.0 Sword. Tier 3.
+- equipment.6.0 Silversteel Saber
+- equipment.7.0 Sword. Tier 4.
+- equipment.8.0 Starsteel Sword
+- equipment.9.0 Sword. Tier 5.
+- equipment.10.0 Ashen Blade
+- equipment.11.0 Sword. Tier 6.
+- equipment.12.0 Sunshard Sword
+- equipment.13.0 Sword. Tier 7.
+- equipment.14.0 Dawnforged Blade
+- equipment.15.0 Sword. Tier 8.
+- equipment.16.0 Woodcutter's Blade
+- equipment.17.0 Greatsword. Tier 1.
+- equipment.18.0 Iron Claymore
+- equipment.19.0 Greatsword. Tier 2.
+- equipment.20.0 Steel Greatsword
+- equipment.21.0 Greatsword. Tier 3.
+- equipment.22.0 Silversteel Zweihander
+- equipment.23.0 Greatsword. Tier 4.
+- equipment.24.0 Starsteel Claymore
+- equipment.25.0 Greatsword. Tier 5.
+- equipment.26.0 Ruinbreaker
+- equipment.27.0 Greatsword. Tier 6.
+- equipment.28.0 Sunshard Greatsword
+- equipment.29.0 Greatsword. Tier 7.
+- equipment.30.0 Worldcleaver
+- equipment.31.0 Greatsword. Tier 8.
+- equipment.32.0 Fishing Spear
+- equipment.33.0 Spear. Tier 1.
+- equipment.34.0 Iron Spear
+- equipment.35.0 Spear. Tier 2.
+- equipment.36.0 Steel Pike
+- equipment.37.0 Spear. Tier 3.
+- equipment.38.0 Silversteel Lance
+- equipment.39.0 Spear. Tier 4.
+- equipment.40.0 Starsteel Partisan
+- equipment.41.0 Spear. Tier 5.
+- equipment.42.0 Ashen Halberd
+- equipment.43.0 Spear. Tier 6.
+- equipment.44.0 Sunshard Lance
+- equipment.45.0 Spear. Tier 7.
+- equipment.46.0 Skypiercer
+- equipment.47.0 Spear. Tier 8.
+- equipment.48.0 Hatchet
+- equipment.49.0 Axe. Tier 1.
+- equipment.50.0 Iron Axe
+- equipment.51.0 Axe. Tier 2.
+- equipment.52.0 Steel Battleaxe
+- equipment.53.0 Axe. Tier 3.
+- equipment.54.0 Silversteel Axe
+- equipment.55.0 Axe. Tier 4.
+- equipment.56.0 Starsteel Cleaver
+- equipment.57.0 Axe. Tier 5.
+- equipment.58.0 Ashen Labrys
+- equipment.59.0 Axe. Tier 6.
+- equipment.60.0 Sunshard Axe
+- equipment.61.0 Axe. Tier 7.
+- equipment.62.0 Mountainfall
+- equipment.63.0 Axe. Tier 8.
+- equipment.64.0 Fillet Knife
+- equipment.65.0 Dagger. Tier 1.
+- equipment.66.0 Iron Dagger
+- equipment.67.0 Dagger. Tier 2.
+- equipment.68.0 Steel Dirk
+- equipment.69.0 Dagger. Tier 3.
+- equipment.70.0 Silversteel Kris
+- equipment.71.0 Dagger. Tier 4.
+- equipment.72.0 Starsteel Stiletto
+- equipment.73.0 Dagger. Tier 5.
+- equipment.74.0 Ashen Fang
+- equipment.75.0 Dagger. Tier 6.
+- equipment.76.0 Sunshard Dagger
+- equipment.77.0 Dagger. Tier 7.
+- equipment.78.0 Last Whisper
+- equipment.79.0 Dagger. Tier 8.
+- equipment.80.0 Shortbow
+- equipment.81.0 Bow. Tier 1.
+- equipment.82.0 Hunter's Bow
+- equipment.83.0 Bow. Tier 2.
+- equipment.84.0 Longbow
+- equipment.85.0 Bow. Tier 3.
+- equipment.86.0 Silversteel Bow
+- equipment.87.0 Bow. Tier 4.
+- equipment.88.0 Starsteel Recurve
+- equipment.89.0 Bow. Tier 5.
+- equipment.90.0 Ashwood Bow
+- equipment.91.0 Bow. Tier 6.
+- equipment.92.0 Sunshard Bow
+- equipment.93.0 Bow. Tier 7.
+- equipment.94.0 Horizon
+- equipment.95.0 Bow. Tier 8.
+- equipment.96.0 Walking Stick
+- equipment.97.0 Staff. Tier 1.
+- equipment.98.0 Oak Staff
+- equipment.99.0 Staff. Tier 2.
+- equipment.100.0 Choir Staff
+- equipment.101.0 Staff. Tier 3.
+- equipment.102.0 Silver Staff
+- equipment.103.0 Staff. Tier 4.
+- equipment.104.0 Starwood Staff
+- equipment.105.0 Staff. Tier 5.
+- equipment.106.0 Ashen Staff
+- equipment.107.0 Staff. Tier 6.
+- equipment.108.0 Sunshard Staff
+- equipment.109.0 Staff. Tier 7.
+- equipment.110.0 Keeper's Crook
+- equipment.111.0 Staff. Tier 8.
+- equipment.112.0 Willow Wand
+- equipment.113.0 Rod. Tier 1.
+- equipment.114.0 Copper Rod
+- equipment.115.0 Rod. Tier 2.
+- equipment.116.0 Ember Rod
+- equipment.117.0 Rod. Tier 3.
+- equipment.118.0 Silver Rod
+- equipment.119.0 Rod. Tier 4.
+- equipment.120.0 Starglass Rod
+- equipment.121.0 Rod. Tier 5.
+- equipment.122.0 Gloam Rod
+- equipment.123.0 Rod. Tier 6.
+- equipment.124.0 Sunshard Rod
+- equipment.125.0 Rod. Tier 7.
+- equipment.126.0 Rod of Dusk
+- equipment.127.0 Rod. Tier 8.
+- equipment.128.0 Leather Wraps
+- equipment.129.0 Knuckles. Tier 1.
+- equipment.130.0 Iron Knuckles
+- equipment.131.0 Knuckles. Tier 2.
+- equipment.132.0 Steel Cestus
+- equipment.133.0 Knuckles. Tier 3.
+- equipment.134.0 Silversteel Claws
+- equipment.135.0 Knuckles. Tier 4.
+- equipment.136.0 Starsteel Gauntlets
+- equipment.137.0 Knuckles. Tier 5.
+- equipment.138.0 Ashen Fists
+- equipment.139.0 Knuckles. Tier 6.
+- equipment.140.0 Sunshard Knuckles
+- equipment.141.0 Knuckles. Tier 7.
+- equipment.142.0 Godhand
+- equipment.143.0 Knuckles. Tier 8.
+- equipment.144.0 Reed Flute
+- equipment.145.0 Instrument. Tier 1.
+- equipment.146.0 Lute
+- equipment.147.0 Instrument. Tier 2.
+- equipment.148.0 Silver Harp
+- equipment.149.0 Instrument. Tier 3.
+- equipment.150.0 Choir Lyre

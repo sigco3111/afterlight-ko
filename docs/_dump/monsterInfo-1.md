@@ -1,0 +1,17 @@
+# monsterInfo (16)
+- monsterInfo.0.0 Chapter 1
+- monsterInfo.1.0 Chapter 2
+- monsterInfo.2.0 Chapter 3
+- monsterInfo.3.0 Chapter 4
+- monsterInfo.4.0 Chapter 5
+- monsterInfo.5.0 Chapter 6
+- monsterInfo.6.0 Chapter 7
+- monsterInfo.7.0 Chapter 8
+- monsterInfo.8.0 Chapter 9
+- monsterInfo.9.0 Chapter 10
+- monsterInfo.10.0 Chapter 11
+- monsterInfo.11.0 Chapter 12
+- monsterInfo.12.0 Side Paths
+- monsterInfo.13.0 Marks
+- monsterInfo.14.0 Arenas
+- monsterInfo.15.0 The Gloam Abyss

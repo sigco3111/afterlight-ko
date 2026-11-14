@@ -1,0 +1,152 @@
+# equipment p2
+- equipment.151.0 Instrument. Tier 4.
+- equipment.152.0 Starstring Lute
+- equipment.153.0 Instrument. Tier 5.
+- equipment.154.0 Ashen Violin
+- equipment.155.0 Instrument. Tier 6.
+- equipment.156.0 Sunshard Harp
+- equipment.157.0 Instrument. Tier 7.
+- equipment.158.0 Dawnsong Lyre
+- equipment.159.0 Instrument. Tier 8.
+- equipment.160.0 Primer
+- equipment.161.0 Tome. Tier 1.
+- equipment.162.0 Book of Tides
+- equipment.163.0 Tome. Tier 2.
+- equipment.164.0 Choir Codex
+- equipment.165.0 Tome. Tier 3.
+- equipment.166.0 Silver Grimoire
+- equipment.167.0 Tome. Tier 4.
+- equipment.168.0 Star Atlas
+- equipment.169.0 Tome. Tier 5.
+- equipment.170.0 Book of Ash
+- equipment.171.0 Tome. Tier 6.
+- equipment.172.0 Sun Codex
+- equipment.173.0 Tome. Tier 7.
+- equipment.174.0 The Last Chronicle
+- equipment.175.0 Tome. Tier 8.
+- equipment.176.0 Flintlock
+- equipment.177.0 Gun. Tier 1.
+- equipment.178.0 Iron Pistol
+- equipment.179.0 Gun. Tier 2.
+- equipment.180.0 Steel Revolver
+- equipment.181.0 Gun. Tier 3.
+- equipment.182.0 Silversteel Carbine
+- equipment.183.0 Gun. Tier 4.
+- equipment.184.0 Starsteel Repeater
+- equipment.185.0 Gun. Tier 5.
+- equipment.186.0 Ashen Hand-Cannon
+- equipment.187.0 Gun. Tier 6.
+- equipment.188.0 Sunshard Pistol
+- equipment.189.0 Gun. Tier 7.
+- equipment.190.0 Last Word
+- equipment.191.0 Gun. Tier 8.
+- equipment.192.0 Padded Mail
+- equipment.193.0 Heavy armor. Tier 1.
+- equipment.194.0 Iron Mail
+- equipment.195.0 Heavy armor. Tier 2.
+- equipment.196.0 Steel Plate
+- equipment.197.0 Heavy armor. Tier 3.
+- equipment.198.0 Silversteel Plate
+- equipment.199.0 Heavy armor. Tier 4.
+- equipment.200.0 Starsteel Plate
+- equipment.201.0 Heavy armor. Tier 5.
+- equipment.202.0 Ashen Armor
+- equipment.203.0 Heavy armor. Tier 6.
+- equipment.204.0 Sunshard Plate
+- equipment.205.0 Heavy armor. Tier 7.
+- equipment.206.0 Dawnguard Regalia
+- equipment.207.0 Heavy armor. Tier 8.
+- equipment.208.0 Fisher's Vest
+- equipment.209.0 Light armor. Tier 1.
+- equipment.210.0 Leather Jerkin
+- equipment.211.0 Light armor. Tier 2.
+- equipment.212.0 Brigandine
+- equipment.213.0 Light armor. Tier 3.
+- equipment.214.0 Silver Mail Shirt
+- equipment.215.0 Light armor. Tier 4.
+- equipment.216.0 Starweave Coat
+- equipment.217.0 Light armor. Tier 5.
+- equipment.218.0 Ashen Coat
+- equipment.219.0 Light armor. Tier 6.
+- equipment.220.0 Sunshard Vest
+- equipment.221.0 Light armor. Tier 7.
+- equipment.222.0 Wanderer's Mantle
+- equipment.223.0 Light armor. Tier 8.
+- equipment.224.0 Linen Robe
+- equipment.225.0 Robe. Tier 1.
+- equipment.226.0 Acolyte Robe
+- equipment.227.0 Robe. Tier 2.
+- equipment.228.0 Choir Vestment
+- equipment.229.0 Robe. Tier 3.
+- equipment.230.0 Silk Robe
+- equipment.231.0 Robe. Tier 4.
+- equipment.232.0 Starweave Robe
+- equipment.233.0 Robe. Tier 5.
+- equipment.234.0 Ashen Robe
+- equipment.235.0 Robe. Tier 6.
+- equipment.236.0 Sunshard Robe
+- equipment.237.0 Robe. Tier 7.
+- equipment.238.0 Keeper's Raiment
+- equipment.239.0 Robe. Tier 8.
+- equipment.240.0 Leather Helm
+- equipment.241.0 Headgear. Tier 1.
+- equipment.242.0 Iron Helm
+- equipment.243.0 Headgear. Tier 2.
+- equipment.244.0 Steel Helm
+- equipment.245.0 Headgear. Tier 3.
+- equipment.246.0 Silversteel Helm
+- equipment.247.0 Headgear. Tier 4.
+- equipment.248.0 Starsteel Helm
+- equipment.249.0 Headgear. Tier 5.
+- equipment.250.0 Ashen Helm
+- equipment.251.0 Headgear. Tier 6.
+- equipment.252.0 Sunshard Helm
+- equipment.253.0 Headgear. Tier 7.
+- equipment.254.0 Crown of Dawn
+- equipment.255.0 Headgear. Tier 8.
+- equipment.256.0 Cloth Cap
+- equipment.257.0 Leather Hat
+- equipment.258.0 Scout Hood
+- equipment.259.0 Silver Bandana
+- equipment.260.0 Starweave Hood
+- equipment.261.0 Ashen Hood
+- equipment.262.0 Sunshard Circlet
+- equipment.263.0 Wanderer's Hat
+- equipment.264.0 Straw Hat
+- equipment.265.0 Acolyte Hood
+- equipment.266.0 Choir Mitre
+- equipment.267.0 Silver Circlet
+- equipment.268.0 Star Diadem
+- equipment.269.0 Ashen Veil
+- equipment.270.0 Sunshard Tiara
+- equipment.271.0 Keeper's Crown
+- equipment.272.0 Buckler
+- equipment.273.0 Shield. Raises evasion. Tier 1.
+- equipment.274.0 Iron Shield
+- equipment.275.0 Shield. Raises evasion. Tier 2.
+- equipment.276.0 Steel Kite
+- equipment.277.0 Shield. Raises evasion. Tier 3.
+- equipment.278.0 Silversteel Shield
+- equipment.279.0 Shield. Raises evasion. Tier 4.
+- equipment.280.0 Starsteel Aegis
+- equipment.281.0 Shield. Raises evasion. Tier 5.
+- equipment.282.0 Ashen Bulwark
+- equipment.283.0 Shield. Raises evasion. Tier 6.
+- equipment.284.0 Sunshard Shield
+- equipment.285.0 Shield. Raises evasion. Tier 7.
+- equipment.286.0 Wall of Dawn
+- equipment.287.0 Shield. Raises evasion. Tier 8.
+- equipment.288.0 Copper Ring
+- equipment.289.0 DEF +3.
+- equipment.290.0 Sea Charm
+- equipment.291.0 RES +5. Smells of salt.
+- equipment.292.0 Power Band
+- equipment.293.0 STR +6.
+- equipment.294.0 Sage Ring
+- equipment.295.0 MAG +6.
+- equipment.296.0 Swift Boots
+- equipment.297.0 SPD +5.
+- equipment.298.0 Vigor Bangle
+- equipment.299.0 Max HP +10%.
+- equipment.300.0 Focus Pendant
+- equipment.301.0 Max MP +15%.

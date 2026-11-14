@@ -1,0 +1,152 @@
+# skills (557)
+- skills.0.0 Attack
+- skills.1.0 A basic strike with your weapon.
+- skills.2.0 Guard
+- skills.3.0 Halve damage taken until your next turn. Act again sooner.
+- skills.4.0 Cleave
+- skills.5.0 Sweep all foes with your weapon.
+- skills.6.0 Rally
+- skills.7.0 Party STR up.
+- skills.8.0 Sunder
+- skills.9.0 Heavy blow that cracks armor (DEF down).
+- skills.10.0 Whirlwind
+- skills.11.0 A spinning strike against all foes.
+- skills.12.0 Valiant Charge
+- skills.13.0 A devastating charge. You act again later.
+- skills.14.0 Ardent Blade
+- skills.15.0 Burning resolve: pierces 50% of DEF.
+- skills.16.0 Provoke
+- skills.17.0 Draw enemy attacks for 3 turns. DEF up.
+- skills.18.0 Shield Bash
+- skills.19.0 Blunt strike that may stun.
+- skills.20.0 Bulwark Stance
+- skills.21.0 Own DEF and RES up sharply.
+- skills.22.0 Guardian Wall
+- skills.23.0 Grant Protect to the party.
+- skills.24.0 Retribution
+- skills.25.0 Stronger the more HP you have lost.
+- skills.26.0 Aimed Shot
+- skills.27.0 A careful shot with high critical rate.
+- skills.28.0 Scan
+- skills.29.0 Reveal a foe's weaknesses and HP.
+- skills.30.0 Arrow Rain
+- skills.31.0 Four arrows on random foes.
+- skills.32.0 Venom Arrow
+- skills.33.0 Poisoned shot.
+- skills.34.0 Hunter's Mark
+- skills.35.0 Mark a foe: DEF down sharply, crits more likely.
+- skills.36.0 Galeshot
+- skills.37.0 A shot riding a gale through all foes.
+- skills.38.0 Deadeye
+- skills.39.0 Never misses. Always critical.
+- skills.40.0 Steal
+- skills.41.0 Lift an item from a foe.
+- skills.42.0 Quickstrike
+- skills.43.0 A jab that lets you act again sooner.
+- skills.44.0 Mug
+- skills.45.0 Attack and steal at once.
+- skills.46.0 Smoke Bomb
+- skills.47.0 Guaranteed escape from non-boss battles.
+- skills.48.0 Eviscerate
+- skills.49.0 Two vicious cuts.
+- skills.50.0 Shadowstep
+- skills.51.0 Strike from the shadows; act again quickly.
+- skills.52.0 Mend
+- skills.53.0 Restore HP to one ally.
+- skills.54.0 Purify
+- skills.55.0 Cure ailments.
+- skills.56.0 Mend All
+- skills.57.0 Restore HP to the party.
+- skills.58.0 Rekindle
+- skills.59.0 Revive a fallen ally with 30% HP.
+- skills.60.0 Aegis
+- skills.61.0 Protect and Shell one ally.
+- skills.62.0 Mend II
+- skills.63.0 Restore a lot of HP to one ally.
+- skills.64.0 Renewal
+- skills.65.0 Heal and Regen the party.
+- skills.66.0 Second Dawn
+- skills.67.0 Revive all fallen allies at 50% and heal the rest.
+- skills.68.0 Ember
+- skills.69.0 Fire damage.
+- skills.70.0 Frost
+- skills.71.0 Ice damage.
+- skills.72.0 Spark
+- skills.73.0 Lightning damage.
+- skills.74.0 Flame Wave
+- skills.75.0 Fire on all foes.
+- skills.76.0 Blizzard
+- skills.77.0 Ice on all foes.
+- skills.78.0 Thunderstorm
+- skills.79.0 Lightning on all foes.
+- skills.80.0 Arcane Burst
+- skills.81.0 Raw, unaligned force.
+- skills.82.0 Meteor
+- skills.83.0 Call down burning stars.
+- skills.84.0 Flurry
+- skills.85.0 Three rapid blows.
+- skills.86.0 Focus
+- skills.87.0 Recover 30% HP and shake off ailments.
+- skills.88.0 Palm Strike
+- skills.89.0 Strike through armor.
+- skills.90.0 Tremor
+- skills.91.0 Shake the ground under all foes.
+- skills.92.0 Hundred Fists
+- skills.93.0 Six blows at random foes.
+- skills.94.0 Dragon Fang
+- skills.95.0 The final form.
+- skills.96.0 Ballad of Valor
+- skills.97.0 Lullaby
+- skills.98.0 May put all foes to sleep.
+- skills.99.0 Hymn of Warding
+- skills.100.0 Party DEF and RES up.
+- skills.101.0 Tempo
+- skills.102.0 Party SPD up.
+- skills.103.0 Dirge
+- skills.104.0 All foes' STR and MAG down.
+- skills.105.0 Dawnsong
+- skills.106.0 The Keepers' hymn. Heal and Regen.
+- skills.107.0 Requiem
+- skills.108.0 Dark song that may silence.
+- skills.109.0 Anthem
+- skills.110.0 All party stats up.
+- skills.111.0 Holy Blade
+- skills.112.0 Light-forged strike.
+- skills.113.0 Lay on Hands
+- skills.114.0 Heal using both STR and MAG.
+- skills.115.0 Sanctuary
+- skills.116.0 Protect and Shell the party.
+- skills.117.0 Judgment
+- skills.118.0 Light on all foes.
+- skills.119.0 Radiant Charge
+- skills.120.0 A blazing charge.
+- skills.121.0 Dawnbreaker
+- skills.122.0 Split the dark; heals the party a little.
+- skills.123.0 Flame Edge
+- skills.124.0 Fire-runed strike.
+- skills.125.0 Frost Edge
+- skills.126.0 Ice-runed strike.
+- skills.127.0 Volt Edge
+- skills.128.0 Lightning-runed strike.
+- skills.129.0 Gale Edge
+- skills.130.0 Wind-runed strike.
+- skills.131.0 Prismatic Arc
+- skills.132.0 Four strikes of random elements.
+- skills.133.0 Shadow Edge
+- skills.134.0 Dark strike that drains life.
+- skills.135.0 Sevenfold Edge
+- skills.136.0 Seven strikes, every element.
+- skills.137.0 Silent Cut
+- skills.138.0 May silence.
+- skills.139.0 Mirage
+- skills.140.0 Dodge the next two attacks.
+- skills.141.0 Deathmark
+- skills.142.0 May inflict Doom.
+- skills.143.0 Shuriken Storm
+- skills.144.0 Blades on all foes.
+- skills.145.0 Nightfall
+- skills.146.0 Dark on all foes; may blind.
+- skills.147.0 Thousand Cuts
+- skills.148.0 Eight cuts across the field.
+- skills.149.0 Gust
+- skills.150.0 Wind damage.

@@ -1,0 +1,77 @@
+# equipment p3
+- equipment.302.0 Gull Feather
+- equipment.303.0 Immune to Poison.
+- equipment.304.0 Sun Goggles
+- equipment.305.0 Immune to Blind.
+- equipment.306.0 Bell Earring
+- equipment.307.0 Immune to Silence.
+- equipment.308.0 Rooster Charm
+- equipment.309.0 Immune to Sleep.
+- equipment.310.0 Star Pendant
+- equipment.311.0 Immune to Doom.
+- equipment.312.0 Ribbon
+- equipment.313.0 Immune to all ailments.
+- equipment.314.0 Ember Ring
+- equipment.315.0 Halves fire damage.
+- equipment.316.0 Frost Ring
+- equipment.317.0 Halves ice damage.
+- equipment.318.0 Storm Ring
+- equipment.319.0 Halves lightning damage.
+- equipment.320.0 Dusk Ring
+- equipment.321.0 Halves dark damage.
+- equipment.322.0 Lucky Coin
+- equipment.323.0 LCK +15, gold +20%.
+- equipment.324.0 Hunter's Eye
+- equipment.325.0 Critical rate +12%.
+- equipment.326.0 Feather Cape
+- equipment.327.0 Evasion +10%.
+- equipment.328.0 Quiet Bell
+- equipment.329.0 Halves random encounters.
+- equipment.330.0 Lure Bell
+- equipment.331.0 Doubles random encounters.
+- equipment.332.0 Scholar's Monocle
+- equipment.333.0 EXP +30%.
+- equipment.334.0 Crest Brooch
+- equipment.335.0 CP +50%.
+- equipment.336.0 Thief's Glove
+- equipment.337.0 Steal and drop rates up.
+- equipment.338.0 Ember Heart
+- equipment.339.0 Afterglow gain +30%.
+- equipment.340.0 Mossy Bangle
+- equipment.341.0 Start battles with Regen.
+- equipment.342.0 Quicksilver Anklet
+- equipment.343.0 Start battles with Haste.
+- equipment.344.0 Phoenix Charm
+- equipment.345.0 Start battles with Reraise.
+- equipment.346.0 Breaker's Gem
+- equipment.347.0 Damage can exceed 9,999.
+- equipment.348.0 Champion's Belt
+- equipment.349.0 STR +25, DEF +25.
+- equipment.350.0 Archmage Ring
+- equipment.351.0 MAG +25, RES +25.
+- equipment.352.0 Ysolde's Locket
+- equipment.353.0 HP/MP +15%. A tiny painting of three people inside.
+- equipment.354.0 Edrin's Blade
+- equipment.355.0 Wren's father's sword, reforged. Ultimate.
+- equipment.356.0 Staff of Small Mercies
+- equipment.357.0 Ilse's ultimate. Every scratch matters.
+- equipment.358.0 Aldous's Oath
+- equipment.359.0 Bram's ultimate. Heavy as a promise.
+- equipment.360.0 Lysa's Ribbon
+- equipment.361.0 Sable's ultimate. She chose to keep it.
+- equipment.362.0 Pip's Lucky Shiv
+- equipment.363.0 Pip's ultimate. Stolen from the best.
+- equipment.364.0 Halcyon Star
+- equipment.365.0 Corvin's ultimate. Named for the ship. And someone else.
+- equipment.366.0 Sword
+- equipment.367.0 Greatsword
+- equipment.368.0 Spear
+- equipment.369.0 Axe
+- equipment.370.0 Dagger
+- equipment.371.0 Bow
+- equipment.372.0 Staff
+- equipment.373.0 Rod
+- equipment.374.0 Knuckles
+- equipment.375.0 Instrument
+- equipment.376.0 Tome
+- equipment.377.0 Gun
