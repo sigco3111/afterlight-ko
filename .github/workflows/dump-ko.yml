@@ -1,0 +1,108 @@
+name: dump-ko
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "dump or clean"
+        required: false
+        default: dump
+permissions:
+  contents: write
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: extract
+        if: ${{ inputs.mode != 'clean' }}
+        run: |
+          node - <<'EOF'
+          const fs=require('fs'),path=require('path');
+          const dict={};
+          for(const f of fs.readdirSync('i18n/parts').filter(f=>f.endsWith('.json')).sort()){
+            Object.assign(dict,JSON.parse(fs.readFileSync(path.join('i18n/parts',f),'utf8')));
+          }
+          const CALLS=/s\.([A-Za-z]+)\s*\(/g;
+          const counts={};
+          function collect(code){
+            const found=[]; let i=0;
+            while(i<code.length){
+              const c=code[i];
+              if(c==="'"||c==='"'||c==='`'){
+                let s=''; i++;
+                while(i<code.length&&code[i]!==c){
+                  if(code[i]==='\\'){ const n=code[i+1];
+                    s+= n==='n'?'\n': n==='t'?'\t': n;
+                    i+=2; continue;}
+                  s+=code[i]; i++;
+                }
+                i++; found.push(s); continue;
+              }
+              i++;
+            }
+            return found;
+          }
+          function regionEnd(code,start){
+            let d=0,i=start;
+            while(i<code.length){
+              const c=code[i];
+              if(c==="'"||c==='"'||c==='`'){
+                const q=c; i++;
+                while(i<code.length&&code[i]!==q){ if(code[i]==='\\') i++; i++; }
+                i++; continue;
+              }
+              if(c==='(') d++;
+              else if(c===')'){ d--; if(d===0) return i; }
+              i++;
+            }
+            return code.length;
+          }
+          const WANT=new Set(['say','narrate','objective','journal','think','sayParty','narrateParty']);
+          function extract(code){
+            const res=[]; let m; CALLS.lastIndex=0;
+            while((m=CALLS.exec(code))){
+              const name=m[1];
+              counts[name]=(counts[name]||0)+1;
+              if(!WANT.has(name)) continue;
+              const open=m.index+m[0].length-1;
+              const end=regionEnd(code,open);
+              for(const s of collect(code.slice(open+1,end))) res.push(s);
+            }
+            return res;
+          }
+          const report=[]; const all={};
+          for(const ch of ['ch6','ch7']){
+            const code=fs.readFileSync('src/story/'+ch+'.js','utf8');
+            const list=extract(code);
+            const seen=new Set(); const missing=[];
+            for(const s0 of list){
+              const s=s0.trim();
+              if(!s) continue;
+              if(seen.has(s)) continue; seen.add(s);
+              if(/^[a-z][a-z0-9_]*$/.test(s)) continue;
+              if(dict[s]!==undefined) continue;
+              missing.push(s);
+            }
+            all[ch]=missing;
+            report.push(ch+': raw='+list.length+' unique='+seen.size+' missing='+missing.length);
+          }
+          fs.mkdirSync('dump',{recursive:true});
+          fs.writeFileSync('dump/stats.txt',report.join('\n')+'\n\ncalls: '+JSON.stringify(counts)+'\n');
+          for(const ch of ['ch6','ch7']) fs.writeFileSync('dump/'+ch+'.json',JSON.stringify(all[ch],null,1));
+          console.log(report.join('\n'));
+          EOF
+          split -b 12000 -d -a 2 dump/ch6.json dump/d6.
+          split -b 12000 -d -a 2 dump/ch7.json dump/d7.
+          ls -l dump
+      - name: push branch
+        if: ${{ inputs.mode != 'clean' }}
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git checkout -b tmpdump
+          git add -A dump
+          git commit -m "dump: ch6-7 strings (temp branch)"
+          git push -f origin tmpdump
+      - name: delete branch
+        if: ${{ inputs.mode == 'clean' }}
+        run: git push origin --delete tmpdump || true
