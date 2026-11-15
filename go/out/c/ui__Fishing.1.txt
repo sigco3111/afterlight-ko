@@ -1,0 +1,6 @@
+1	.fs-msg
+2	.fs-zone
+3	.fs-mark
+4	.fs-pips
+5	 (New!)
+6	A bite! <b>Reel it in!</b>

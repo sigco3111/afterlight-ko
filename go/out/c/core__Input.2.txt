@@ -1,0 +1,6 @@
+21	MetaRight
+22	ContextMenu
+23	Esc
+24	Caps
+25	PgUp
+26	PgDn

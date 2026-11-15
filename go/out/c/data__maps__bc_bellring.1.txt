@@ -1,0 +1,13 @@
+1	Cups
+2	Prizes
+3	I've seen Valka fight forty-one times.
+4	I've lost money forty-one times. I keep betting against her. It's a principle now.
+5	When the bell rings, the whole city stops. Even the Cathedral bells wait for ours.
+6	Don't tell the Choir I said that.
+7	The Iron Bull was cast from a cracked bell. If you hit it right, it still rings.
+8	Nobody has hit it right.
+9	Kell the Net and Kell the Fist are brothers. Kell the Third sells the pies.
+10	The pies are the most dangerous thing here.
+11	Between rounds we give you back a quarter of your strength. Any more and Mr. Brass says it isn't sport.
+12	Lose a cup and we patch everything. Free. It's the only free thing in Aurenne.
+13	@world

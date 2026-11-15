@@ -1,0 +1,20 @@
+21	a,,ooooo,ooooo,oo,oo,ooooo,ooooo,ooooo,oo,,a
+22	a,,oo,,,,,,,oo,oo,oo,,,,oo,,,,,,,oo,ooooo,,a
+23	a,,oooooooo,ooooo,ooooo,ooooooooooo,ooooo,,a
+24	a,,,,,,,,,,,,,,,,,,,,oo,,,,,,,,,,,,,,,,,,,,a
+25	 b      b bb  B  Bbb    b   bbB bB  b  BB b 
+26	  b b   bbBb   bb          b bbb   bB b bbb 
+27	 Bb f    f    f   L     $ L  g  B     f fb  
+28	 BB  f     b                 f g         b  
+29	 bb   g Bb b  b b           b   b  b      B 
+30	 bbf b                    b              B  
+31	 bB  B       g                  b       gb  
+32	      bBb  b  b  b  b    b b    b   b bf  b 
+33	     B     b    g   b        b  B     bg    
+34	     B g   b   f b          gb g      b   b 
+35	 bb     bg      b     b         b   bb    B 
+36	  Bg b   b    bbB   ff    fBb bB     g   Bb 
+37	 Bb f             tg  g g g        b   g bb 
+38	 Bb g bbb  b b  b   fg  f gB       bBBb     
+39	 b         B  g    f  f  tf  B     b        
+40	 b bbb   bB   Bb      g f f     b b  Bbbbb  

@@ -1,0 +1,7 @@
+1	<div class="dim">None</div>
+2	.dim
+3	}</span>
+4	}</div>
+5	<div class="dim">No side quests yet.</div>
+6	Explore.
+7	<p class="dim">Nothing yet.</p>

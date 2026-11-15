@@ -1,0 +1,14 @@
+1	qqSSdddddddddddddddd;;;;;dddddddddddddddSSqq
+2	qqSSddddddddddddddddd;;;ddddddddddddddddSSqq
+3	qqSSddddddddddddddddd;;;ddddddddmmmmmmmdSSqq
+4	qqSSddddddddddd;;;;;;;;;;;;;;dddmmmmmmmdSSqq
+5	qqSSddddddddddd;;;;;;;;;;;;;;dddddddddddSSqq
+6	qqSSSSSSSSSSSSSSSSS;;;;;;SSSSSSSSSSSSSSSSSqq
+7	qqmmmmmmmmmmmmmmmmm======mmmmmmmmmmmmmmmmmqq
+8	                               FFFFFFFFF    
+9	        x ox          W        F       F    
+10	      CC        S              F x     F    
+11	            d                  FFFFFFFFF    
+12	                                DD g        
+13	              o           D    g       RD D 
+14	g D g         o gD             R   o       D

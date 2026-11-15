@@ -1,0 +1,20 @@
+41	Ash Shade
+42	Ash that remembers being a person.
+43	Belfry Bat
+44	They hang right-way-up now, which is to say, upside-down.
+45	Choir Shade
+46	Still singing the wedding hymn. Still a little flat.
+47	Clapper Golem
+48	A bell-clapper that grew arms. It strikes on the hour.
+49	Hymn Wisp
+50	A note that refused to end.
+51	Thorn Maw
+52	A white flower that bites the hand that waters it.
+53	Memory Moth
+54	It eats the last words before they can be said.
+55	Petal Wraith
+56	Someone who did not get to say goodbye.
+57	Mourning Oak
+58	Planted over a grave a century ago. It grieves slowly.
+59	Bristleback
+60	Bounty. Ate a cart. The cart was occupied.

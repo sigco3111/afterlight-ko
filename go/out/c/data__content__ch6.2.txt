@@ -1,0 +1,20 @@
+21	Ash Wraith
+22	Ash that remembers being a person. It drifts toward warmth, and does not understand why the warm things scream.
+23	Cinder Moth
+24	Born in the embers that rained down after the sun broke. It is always flying toward the nearest fire, including yours.
+25	Gloam Hound
+26	The Gloam came up through the cracks in the world, and some of it came up hungry, and shaped like dogs.
+27	Hollow Sailor
+28	Still at its post on a ship that has no sea. It will defend the deck until the end of the world. Which is a problem, now.
+29	Shard Golem
+30	When the sea fell upward it left glass behind — miles of it — and some of the glass got up and walked.
+31	Glasscrawler
+32	It spins its webs between floating islands. Nobody knows what it catches up there. Nobody wants to.
+33	Skybrine Eel
+34	A sea eel, swimming through the air as if it never noticed the water leave. Perhaps it hasn't.
+35	Sun-Ember Wisp
+36	A fleck of the broken sun, still burning a year later. It is warm. Nothing else in the world is warm anymore.
+37	Abyss Eye
+38	The abyss under the islands is not empty. Sometimes it looks up.
+39	Wreck Mimic
+40	A sea-chest from some drowned rich man's cabin. It has learned that people will walk straight up to a sea-chest.

@@ -1,0 +1,20 @@
+1	Search
+2	Valve
+3	Examine
+4	The brickwork here bulges outward, cracked and sweating. There is a hollow sound behind it.
+5	Bram. Would you?
+6	With _pleasure._
+7	I have been wanting to hit something that didn't hit back for _days._
+8	Scratched into the brick in chalk, at about the height of an eleven-year-old: PIP WAS ERE.
+9	...That's from last year. I was _exploring._
+10	A child's shoe, much too small for anyone who should be down here. The laces are still tied — in a double knot.
+11	That's Wick's. He does double knots because he can't do bows. I keep telling him. I keep _telling_ him.
+12	A gray hooded lantern, dropped and cracked. The Sisters of Small Mercies carry ones just like it.
+13	A sheet of music, soaked through. The notes run from right to left.
+14	Sable reads it, and hums. The hum makes your back teeth ache.
+15	It is the Dawnsong. Backwards.
+16	Memorial
+17	The names are worn almost smooth. Under every one, the same date: THE LONG NIGHT.
+18	A family tomb: a mother, a father, and four small names in a row. Someone has left a wooden toy horse on it. It is very old.
+19	Tucked under a guttered candle on the last tomb: a loose, water-stained page.
+20	"...the Keeper, Aldric Lorne, was in the lamp-room when the light failed. He might have gone down to the square, where his daughter {dim|████} was. He chose the Lantern. The city lived."

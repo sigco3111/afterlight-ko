@@ -1,0 +1,20 @@
+1	,,,,,,,,,,..........oo:::o..........,,,,,,,,,,
+2	,,,,,"",,..........oooooooo.........,,,,,,,,,,
+3	,,,,"""",,.........oooooooo.........,,,,,,,,,,
+4	,,,"""""",........::oooooo..........,,""",,,,,
+5	,,,"""""",,......:::.oooo..........,,,"""",,,,
+6	wwwwwwwwwwwwwwwww==,,,,,,,,,,,,,,,wwwwwwwwwwww
+7	wwwwwwwwwwwwwwwww==wwwwwwwwwwwwwwwwwwwwwwwwwww
+8	,,,,,,,,,,,,,,,,,==wwwwwwwwwwwwwwww,,,,,,,,,,,
+9	TTbPPT  bT    bPT  b      T T   T PPT P   TbPb
+10	TbP  T b   T    TT        TTT  T  T   TTT T TT
+11	 PT bTT    TT TPP   T        PT TT  TPT   P   
+12	bbTbb  T P P PT T         T   TPT T  P TPT  TT
+13	PTTTbTT T bT   bTTT       T b         PP P  Tb
+14	T  T   PT P TPTT TP s               T    b b T
+15	bb T       T   P  Tb      P          TbP bTTT 
+16	  TT PTTb TT   TP                    PP  T bPT
+17	b TTT   TT P     T T      T TT T T  TT  bb TP 
+18	   P    f  TT   m         B       f      Pb   
+19	b  bP      B              g               Pb  
+20	   bP                                     bP b

@@ -1,0 +1,19 @@
+1	CCC           _______cccccccc  CCC
+2	CCC  ccccccccc       cccccccc  CCC
+3	CCC  ccccccccc=======cccccccc  CCC
+4	CCC  __              cccccccc  CCC
+5	CCC  __                        CCC
+6	CCC  __                   ccc  CCC
+7	CCC  __        ccccc      ccc  CCC
+8	CCC  cccccccccccccccccccccccc  CCC
+9	CCC            ccccc           CCC
+10	CCCCCCCCCCCCccCccccccccCCcccCCCCCC
+11	CCCCCCcCCCCccccccccccccccccccCCCCC
+12	CCCCCccccccccccccccccccccccccCCCCC
+13	CCCCCcccwwwwccccccccccccccccCCCCCC
+14	CCCCCcccwwwwccccccccccwwwwcCCCCCCC
+15	CCCCCcccccccccccccccccwwwwcCCCCCCC
+16	CCCCCcccccccccccccccccccccccCCCCCC
+17	CCCCCCcCCCccccccccccccccccccCCCCCC
+18	CCCCCCCCCCCCCCCCcccCCCCCCCcCCCCCCC
+19	CCCCCCCCCCCCCCCCcccCCCCCCCCCCCCCCC

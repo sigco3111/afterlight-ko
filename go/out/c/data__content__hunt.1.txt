@@ -1,0 +1,20 @@
+1	Thackery's Compendium
+2	Greer Thackery's spare copy of her book of creatures. It fills in as you fight: open the Compendium from the menu.
+3	Hunter's Charm
+4	Critical rate +5%. Foes drop items 25% more often. A tracker's first token from the Collegium.
+5	Stalker's Cloak
+6	Evasion +6%. EXP +10%. It smells of every forest you have lain in, waiting.
+7	Huntmaster's Horn
+8	You strike first more often. Critical rate +10%. Drops +50%. Greer's own, given to the only hunters who finished her Ledger.
+9	Gore
+10	Trample
+11	Silk Shroud
+12	Venom Fang
+13	Plague Breath
+14	Devour
+15	Glass Gaze
+16	Shed Skin
+17	Bog Croak
+18	Belly Flop
+19	Hymn of Hush
+20	Scrap Barrage

@@ -1,0 +1,14 @@
+1	Satchel
+2	Nest
+3	A rope bridge that used to go straight down to the lower shelf. The ropes have been cut — cleanly. Someone did not want company.
+4	A kite-tail snagged on the rocks, faded almost white. Somebody's, once.
+5	The split prow of a Choir galleon, driven into the rock like a nail. Gilt letters on the hull, half burned away: _VIGIL_.
+6	Wick is asleep, smiling. "...five more minutes..."
+7	Moth is asleep. Her lips move: "...so many candles..."
+8	A child from another shard. You don't know her name. In her sleep she is holding a hand that isn't there.
+9	Desk
+10	Brig door
+11	A breach in the hull. Through it: the underside of the world, and wind, and a long way down.
+12	The captain's shelf. Hymnals, a logbook, and a child's drawing of the sun, pinned up carefully. The sun has a face. It is smiling. It is not moving.
+13	Gloam crystals grown through the deck like teeth. They hum in the same key as the lullaby.
+14	The lullaby swells, sweet and endless, from the bow. Somewhere in this ship, children are sleeping. Find them first.

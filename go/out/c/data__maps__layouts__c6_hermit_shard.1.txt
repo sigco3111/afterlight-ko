@@ -1,0 +1,15 @@
+1	    q qqqqqq,qqq,qq,qqqqqqqqq         
+2	    qqqqqqqq,,,,,,,,qqqqqqqqqq        
+3	   qqqqqqq,,,,,,,,,,,,,qqqqqqqq       
+4	   qqqqdddd,,,:,,,,,,,,qqqqqqqq       
+5	   qqqqdddd,,,:,,,,,,,,::qqqqq        
+6	   qqqqdddd,,::,,,,,,,,::qqqq         
+7	   qqqqq,,,,,::::::::::,,qqqq=========
+8	  qqqqq,,,:::::,,,,,,,,::::::=========
+9	   qqqqq::,,,::,,,ddddddqqqq q        
+10	   qqqq:q,,,,::,,,ddddddqqqq          
+11	   q qq:qq,,,::,,,ddddddqqq           
+12	      :qqqaaa::aaaddddddqq            
+13	      FFFFFf      @       t t         
+14	       Bbf      f                     
+15	             o  %x ox                 

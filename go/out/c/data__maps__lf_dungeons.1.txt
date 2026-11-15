@@ -1,0 +1,8 @@
+1	The Lamp
+2	The great lamp of Lanternfall. Inside the glass, something like a small sun sleeps in a bed of brass.
+3	The Dawnstone. Warm as a hand.
+4	Empty. Mom and the Hierophant must be up in the lamp room. She said home — and I'm asleep on my feet. Bed first.
+5	It smells like _adventure_.
+6	Tip — Monsters roam the caves, and HP doesn't recover between battles. Use *Tonics* from the menu, and rest at the golden *Hearthstone* deeper in. If a fight turns against you, *Flee* (each try is likelier to work). Entering a new area autosaves.
+7	A violet crystal, half-sunk in the rock. It is cold enough to hurt. You get the feeling it is listening.
+8	Keep your weight low. She bucks in a swell.

@@ -1,0 +1,4 @@
+1	 : delta < 0 ? 
+2	 : '=') : '—'}</span></div>
+3	</div>
+4	.sh-mem

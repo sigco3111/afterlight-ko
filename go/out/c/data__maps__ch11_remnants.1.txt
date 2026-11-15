@@ -1,0 +1,20 @@
+1	Bell
+2	Glass wall
+3	A wall of glass has grown across the bridge, clear as still water and hard as a vow. Something in the garden below must open it.
+4	A nomad's water barrel. On the lid, a tally scratched with a knife: one notch for every day. The notches stop on the day the sun broke. Beside them, in a child's hand: STILL HERE. STILL HERE. STILL HERE. Then nothing.
+5	A caravan tent, its poles fused into the glass. Inside, a bedroll, a cold teapot and a child's sandal. Whoever lived here packed in a hurry and left the important things.
+6	A Choir pilgrim, still in her traveling sandals, facing the Lantern. She came all this way to hear the Dawnsong one last time.
+7	Brazier
+8	Ice
+9	A wall of blue ice seals the stair. Deep inside it, the shadow of a monk's hand, pressed flat, as if he had tried to hold the avalanche back.
+10	More ice. Above it, very faintly, a voice reciting the same short prayer over and over.
+11	A cairn of stones. On the top stone, in charcoal that the snow has somehow never touched: HALVARD. A monk's prayer-cord is wrapped around it. Someone came back for him.
+12	Through a cracked shutter: a monk's cell. A cot, a candle stub, and a table covered in drawings of a tuning fork, each with a single note crossed out.
+13	The refectory. Forty bowls set out on a long table, forty spoons beside them. The soup froze a year ago. No one sat down.
+14	The monastery bell lies split in the snow. It rang the hours on this mountain for six hundred years. Then it rang the avalanche.
+15	The village well. A bucket on a rope. The water at the bottom is perfectly clear: the only clean water in Mirefen. Osk kept it that way to the end.
+16	Through the window of the stilt-house: rows of cots, each one neatly made, each one empty. A chalkboard: NAME / HOUR / MEDICINE, filled in until the chalk ran out, then filled in with charcoal, then with a burnt stick.
+17	A child's wooden boat on the windowsill, carved with more love than skill. Painted on the side: FOR MOTHER OSK, WHO MADE ME BETTER.
+18	Osk's hut. Herbs hang from every beam. On the door, a list of names in her neat hand, each one crossed out, gently, with a single line.
+19	Shrine
+20	Thorns

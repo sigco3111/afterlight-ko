@@ -1,0 +1,20 @@
+1	Restores 1,200 HP and 60 MP to the party. Nana Brisa's brew for the night before every hard thing.
+2	Ysolde's Bread
+3	Restores 800 HP. Dense, a little burnt. Not as good as Nana's.
+4	Duskwater Jelly
+5	The tide pools of Lanternfall started glowing at night a week ago. This is why.
+6	Gloamshell Crab
+7	Its shell has gone the color of a bruise, and it rings like crystal when struck.
+8	Drowned Fisher
+9	Lanternfall has given men to the sea for four hundred years. The tide caves remember every one of them.
+10	Tide Wraith
+11	A cold shape that drifts above the pools, humming a lullaby nobody has sung in a hundred years.
+12	Gloam Eel
+13	The eels Ilse once complained about, changed. It is hard to say they are worse. They are certainly purpler.
+14	Shardwing Bat
+15	Its wings have grown crystal edges. It sounds like wind chimes when it dives at you.
+16	Lord-Commander Thorne's own guard. They do not ask why. That is why he chose them.
+17	Sunderhound
+18	The first things to come through after the sky broke. Dogs made of dusk, with embers where their eyes should be.
+19	Falling Ember
+20	A fleck of the broken sun. It burns because it does not know how to do anything else.

@@ -1,0 +1,7 @@
+1	  oooooo   #qqqqq+===========+qqq###          
+2	  ooooo==============+++++===+qqq######       
+3	          qqqqqqq+===========+#oooooooooo#    
+4	          qqqqqqq+===========+qq#ooooo#       
+5	                  ^    |    ^      CC         
+6	                          d     RD            
+7	                  Rd        R  D              

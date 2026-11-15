@@ -1,0 +1,20 @@
+21	,,,,,,,oooo,,,,,,,,,,,ooo,,,,,,,,,,,,,,,,,,,,,,,,,
+22	,,,,,,,oooo,,,,,,,,,,,oooo,,,,,,,,,,,,,,,,,,,,,,,,
+23	,,,,,,,,oooo,,,,,,,,,,,ooo,,,,,,,,,,,,,,,,,,,,,,,,
+24	,,,,,,,,,ooo,,,,,,,,,,oooo,,,,,,,,,,,,,ooo,,,,,,,,
+25	,,,,,,,,,ooooooooo,,,,ooo,,,,,,,,,,,,,oooo,,,,,,,,
+26	,,,,,,,,,,,ooooooooo,,,,,,,,oooo,,,,,oooo,,,,,,,,,
+27	,,,,,,,,,,,oooooooooo,,,,,,oooooooooooo,,,,,,,,,,,
+28	,,,,,,,,,,,,,,,ooooo,,,,,,,,ooooooooooo,,,,,,,,,,,
+29	,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oo,oooooo,,,,,,,,,,,,
+30	 T  PbZ T   b G Z P TG        Tb   T      T TTG  b
+31	 g ZT bTTZ   PT TPbZ         gbZZTZ T  b   bPmb Zb
+32	  ZTTTbTG T    bf  TbT      bZPZP  P  TPPbZT  bZPP
+33	TZTZZ T T  gbTZTPT           TT  Tf   TbP PbT    T
+34	  b      Pb T P  T            bTTf  T Z         TP
+35	GT T     bGT bPPT               TT   f  b  Z   mTT
+36	P Z    ZZ bbbZTZT    ^     ^  gG  TTb TfbZT    T  
+37	PPZgg  P fTT P  P             PgGZ Tb b  m    PT  
+38	PbT    bP P P  T Tb  g          Z ZZ P        Tm  
+39	T b f b  G   TZ bm TbT      Z Z TbZT Z g        PT
+40	 Z TZ  T P  ZZT   ZPT      f TZb P bGTG m    g T T

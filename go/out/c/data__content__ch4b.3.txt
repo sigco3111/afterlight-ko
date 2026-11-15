@@ -1,0 +1,20 @@
+41	The ferrymen call it "the log that moves." They do not call it anything to its face.
+42	Rot Polyp
+43	A bud of Mawmire. It wants to grow up to be just like its mother.
+44	Mawmire
+45	Where the Lantern's light used to touch the water, something grew in the dark to fill the space. It is mostly mouth.
+46	Dawnguard Trooper
+47	The Dawnguard swore to guard the light. These ones are guarding the Lord-Commander's temper.
+48	Dawnguard Crossbow
+49	Trained to hit a sparrow at sixty paces. Has never once been asked why.
+50	Briarling
+51	The Thornwood's youngest guardians. They have forgotten what they were guarding.
+52	Mossback Boar
+53	So old that moss grows on it. So angry that nothing else does.
+54	Lost Lantern
+55	A spark of the Thornwood's Lantern, left behind when its stone was taken. It is looking for the way home.
+56	Bark Mantis
+57	It prays. You do not want to know to what.
+58	Gloam Moth
+59	Drawn to light. There is none left in the Thornwood, so it has started making do with you.
+60	Thornweaver

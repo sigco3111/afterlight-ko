@@ -1,0 +1,2 @@
+1	<div class="dim">Choose a slot.</div>
+2	<span class="dim">— Remove —</span>

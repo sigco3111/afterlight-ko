@@ -1,0 +1,20 @@
+1	           aaaaaa..ooo.aaaaaa           
+2	         aaaa......ooo...aa.aaa         
+3	    RRRRRRRRRRRRRRRoooRRRRRRRRRRRRRRR   
+4	    Raa.a..........ooo..........aaa R   
+5	   aRaa,,,,,,,,,,..ooo..,,,,,,,,,,aaR   
+6	   aRa.,,,,,,,,,,..ooo..,,,,,,,,,,.aR   
+7	  aaR..,,,,,,,,,,..ooo..,,,,,,,,,,..Ra  
+8	   aR..,,,,,,,,,,..ooo..,,,,,,,,,,..Ra  
+9	  a.R..,,,,,,,,,,..ooo..,,,,,,,,,,..Raaa
+10	aaa.R..,,,,,,,,,,..ooo..,,,,,,,,,,..R.  
+11	 a..R..............ooo..............R.a 
+12	 a..Roooooooooooooooooooooooooooooo.R.a 
+13	 .a.Roooooooooooooooooooooooooooooo.R.aa
+14	aaa.R..............ooo..............R.. 
+15	 a..R..,,,,,,,,,,..ooo..,,,,,,......R. a
+16	 a..R..,,,,,,,,,,..ooo..,,,,,wwwwww.Raaa
+17	   aR..,,,,,,,,,,..ooo..,,,,,w~~~~w.Ra  
+18	   aR..,,,,,,,,,,..ooo..,,,,=w~~~~waR   
+19	   aRa.,,,,,,,,,,..ooo..,,,,,wwwwwwaR   
+20	    Raa,,,,,,,,,,..ooo..,,,,,,...aa R   

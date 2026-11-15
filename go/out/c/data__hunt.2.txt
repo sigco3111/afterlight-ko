@@ -1,0 +1,20 @@
+21	Old Belcher
+22	the Drownmere in the Mirefen
+23	In the Drownmere there's a toad as big as a cottage. The marsh-folk call him Old Belcher. He sings people to sleep, then sits on them.
+24	What looked like a mossy hillock in the bog opens two yellow eyes. It is a toad, as big as a cottage. Its throat swells like a bellows.
+25	Old Belcher deflates with one long, last croak that echoes across the whole mere.
+26	Cinderjaw
+27	the ash of the Drift
+28	Out on the Drift there's a drake that swims through the ash like a fish through water. Salvagers call it Cinderjaw. The ash catches fire wherever it surfaces.
+29	The ash heaves and something surfaces: a drake of black slag, embers glowing between its scales. Its jaws drip fire.
+30	Cinderjaw sinks back into the ash and does not surface again. The embers go gray.
+31	Hymnal
+32	the Drowned Choir under ruined Aurenne
+33	Under the ruins of Aurenne, where the Choir used to sing, an eel as long as a nave has learned the hymns. Those who hear it stop being able to speak.
+34	In the flooded choir loft, an eel as long as the nave coils between the pews. When it opens its mouth, it sings in a choirboy's voice.
+35	Hymnal's last note breaks off in the middle. The loft is silent for the first time in a year.
+36	The Scrap King
+37	the Boneyard below Corvin's Roost
+38	In the Boneyard under Corvin's Roost, the scrap has crowned itself a king: a golem that bolts drones together out of junk, then eats them to mend itself.
+39	A throne of wrecked engines, and on it a giant of scrap wearing a crown of bent rivets. Little drones buzz around it like flies. It stands up.
+40	The Scrap King comes apart bolt by bolt. The crown rolls to your feet. It's only a cog.

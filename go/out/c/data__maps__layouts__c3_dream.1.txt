@@ -1,0 +1,16 @@
+1	,,KKKKKKKKKKKKKKKKKKKKKK,,
+2	,,MMMMMMMMMMMMMMMMMMMMMM,,
+3	,,MMMMMMMxxxxxxxxxMMMMMM,,
+4	B                       KB
+5	 B           f          BK
+6	 K     f                KB
+7	B                       KK
+8	KK  ==              ==  BK
+9	BK  j               fj  BK
+10	KB           Q          KK
+11	BK  f L             L   K 
+12	BK                      BB
+13	BB                      BB
+14	K B g   fBf       gg  BB K
+15	KKBB    fg B    ff    f BB
+16	KB ff    B     f  B  f   B

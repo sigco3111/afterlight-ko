@@ -1,0 +1,20 @@
+1	                  MM MM                 
+2	             MMMMMMMMMMMMM              
+3	           MMMMMMXXXXXXMMMMM            
+4	           MMMMXXXXXXXXXXMMMMM          
+5	         MMMMMXXXXXXXXXXXXMMMM          
+6	          MMMMXXXXXXXXXXXXMMMM          
+7	          MMMMMXXXXXXXXXXMMMMM          
+8	           MMMMMMXXXXXXMMMMMM           
+9	             MMMMMMMMMMMMMM             
+10	     MM M          ===        ======    
+11	    MMMMMMM        ===      ==========  
+12	   MMMMMMMM        ===     ============ 
+13	  MMMMMMMMMM       ===     ============ 
+14	  MMMMMMMMMM       ===      =========== 
+15	    MMMMM==        ===      =========   
+16	     MMMM===       ===     ========     
+17	    MMMMMMM===            ===MMMMMMM    
+18	   MMMMMMMM==              ==MMMMMMMM   
+19	   MMMMMMMMMM              MMMMMMMMMM   
+20	    MMMMMMMM                MMMMMMMM    

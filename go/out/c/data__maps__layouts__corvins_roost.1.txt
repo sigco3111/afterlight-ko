@@ -1,0 +1,14 @@
+1	   dddddaaa::aaaaaaaaaa:::aaaaa:::############
+2	 ====dddddd::aaaaaaaaaa::aaaaaa::a############
+3	 ====ddddd::::aaaaaaaa:::aaa:::::a############
+4	   ::::::::::::::::aa:::a:::::::aaaaaaaaaaa###
+5	   ::::::::da::::::::::aa:::::::::::::::===###
+6	   dddddddddaaaaaa::::aaaaa:::::::::::::===###
+7	 ====dddddddaaaaaa:::aaaaaaaaaaaaaaaaaa====###
+8	 ====dddddddaaaaa:::aaaaaaaaaaaaaaaaaaaaaaa###
+9	   dddddddddaaaa:::aaaaaaaaaaaaaa#############
+10	                       OC     L               
+11	     OC  ^     ^d        L    ^     ^         
+12	        Ld         $    q          LD         
+13	           q                 oq    d d^   O   
+14	                 Rq         C                 

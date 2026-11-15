@@ -1,0 +1,20 @@
+1	The Sunward Atlas (1st Ed.)
+2	The same atlas Cassian gave you — new, here. On the flyleaf, in a boy's careful hand: "For Lysa, who wants to know where the sun goes."
+3	Tin Sun Token
+4	A cheap festival token, stamped with a sunburst. Someone has scratched "COME HOME SAFE — MUM" on the back.
+5	Festival Ribbon
+6	A length of gold ribbon from the haberdasher's stall. It has never frayed.
+7	Squire's Tin Badge
+8	STR/DEF +14. Immune to Stun and Slow. He said he had a spare. He didn't.
+9	Hierophant's Sunburst
+10	MAG/RES +22. Immune to Silence. Warm, still, from his hands.
+11	Broken Halo
+12	HP/MP +12%. Halves light and fire damage. A crown of a single afternoon.
+13	The Stopped Hand
+14	SPD +10, critical rate +15%. Immune to Slow, Stun and Doom. A clock hand that will never turn again.
+15	Hymn of Long Light
+16	Gentle Mercy
+17	The First Verse
+18	Solar Crown
+19	Zenith
+20	Tick

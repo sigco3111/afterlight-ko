@@ -1,0 +1,20 @@
+1	Sand Flea
+2	One is a nuisance. There is never one.
+3	Kelp Lasher
+4	Every spring the kelp beds wash up on Lanternfall's shore. This spring, some of the kelp walked.
+5	Glowcap
+6	Its glow soothes everything that lives in the caves, so they keep coming back. Put it out first.
+7	Lantern Angler
+8	Fishermen lost in the dark follow its light, thinking it is a boat. It is not a boat.
+9	Wold Alpha
+10	Wold wolves run in threes because the fourth is always watching. When it marks you, the others come.
+11	Harvest Spider
+12	It spins between the wheat rows and waits for the harvest. Lately it has stopped waiting.
+13	Thistle Sprite
+14	A thistledown seed that caught a little Gloam and a great many opinions. It hurries its friends along.
+15	Road Cutpurse
+16	Quick hands and quicker feet. Fell it before it runs and you get your purse back.
+17	Chimney Imp
+18	Aurenne lights a thousand hearths a night. Something has been nesting in the flues.
+19	Brass Weathercock
+20	It points wherever the wind is about to go. Then it goes there first.

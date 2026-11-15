@@ -1,0 +1,20 @@
+1	Lost Crest
+2	Ward supply's open, and for once it's got supplies. The Ward Mother's friends pay what it costs. That's the friend discount.
+3	Ward supply. Everything costs more than it's worth, because everything's worth more than it costs. Don't think about it too hard.
+4	Soup's got salt in it today. Real salt! Somebody's been generous with somebody.
+5	Eat, girl. You've the look of someone who forgets.
+6	Ash soup. Ash bread. Ash, if you're still hungry after.
+7	Don't make that face. It's warm, and warm is the only flavor that matters now.
+8	Did you HEAR it? It went BONNNG. Osric says he'll teach me to ring it when my arms are long enough.
+9	My arms are growing. I checked this morning.
+10	I'm playing bells. _Tonk. Tonk._ That's a tin can, but you have to pretend.
+11	Mum says the real bells were so loud you couldn't hear yourself think. I think a lot. I'd like a break.
+12	I was an acolyte. Third Choir, tenor. I wore white.
+13	I sang the Vespersong that night. Not in the Lantern — just in the nave, with three hundred others. We didn't know. We thought it was a hymn for a long summer.
+14	I burned my robes. People here know anyway. They let me carry water. I think that's worse than if they spat.
+15	I know exactly what he means.
+16	Dawnguard. Was. Garrick's lot went up to the Noon Spire with the Hierophant. The rest of us took off our tabards and learned to dig latrines.
+17	Kestrel? Bram Kestrel? The squire who froze at his trial? Ha — I knew him. Big lad. Good lad, for a coward.
+18	Heard he's swinging a sword for a scrap baron up at Kiteholm now. Heard he drinks. Can't say I blame him.
+19	Jory wants to go to Kiteholm. "There's wind up there," he says. "Wind means weather. Weather means maybe a morning."
+20	I told him there are no mornings anymore. He said that's what everybody said about the bells.

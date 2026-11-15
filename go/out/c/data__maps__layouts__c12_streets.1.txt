@@ -1,0 +1,16 @@
+1	KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+2	K;;;;;;;;;;;;;;;;MMMMMMMMMMMMMMMMMMM;;;;;;;;;;;;;;;K
+3	K;MMMMMMMMMMMMM;;MMMMMMMMMMMMMMMMMMM;;____________;K
+4	K;MMMMMMMMMMMMM;;;;;;;;;MMMMM;;;;;;;;;____________;K
+5	K;MMMMMMMMMMMMM;;;;;;;;;;;;;;;;;;;;;;;____________;K
+6	K;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;.........ww........;K
+7	K;;;;;;;;;;;;;;;;;;;;;;;;;;;::;......wwwwwwww.....;K
+8	K;;;;;;;;;;;;;;;;;;;;;;;;;;;::::.....wwwwwwww.....;K
+9	K;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::...wwwwwwww.....;K
+10	K;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::.wwwwwwww.....;K
+11	K;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..:::::..ww........;K
+12	            K                         FFF     FFF   
+13	        f                          KK               
+14	           |   =HH              B      K            
+15	                 fL               L                 
+16	The cathedral doors will not open while the procession stands in the way.

@@ -1,0 +1,6 @@
+1	 aqqqqqaaaaaaaaaaaaaaaaaaqqqqq======
+2	  qqqqqqaaaaaaaaaaaaaaaaaaqqqq======
+3	 aqqqqqaaaaaaaaaaaaaaaaaqqqqqq======
+4	        d         dx  R             
+5	     o    o     oH  R               
+6	                      OC   x        

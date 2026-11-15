@@ -1,0 +1,12 @@
+41	Grandmother Frost
+42	The monks of Frosthollow whisper about Grandmother Frost: a white shape on the pass that sings travelers to sleep in the snow, and the wolves come for them after.
+43	A shape of falling snow in the shape of an old woman, humming. Wolves of white frost sit around her, like grandchildren listening to a story.
+44	Grandmother Frost stops humming. The snow she was made of settles, softly, over nothing.
+45	Neverwake
+46	the Gloam Rift
+47	Deep in the Gloam Rift there's an eye that has never closed. Whoever it looks at falls asleep, and some of them never wake.
+48	An eye as tall as a door hangs in the dark of the Rift, unblinking. You feel very, very tired.
+49	Neverwake shuts. For the first time, perhaps ever, it sleeps.
+50	Tracker
+51	Stalker
+52	Huntmaster

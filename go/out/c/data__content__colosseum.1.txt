@@ -1,0 +1,20 @@
+1	Bellring Laurel
+2	STR +10, MAG +10, Afterglow gain +15%. Valka wore it for nine years. It still smells faintly of victory and oil.
+3	Sand Hound
+4	Bred under the east stand. They have only ever known sand, crowds and the bell, and they love all three.
+5	Kell the Net
+6	Throws a net, then apologizes. The older brother. Says the net does most of the work.
+7	Kell the Fist
+8	Does not throw a net. Does not apologize. The younger brother.
+9	Grizzlemaw
+10	A war-boar who has eaten three gates and, allegedly, a herald. The herald disputes this.
+11	Shipped from the Sunscar in padded crates marked FRAGILE. The crates were for the handlers.
+12	Bellring Squire
+13	Squires who failed the Dawnguard trials fight here instead. The crowd is kinder than the Lord-Commander.
+14	Sereno the Swift
+15	Fastest blade in the Heartland, slowest to pay his tab. He will steal your purse mid-bout and return it after, with a bow.
+16	The Iron Bull
+17	Cast in the bell foundries from a cracked bell and a bad idea. Hit it right and it still rings.
+18	Mire Lurker
+19	Dredged from the Fens at tremendous personal risk. Ottavio paid the dredgers in tickets.
+20	Mask of Dawn

@@ -1,0 +1,11 @@
+1	    KKKKKKKKKKKKKKKKKKKKKKKKKKKK    
+2	    KKKKKKKKKKKKMMMMKKKKKKKKMKKK    
+3	    MMMMMMMMMMMMMMMMMMMMMMMMM##     
+4	    MMMMMMMMMMMMMMMMMMMMMMMMMM#     
+5	ggggggggggglgggggggggggggglgggg# #  
+6	gggggggggggglgggggggggggggggggg#    
+7	 gggggggggggggggggggggggggggg##     
+8	       g####MMM######g#ggg#         
+9	     ggggggggggggggggggggglg##      
+10	     gggggggggllgggggggggggg#       
+11	          *            Ro           

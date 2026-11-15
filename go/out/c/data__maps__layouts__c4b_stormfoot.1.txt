@@ -1,0 +1,7 @@
+1	::::::::ddddqqqqqqqqqqqqqqdddddddd:::_____qqq#
+2	::::qqqqqqqqqqqqqqqqqqqqqqqddddddddddddddqqqq#
+3	:::qqqqqqqqqqqqqqqqqqqqqqqqqqddddddddqqqqqqqq#
+4	 R        R  RR         R      D D R  DR      
+5	  o        oR  O   |       |     R R   R      
+6	     oo            o        R D o             
+7	                              D           RR  

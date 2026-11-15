@@ -1,0 +1,20 @@
+1	Aunt Odessa says to give you the family discount. We don't have a family discount. She says to invent one.
+2	The Ledger Exchange. Everything's for sale, and everything's written down. Aunt Odessa's rule.
+3	Ferry
+4	I saw him shoot the line. From up here, I saw it.
+5	Tell him— no. Don't tell him anything. Just tell him Gemma says the paint's still ugly.
+6	He went up the plank? He actually went *up* it?
+7	I crewed the Halcyon six years. I left when he turned east. Maybe I'll come back when he turns around.
+8	I was his bosun, once. Best crew in the sky.
+9	When the sea went up, we had the engines hot and the kids' island in sight. He looked at it for a long time. Then he said "east."
+10	I got off at the first rock we came to. Haven't spoken to him since.
+11	Stormsilk. You brought back stormsilk.
+12	My Arlo flew a silk-rigger. Could I— no. No, it's for your ship. Just let me look at it a moment.
+13	...Thank you. It still smells of weather.
+14	I knit with sailcloth. It's all that falls out of the sky now — sails, and the people who were under them.
+15	My Arlo went up the morning the sun broke. I keep knitting him scarves. I've got eleven. He'll be ever so warm.
+16	The Noon Spire. Of course it was the Spire.
+17	I sang in the Choir for twenty years. There is nothing I want to say to the Hierophant that a hymn would carry.
+18	I was a Cantor of the Choir. I took off the robe the night the sun broke. Kept the hood. It's cold.
+19	Pilgrims still fly north, you know. To a white tower on the brightest shard. They say inside it is always the afternoon of a summer festival, and the dead are there, waiting.
+20	They say a great many things. The pilgrims don't come back to say otherwise.

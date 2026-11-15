@@ -1,0 +1,20 @@
+1	The Drowned Cantor
+2	A Tidecaller who sang the boats home for forty years, and went down with the last one. She still keeps the crest-glass. She still sings.
+3	The Bronze Abbot
+4	The bell the founders were made to melt down, poured instead into a guardian and walled up with their calling. It has been waiting to be rung.
+5	The Scrap Colossus
+6	The first Kitewrights built it to lift their workshop into the sky. It never flew. It has guarded what they left ever since, out of loyalty or spite.
+7	The Forgetting
+8	What the Choir set to guard the last Mnemonist's grave: an appetite for memory. It eats names first.
+9	The Drowned Cantor's hymn breaks over you like a wave!
+10	She hums the song mothers sang on the docks. Your eyes grow heavy...
+11	The Drowned Cantor draws a breath that sounds like the tide going out... Guard!
+12	BONG. The floor of the foundry jumps.
+13	The Abbot's bronze rings, and goes still and hard.
+14	The Bronze Abbot swings back, back, back on its yoke... Guard!
+15	The Colossus vents its whole boiler over you!
+16	Plates fall away. What is left of it moves faster.
+17	The Scrap Colossus whines higher and higher, steam screaming from every seam... Guard!
+18	The Forgetting opens, and every name you know goes quiet for a moment.
+19	Somewhere a clock forgets how to tick.
+20	The Forgetting turns toward you, and you cannot remember why you came... Guard!

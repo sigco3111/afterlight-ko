@@ -1,0 +1,20 @@
+1	Equip new gear from the menu (*C* / *Esc* → Equip). You are fighting alone now: there is no one to heal you or take a hit for you.
+2	Spar with Fennick?
+3	Ready
+4	Keep it.
+5	Throw it over the edge.
+6	What do you do with Cassian's gift?
+7	"...Lark."
+8	"Wren. Wren Halloway."
+9	Your name?
+10	Bounty: Glassback
+11	A golem of living glass has been wrecking the salvagers' quarry, west of the north spoke of the Shattered Sea. Defeat it and bring proof to Warden Hale.
+12	Bounty: The Lidless
+13	Something with too many eyes has made a perch north of the Last Hearth, past the strait bridge. Defeat it and bring proof to Warden Hale.
+14	Pell's Kite
+15	Pell wants to fly a message-kite with the names of the lost painted on it. He needs Choir silk — from the banners of the wrecked Gilded Psalm on the south spoke of the Shattered Sea.
+16	The Lost Wall
+17	Orla keeps a wall of letters for the missing in Keelhaven. Lost letters drift in the wreckage of the Drift and the Shattered Sea — bring any you find to her.
+18	Take the kite-post?
+19	Fly
+20	Turn the winch?

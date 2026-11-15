@@ -1,0 +1,11 @@
+41	 b   B                                   BB 
+42	 bBf B     b   b b B b    bg BBbb    bb     
+43	 BB  B     b        b  b      g       B   B 
+44	  b     b  bb B       f   b  b   b b B   b  
+45	 bB            f       f        b     b     
+46	  b fb  b b   B  b  B bb     BbBb  b     bb 
+47	 Bb                        f       B      b 
+48	 bB        b                         g   bb 
+49	 Bbb Bb  bbbb    b       bb b BbB     b     
+50	 bB  b b bbbbbBB b b    B bB bb b bbb   bB  
+51	  bb  B bbb bbbBb Bb     bbb  B  b   bBb b  

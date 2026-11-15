@@ -1,0 +1,20 @@
+61	Lanternjaw
+62	Bounty. Its lure is the last light many travelers saw.
+63	Gravelgut
+64	Bounty. A cairn that got hungry.
+65	Bounty. The toll is fingers.
+66	Mange
+67	Bounty. Still on patrol.
+68	Cinderwing
+69	Bounty. Flew through the broken sun.
+70	Glasshide
+71	Bounty. Saints in its back.
+72	Gravemouth
+73	Bounty. It speaks with the voices of the buried.
+74	Bounty. Still conducting.
+75	Bounty. Do not let her hold your hand.
+76	The Orrery Warden
+77	Built by the first Keepers to guard what they chose never to do.
+78	The Iron Duke
+79	The fort commander's ceremonial armor. Someone has to hold the stair.
+80	The Hollow Bell

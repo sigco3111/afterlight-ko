@@ -1,0 +1,12 @@
+1	            ss==ssss==ss            
+2	             ===ssss===             
+3	           ===         ==cccc       
+4	      sssss==        cccccccccc     
+5	    ssssss==s          c==ccc       
+6	      ssss===          ===          
+7	            ===ssssss===            
+8	            s==ssssss==s            
+9	             ssss==ssss             
+10	       o                VA          
+11	         *RxR          x*           
+12	     RV              % %            

@@ -1,0 +1,11 @@
+61	A man asleep under a thin blanket. A gray patch has crept up his neck like frost on a window. Gloam-rot.
+62	Bridge is down. Gods help you.
+63	If you see the Unmoored... don't look it in the eye. It looks back. It remembers things.
+64	Salvager, once. North spoke's the Chainyard — winch is on the old deck. South spoke's the Psalm — winch is in the deckhouse.
+65	Turn both and the strait bridge comes down. I'd do it myself, but I like being alive. It's a habit.
+66	Winch
+67	Hymnal
+68	Banner
+69	The Gilded Psalm's mainmast, snapped off at the deck. Gold leaf still clings to it. The Choir built its ships to be looked at.
+70	A chain-lock as big as a barrel, padlocked to the bridge. The chain runs away north, toward the Chainyard.
+71	A second chain-lock. This chain runs south, toward the wreck of the Psalm.

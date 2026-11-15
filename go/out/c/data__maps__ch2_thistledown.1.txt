@@ -1,0 +1,8 @@
+1	Forester
+2	Old Bethan's up the hill, past Tobble's beehives. Knock loudly. Then duck.
+3	...Bread, I suppose. Fair enough. Still.
+4	...You've been up to see the heretic, haven't you? I can tell. You have that look. That _awake_ look.
+5	Ride
+6	the Sleepy Thistle
+7	kd":
+8	Hedge

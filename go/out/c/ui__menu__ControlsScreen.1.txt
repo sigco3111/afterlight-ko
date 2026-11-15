@@ -1,0 +1,1 @@
+1	<span class="ctl-label">Reset to defaults</span>

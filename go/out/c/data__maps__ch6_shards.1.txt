@@ -1,0 +1,20 @@
+1	Lamp
+2	The cot you have slept in for a year. Someone has patched the blanket a dozen times, with whatever was to hand. One patch is a piece of a Dawnguard flag.
+3	A pot of soup, gently burning. It smells of ash-potato and, very faintly, of fish.
+4	Rock
+5	A cairn of stacked gray stones. Scratched on the flat stone at its foot: EDRIN HALLOWAY. HE'D WANT A BETTER STONE.
+6	A newer cairn. The stones are still sharp-edged. YSOLDE HALLOWAY. KEEPER. SHE HELD.
+7	A little fishing boat, upright on the ash, a long way from any water. Painted on the bow: THE SEAGULL. Fennick's boat. It rose with the sea, and came down here, with him.
+8	Fennick's garden. Ash-potatoes, a stubborn rosemary, and — tucked in a sheltered corner — one sprig of sea lavender, in a pot, carefully watered.
+9	A practice post, hacked half through. Fennick's been keeping his arm in. Or keeping busy.
+10	Not yet. Fennick wanted to show me something first.
+11	The village well, torn up roots and all. WREN + ILSE + THE SEA + PIP. Somebody has added, in the last year, very small: COME HOME.
+12	Look west
+13	Table
+14	Your bed, still made. Your mother made it the morning she wrote the letter. Nobody has slept in it since.
+15	Shelf
+16	The cutter's mast, snapped clean. A Dawnguard pennant still flutters from the stump, red and gold, very bright against the ash.
+17	Lost Crest
+18	Don't steal, don't fight, don't fall off. That's the whole law.
+19	Folk keep falling off. You'd think it'd be the easy one.
+20	Warden says you're going east. Alone.

@@ -1,0 +1,3 @@
+1	<div class="dim">Arts are learned from Crest ranks; mastered Crests teach two Mastery Arts more, at their first and third Ascension stars (★).</div>
+2	 (master the Crest first)
+3	color:${c.color}

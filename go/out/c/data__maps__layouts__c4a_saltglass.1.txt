@@ -1,0 +1,20 @@
+1	PPssss####ssssssssssssssssssssssssss##ssssssssPP
+2	PPsssss##sssssssss;;ggggggggg;;ssssddddddddddsPP
+3	PPssssssssssssssss;;;;;;;;;;;;;ssssddddddddddsPP
+4	PPsssssssssssssssssssss;;;ssssssssss:::sssssssPP
+5	PPsssssssssssssssssssss;;;ssssssssss::ssssssssPP
+6	PPsssssssssssssssssssss;;;sssssssss:::ssssssssPP
+7	PPssssss:::ssssssssssss;;;ssssssss:::sssssssssPP
+8	PPssssss:::::s;;;;;;;;;;;;;;;;;;;:::ssssssssssPP
+9	PPssssssss:::::;;;;;;;;;;;;;;;;;;::sssssssssssPP
+10	PPssssssssss:::;;;;;;gggggg;;;;;;;;sssssssssssPP
+11	PPssssssssssss;;;;;;gggggggg;;;;;;;sssssssssssPP
+12	::::::::::::::::;;;gggggggggg;;;;:::::::::ssssPP
+13	::::::::::::::::;;;;gggggggg;;;;;:::::::::ssssPP
+14	::ssssssssssss;;;;;;;gggggg;;;;;;;;ssss:::ssssPP
+15	PPssssssssssss;;;;;;;;;;;;;;;;;;;;;ssss:::ssssPP
+16	PPsssssssssssssssssssssssssssssssssssss:::ssssPP
+17	PPsssssssssssssssssssssssssssssssssssss:::::::::
+18	PPssssssssssssssssssssssssssssssssssssssssssss::
+19	PPssssssssssssssssssssssssssssssssssssssssssssPP
+20	    O b c    Y       Y Yc o                     

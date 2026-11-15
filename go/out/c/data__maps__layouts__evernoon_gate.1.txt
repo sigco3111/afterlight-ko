@@ -1,0 +1,17 @@
+1	  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
+2	   KKKKKKKKKKKKKKKKMMMKKKKKKKKKKKKKKK   
+3	           MMMMMMMMMMMMMMMMMMM          
+4	           MMMMMMMMMMMMMMMMMMM   MM     
+5	           MMMMMMMMMMMMMMMMMMM MMMMMM   
+6	           MMMMMMMMMMMMMMMMMM===MMMMM   
+7	               MMMMMMMMMM               
+8	 aaarrrrrr=======uuuu                   
+9	 aarrrrrrr=======rrr                    
+10	    aaaaa      uuuuuu=======aaaaaaaaaa  
+11	                uuuuu=======aaaaaaaaaa  
+12	           aaaaaauu===aaaaaaa           
+13	            aaaaaaa===aaaaaaa           
+14	             aaaaa=====aaaaa            
+15	               aaaa====a                
+16	  f           K          L     L K  KL  
+17	          R                   CO x      

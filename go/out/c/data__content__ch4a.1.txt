@@ -1,0 +1,20 @@
+1	Singing Saltglass
+2	Lift-glass from the Glass Caverns. It hums when you hold it to the sun — and when you hold it near the tuning forks.
+3	Halvard's Score
+4	The Dawnsong in Brother Halvard's cramped hand. One note is circled twice. Beside it: REFLECTION?
+5	Bell Stair Key
+6	An iron key, warm from Halvard's hand.
+7	Sand Blast
+8	Glare
+9	Siren Song
+10	Erupt
+11	Song of Breaking
+12	Avalanche
+13	Hold the Line
+14	Execution Sweep
+15	Thorne's Verdict
+16	Shield Wall
+17	Dune Scorpion
+18	The color of the dunes at noon. You find out it is there when it finds out you are.
+19	Wyrmling
+20	A sand wyrm hatchling: the length of a man and all appetite. Its mother is never far.

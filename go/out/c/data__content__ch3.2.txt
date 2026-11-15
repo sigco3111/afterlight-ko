@@ -1,0 +1,20 @@
+21	The Gloam pulls at the edges of you.
+22	Belfry Rook
+23	The rooks of St. Aurel's have heard the bells every hour of their lives. It has not improved their mood.
+24	Gutter Gargoyle
+25	Carved to spit rainwater off the roofs. Something down in the drains taught it to spit other things.
+26	Drain Crab
+27	Grew fat on what the city flushes away. Is not grateful.
+28	Bloat Leech
+29	It drinks until it is round, then keeps drinking out of habit.
+30	Tallow Moth
+31	Lives on the Choir's candle-ends. Its dust smells like a cathedral and puts you to sleep like a sermon.
+32	Charnel Hound
+33	All bone and appetite. It still wags, which is worse.
+34	Bone Archer
+35	Aurenne's old city watch. Still guarding the gate. The gate is gone.
+36	Votive Wisp
+37	A candle lit for the dead, forty years ago. Nobody blew it out.
+38	A Sister of Small Mercies. She sings the Dawnsong. Something is wrong with the way she sings it.
+39	Failed Vessel
+40	Mercy gave it a memory to hold. It dropped it.

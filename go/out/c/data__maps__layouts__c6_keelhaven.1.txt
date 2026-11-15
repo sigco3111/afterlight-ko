@@ -1,0 +1,11 @@
+1	    aaaaaa::qqqqqqqqq;;;;;;;;;;;q::qqqqqqaaaaaa   
+2	   aaaaaaa::qqqqqqqqq;;;;;;;;;;;q::qqqqqqaaaaaa   
+3	  aaaaaaaq::qqqqqqqqq;;;;;;;;;;;q::qqqqqqaaaaaaa  
+4	   aaaaqqq::qqqqqqqqq;;;;;;;;;;;q::qqqqqqqaaaaa   
+5	   aaaaaaq::qqqqqqqqq;;;;;;;;;;;q::qqqqqqqaaaaaa  
+6	  aaaaaaqqqqqqqqq;;;;;;;;;;qqqqqqqqqqqqqaaaaaaaaa 
+7	  aaaaaaaaqqqqqqq;;;;;;;;;;qqqqqqqqqqqqaaaaaaaa   
+8	   aaaaaaaaaqqqqq;;;;;;;;;;qqqqqqqqqqqqaaaaaaa    
+9	    aaaaaaaaqqqqq;;;;;;;;;;qqqqqqqqqqqaaaaaaaaaa  
+10	   qLs                        L             xL    
+11	   qL           R     $             !        L    

@@ -1,0 +1,20 @@
+1	Sand Dab
+2	Flat, patient, delicious.
+3	Gale Herring
+4	Silver as a coin, twice as common.
+5	Lanternfall Cod
+6	Tobias swears they swim toward the Lantern's light.
+7	Ghost Ray
+8	Pale and nearly see-through. Bad luck to eat, good luck to sell.
+9	Brinefang Fry
+10	A baby sea serpent. It bit you. You let it.
+11	Wold Trout
+12	Speckled like forest light.
+13	Bell Carp
+14	Aurenne's canal carp. They gather when the bells ring.
+15	Whisper Pike
+16	Fishermen say it hums lullabies under the ice.
+17	Glass Minnow
+18	You can see its heart beating.
+19	Sun Koi
+20	Gold scales that stay warm long after dark.

@@ -1,0 +1,20 @@
+1	,,,,,,,,,,,,,,,,:,,,,,,,,,oooooo,,:,,,,,,,,,,,,,,,,,
+2	,,,,,,,,,,,,,,,,:,,,,,,,,ooooooo,:,,,,,,,,,,,,,,,,,,
+3	,,,,,,,,,,,,,,,,:,,,,,,,oooooooo,,,,,,,,,,,,,,,,,,,,
+4	,,,,,,,,,,,,,,,,,,,,,,,,,,ooooooooo,,,,,,,,,,,,,,,,,
+5	:::::::::::::::::::::::::,ooooooooo,,,,,,,,,,,,,,,,,
+6	,,,,,,,,,,,,,,,,,,,,,,,,oooooooo,,,,,,,,,,,,,,,,,,,,
+7	,,,,,,,,,,,pppppp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8	,,,,,,,,,,pppppppp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9	T g T P TPT   T   P  TTTTP  T T T T P     PTT T  PPT
+10	TPTbPP    T  P P b bbTT T bT P TTT b TbTTT P TP T  P
+11	  PT T   T T  TTTPP TPGTP   P    TPTPbbP T  bP  PT  
+12	 P  TbPb P    T G  TPP b  TmbTT T P  TP b  TPb   T  
+13	 PT bP   m G  Z   PP PT  oTTm T b  PbPTP  b  TTb mT 
+14	T  T PT P          T PPbbbP P P  TPb P fb T TPTToP  
+15	   P  Tb   g    GG   bT  bb T   T         PT  PP T P
+16	T  bbT   o          g PT b TTgf gb       Z          
+17	 PT   Tb        m  G  PTgbTP  TT       G   bP  Z    
+18	 T bTTTbb      G  b b T PP  b Pb              G     
+19	 TTo T To b       bbbPbTTTTPoTT             o       
+20	P o g T     b   f   P TTT TTPPP   g f               

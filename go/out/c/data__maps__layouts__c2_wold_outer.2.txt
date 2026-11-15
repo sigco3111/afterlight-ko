@@ -1,0 +1,20 @@
+21	    Pbb           bT T  T T     T    g         b b  
+22	    PT    T  bb   bPTT TP P      b   o   b  fb      
+23	T bPTTP  bb T     bTbT T T  bT P        b    b    TT
+24	b P   o PT P T      TP  P PTT TP     o  PT mT  PPT  
+25	T   m  PT b b b   b PTT  T           bm oTTbTT TTP f
+26	        PP      m  T TTT  |     |     T PPT T T TP P
+27	     G   PTP        T T       m m      PTT    TT  T 
+28	     o      o f          mm         T TbbPTb  PPPP b
+29	                             Z       Tb    TPT      
+30	                      gfg|   g   |G T TToTo P P  T T
+31	         b b          b           b     b T T   PP T
+32	        b b       o  b bb ff     m TTP PbPPPb TT TP 
+33	  b  b b           m   gb  |   |        PPb PTT oPPT
+34	       bTPTPG       PT       b  b     mTPo PTT  P TT
+35	T   bb  bG T     G  P   T fb     bf       bP  TT bPT
+36	 T PbTT TP           TTT   PP  P b        P   b b   
+37	TP P  PP   bG       PPT mTPfT TPPT  b      G     TT 
+38	 PPT   P       f  m   PbTmTT   P             B     P
+39	 bTbbbP b   G  o     m     TPT  P  Tb  b        tfbb
+40	  TTP   G  Z              T TTT  b bTTb  b     G B T

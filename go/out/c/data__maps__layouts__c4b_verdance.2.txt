@@ -1,0 +1,14 @@
+21	TPb                                       bTPT
+22	 P            B    L                    gPPT P
+23	  bP                                     P T T
+24	 T  T             B          L             TPb
+25	 Tb                  f   f             g    T 
+26	T P       f                     g        P  PT
+27	 bP                  f   f k C    g       b   
+28	bTT                               g        P T
+29	      g         m       f     f  b         Tb 
+30	                      B                  TP   
+31	b PP                    n   B  f              
+32	              b     T   nf   m  b f        b n
+33	bPPTT     b     f                       fb  P 
+34	PnTTPf     f          bf bb      n       Pb   

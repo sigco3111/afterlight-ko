@@ -1,0 +1,20 @@
+21	I saw him. On the Gallows Shard, before they cut it loose. Black armor. A mask that weeps.
+22	He held his sword high, like a man waiting for permission. He never got it. He swung anyway.
+23	I'm a messenger Kite. I run messages. Mostly the message is "Boss says no."
+24	Sometimes it's "Boss says NO." That one I shout.
+25	Aw, rats. Behind the shack was a _good_ spot.
+26	Don't tell Tansy I was eating. I was eating.
+27	You found me! Up here you can see the whole sky. It's mostly purple.
+28	I like it. Don't tell Mum, she thinks purple's sad.
+29	I was _guarding_ the skiff. Undercover. You blew my cover.
+30	Fine. I'll go tell Tansy. She's going to be so smug.
+31	Shhh! The Baron's terrace is the best spot. Nobody looks at the Baron's stuff. It's all ugly.
+32	...how.
+33	Nobody finds Sprocket. I'm Sprocket. _Nobody finds me._
+34	I need a new spot. I need to think about my life.
+35	The old signal mast. Someone has carved every Kite's name into it, from the bottom up. The top name is PIP. Under it, smaller, somebody else has carved: BOSS.
+36	The town kite-pole. A hundred kite-tails flap from it, one for every child the shard has lost to the wind or the raiders. They snap in the gusts like applause.
+37	The end of the dock. Below: nothing, then haze, then more nothing. The wind tugs at your coat like it has somewhere to show you.
+38	The ladder down to the Underhang. The Kites have chalked a warning on the top rung: DONT. (BOSS SAYS.)
+39	@world
+40	Kestrel's tab is closed, by the way. He came in, paid what he had, and ordered a water. A _water_. I nearly called Ilse.

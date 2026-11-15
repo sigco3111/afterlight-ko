@@ -1,0 +1,20 @@
+41	TWELVE
+42	ONE
+43	TWO
+44	THREE
+45	FOUR
+46	FIVE
+47	SIX
+48	SEVEN
+49	EIGHT
+50	NINE
+51	TEN
+52	ELEVEN
+53	"Lovely day for—"
+54	"Any moment n—"
+55	"Ask me—"
+56	"And-a-one, and-a-two, and-a—"
+57	"Look how high it g—"
+58	"Have you seen my Lys—"
+59	The Warden's clock-face cracks — its hands spin all the way back!
+60	TWELVE. The Hour-Warden strikes noon.

@@ -1,0 +1,20 @@
+1	    ggggggg      aaaaaaaaaa++++           uuuuuuu                       
+2	   g####ggg      aaaaaaaaaa++++          uuuuuuuuuu                     
+3	  gg####gggg=====aaaaaaaaaa++++a         uuuuuuuuuu  qqqq               
+4	  gggggggggg=====aaaaaaaaaaaaaaa         uuuuuuuuuuu qqqq               
+5	        g           aaaaaaaa                ==                          
+6	                       ==                   ==           aaaaaaaa       
+7	                      q==                   ==          aaaaaaaaaa      
+8	                   qqqq==qqq                ==        aaaaaaaaaaaaa     
+9	    aaaaa          qqqqqqqqqq            qqq==q       aaaaaauuauaaaa    
+10	===aaaaaaaa=====qqqqggggggggqqq========qqqqqqqqqq===aaaauuuuuuuuuuaaa===
+11	                       == q                            aaaaaaaaaaa      
+12	                       ==                                aaaaaa         
+13	            qqqq       ==          qq                                   
+14	            qqqq       ==        qqqqqq                                 
+15	                       ==        qqqqqq                                 
+16	               WWWWWWWW++WWWWWWWWW                                      
+17	              aW+++++++++++++++++W                                      
+18	              aW++++++++++WWWWW++Wa                               qqqq  
+19	  qq         aaW++++++++++W+++W++Wa               qqqq           qqqqqq 
+20	 qqqq        aaW++++++++++W+++W++Wa               qqqq           qqqqqq 

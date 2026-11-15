@@ -1,0 +1,8 @@
+21	blocker:c4b_thornwood:thornA
+22	blocker:c4b_thornwood:thornB
+23	blocker:c4b_thornwood:thornC
+24	A statue of a Keeper, so old that her face has worn smooth. Somebody — recently — has put a crown of daisies on her head.
+25	The Lantern
+26	The Lantern of Thornwood. Roots have climbed it to the gallery; blossom grows inside the lamp-glass.
+27	The cradle at its heart is empty. A bird has started a nest in it.
+28	The trees here grow too close to pass. For now.

@@ -1,0 +1,20 @@
+1	kqkkkqkkqkkkkqkk,,,,,,,kqkkkqkqqkqqqkqqk
+2	kqqkqqkkkkkkkq,,,,,,,,,,,kqkkkkkqqqqqkkk
+3	kkkkkkqkkkqkk,,,,,,,,,,,,,,kqkqqkkqkkkqq
+4	kkkqkqqkqkkkq,,,,,,,,,,,,,,,qkkkqkkkkkqq
+5	kkkqqqqqqkkk,,,,,,,,,,,,,,,,kqqkqqqkkkkk
+6	kkkkkkkkqkqq,,,,,,,,,,,,,,,,kqqkkqkqqkkk
+7	kqkkkqkqkkkk,,,,,,,,,,,,,,,,kqqqkqqqkqqq
+8	kkqqkqkqkkkkkk,,,,,,,,,,,,,qkqqkqkkqqkkq
+9	kqkkkkkkkqkkkqq,,,,,,,,,,kqkqkkkkkkqqqkq
+10	kkkkkkkqkkkkkkkkk,,::,,,qkkqqkqkqkkkkkkk
+11	DDDDTTDTTDTTTDTTTTDDDTTDTTDDDTDDDDTDTTTT
+12	DTTDTTTTDDDTTTTDTDDDTDDTDDTDDDDDTTDTDDTT
+13	TTTDDDTTTDTTDTTT       TTTTTDDDTDDTTDTDD
+14	TTDDDDDTTTTDTT           DTDDDDDDTTDTTDT
+15	TTTDTDDDDTTDT              DTTTDTDTTTTTT
+16	DDTDDTTTTTDTD               DTTTDDDTDTDT
+17	TTTTDDDTDTDTf K           K TDDDDTDTDTTD
+18	TTDDDDTTDDTT                TTDDDTDDTDDD
+19	TTDDTTTDTDDD                TDTT DDTTDTD
+20	TDDT  Z DTTDTT             DTT    m DDTT

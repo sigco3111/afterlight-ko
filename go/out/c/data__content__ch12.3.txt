@@ -1,0 +1,20 @@
+41	Confetti Sprite
+42	Bright paper, falling. It has been falling since before you were born.
+43	Noon Sentinel
+44	A Dawnguard as a twelve-year-old remembered them: tall, shining, and never once afraid.
+45	Carousel Drake
+46	A painted carousel beast. It goes round and round. It has never stopped.
+47	Birthday Mimic
+48	A present nobody ever opened. It resents that.
+49	Kite Over Aurenne
+50	The kite a boy flew on the last good afternoon. In the memory, it never comes down.
+51	The First Bell
+52	The bell that should have rung one o'clock. It has been holding its breath ever since.
+53	The Painted Procession
+54	The festival's leading dancer, painted in noon. She has been mid-twirl for forty years and she is very tired.
+55	Someone nobody remembers anymore. It is trying very hard to remember itself.
+56	Gloam Tide
+57	The night the Lantern failed, the dark came up through the gutters like floodwater.
+58	Watcher in the Spill
+59	The feeling of being looked at from the dark, given a shape.
+60	Hound of the Spill

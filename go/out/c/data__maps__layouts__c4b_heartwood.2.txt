@@ -1,0 +1,20 @@
+21	KK    K  TTTTP K T TPTK  T     T
+22	 TT  TK TK  KTPTTTTTT TK  TPTTTT
+23	 PT TT KT  TTPP  K   TP   PTT  T
+24	TP  P     P     g    PP  K P    
+25	TKK P KP Tf     g       P K TKPT
+26	 P  PPKT                 KTPKTT 
+27	T       f    gg   g   G    T  T 
+28	TKT    g f                  PPKP
+29	 KPP      K           K     T PT
+30	           f              G   TK
+31	  TB                 f g    T  T
+32	TKP       G         fg G G   KKK
+33	PTT                     f    PP 
+34	              B              TPP
+35	        g    G        g       TT
+36	                f     gG    PTT 
+37	 TPPP   ff            $    TT T 
+38	T T   g            g     fPK TKK
+39	TPT  KKg                P KT KP 
+40	KP P  TTK               T K KTTP

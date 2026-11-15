@@ -1,0 +1,20 @@
+1	The little ones are scrubbing my pots. Never seen pots so clean, or children so proud of it. Bed and supper, Page? Forty gold.
+2	Welcome to the Ringing Bell! Bed, supper, and a bard who knows four songs. Forty gold.
+3	the Ringing Bell
+4	A song for the island folk? I know four. Three are about drinking. Here's the other one.
+5	♪ _The festival lanterns were hung in a row, / and the Keeper's two children ran laughing below._ ♪
+6	♪ _Then the great light went out like a breath on a flame, / and the dark came to Aurenne and called them by name._ ♪
+7	♪ _He held up the Lantern, the Keeper so true — / and the city was saved, and a girl was lost too._ ♪
+8	Not my best rhyme. The Choir doesn't care for it, so naturally it's the one everybody asks for.
+9	Off duty. Which means I'm not here, and you didn't see me.
+10	If the Lord-Commander asks, I'm on patrol. This tankard is the patrol.
+11	Wait. Kestrel? Venn's squire? Dawn, man, everyone said you went soft on some island.
+12	I went _salty._ It's different.
+13	The Ringing Bell has the best stew in the city. It's also the only stew in the city that's never made anyone ill.
+14	These are related facts.
+15	Marta says I can have pie if I scrub ALL the pots. I've scrubbed all the pots twice.
+16	Is it pie time? It feels like pie time.
+17	I don't remember being down there. Nell says that's good.
+18	I can do bows now. On my shoes. Pip showed me. Double-knots are for babies.
+19	Marta says we can stay. Dishes for beds. She doesn't sing, I checked.
+20	Look after him, Fish-Bird. He thinks he's a prince. He's mostly just loud.

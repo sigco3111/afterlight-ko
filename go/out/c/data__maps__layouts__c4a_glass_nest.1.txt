@@ -1,0 +1,20 @@
+1	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+2	CCCCCCCCCCCCCCCcccccccCCCCccCCCCCC
+3	CCCCCCCCCCCCccccccccccccCccccCCCCC
+4	CCCCCCCCCCCccccccccccccccccccCCCCC
+5	CCCCCCCCCCccccccgggggggccccccCCCCC
+6	CCCCCCCCCcccccgggggggggggcccccCCCC
+7	CCCCCCCCCcccgggggggggggggcccccCCCC
+8	CCCCCCCccccgggggggggggggggcccccCCC
+9	CCCCCCCccccgggggggggggggggggcccCCC
+10	CcccccccccggggggggggggggggggcccCCC
+11	CCCCCCCcccggggggggggggggggggcccCCC
+12	CCCCCCCccccggggggggggggggggccccCCC
+13	CCCCCCCCccccggggggggggggggcccccCCC
+14	CCCCCCCCccccccgggggggggggccccCCCCC
+15	CCCCCCCCCcccccggcggcggcccccccCCCCC
+16	CCCCCCCCCCccccccccccccccccCCCCCCCC
+17	CCCCCCCCCCCCCcccccccccccccCCCCCCCC
+18	CCCCCCCCCCCCCCcccccccccCCCCCCCCCCC
+19	            Rx   x           o    
+20	    $    xd  x                    

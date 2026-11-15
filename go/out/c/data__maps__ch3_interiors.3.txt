@@ -1,0 +1,20 @@
+41	St. Aurel, holding up the first Lantern. Carved beneath her feet: *ONE CREST · ONE LIFE · ONE LIGHT.*
+42	A pillar carved with the Seven Lanterns, from Lanternfall in the west to Skyreach above the storm. Someone has rubbed Lanternfall's carving smooth with their thumb, over many years.
+43	The Hierophant's study. The acolyte by the altar would know if you're expected.
+44	A painting hangs on the wall beneath a white sheet. Not a speck of dust on it. Someone uncovers it often.
+45	...It's not ours to lift.
+46	Letters, stacked neatly on the desk. The one on top is in your own handwriting: your letter about the stars, from two winters ago.
+47	He kept it.
+48	An armillary sphere of brass rings. Where the little golden sun should sit at its center, there is only an empty socket.
+49	Treatises on the Dawnsong, scored and annotated in a fine hand. One spine has been read until it broke: *On the Inversion of Hymns.*
+50	Correspondence with the Keepers, filed by Lantern. The Lanternfall folder is very thin. On top, in Ysolde's hand, one word: NO.
+51	Search
+52	...No, I don't know where the bestiaries are. I've been looking for the bestiaries since spring.
+53	Misfiled between a hymnal and a cookbook: a loose page.
+54	"...and so the Seven Lanterns were raised along the edge of the world, that the Hearthsun might never lose its way home. Each Keeper sings her own light. The Grand Lantern of Aurenne, first and eldest, sings for the city, and for the six."
+55	A shelf of hymnals. And one cookbook, which explains the stains.
+56	In a locked box marked LONG NIGHT — DO NOT LEND: a single page.
+57	"At the turning of the summer festival, the Grand Lantern failed. The Gloam came into Aurenne through the dark, as water fills a footprint. Three hundred and twelve were taken before dawn."
+58	Restricted shelves: Lantern schematics, Keepers' confessions, and one very old, very angry letter from Lanternfall.
+59	*A Lexicon of Crests*, with margin notes in four different hands, arguing about Gloamweaver. None of them agree on anything, except that it should not exist.
+60	I exist.

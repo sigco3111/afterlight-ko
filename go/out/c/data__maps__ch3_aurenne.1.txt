@@ -1,0 +1,20 @@
+1	Lost something already? Should've minded your purse. I did say.
+2	...I was going to say.
+3	Low Town folk keep asking the Watch about missing children. The Captain says Low Town is always losing people.
+4	Says that's what Low Town is _for._ I didn't laugh. He noticed.
+5	Mercy Vale. I gave her a nod every morning at this gate. She'd bless my boots.
+6	I've thrown the boots in the river.
+7	Heading south? The Pilgrim Road runs straight to the Sunscar. Take water.
+8	Take more water than that.
+9	HEAR YE! His Holiness the Hierophant returns from the western isles! The Grand Lantern burns bright!
+10	Also bread is up a copper!
+11	HEAR YE! The Choir reminds all citizens that the Undercroft is CLOSED and CONDEMNED and NOT A PLACE FOR CHILDREN!
+12	Also bread is up another copper!
+13	HEAR YE! Sister Mercy Vale is CAST OUT of the Choir! A reward for information on her whereabouts!
+14	And bread is DOWN a copper, by order of the Hierophant! Long live the Hierophant!
+15	River's low. The Aure's never this low in autumn.
+16	The old bargemen say the sea's pulling at it, way out west. Like it's holding its breath.
+17	Hettie says I'm to rest. I'm resting standing up. It's a baker's skill.
+18	I dream about the singing, sometimes. Then I wake up and there's bread to make. It helps, the bread.
+19	Saltglass pepper! Sunscar cumin! Dried figs from the caravan roads!
+20	The Keeper down south, Tamsin — blind as a stone, they say, and sees more than you or me. She told my caravan-master the day he'd die.

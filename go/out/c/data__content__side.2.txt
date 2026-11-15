@@ -1,0 +1,20 @@
+21	Lens Jelly
+22	It focuses sunlight into anyone foolish enough to look at it.
+23	Gallery Eel
+24	Lives in the flooded galleries. Eats astronomers, historically.
+25	Brass Measurer
+26	Built by the first Keepers to measure the sun. Still measuring.
+27	Ashwatch Sentinel
+28	Still at their posts. Nobody relieved them.
+29	Oathless Shade
+30	A soldier who broke an oath here. It is still sorry.
+31	Barrow Hound
+32	Mange's pack. They guard the graves.
+33	Rusted Dawnguard
+34	Empty armor that remembers the drill.
+35	Ember Harrier
+36	Gulls that flew too close to the broken sun.
+37	Cinder Hound
+38	Coal-bellied dogs of the ash wastes.
+39	Shard Crawler
+40	Grows a shell from fallen window-glass.

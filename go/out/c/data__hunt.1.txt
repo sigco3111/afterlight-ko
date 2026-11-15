@@ -1,0 +1,20 @@
+1	Old Gnarlhide
+2	the East Fields of Thistledown
+3	A boar the size of a hay cart has been tearing up the East Fields outside Thistledown. The farmers call him Old Gnarlhide and leave him the south field.
+4	A boar the size of a hay cart, gray with age, rooting through the stubble. Its tusks are as long as Wren's arm. It lifts its head and looks straight at you.
+5	Old Gnarlhide goes down like a felled oak, and the field is quiet.
+6	The Wold Widow
+7	the heart of the Whisperwold
+8	In the Whisperwold's heart there's a web strung between two oaks, wide as a sail. Whatever spun it is called the Widow, and her brood comes with her.
+9	A web between two oaks, wide as a sail, beaded with dew and worse. Something the color of a bruise sits at its center. It has far too many eyes, and all of them open.
+10	The Widow curls up like a burnt leaf. Her web sags and tears in the wind.
+11	Mother Knot
+12	the sewers under Aurenne
+13	The rat-catchers won't go into the deep sewers under Aurenne anymore. They say there's a rat king down there, a hundred rats knotted at the tail, and it eats its own young to heal.
+14	A heap in the dark that squeaks with a hundred voices: rats knotted tail to tail into one great shuddering thing. The middle of it has a face.
+15	Mother Knot comes apart into a hundred fleeing rats. None of them look back.
+16	Glasseye
+17	the deep dunes of the Sunscar
+18	Pilgrims crossing the Sunscar talk of a basilisk with one eye of clear glass. Look into it and your legs turn to stone, they say. Look away and it breathes fire.
+19	A long, low drake basks on a dune of fused sand. One of its eyes is clear glass with the sun burning in it. The air around it shimmers.
+20	Glasseye's glass eye cracks across. Then the light goes out of it.

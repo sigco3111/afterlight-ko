@@ -1,0 +1,20 @@
+1	Ward Water
+2	A bucket from the rationed well, for the Ember Ward.
+3	Sunsalt Phials
+4	The Choir's remedy for Gloam-rot. Each phial glows like a coal kept under ash.
+5	Three Tin Tags
+6	DORAN. MAGS. LITTLE COBB. The third sunsalt team.
+7	Captain Buttons
+8	A rag doll with one button eye. Very brave.
+9	Dawnmoss Seeds
+10	Gold-green spores in a Choir apothecary tin. They will grow in anything.
+11	Bell Clapper
+12	The clapper of the Bellwrights' Tenor. Heavy as a promise, dented from the fall.
+13	Dead Letters
+14	Three letters from Petra's bag, posted the day before the world ended.
+15	A Letter for Wren
+16	"My dear restless heart — I have kept a place for you." Choir seal, broken.
+17	Rotgnawer
+18	Undercroft rats that ate what the rot left behind, and caught it. Their bite carries it on.
+19	Rot Bloom
+20	Gloam-rot, given time and darkness and nothing else to do, learns to flower.

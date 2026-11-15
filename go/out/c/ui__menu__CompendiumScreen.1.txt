@@ -1,0 +1,9 @@
+1	<span class="cp-tag mark">MARK</span>
+2	<span class="cp-tag boss">BOSS</span>
+3	 : '<span class="dim">seen</span>'}</span>
+4	<span class="dim">???</span>
+5	<ul class="cp-tactics">{0}</ul>
+6	<li>{0}</li>
+7	 <span class="cp-tag mark">MARK</span>
+8	 <span class="cp-tag boss">BOSS</span>
+9	.bs-art

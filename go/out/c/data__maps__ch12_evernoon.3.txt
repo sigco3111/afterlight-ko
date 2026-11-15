@@ -1,0 +1,20 @@
+41	Sundial
+42	Books
+43	Fountain
+44	Bench
+45	The bell tower. Its great bell hangs at the top of the swing, about to fall back and ring the hour. It has been about to for forty years.
+46	An anvil with a half-forged sword on it, still glowing. The smith's hammer hangs in the air just above it.
+47	;_our
+48	Lysa! LYSA!
+49	She's not by the old wall. The lights are all over the plaza now. Please — please hurry.
+50	It's so pretty...
+51	Get indoors! The Lantern's guttering — the dark's coming up through the drains!
+52	Hush, hush. Keep your eyes shut, sweetheart. If you don't look at it, it can't see you.
+53	Forty years I've walked this street, and I've never once seen the Lantern flicker.
+54	It's flickering.
+55	Logbook
+56	A chalk drawing on the flagstones: the sun, with a little door drawn in its side. Underneath, in a child's capitals: WHERE DOES IT GO?
+57	A child's white shoe, the buckle undone. It is facing the wall, as if whoever wore it walked straight on without it.
+58	Here the old city wall is thinnest. The stones don't meet. Through the cracks, violet light, and a sound like the sea a long way down.
+59	Lysa's ribbon, on the cobbles. When Sable reaches for it, it isn't there. It was never really there.
+60	Bell

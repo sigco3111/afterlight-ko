@@ -1,0 +1,20 @@
+21	They sing the lullabies. They mean every word.
+22	Hollow Squire
+23	Armor with a dead man in it — or the memory of one. Evernoon lends them out. They remember their own swords.
+24	Lullaby Wisp
+25	A stray note from the Lullaby Engine, still humming. It would very much like you to lie down.
+26	The Lullaby Engine
+27	A music box the size of a chapel. It keeps children dreaming their best day, forever. The pins on its drum are tiny teeth.
+28	A knight in black armor and a weeping mask, who holds his blade high in the old Venn Guard. Under the mask is a face Bram knows.
+29	Rustjaw
+30	A war-boar with an iron jaw bolted on. It was a gift. It has not forgiven anyone.
+31	Cog
+32	The left twin. Says nothing. Hits hard. Fixes Sprocket.
+33	The right twin. Not to be confused with the Kite. The Kite is much scarier.
+34	Iron Moll
+35	Former Dawnguard sergeant. "Same job, better hours." Still salutes her opponents before she flattens them.
+36	The Gale Roc
+37	Undefeated champion of the Scrap Arena. It was a chick when the world ended. It has been growing ever since, out of spite.
+38	The drum turns. A lullaby pours out of every pipe at once.
+39	Gears shriek. The Engine lurches and thrashes its brass arms!
+40	A stray note shakes loose from the pipes and drifts into the air.

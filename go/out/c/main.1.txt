@@ -1,0 +1,1 @@
+1	A test line of dialogue, with *gold* and _italic_ markup.

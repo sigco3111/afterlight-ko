@@ -1,0 +1,5 @@
+81	"Enough." Garrick plants his greatsword in the snow. "Guard! To me!"
+82	"Still shaking, Kestrel? Aldous would be so proud."
+83	A town of glass and wind around the blind Keeper's Lantern. The caravans gather here.
+84	The snow monastery, where the oldest Dawnsong is carved in ice.
+85	Ysmay's Water & Sundries
