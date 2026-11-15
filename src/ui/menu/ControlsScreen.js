@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // Settings → Controls: remap keyboard keys. Each action holds up to three keys;
 // pick a cell and press the new key (Delete clears it, Esc cancels). Bindings are
 // stored in settings.keys, so they are saved — and exported — with the game.
@@ -23,8 +24,8 @@ export class ControlsScreen extends Screen {
   build() {
     const b = this.bindings;
     const hint = this.listening
-      ? `Press a key for <b>${ACTIONS[this.row].label}</b> · <span class="key">Del</span> Clear · <span class="key">Esc</span> Cancel`
-      : `${keyCap('up')}${keyCap('down')}${keyCap('left')}${keyCap('right')} Choose ${keyCap('confirm')} Change key <span class="key">Esc</span> Back`;
+      ? fmt('Press a key for <b>{0}</b> · <span class="key">Del</span> Clear · <span class="key">Esc</span> Cancel', ACTIONS[this.row].label)
+      : fmt('{0}{1}{2}{3} Choose {4} Change key <span class="key">Esc</span> Back', keyCap('up'), keyCap('down'), keyCap('left'), keyCap('right'), keyCap('confirm'));
     this.el.innerHTML = header('Controls', hint);
     const box = el('div', 'ctl-list panel');
     ACTIONS.forEach((a, r) => {
@@ -70,15 +71,15 @@ export class ControlsScreen extends Screen {
     const b = this.bindings;
     if (code === 'Delete') {
       b[action] = b[action].filter((_, i) => i !== this.col);
-      if (!b[action].length && ESSENTIAL.has(action)) return this.refuse(`${ACTIONS[this.row].label} needs at least one key.`);
+      if (!b[action].length && ESSENTIAL.has(action)) return this.refuse(fmt('{0} needs at least one key.', ACTIONS[this.row].label));
       return this.save(b);
     }
-    if (!bindableKey(code)) return this.refuse(`${keyName(code)} can't be bound.`);
+    if (!bindableKey(code)) return this.refuse(fmt('{0} can\'t be bound.', keyName(code)));
     // A key belongs to one action: take it from wherever it was.
     for (const other of ACTIONS) {
       if (other.id === action || !b[other.id].includes(code)) continue;
       b[other.id] = b[other.id].filter((k) => k !== code);
-      if (!b[other.id].length && ESSENTIAL.has(other.id)) return this.refuse(`${keyName(code)} is ${other.label}'s only key.`);
+      if (!b[other.id].length && ESSENTIAL.has(other.id)) return this.refuse(fmt('{0} is {1}\'s only key.', keyName(code), other.label));
     }
     const keys = b[action].filter((k) => k !== code);
     keys.splice(Math.min(this.col, keys.length), 0, code);

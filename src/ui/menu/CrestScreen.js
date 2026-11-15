@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // Crest (class) management and Support (passive) loadouts.
 
 import { el, richText } from '../UI.js';
@@ -56,7 +57,7 @@ export class CrestScreen extends MemberScreen {
 
   build() {
     const ch = this.ch;
-    this.el.innerHTML = header(`Crests — ${ch.name}`, `${KEYS.nav} ${keyCap('left')}${keyCap('right')} Scroll ${KEYS.ok} ${KEYS.back} ${KEYS.swap}`);
+    this.el.innerHTML = header(fmt('Crests — {0}', ch.name), `${KEYS.nav} ${keyCap('left')}${keyCap('right')} Scroll ${KEYS.ok} ${KEYS.back} ${KEYS.swap}`);
     const body = el('div', 'cs-body');
     const left = el('div', 'cs-left panel');
     const items = this.entries();
@@ -81,9 +82,7 @@ export class CrestScreen extends MemberScreen {
     this.detail = el('div', 'cs-detail panel');
     const who = el('div', 'cs-who panel');
     who.appendChild(portraitEl(ch.look, 3));
-    who.appendChild(el('div', 'cs-who-text', `<div class="pc-name">${ch.name}</div><div>Lv ${ch.level}</div>
-      <div class="dim">Primary: <b style="color:${CRESTS[ch.crest].color}">${CRESTS[ch.crest].name}</b></div>
-      <div class="dim">Secondary: <b>${ch.secondary ? CRESTS[ch.secondary].name : '—'}</b></div>`));
+    who.appendChild(el('div', 'cs-who-text', fmt('<div class="pc-name">{0}</div><div>Lv {1}</div>\n      <div class="dim">Primary: <b style="color:{2}">{3}</b></div>\n      <div class="dim">Secondary: <b>{4}</b></div>', ch.name, ch.level, CRESTS[ch.crest].color, CRESTS[ch.crest].name, ch.secondary ? CRESTS[ch.secondary].name : '—')));
     this.preview = document.createElement('canvas');
     this.preview.width = BATTLE_W;
     this.preview.height = BATTLE_H;
@@ -111,9 +110,7 @@ export class CrestScreen extends MemberScreen {
     const c = e.c;
     if (!e.known && c.tier === 4) {
       // A Lost Calling not yet remembered: only the rumour of where to look.
-      this.detail.innerHTML = `<div class="cd-name" style="color:#8a8098">??? </div><div class="cd-tier">${TIER_NAMES[4]}</div>
-        <div class="cd-desc">A calling the Choir struck from its rolls long ago. Somewhere in the broken world, its crest-glass is still guarded.</div>
-        <div class="cd-legacy"><span class="k">Rumor</span> ${c.rumour || ''}</div>`;
+      this.detail.innerHTML = fmt('<div class="cd-name" style="color:#8a8098">??? </div><div class="cd-tier">{0}</div>\n        <div class="cd-desc">A calling the Choir struck from its rolls long ago. Somewhere in the broken world, its crest-glass is still guarded.</div>\n        <div class="cd-legacy"><span class="k">Rumor</span> {1}</div>', TIER_NAMES[4], c.rumour || '');
       return;
     }
     if (e.known) this.renderPreview(e.id);
@@ -132,18 +129,18 @@ export class CrestScreen extends MemberScreen {
       html += `<div class="cd-stat"><span>${STAT_NAMES[k]}</span><div class="cd-statbar"><i class="${pct >= 0 ? 'up' : 'down'}" style="width:${Math.min(100, Math.abs(pct) * 2.5)}%"></i></div><span class="${pct > 0 ? 'up' : pct < 0 ? 'down' : ''}">${pct > 0 ? '+' : ''}${pct}%</span></div>`;
     }
     html += '</div>';
-    html += `<div class="cd-gear">Weapons: ${c.weapons.map((w) => WEAPON_TYPES[w].name).join(', ')}<br>Armor: ${c.armor.join(', ')}${c.shield ? ', shields' : ''}</div>`;
-    if (prog && prog.need) html += `<div class="cd-prog">Rank ${prog.rank} — ${prog.need} CP to next<div class="mbar exp"><i style="width:${prog.frac * 100}%"></i></div></div>`;
+    html += fmt('<div class="cd-gear">Weapons: {0}<br>Armor: {1}{2}</div>', c.weapons.map((w) => WEAPON_TYPES[w].name).join(', '), c.armor.join(', '), c.shield ? ', shields' : '');
+    if (prog && prog.need) html += fmt('<div class="cd-prog">Rank {0} — {1} CP to next<div class="mbar exp"><i style="width:{2}%"></i></div></div>', prog.rank, prog.need, prog.frac * 100);
     else if (prog) {
       const asc = ch.ascendProgress(e.id);
-      html += `<div class="cd-prog">MASTERED · Ascension <span class="cd-stars">${starText(asc.stars)}</span>${asc.need ? ` — ${asc.need} CP to ★${asc.stars + 1}` : ''}<div class="mbar exp asc"><i style="width:${asc.frac * 100}%"></i></div></div>`;
+      html += fmt('<div class="cd-prog">MASTERED · Ascension <span class="cd-stars">{0}</span>{1}<div class="mbar exp asc"><i style="width:{2}%"></i></div></div>', starText(asc.stars), asc.need ? ` — ${asc.need} CP to ★${asc.stars + 1}` : '', asc.frac * 100);
     }
     if (c.legacy) {
       const have = e.rank >= MAX_RANK;
-      html += `<div class="cd-legacy ${have ? 'have' : ''}"><span class="k">Legacy</span> ${c.legacy.desc} <span class="dim">${have ? '— yours, whatever you wear' : '— on mastery, whatever you wear'}</span></div>`;
+      html += fmt('<div class="cd-legacy {0}"><span class="k">Legacy</span> {1} <span class="dim">{2}</span></div>', have ? 'have' : '', c.legacy.desc, have ? '— yours, whatever you wear' : '— on mastery, whatever you wear');
       if (have) {
         const stars = ch.starsOf(e.id);
-        html += `<div class="cd-legacy asc dim">Each ★: all stats +${STAR_STATS}% as Primary, this Crest's Arts +${STAR_ARTS}%; ${MAX_STARS}★ adds a Support Point.${stars ? ` Now: stats +${stars * STAR_STATS}%, Arts +${stars * STAR_ARTS}%.` : ''}</div>`;
+        html += fmt('<div class="cd-legacy asc dim">Each ★: all stats +{0}% as Primary, this Crest\'s Arts +{1}%; {2}★ adds a Support Point.{3}</div>', STAR_STATS, STAR_ARTS, MAX_STARS, stars ? ` Now: stats +${stars * STAR_STATS}%, Arts +${stars * STAR_ARTS}%.` : '');
       }
     }
     html += '<div class="cd-ranks">';
@@ -190,7 +187,7 @@ export class CrestScreen extends MemberScreen {
       for (const id of removed) this.state.inventory.add(id, 1);
       ch.clampVitals();
       this.sfx('join');
-      if (removed.length) this.game.ui.toast(`Unequipped: ${removed.map((id) => this.state.inventory.itemName(id)).join(', ')}`);
+      if (removed.length) this.game.ui.toast(fmt('Unequipped: {0}', removed.map((id) => this.state.inventory.itemName(id)).join(', ')));
     } else if (pick === 1) {
       if (ch.crest === e.id) { this.sfx('buzzer'); return; }
       ch.setSecondary(ch.secondary === e.id ? null : e.id);
@@ -210,11 +207,11 @@ export class SupportScreen extends MemberScreen {
     const ch = this.ch;
     const learned = ch.learnedPassives();
     const sourceOf = (pid) => Object.keys(ch.crests).find((c) => CRESTS[c].ranks.some((u) => u.passive === pid));
-    this.el.innerHTML = header(`Supports — ${ch.name}`, `${KEYS.nav} ${keyCap('confirm')} Equip/Remove ${KEYS.back} ${KEYS.swap}`);
+    this.el.innerHTML = header(fmt('Supports — {0}', ch.name), `${KEYS.nav} ${keyCap('confirm')} Equip/Remove ${KEYS.back} ${KEYS.swap}`);
     const body = el('div', 'sp-body');
     const left = el('div', 'sp-left panel');
     const used = ch.supportUsed(), budget = ch.supportBudget();
-    left.appendChild(el('div', 'sp-budget', `Support Points <b>${used}</b> / ${budget}<div class="sp-pips">${'●'.repeat(used)}${'○'.repeat(Math.max(0, budget - used))}</div>`));
+    left.appendChild(el('div', 'sp-budget', fmt('Support Points <b>{0}</b> / {1}<div class="sp-pips">{2}{3}</div>', used, budget, '●'.repeat(used), '○'.repeat(Math.max(0, budget - used)))));
     const prev = this.list?.index || 0;
     this.list = new ListView({
       items: learned.map((id) => ({ id, p: PASSIVES[id], on: ch.passives.includes(id), src: sourceOf(id) })),
@@ -234,8 +231,7 @@ export class SupportScreen extends MemberScreen {
   renderDetail() {
     const it = this.list.current;
     if (!it) { this.detail.innerHTML = '<div class="dim">Supports are passive abilities learned from Crest ranks. Any learned Support can be equipped, whatever your current Crest.</div>'; return; }
-    this.detail.innerHTML = `<div class="cd-name">${it.p.name}</div><div class="cd-tier">Cost ${it.p.cost} · from ${it.src ? CRESTS[it.src].name : '—'}</div><div class="cd-desc">${it.p.desc}</div>
-      <div class="dim" style="margin-top:18px">Supports are passive abilities learned from Crest ranks. Any learned Support can be equipped, whatever your current Crest.</div>`;
+    this.detail.innerHTML = fmt('<div class="cd-name">{0}</div><div class="cd-tier">Cost {1} · from {2}</div><div class="cd-desc">{3}</div>\n      <div class="dim" style="margin-top:18px">Supports are passive abilities learned from Crest ranks. Any learned Support can be equipped, whatever your current Crest.</div>', it.p.name, it.p.cost, it.src ? CRESTS[it.src].name : '—', it.p.desc);
   }
 
   handleInput(input) {

@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // Equipment: pick a slot, pick an item, preview stat changes. 'F' optimizes.
 
 import { el } from '../UI.js';
@@ -19,7 +20,7 @@ export class EquipScreen extends MemberScreen {
 
   build() {
     const ch = this.ch;
-    this.el.innerHTML = header(`Equipment — ${ch.name}`, `${KEYS.nav} ${KEYS.ok} ${KEYS.back} ${KEYS.swap} ${keyCap('info')} Optimize`);
+    this.el.innerHTML = header(fmt('Equipment — {0}', ch.name), `${KEYS.nav} ${KEYS.ok} ${KEYS.back} ${KEYS.swap} ${keyCap('info')} Optimize`);
     const body = el('div', 'eq-body');
     const left = el('div', 'eq-left panel');
     const who = el('div', 'eq-who');
@@ -61,7 +62,7 @@ export class EquipScreen extends MemberScreen {
       after = ch.stats();
       ch.equipment[slot] = old;
     }
-    this.statPanel.innerHTML = `<div class="sd-title">Stats</div>${statDiffHtml(before, after)}`;
+    this.statPanel.innerHTML = fmt('<div class="sd-title">Stats</div>{0}', statDiffHtml(before, after));
     if (this.mode === 'slots') {
       const cur = this.slotList.current;
       const d = cur?.id ? EQUIPMENT[cur.id] : null;
