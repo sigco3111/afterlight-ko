@@ -420,7 +420,7 @@ class CommandMenu {
     });
     html += '</div>';
     const cur = t.entries[t.index];
-    if (cur?.desc) html += `<div class="cmd-desc">${richText(cur.desc)}${cur.detail || ''}</div>`;
+    if (cur?.desc) html += fmt('<div class="cmd-desc">{0}{1}</div>', richText(cur.desc), cur.detail || '');
     html += fmt('<div class="cmd-surge {0}">{1}{2} Surge {3}{4}</div>', surgeOk ? '' : 'off', keyCap('pageLeft'), keyCap('pageRight'), '◆'.repeat(this.surge), '◇'.repeat(Math.max(0, 3 - this.surge)));
     this.el.innerHTML = html;
     this.bui.refreshTimeline(this.actor, this.entryAction(cur));
