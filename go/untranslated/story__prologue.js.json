@@ -1,7 +1,0 @@
-[
- {
-  "line": 56,
-  "tpl": true,
-  "s": "${keyCap('menu')} / <span class=\"key\">Esc</span> opens the menu · hold ${keyCap('run')} to run"
- }
-]
