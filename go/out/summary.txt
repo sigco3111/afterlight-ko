@@ -1,21 +1,19 @@
-기존 사전 키: 10333
-페이로드 b12: 64키 누적
-이번 반영: 64
-미수록 텍스트 후보: 4721 (제외 추정 코드 18463, 여러 줄 24)
+기존 사전 키: 10397
+페이로드 b14: 30키 누적
+이번 반영: 30
+미수록 텍스트 후보: 4651 (제외 추정 코드 18301, 여러 줄 24)
 상위 폴더별:
   data/maps	3094
-  data/content	806
-  story/ch11_remnants.js	126
+  data/content	802
+  story/ch11_remnants.js	125
   story/lost.js	53
   data/hunt.js	52
   data/skills.js	46
   ui/menu	42
-  story/ch2_wold.js	37
   data/fish.js	32
   story/ch12.js	30
-  story/ch2_port.js	27
-  story/ch7.js	27
   core/Input.js	26
+  story/ch2_port.js	26
   data/monsterInfo.js	21
   story/ch2_thistle.js	21
   story/ch6.js	20

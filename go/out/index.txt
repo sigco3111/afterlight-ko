@@ -14,7 +14,7 @@ data/content/ch4a.js	84	362	0
 data/content/ch4b.js	102	366	0
 data/content/ch5.js	31	136	0
 data/content/ch6.js	74	235	0
-data/content/ch7.js	49	233	0
+data/content/ch7.js	45	233	0
 data/content/ch8.js	49	248	0
 data/content/ch9.js	77	319	0
 data/content/colosseum.js	44	194	0
@@ -213,13 +213,12 @@ scenes/OpeningScene.js	2	28	0
 scenes/TitleScene.js	3	35	0
 script/Lines.js	1	35	0
 story/ch11.js	1	76	0
-story/ch11_remnants.js	126	125	0
+story/ch11_remnants.js	125	125	0
 story/ch12.js	30	97	0
 story/ch12_finale.js	17	119	0
 story/ch2_common.js	2	9	0
-story/ch2_port.js	27	59	0
+story/ch2_port.js	26	59	0
 story/ch2_thistle.js	21	59	0
-story/ch2_wold.js	37	52	0
 story/ch3.js	4	105	0
 story/ch3_battle.js	9	24	0
 story/ch3_fx.js	3	9	0
@@ -228,7 +227,6 @@ story/ch4a.js	15	86	0
 story/ch4b.js	12	62	1
 story/ch4b_sky.js	1	68	0
 story/ch6.js	20	109	0
-story/ch7.js	27	110	0
 story/ch8.js	11	121	0
 story/colosseum.js	13	43	0
 story/hunt.js	4	16	0
