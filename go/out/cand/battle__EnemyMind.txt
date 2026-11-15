@@ -1,5 +1,0 @@
-24	./Formulas.js
-156	mpDrain
-184	allyAny
-224	enemyFlee
-225	selfDestruct

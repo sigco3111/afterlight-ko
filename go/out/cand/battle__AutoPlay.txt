@@ -1,2 +1,0 @@
-14	./Formulas.js
-91	allyAny

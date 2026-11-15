@@ -1,5 +1,0 @@
-12	../data/monsterInfo.js
-16	Greer Thackery, the Collegium's bestiarist, has posted five marks: rare beasts of the old roads. Hunt them, then tell her by the canal bridge in Aurenne. She also pays for new kinds of creature in the Compendium.
-17	Greer Thackery survived the Sundering and keeps the Ledger in Keelhaven now. Five new marks are posted, and any old mark still alive came through the Sundering too. Hunt them all, then tell her.
-96	ll have something for you.` : 
-97	s moves and they go in too. Fell a few of a kind and you'll learn how it thinks.

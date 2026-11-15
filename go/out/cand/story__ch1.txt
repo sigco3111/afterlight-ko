@@ -1,2 +1,0 @@
-151	lfDusk
-182	lfNight

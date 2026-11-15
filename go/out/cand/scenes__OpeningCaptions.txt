@@ -1,3 +1,0 @@
-6	../ui/UI.js
-7	../render/SpriteFactory.js
-8	./OpeningStages.js

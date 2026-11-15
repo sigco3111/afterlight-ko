@@ -1,4 +1,0 @@
-27	gameClear
-157	Cinderwing
-158	Glasshide
-159	Gravemouth

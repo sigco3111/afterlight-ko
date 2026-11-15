@@ -1,8 +1,0 @@
-7	../UI.js
-9	./CrestScreen.js
-12	../../data/artInfo.js
-50	cs-body arts-body
-51	cs-left panel
-66	cd-panel panel arts-detail
-75	<div class="dim">Arts are learned from Crest ranks; mastered Crests teach two Mastery Arts more, at their first and third Ascension stars (★).</div>
-88	 (master the Crest first)

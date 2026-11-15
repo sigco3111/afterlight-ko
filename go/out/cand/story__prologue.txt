@@ -1,4 +1,0 @@
-4	../core/Input.js
-231	lfDusk
-258	lfNight
-309	Bram?!

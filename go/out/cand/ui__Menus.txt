@@ -1,7 +1,0 @@
-3	./menu/MainMenu.js
-4	./menu/CrestScreen.js
-5	./menu/ArtsScreen.js
-6	./menu/EquipScreen.js
-8	./menu/CompendiumScreen.js
-9	./menu/SaveScreen.js
-10	./menu/ShopScreen.js

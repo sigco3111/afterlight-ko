@@ -1,6 +1,0 @@
-5	../world/FieldScene.js
-6	../story/newGame.js
-7	../script/ScriptContext.js
-8	../state/GameState.js
-35	).join(',')}
-89	PASS

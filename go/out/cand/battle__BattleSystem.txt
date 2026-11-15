@@ -1,7 +1,0 @@
-8	./Battler.js
-9	./Actions.js
-10	./AI.js
-67	firstStrike
-132	quickItems
-133	quickCast
-335	goldPct

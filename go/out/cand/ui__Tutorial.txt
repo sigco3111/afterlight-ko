@@ -1,3 +1,0 @@
-13	./UI.js
-14	../core/Input.js
-39	panel tutorial-card

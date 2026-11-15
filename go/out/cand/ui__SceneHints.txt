@@ -1,5 +1,0 @@
-7	./UI.js
-8	../core/Input.js
-70	<span class="sh-item sh-skipping"><b>&gt;&gt;&gt;</b> Skipping</span>
-74	 : 'Fast'}</span>
-76	<span class="sh-item sh-skip off">This scene can't be skipped</span>
