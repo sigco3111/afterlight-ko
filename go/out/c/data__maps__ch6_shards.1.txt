@@ -12,9 +12,9 @@
 12	Look west
 13	Table
 14	Your bed, still made. Your mother made it the morning she wrote the letter. Nobody has slept in it since.
-15	Shelf
-16	The cutter's mast, snapped clean. A Dawnguard pennant still flutters from the stump, red and gold, very bright against the ash.
-17	Lost Crest
-18	Don't steal, don't fight, don't fall off. That's the whole law.
-19	Folk keep falling off. You'd think it'd be the easy one.
-20	Warden says you're going east. Alone.
+15	The cutter's mast, snapped clean. A Dawnguard pennant still flutters from the stump, red and gold, very bright against the ash.
+16	Lost Crest
+17	Don't steal, don't fight, don't fall off. That's the whole law.
+18	Folk keep falling off. You'd think it'd be the easy one.
+19	Warden says you're going east. Alone.
+20	I'll keep the soup warm. Hale says I'm not to say that. I said it anyway.

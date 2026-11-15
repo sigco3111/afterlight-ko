@@ -1,8 +1,7 @@
-61	A pew to sleep on and a bowl of something hot. Hundred and twenty. We used to be a chapel; now we're a mercy with a bar.
-62	the Last Bell
-63	I cast bells. Forty years. Every bell in this city, I could tell you its voice blindfolded.
-64	Now I cast spoons. Spoons don't sing. But you can't eat soup with a bell, can you? Can you. I've tried.
-65	There's a sellsword at Kiteholm loses every hand on purpose so the orphans can eat. Or he's just that bad.
-66	Either way, I'd like to play him.
-67	Shh. I'm bluffing. I've been bluffing for a year. About everything.
-68	A broken pillar from the old chapel. Someone has carved a tally of every day since the Sundering. The count stopped at 300 and started over at 1, in a different hand.
+61	the Last Bell
+62	I cast bells. Forty years. Every bell in this city, I could tell you its voice blindfolded.
+63	Now I cast spoons. Spoons don't sing. But you can't eat soup with a bell, can you? Can you. I've tried.
+64	There's a sellsword at Kiteholm loses every hand on purpose so the orphans can eat. Or he's just that bad.
+65	Either way, I'd like to play him.
+66	Shh. I'm bluffing. I've been bluffing for a year. About everything.
+67	A broken pillar from the old chapel. Someone has carved a tally of every day since the Sundering. The count stopped at 300 and started over at 1, in a different hand.

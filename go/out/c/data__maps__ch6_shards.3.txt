@@ -1,20 +1,20 @@
-41	And a big blond sellsword who drinks too much and cries at sea shanties. Kiteholm's a strange place.
-42	I come out here to the edge every morning and I count to a hundred.
-43	I don't jump. I just count. Then I go back and eat my soup.
-44	It's a good number, a hundred. You should try it.
-45	Bounties
-46	Letters, pinned three deep. "MAMA — I'M ON THE BIG ROCK. THERE'S SOUP." "TO WHOEVER HAS MY DOG: HIS NAME IS BISCUIT."
-47	"DAD — I KEPT THE BOAT. I KEPT IT. COME AND SEE." "To Corporal Hask, if you're alive: I forgive you for the thing with the goat."
-48	Lost Wall
-49	Right in the middle of the wall: "Dear Sun." And beside it, a small square of paper signed only "— W."
-50	Hundreds of letters to people nobody can find. The paper rustles in the ash-wind like a flock of birds that cannot quite take off.
-51	"Bram — if a girl with red hair asks, tell her I'm sorry I never wrote back." The handwriting is shaky. There's no name.
-52	Maela's kettle. Big enough to bathe a pony in. Always full. Always gray.
-53	A cot and a cup of something hot. Forty gold. The beds are hammocks. Don't ask what the hammocks used to be.
-54	the Upturned Keel
-55	There was a sky-captain through here, back in the spring. Tried to buy a whole barrel of rum on a promise.
-56	Said he had a ship. Said she was grounded at some place called the Roost. Said a lot of things. Sang most of them.
-57	We play for ash-potatoes. Stakes are high. Very high. I'm down eleven potatoes.
-58	Funny. Nothing to buy, and we still gamble.
-59	The bar: a ship's rail laid across two barrels. A brass bell hangs over it. Nobody rings it. Nobody likes bells anymore.
-60	A chart of the Shattered Sea, drawn on the back of a sail. Shards marked in charcoal. Most of them have notes: HOUNDS. GLASS. DON'T. One, far to the east, just says: AURENNE? and underneath, smaller: HOSPITAL.
+41	I come out here to the edge every morning and I count to a hundred.
+42	I don't jump. I just count. Then I go back and eat my soup.
+43	It's a good number, a hundred. You should try it.
+44	Bounties
+45	Letters, pinned three deep. "MAMA — I'M ON THE BIG ROCK. THERE'S SOUP." "TO WHOEVER HAS MY DOG: HIS NAME IS BISCUIT."
+46	"DAD — I KEPT THE BOAT. I KEPT IT. COME AND SEE." "To Corporal Hask, if you're alive: I forgive you for the thing with the goat."
+47	Lost Wall
+48	Right in the middle of the wall: "Dear Sun." And beside it, a small square of paper signed only "— W."
+49	Hundreds of letters to people nobody can find. The paper rustles in the ash-wind like a flock of birds that cannot quite take off.
+50	"Bram — if a girl with red hair asks, tell her I'm sorry I never wrote back." The handwriting is shaky. There's no name.
+51	Maela's kettle. Big enough to bathe a pony in. Always full. Always gray.
+52	A cot and a cup of something hot. Forty gold. The beds are hammocks. Don't ask what the hammocks used to be.
+53	the Upturned Keel
+54	There was a sky-captain through here, back in the spring. Tried to buy a whole barrel of rum on a promise.
+55	Said he had a ship. Said she was grounded at some place called the Roost. Said a lot of things. Sang most of them.
+56	We play for ash-potatoes. Stakes are high. Very high. I'm down eleven potatoes.
+57	Funny. Nothing to buy, and we still gamble.
+58	The bar: a ship's rail laid across two barrels. A brass bell hangs over it. Nobody rings it. Nobody likes bells anymore.
+59	A chart of the Shattered Sea, drawn on the back of a sail. Shards marked in charcoal. Most of them have notes: HOUNDS. GLASS. DON'T. One, far to the east, just says: AURENNE? and underneath, smaller: HOSPITAL.
+60	A man asleep under a thin blanket. A gray patch has crept up his neck like frost on a window. Gloam-rot.

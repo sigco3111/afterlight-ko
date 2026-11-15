@@ -31,38 +31,37 @@
 31	Sunsalt. Tastes like licking a hot coin. Best thing I've had in my mouth in a year, and I was married forty.
 32	I'm on the outside cots. That means I'm getting better. Or worse. Nobody says which.
 33	The Lantern
-34	Well
-35	Rubble
-36	The Bellwrights' Tenor tower, snapped off at the shoulder. Up in the ruined belfry, one great bell still hangs. It has no clapper. It sways in the ember-wind without a sound.
-37	Saint Aurel the Tuner, patron of the Choir. Someone has knocked off her head and set a cooking pot in its place. It's a good pot.
-38	Saint Lumen, holding up a lantern of stone. Underneath, scratched into the plinth: HE SAID IT WOULD BE NOON FOREVER.
-39	Driftwood markers with names chalked on them. Some have little things left on top: a spoon, a ribbon, a single boot.
-40	Driftwood markers with names chalked on them — and around every one, a ring of tiny gold-green shoots pushing up through the ash. Dawnmoss.
-41	The east bridge ends in nothing. Far, far below, through the violet haze, something glitters — another shard, maybe. Maybe a whole country, falling slower than you.
-42	A doorframe with no house behind it. Somebody has hung a wreath of wire and rag flowers on it, and swept the step.
-43	The common soup pot. It smells of ash and onion and, faintly, of hope. Mostly ash.
-44	@world
-45	When I'm better, I'm going to be a Vanguard. Like Wren.
-46	Ilse says I can be anything. She said it like she was cross about it.
-47	...Wren? You're real? I thought the rot was making me see things again.
-48	Everybody from home is gone except me and Ilse. Ilse says that makes us family. She says it angry, but I think she means it.
-49	She's doing better. The Ward Mother sat with her all last night. She sits with everyone, one night each, in turn.
-50	I don't know when she sleeps. I don't think she knows either.
-51	My hand's pink again. Pink! I've never been so happy to look like a boiled ham.
-52	Cut my hand on a scrap of the old Cathedral. A _holy_ scrap. Didn't help.
-53	Ward Mother says the violet's stopped at my wrist. She says it like a promise. She doesn't make promises.
-54	That girl with the bun? Ilse? She held my hand while my Tam went. Didn't say anything. Didn't need to.
-55	You're the one she won't look at. I've been watching. Whatever you did, girl — she still knows exactly where you're standing, every second.
-56	The wall
-57	A cauldron of boiling bandages. Ilse's labels on every jar nearby, in the same tiny, exact handwriting you remember. One says: DO NOT. EVER. — I.M.
-58	Shelves of empty phial-racks. Someone has counted them in chalk: 2. Then the 2 is crossed out: 1.
-59	Shelves stacked with sunsalt phials, glowing like coals. Someone has written a new number in chalk, and underlined it twice.
-60	The Ward Mother? In _my_ chapel? Sit, sit. I'll not take her coin. Yours, though.
-61	A pew to sleep on and a bowl of something hot. Hundred and twenty. We used to be a chapel; now we're a mercy with a bar.
-62	the Last Bell
-63	I cast bells. Forty years. Every bell in this city, I could tell you its voice blindfolded.
-64	Now I cast spoons. Spoons don't sing. But you can't eat soup with a bell, can you? Can you. I've tried.
-65	There's a sellsword at Kiteholm loses every hand on purpose so the orphans can eat. Or he's just that bad.
-66	Either way, I'd like to play him.
-67	Shh. I'm bluffing. I've been bluffing for a year. About everything.
-68	A broken pillar from the old chapel. Someone has carved a tally of every day since the Sundering. The count stopped at 300 and started over at 1, in a different hand.
+34	Rubble
+35	The Bellwrights' Tenor tower, snapped off at the shoulder. Up in the ruined belfry, one great bell still hangs. It has no clapper. It sways in the ember-wind without a sound.
+36	Saint Aurel the Tuner, patron of the Choir. Someone has knocked off her head and set a cooking pot in its place. It's a good pot.
+37	Saint Lumen, holding up a lantern of stone. Underneath, scratched into the plinth: HE SAID IT WOULD BE NOON FOREVER.
+38	Driftwood markers with names chalked on them. Some have little things left on top: a spoon, a ribbon, a single boot.
+39	Driftwood markers with names chalked on them — and around every one, a ring of tiny gold-green shoots pushing up through the ash. Dawnmoss.
+40	The east bridge ends in nothing. Far, far below, through the violet haze, something glitters — another shard, maybe. Maybe a whole country, falling slower than you.
+41	A doorframe with no house behind it. Somebody has hung a wreath of wire and rag flowers on it, and swept the step.
+42	The common soup pot. It smells of ash and onion and, faintly, of hope. Mostly ash.
+43	@world
+44	When I'm better, I'm going to be a Vanguard. Like Wren.
+45	Ilse says I can be anything. She said it like she was cross about it.
+46	...Wren? You're real? I thought the rot was making me see things again.
+47	Everybody from home is gone except me and Ilse. Ilse says that makes us family. She says it angry, but I think she means it.
+48	She's doing better. The Ward Mother sat with her all last night. She sits with everyone, one night each, in turn.
+49	I don't know when she sleeps. I don't think she knows either.
+50	My hand's pink again. Pink! I've never been so happy to look like a boiled ham.
+51	Cut my hand on a scrap of the old Cathedral. A _holy_ scrap. Didn't help.
+52	Ward Mother says the violet's stopped at my wrist. She says it like a promise. She doesn't make promises.
+53	That girl with the bun? Ilse? She held my hand while my Tam went. Didn't say anything. Didn't need to.
+54	You're the one she won't look at. I've been watching. Whatever you did, girl — she still knows exactly where you're standing, every second.
+55	The wall
+56	A cauldron of boiling bandages. Ilse's labels on every jar nearby, in the same tiny, exact handwriting you remember. One says: DO NOT. EVER. — I.M.
+57	Shelves of empty phial-racks. Someone has counted them in chalk: 2. Then the 2 is crossed out: 1.
+58	Shelves stacked with sunsalt phials, glowing like coals. Someone has written a new number in chalk, and underlined it twice.
+59	The Ward Mother? In _my_ chapel? Sit, sit. I'll not take her coin. Yours, though.
+60	A pew to sleep on and a bowl of something hot. Hundred and twenty. We used to be a chapel; now we're a mercy with a bar.
+61	the Last Bell
+62	I cast bells. Forty years. Every bell in this city, I could tell you its voice blindfolded.
+63	Now I cast spoons. Spoons don't sing. But you can't eat soup with a bell, can you? Can you. I've tried.
+64	There's a sellsword at Kiteholm loses every hand on purpose so the orphans can eat. Or he's just that bad.
+65	Either way, I'd like to play him.
+66	Shh. I'm bluffing. I've been bluffing for a year. About everything.
+67	A broken pillar from the old chapel. Someone has carved a tally of every day since the Sundering. The count stopped at 300 and started over at 1, in a different hand.

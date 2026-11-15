@@ -11,10 +11,10 @@
 11	The children sing on the Lantern steps every morning. The Keeper sits with them.
 12	She says it's the worst choir she's ever heard. She cried the first time.
 13	Yrsa looks up at you and hums three notes of the morning hymn. Then she goes back to drawing a bell in the sand.
-14	Well
-15	The deep well of Saltglass. The rope goes down, and down, and down.
-16	You drop a pebble. Four heartbeats later, very faintly: _plink._
-17	Chimes
-18	Master Ruel's furnace. The air above it wobbles like a mirage that can't make up its mind.
-19	The Lamp
-20	The lamp of Saltglass burns inside a cage of saltglass panes. The light comes out of the glass in every direction at once.
+14	The deep well of Saltglass. The rope goes down, and down, and down.
+15	You drop a pebble. Four heartbeats later, very faintly: _plink._
+16	Chimes
+17	Master Ruel's furnace. The air above it wobbles like a mirage that can't make up its mind.
+18	The Lamp
+19	The lamp of Saltglass burns inside a cage of saltglass panes. The light comes out of the glass in every direction at once.
+20	Up close it hums — low, like a cat that's pleased with itself. Or a cat that isn't.
