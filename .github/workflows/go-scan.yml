@@ -17,6 +17,8 @@ jobs:
           node-version: 20
       - name: 스캔
         run: node go/scan.mjs
+      - name: 적용
+        run: if [ -f go/fix.mjs ]; then node go/fix.mjs; fi
       - name: 보고서 커밋
         run: |
           git config user.name "ko-scan-bot"
