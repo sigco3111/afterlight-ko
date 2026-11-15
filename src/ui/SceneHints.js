@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // The corner of the screen during a scene: how to move the text along, how to skip the
 // scene, and whether it is running fast (>>). Also the hold-to-skip itself: holding
 // Menu for a second starts a skip (Game.startSkip), which fast-forwards the scene behind
@@ -69,11 +70,11 @@ export class SceneHints {
       this.el.innerHTML = '<span class="sh-item sh-skipping"><b>&gt;&gt;&gt;</b> Skipping</span>';
       return;
     }
-    const line = top?.isDialogue ? `<span class="sh-item">${keyCap('confirm')} Next</span><span class="sh-item">${keyCap('up')} Backlog</span>` : '';
+    const line = top?.isDialogue ? fmt('<span class="sh-item">{0} Next</span><span class="sh-item">{1} Backlog</span>', keyCap('confirm'), keyCap('up')) : '';
     const speed = `<span class="sh-item sh-fast ${fast ? 'on' : ''}">${keyCap('fast')} ${fast ? `<b>&gt;&gt;</b> ×${fast}` : 'Fast'}</span>`;
     const skip = sc?.noSkip
       ? '<span class="sh-item sh-skip off">This scene can\'t be skipped</span>'
-      : `<span class="sh-item sh-skip"><i style="width:${pct}%"></i><span>Hold ${keyCap('menu')} Skip scene</span></span>`;
+      : fmt('<span class="sh-item sh-skip"><i style="width:{0}%"></i><span>Hold {1} Skip scene</span></span>', pct, keyCap('menu'));
     this.el.innerHTML = line + speed + skip;
   }
 }

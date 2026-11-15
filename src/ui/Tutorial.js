@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Tutorial cards (data/tutorials.js): the first time the player meets a system, a card
 // explains it and names the Guide entry that keeps the details. Each card shows once
 // per save (state.vars.tutorials), never during a skip (it waits for the next calm
@@ -36,9 +37,9 @@ export function showTutorial(game, id) {
   game.pendingTutorials = (game.pendingTutorials || []).filter((x) => x !== id);
   return new Promise((resolve) => {
     const box = el('div', 'panel tutorial-card',
-      `<div class="tut-kicker">Tutorial</div><div class="tut-title">${t.title}</div>`
+      fmt('<div class="tut-kicker">Tutorial</div><div class="tut-title">{0}</div>', t.title)
       + t.text().map((p) => `<p>${richText(p).replace(/\{key:(\w+)\}/g, (_, a) => keyCap(a))}</p>`).join('')
-      + `<div class="tut-foot"><span>Guide → ${t.guide}</span><span>${keyCap('confirm')} Continue</span></div>`);
+      + fmt('<div class="tut-foot"><span>Guide → {0}</span><span>{1} Continue</span></div>', t.guide, keyCap('confirm')));
     const w = {
       el: box,
       isTutorial: true,

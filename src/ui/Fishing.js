@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Fishing minigame: wait for a bite, then reel by stopping a sliding marker
 // inside the catch zone three times before the line snaps (three misses).
 
@@ -14,9 +15,7 @@ export function playFishing(game, region) {
     const speed = [0.9, 0.9, 1.25, 1.6, 2.1][fish.rarity];
 
     const box = el('div', 'panel fishing');
-    box.innerHTML = `<div class="fs-title">Fishing</div><div class="fs-msg">Waiting for a bite...</div>
-      <div class="fs-bar"><div class="fs-zone"></div><div class="fs-mark"></div></div>
-      <div class="fs-pips"></div><div class="fs-hint">${keyCap('confirm')} Reel · ${keyCap('cancel')} Give up</div>`;
+    box.innerHTML = fmt('<div class="fs-title">Fishing</div><div class="fs-msg">Waiting for a bite...</div>\n      <div class="fs-bar"><div class="fs-zone"></div><div class="fs-mark"></div></div>\n      <div class="fs-pips"></div><div class="fs-hint">{0} Reel · {1} Give up</div>', keyCap('confirm'), keyCap('cancel'));
     const msg = box.querySelector('.fs-msg');
     const zoneEl = box.querySelector('.fs-zone');
     const mark = box.querySelector('.fs-mark');
@@ -42,7 +41,7 @@ export function playFishing(game, region) {
         const log = (game.state.vars.fishLog = game.state.vars.fishLog || {});
         log[fishId] = (log[fishId] || 0) + 1;
         game.audio?.sfx('item');
-        game.ui.toast(`Caught a <span class="hl">${fish.name}</span>!${log[fishId] === 1 ? ' (New!)' : ''}`);
+        game.ui.toast(fmt('Caught a <span class="hl">{0}</span>!{1}', fish.name, log[fishId] === 1 ? ' (New!)' : ''));
       } else {
         game.audio?.sfx('cancel');
       }
@@ -72,7 +71,7 @@ export function playFishing(game, region) {
         if (pos >= zoneStart && pos <= zoneStart + zone) {
           hits++;
           game.audio?.sfx('confirm');
-          if (hits >= 3) { phase = 'done'; msg.innerHTML = `Landed a <b>${fish.name}</b>!`; drawPips(); setTimeout(() => finish(true), 700); return; }
+          if (hits >= 3) { phase = 'done'; msg.innerHTML = fmt('Landed a <b>{0}</b>!', fish.name); drawPips(); setTimeout(() => finish(true), 700); return; }
           newZone();
         } else {
           misses++;
