@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Title screen: Lanternfall at dusk behind the logo; New Game / Continue / Load.
 // New Game asks for a difficulty, then plays the opening movie; left idle, the title
 // plays the movie too and comes back.
@@ -48,11 +49,7 @@ export class TitleScene {
     game.renderer.setFocus(0.55, 0.18);
 
     this.root = el('div', 'title-screen');
-    this.root.innerHTML = `
-      <div class="ts-logo"><div class="ts-pre">A coming-of-age at the end of the world</div><div class="ts-name">AFTERLIGHT</div><div class="ts-rule"></div></div>
-      <div class="ts-menu"></div>
-      <div class="ts-diff" style="display:none"></div>
-      <div class="ts-foot">${keysFor('up').join(' / ')} and the other arrows to move · ${keysFor('confirm').slice(0, 2).join(' / ')} to confirm · ${[...keysFor('cancel').slice(0, 1), 'Esc'].join(' / ')} to cancel · ${keysFor('menu')[0] ?? 'Esc'} for the menu · remap in Settings → Controls</div>`;
+    this.root.innerHTML = fmt('\n      <div class="ts-logo"><div class="ts-pre">A coming-of-age at the end of the world</div><div class="ts-name">AFTERLIGHT</div><div class="ts-rule"></div></div>\n      <div class="ts-menu"></div>\n      <div class="ts-diff" style="display:none"></div>\n      <div class="ts-foot">{0} and the other arrows to move · {1} to confirm · {2} to cancel · {3} for the menu · remap in Settings → Controls</div>', keysFor('up').join(' / '), keysFor('confirm').slice(0, 2).join(' / '), [...keysFor('cancel').slice(0, 1), 'Esc'].join(' / '), keysFor('menu')[0] ?? 'Esc');
     game.ui.layers.hud.appendChild(this.root);
     this.menuEl = this.root.querySelector('.ts-menu');
     this.diffEl = this.root.querySelector('.ts-diff');
@@ -151,12 +148,7 @@ export class TitleScene {
 
   renderPicker() {
     const d = DIFFICULTIES[this.diffIndex];
-    this.diffEl.innerHTML = `
-      <div class="ts-diff-head">Choose a difficulty</div>
-      <div class="ts-diff-opts">${DIFFICULTIES.map((o, i) => `<div class="ts-diff-opt ${i === this.diffIndex ? 'sel' : ''}">${o.name}</div>`).join('')}</div>
-      <div class="ts-diff-desc">${d.desc}</div>
-      <div class="ts-diff-stats">${difficultyStats(d)}</div>
-      <div class="ts-diff-note">You can change this at any time in Settings.</div>`;
+    this.diffEl.innerHTML = fmt('\n      <div class="ts-diff-head">Choose a difficulty</div>\n      <div class="ts-diff-opts">{0}</div>\n      <div class="ts-diff-desc">{1}</div>\n      <div class="ts-diff-stats">{2}</div>\n      <div class="ts-diff-note">You can change this at any time in Settings.</div>', DIFFICULTIES.map((o, i) => `<div class="ts-diff-opt ${i === this.diffIndex ? 'sel' : ''}">${o.name}</div>`).join(''), d.desc, difficultyStats(d));
   }
 
   handlePicker(input) {

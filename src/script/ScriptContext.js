@@ -120,7 +120,7 @@ export class ScriptContext {
     this.state.chapter = n;
     this.game.audio?.stopMusic(1.2);
     this.sfx('chapter');
-    await this.ui.card(title, n === 0 ? 'Prologue' : `Chapter ${n}`, 3.4, CHAPTERS[n]?.line || '');
+    await this.ui.card(title, n === 0 ? 'Prologue' : fmt('Chapter {0}', n), 3.4, CHAPTERS[n]?.line || '');
   }
 
   // ------------------------------------------------------------------ actors
@@ -246,7 +246,7 @@ export class ScriptContext {
   /** Set the current objective (shown in the Journal) with a toast. */
   objective(text, quiet = false) {
     this.state.vars.objective = text;
-    if (!quiet) this.ui.toast(`<span class="hl">Objective</span> — ${text}`, 3200);
+    if (!quiet) this.ui.toast(fmt('<span class="hl">Objective</span> — {0}', text), 3200);
   }
 
   /**
@@ -292,7 +292,7 @@ export class ScriptContext {
   shop(shopId) { return this.game.menus.openShop(shopId); }
 
   async inn(price = 20, innName = 'the inn') {
-    const ok = await this.confirm(`Rest at ${innName} for ${price} gold? (You have ${this.state.gold})`);
+    const ok = await this.confirm(fmt('Rest at {0} for {1} gold? (You have {2})', innName, price, this.state.gold));
     if (!ok) return false;
     if (this.state.gold < price) { await this.say(null, "You don't have enough gold."); return false; }
     this.state.gold -= price;

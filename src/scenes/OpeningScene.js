@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // The opening movie (~75 s): the cast, the world, a few battles and the end of the
 // sun, cut to music like an anime-style JRPG opening. Staged live from the game's
 // own maps, sprites and moods; the screenplay is data in story/opening.js.
@@ -47,7 +48,7 @@ export class OpeningScene {
   enter() {
     const game = this.game;
     this.camera = new THREE.PerspectiveCamera(30, 1, 0.3, 500);
-    this.root = el('div', 'opening', `<div class="op-bar top"></div><div class="op-bar bottom"></div><div class="op-captions"></div><div class="op-skip">${keyCap('cancel')} Skip</div>`);
+    this.root = el('div', 'opening', fmt('<div class="op-bar top"></div><div class="op-bar bottom"></div><div class="op-captions"></div><div class="op-skip">{0} Skip</div>', keyCap('cancel')));
     game.ui.layers.hud.appendChild(this.root);
     this.captions = new Captions(this.root.querySelector('.op-captions'));
     this.skipEl = this.root.querySelector('.op-skip');
