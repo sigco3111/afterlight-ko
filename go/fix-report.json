@@ -1,7 +1,7 @@
 {
- "dict": 7,
- "files": 5,
- "replaced": 7,
+ "dict": 2,
+ "files": 2,
+ "replaced": 2,
  "unmatched": [
   "src/battle/AI.js:78",
   "src/battle/Actions.js:43",
@@ -38,6 +38,7 @@
   "src/battle/BattleUI.js:277",
   "src/battle/BattleUI.js:278",
   "src/battle/BattleUI.js:325",
+  "src/battle/BattleUI.js:423",
   "src/core/Game.js:157",
   "src/scenes/OpeningScene.js:50",
   "src/scenes/TitleScene.js:51",
@@ -59,6 +60,7 @@
   "src/ui/menu/ArtsScreen.js:91",
   "src/ui/menu/CompendiumScreen.js:40",
   "src/ui/menu/CompendiumScreen.js:85",
+  "src/ui/menu/CompendiumScreen.js:119",
   "src/ui/menu/ControlsScreen.js:26",
   "src/ui/menu/ControlsScreen.js:27",
   "src/ui/menu/ControlsScreen.js:73",
@@ -68,7 +70,9 @@
   "src/ui/menu/CrestScreen.js:84",
   "src/ui/menu/CrestScreen.js:114",
   "src/ui/menu/CrestScreen.js:135",
+  "src/ui/menu/CrestScreen.js:136",
   "src/ui/menu/CrestScreen.js:139",
+  "src/ui/menu/CrestScreen.js:143",
   "src/ui/menu/CrestScreen.js:146",
   "src/ui/menu/CrestScreen.js:193",
   "src/ui/menu/CrestScreen.js:213|Supports",
@@ -106,7 +110,8 @@
   "src/world/QuestMarkers.js:85",
   "src/world/WorldMapScene.js:73",
   "src/world/WorldMapScene.js:224",
-  "src/world/WorldMapScene.js:225"
+  "src/world/WorldMapScene.js:225",
+  "src/world/WorldMapScene.js:249"
  ],
  "bad": []
 }
