@@ -1,0 +1,381 @@
+CANDIDATES 380
+src/audio/VoiceLines.js:61 `Voice line ${id} failed to load: ${err.message}`
+src/battle/AI.js:78 `${self.name} flies into a rage!`
+src/battle/AI.js:111 `summon${Math.floor(c.turn / 4)}`
+src/battle/Actions.js:43 `${user.name} hesitates.`
+src/battle/Actions.js:52 `${skill.name} — Gambit!`
+src/battle/Actions.js:206 `${bram.name} throws himself in the way!`
+src/battle/Actions.js:219 `${target.name} refuses to fall!`
+src/battle/Actions.js:244 `Recovered ${g} gold from ${target.name}.`
+src/battle/Actions.js:257 `${coverer.name} covers ${target.name}!`
+src/battle/Actions.js:361 `${user.name} leaps into the sky!`
+src/battle/Actions.js:485 `${t.name}'s protections unravel.`
+src/battle/Actions.js:504 `Transmuted ${g} gold!`
+src/battle/Actions.js:510 `${t.name} is pushed back in time.`
+src/battle/Actions.js:521 `${targets[0]?.name} moves at once!`
+src/battle/Actions.js:562 `Rolled ${a} + ${b}${a === b ? ' — doubles!' : ''}`
+src/battle/Actions.js:589 `Threw ${spend} gold!`
+src/battle/Actions.js:602 `${user.name} is gathering power...`
+src/battle/Actions.js:614 `${user.name} pinched ${g} gold!`
+src/battle/Actions.js:629 `${user.name} stands its ground.`
+src/battle/Actions.js:634 `${user.name} runs off with ${g} gold!` | `${user.name} runs away!`
+src/battle/Actions.js:641 `${t.name} loses ${n} MP.`
+src/battle/Actions.js:658 `${user.name} calls ${nb.name}!`
+src/battle/AutoPlay.js:22 `skill` | `actor` | `foe`
+src/battle/BattleScene.js:59 `${base}_battle` | `${base}_battle`
+src/battle/BattleScene.js:106 `b-auto${this.autoToggle ? ' on' : ''}`
+src/battle/BattleScene.js:108 `${keyCap('info')} Auto`
+src/battle/BattleScene.js:266 `turn ${sys.turn} ${actor.name}`
+src/battle/BattleScene.js:327 `${names.join(', ')} ${this.sys.enemies.length > 1 ? 'appear' : 'appears'}!`
+src/battle/BattleScene.js:381 `${e.on ? '' : '−'}${STATUSES[e.id].name}`
+src/battle/BattleScene.js:399 `${e.target.name}'s attack is interrupted!`
+src/battle/BattleScene.js:407 `${ELEM_ICONS[e.elem]?.[0] || ''} Weakness!`
+src/battle/BattleScene.js:408 `${e.target.name}: HP ${e.target.hp}/${e.target.maxHp}. Lv ${e.target.level}.`
+src/battle/BattleScene.js:410 `${e.user.name} stole *${this.game.state.inventory.itemName(e.item)}*!`
+src/battle/BattleScene.js:462 `SURGE ${'◆'.repeat(action.surge)}`
+src/battle/BattleScene.js:675 `${inn.name} steps in!`
+src/battle/BattleScene.js:713 `Test: party lost battle '${this.params.troopId}' (levels ${this.sys.party.map((b) => b.level).join('/')})`
+src/battle/BattleScene.js:756 `Load last save — ${last.location || 'saved game'}`
+src/battle/BattleSystem.js:23 `Unknown troop ${troopId}`
+src/battle/BattleSystem.js:98 `actor` | `actor`
+src/battle/BattleSystem.js:124 `actor` | `action`
+src/battle/BattleSystem.js:173 `${actor.name}'s doom: ${Math.max(0, st.count)}`
+src/battle/BattleSystem.js:182 `${actor.name} ${actor.hasStatus('sleep') ? 'is fast asleep' : 'is stunned'}.`
+src/battle/BattleSystem.js:218 `${from.name} counters!`
+src/battle/BattleUI.js:84 `${hpPct * 100}%`
+src/battle/BattleUI.js:85 `${b.hp} / ${b.maxHp}`
+src/battle/BattleUI.js:88 `${(b.mp / b.maxMp) * 100}%`
+src/battle/BattleUI.js:100 `<span class="st" style="color:${s.color}" title="${s.name}">${s.icon}</span>`
+src/battle/BattleUI.js:102 `<span class="st ${s.v > 0 ? 'up' : 'down'}">${STAGE_NAMES[k]}${s.v > 0 ? '▲' : '▼'}</span>`
+src/battle/BattleUI.js:115 `<div class="ag-seg ${f >= 1 ? 'full' : ''}"><i style="width:${f * 100}%"></i></div>`
+src/battle/BattleUI.js:136 `${current?.index}${current?.side}|${action?.kind}:${action?.id}|${order.map((b) => ` | `).join(',')}|${shift ? [...shift.keys()].map((b) =>
+src/battle/BattleUI.js:141 `tl-item ${b.isParty ? 'ally' : 'foe'} ${cls}`
+src/battle/BattleUI.js:152 `${i === nextAt ? 'next' : ''} ${moved}`
+src/battle/BattleUI.js:176 `<span class="poise ${b.broken ? 'broken' : ''}">${b.broken ? 'BREAK' : ` | `}</span>`
+src/battle/BattleUI.js:181 `<span class="wk" style="color:${ELEM_ICONS[e][1]}">${ELEM_ICONS[e][0]}</span>`
+src/battle/BattleUI.js:183 `<div class="etag-hp"><i style="width:${(b.hp / b.maxHp) * 100}%"></i></div>`
+src/battle/BattleUI.js:184 `<div class="etag-st">${this.statusIcons(b)}</div>`
+src/battle/BattleUI.js:186 `<div class="etag-name">${b.name}${letter ? ` | ` : ''}</div><div class="etag-row">${shield}${weak}</div>${hp}${st}`
+src/battle/BattleUI.js:219 `b-pop ${cls}`
+src/battle/BattleUI.js:227 `b-big ${cls}`
+src/battle/BattleUI.js:234 `${STAGE_NAMES[key]} ${delta > 0 ? '▲'.repeat(delta) : '▼'.repeat(-delta)}`
+src/battle/BattleUI.js:253 `<div class="v-totals"><span>EXP <b>${summary.exp}</b></span><span>Gold <b>${summary.gold}</b></span><span>CP <b>${summary.cp}</b></span></d
+src/battle/BattleUI.js:257 `<div class="v-items">${Object.entries(counts).map(([id, n]) => ` | ` : ''}</span>`
+src/battle/BattleUI.js:265 `<span class="v-stars">${starText(asc.stars)}</span>` | `R${prog.rank}`
+src/battle/BattleUI.js:267 ` <span class="v-up">LEVEL UP!</span>`
+src/battle/BattleUI.js:272 `<div class="v-learn">${name} ascends: <b>★${k.star}</b>${k.unlock ? ` | ` : ''}</div>`
+src/battle/BattleUI.js:277 `<div class="v-learn">${name} rank ${k.rank}: learned <b>${nm}</b></div>`
+src/battle/BattleUI.js:278 `<div class="v-learn">${name} mastered — Legacy: <b>${k.legacy.desc}</b></div>`
+src/battle/BattleUI.js:316 `<div class="lu-name">${ch.name}</div><div class="lu-lv">Lv <b>${r.levelFrom}</b> → <b class="up">${ch.level}</b>${r.levels > 1 ? ` | ` : ''
+src/battle/BattleUI.js:321 `<div class="lu-stat"><span class="k">${label}</span><span class="a">${a}</span><span class="arrow">→</span><span class="b ${d > 0 ? 'up' : 
+src/battle/BattleUI.js:325 `Support Points ${r.supportFrom} → <b>${sp}</b>`
+src/battle/BattleUI.js:415 `<div class="cmd-title">${t.title}</div><div class="cmd-list">`
+src/battle/BattleUI.js:417 `<span class="cost">${e.cost} MP</span>` | `<span class="cost">×${e.count}</span>` | `<span class="cost ag">${e.ag}</span>`
+src/battle/BattleUI.js:418 `<div class="cmd-item ${i === t.index ? 'sel' : ''} ${e.disabled ? 'off' : ''}">${e.icon ? ` | ` : ''}${e.label}${right}</div>`
+src/battle/BattleUI.js:422 `<div class="cmd-desc">${richText(cur.desc)}${cur.detail || ''}</div>`
+src/battle/BattleUI.js:423 `<div class="cmd-surge ${surgeOk ? '' : 'off'}">${keyCap('pageLeft')}${keyCap('pageRight')} Surge ${'◆'.repeat(this.surge)}${'◇'.repeat(Math
+src/battle/BattleUI.js:481 `${l.cost / 100}◆`
+src/battle/BattleUI.js:482 `${l.desc} (${l.members.map((m) => this.scene.game.state.characters[m].name).join(' + ')})`
+src/battle/BattleUI.js:494 `Lv ${ch.level} · ${CRESTS[ch.crest].name} · HP ${ch.hp}/${ch.maxHp}`
+src/battle/BattleUI.js:572 `<div class="tgt-name">${label}</div>`
+src/core/Game.js:76 `>> ×${speed}`
+src/core/Game.js:157 `Fast Mode ×${s.fastSpeed || 3}`
+src/core/Game.js:237 `${this._fps.toFixed(0)} fps · ${info.render.calls} calls · ${(info.render.triangles / 1000).toFixed(1)}k tris · ${info.programs?.length ?? 
+src/core/Input.js:81 `Num ${code.slice(6)}`
+src/core/Input.js:91 `<span class="key">${keysFor(action)[0] ?? '?'}</span>`
+src/core/util.js:90 `${h}:${String(m).padStart(2, '0')}`
+src/debug/TestHarness.js:14 `${document.title.slice(-600)} | ${m}`
+src/debug/TestHarness.js:35 ` battle=${sc.params?.troopId} turn=${sc.sys.turn} party=${sc.sys.party.map((b) => ` | `).join(',')} foes=${sc.sys.enemies.map((b) => ` | `)
+src/debug/TestHarness.js:36 `Timed out waiting for idle — scene=${sc?.constructor?.name} map=${sc?.mapId ?? '-'} busy=${sc?.busy} stack=${game.sceneStack?.length} ui=${
+src/debug/TestHarness.js:57 `No actor ${id} on ${f.mapId}`
+src/debug/TestHarness.js:62 `Expectation failed: ${msg}` | `ok: ${msg}`
+src/debug/TestHarness.js:85 `start ${name}`
+src/debug/TestHarness.js:87 `quest-guide misses ${questMisses.size}`
+src/debug/TestHarness.js:92 `FAIL ${e.message}`
+src/main.js:43 `${document.title.slice(-200)} | ${m}`
+src/main.js:44 ` [f${game._frame} t${game.time.toFixed(1)} tasks${game.tasks.size}]`
+src/main.js:53 `${e.message} @ ${e.filename}:${e.lineno}`
+src/main.js:54 `Unhandled: ${e.reason?.stack || e.reason}`
+src/main.js:109 `${res.status} ${res.statusText}`
+src/main.js:118 `Couldn't load ${params.get('load')}: ${e.message}`
+src/render/MountFactory.js:228 `fieldFrame` | `walkSeq` | `stride`
+src/render/PropFactory.js:555 `Unknown prop type: ${type}`
+src/scenes/OpeningCaptions.js:16 `<div class="op-tag-name">${richText(spec.name)}</div><div class="op-tag-rule"></div><div class="op-tag-sub">${richText(spec.sub || '')}</di
+src/scenes/OpeningCaptions.js:18 `<div class="op-card-art"></div><div class="op-card-text"><div class="op-card-crest">${richText(spec.crest || '')}</div><div class="op-card-
+src/scenes/OpeningCaptions.js:23 `${richText(spec.text)}${spec.by ? `
+src/scenes/OpeningCaptions.js:27 `op-pop ${spec.tone || ''}`
+src/scenes/OpeningCaptions.js:34 `<div class="ts-pre">${richText(spec.pre || '')}</div><div class="ts-name">AFTERLIGHT</div><div class="ts-rule"></div>`
+src/scenes/OpeningCaptions.js:36 `Opening: unknown caption kind ${spec.kind}`
+src/scenes/OpeningCaptions.js:76 `scale(${1.06 - 0.06 * e})`
+src/scenes/OpeningCaptions.js:77 `translate(-50%, -50%) scale(${1.7 - 0.7 * e}) rotate(-4deg)`
+src/scenes/OpeningScene.js:50 `<div class="op-bar top"></div><div class="op-bar bottom"></div><div class="op-captions"></div><div class="op-skip">${keyCap('cancel')} Skip
+src/scenes/OpeningStages.js:88 `Opening: unknown map ${mapId}`
+src/scenes/OpeningStages.js:120 ` walks there during the shot; ` | ` cycles a list of looks every `
+src/scenes/OpeningStages.js:205 `${base}_battle` | `${base}_battle`
+src/scenes/TitleScene.js:76 `<div class="ts-item ${i === this.index ? 'sel' : ''} ${o.disabled ? 'off' : ''}">${o.label}</div>`
+src/scenes/TitleScene.js:156 `<div class="ts-diff-opt ${i === this.diffIndex ? 'sel' : ''}">${o.name}</div>`
+src/script/Lines.js:65 `Lines: can't read condition "${src}"`
+src/script/Lines.js:70 `Lines: unknown condition kind "${kind}:" in "${src}" (a flag whose name has a colon is written "flag:${kind}:${key}")`
+src/script/Lines.js:112 `Lines: can't read condition ${JSON.stringify(cond)}`
+src/script/Lines.js:162 `${who}/${hex(fnv1a(bytes, 0x811c9dc5), 8)}${hex(fnv1a(bytes, 0x9747b28c), 4)}`
+src/script/Lines.js:177 `set` | `run`
+src/script/Lines.js:197 `Lines: can't speak ${typeof spec} ${String(spec)}`
+src/script/ScriptContext.js:123 `Chapter ${n}`
+src/script/ScriptContext.js:131 `Script: unknown actor '${id}'`
+src/script/ScriptContext.js:202 ` ×${count}`
+src/script/ScriptContext.js:249 `<span class="hl">Objective</span> — ${text}`
+src/script/ScriptContext.js:263 `<span class="hl">${label}</span> — ${q[id].title}`
+src/script/ScriptContext.js:295 `Rest at ${innName} for ${price} gold? (You have ${this.state.gold})`
+src/state/Character.js:65 `${base.id}_${this.crest}_${sprite}_${shield ? 's' : ''}`
+src/story/ch1.js:79 `folk${i}` | `villager_${20 + i}`
+src/story/ch10.js:32 `c10_puppet_${actor?.def?.id || name}`
+src/story/ch10.js:34 `${name} has stopped mid-word. The smile is still there. Nothing behind it is.`
+src/story/ch10.js:134 `Clocks stopped: ${n} of 3.`
+src/story/ch11.js:25 `Recover the Sun Shards (${n}/7): ${left.map((k) => k.place).join(', ')}. Set a course with Corvin at the helm.`
+src/story/ch11.js:36 `Sun Shards: *${n} / 7*`
+src/story/ch11_remnants.js:38 `A bell of fused desert glass. It faces ${hour === 'morning' ? 'east, toward a sunrise that no longer comes' : hour === 'noon' ? 'straight u
+src/story/ch11_remnants.js:379 `The rod drinks the storm and goes quiet. (${done}/3 grounded)`
+src/story/ch11_rites.js:605 `${given} of seven. Keep looking — they hum, if you get close. A bit like a kettle thinking about it.`
+src/story/ch11_rites.js:611 `Oh, _lovely_. Hold still, little one — there. That\'s ${total} of seven on the chart.`
+src/story/ch12.js:151 `The dancers wait for a beat that never comes. (Sundials woken: ${dialsDone(s.state)}/3)`
+src/story/ch12.js:188 `Wake the remaining sundials (${n}/3 woken).`
+src/story/ch2_common.js:30 `Coach to ${dest.name}, the long way round the wold. Two days, forty gold, and you\'ll hear every one of my opinions.`
+src/story/ch2_common.js:31 `Ride to ${dest.name} for 40 gold? (You have ${s.state.gold})`
+src/story/ch2_thistle.js:142 `That\'s ${n} of three down. The big one in the north-east field — Old Strawman — he was my granddad\'s. Leave him for last.`
+src/story/ch3.js:794 `crowd${i}` | `villager_${40 + i}`
+src/story/ch3_battle.js:63 `hymn${Math.floor(c.turn / 3)}`
+src/story/ch3_battle.js:67 `vessel${Math.floor(c.turn / 6)}`
+src/story/ch3_side.js:76 `The ${note === 'mid' ? 'middle' : note} bell rings out${seq.length > 1 ? ', and the others answer faintly' : ''}.`
+src/story/ch3_side.js:96 `${n} of four. My heart is old, Page, but it is patient.`
+src/story/ch4a.js:263 `A ring of brass sockets, each the size of a fist. ${n ? ` | ` : 'Something used to sit in them'}.`
+src/story/ch4a.js:572 `Pay Corvin's debt? (You have ${s.state.gold} gold)`
+src/story/ch4a_mountain.js:202 `Three lilies, child. ${s.state.inventory.count('frost_lily') ? 'You\'ve found some — bless you. A few more.' : 'Off the trail, in the quiet
+src/story/ch4a_mountain.js:290 `${found.length} found! Still hiding: ${left.join(', ')}.`
+src/story/ch4a_mountain.js:319 `Found ${name}! (${n}/5)`
+src/story/ch4b_sky.js:93 `<span class="hl">Storm Cores</span> — ${k} of 3`
+src/story/ch4b_sky.js:524 `<span class="hl">Lift-pylons</span> — ${n} of 3 charged`
+src/story/ch4b_verdance.js:65 `${n} of three. Thank you. The Tangle is north, past Old Holm at the gate.`
+src/story/ch4b_verdance.js:234 `<span class="hl">Lost Saplings</span> — ${n} of 3 found`
+src/story/ch5.js:394 `A bronze lamp on a stone pedestal. Carved on its bowl: ${label}.`
+src/story/ch7.js:752 `${3 - done} still to go. Sorrel at the gate, Hollis in the garden, and the one for the Cathedral — leave it at the Lantern. Somebody up the
+src/story/ch8.js:159 `${n} found. ${5 - n} to go. They\'re _good_ at hiding. Boss taught us. "Somewhere nobody looks, which is everywhere, if you\'re small."`
+src/story/ch8.js:184 `Kites found: <span class="hl">${n} / 5</span>`
+src/story/ch8.js:718 `Pay Bram's debt of 1,500 gold? (You have ${s.state.gold})`
+src/story/ch8.js:755 `Three cogs. You\'ve got ${s.state.inventory.count('scrap_gear')}. The golems below keep \'em in their bellies.`
+src/story/ch8.js:793 `Enter ${next.name}?`
+src/story/ch9.js:585 `${name} limps off toward the mine head, following the rails up toward the cold.`
+src/story/ch9.js:592 `Miners found: ${saved} of 3.`
+src/story/ch9_side.js:34 `The card is the *${CARD_NAMES[card]}*. Higher, or lower?`
+src/story/ch9_side.js:44 `...the *${CARD_NAMES[next]}*.`
+src/story/ch9_side.js:158 `Sightlines so far: ${done} of 3. The world\'s waiting to be the right shape.`
+src/story/colosseum.js:99 `Down in round ${ROMAN[i]}! The crowd is on its feet — some of them are cheering.`
+src/story/colosseum.js:104 `Round ${ROMAN[i]} won. The arena medics patch you up (a quarter of HP and MP).`
+src/story/colosseum.js:127 `${c.name} (Lv ${c.lv})${cleared(s, c) ? ' ✓' : ''}`
+src/story/colosseum.js:128 `The ${next.name} opens later in your travels.`
+src/story/colosseum.js:138 `Enter the ${cup.name}? Three rounds; HP carries over.`
+src/story/colosseum.js:150 `The ${cup.name}, AGAIN! The crowd knows your names now. They are pronouncing them wrong, but with love.`
+src/story/colosseum.js:151 `Received *${earned}* Bell Tokens. (You have ${tokens(s)}.)`
+src/story/colosseum.js:160 `The ${cup.name} goes to my contenders! Did I not say? I said. Ask anyone.`
+src/story/colosseum.js:164 `Received *${earned}* Bell Tokens. (You have ${tokens(s)}.)`
+src/story/colosseum.js:166 `And the ${next.name} is open to you. Rest first. Or don't. The crowd prefers don't.`
+src/story/colosseum.js:174 `${s.state.inventory.itemName(id)}${n > 1 ? ` | ` : ''} — ${cost} Tokens`
+src/story/colosseum.js:175 `Bell Tokens: ${tokens(s)}`
+src/story/colosseum.js:178 `That's ${cost} Tokens. You have ${tokens(s)}. The ring is that way.`
+src/story/fishing.js:23 `You've landed *${species}* of the ${Object.keys(FISH).length} kinds of fish I know.`
+src/story/fishing.js:33 `Bring me ${REWARDS[given][0]} kinds and I'll make it worth your while.`
+src/story/hunt.js:96 `${n} kinds felled and written down. ${next ? ` | ` : 'More than I ever managed on my own.'}`
+src/story/hunt.js:109 `${m.name}: ${s.state.flags.hunt_keelhaven ? 'came through the Sundering. Someone saw it again out there.' : 'still out there, somewhere.'}`
+src/story/hunt.js:124 `${m.name}? Truly? Tell me everything. ...Everything. Slower. Here, for the Collegium's thanks, and mine.`
+src/story/hunt.js:135 `${n} marks. The Collegium would make you a ${r.title}, if there were still a Collegium. I'll make you one instead.`
+src/story/hunt.js:143 `${k.n} kinds of creature in the book. ${k.n >= 150 ? 'I had to start a second volume.' : 'That\'s more than most hunters see in a lifetime.
+src/story/hunt.js:159 `${m.approach} Scarred and thinner, but alive. It came through the Sundering like you did.`
+src/story/hunt.js:160 `${m.name}, a mark on Greer's Ledger.`
+src/story/hunt.js:165 `You come to some way off, bruised but whole. ${m.name} is still there. It didn't follow.`
+src/story/hunt.js:170 `We hunted ${m.name} in ${m.where}.`
+src/story/hunt.js:172 `Mark felled. Tell Greer Thackery. (${left} still open on the Ledger.)`
+src/story/lost.js:85 `Lost Crest: ${CRESTS[id].name}`
+src/story/lost.js:116 `The *${CRESTS[id].name}* is a Lost Calling — set it under *Crests* like any other. ${L.giver} would like to know.`
+src/story/postgame.js:185 `THE TALLY — Names known: *${t.named}* of ${t.total} (${t.pct}%)`
+src/story/postgame.js:186 `Crests mastered: *${t.mastered}* — ${t.per.map(([n, k]) => ` | `).join(' · ')}`
+src/story/postgame.js:189 `Deepest stair: *B${t.deepest}* of ${FLOORS} · Echo Colosseum: ${t.rank ? ` | ` : 'unranked'}`
+src/story/postgame.js:190 `The First Dark: ${s.flag('pg_first_dark') ? 'given an edge' : 'unnamed'} · Lysa: ${s.flag('pg_lysa_done') ? 'found' : 'still hiding'}`
+src/story/postgame.js:211 `${nextName.pct}% of the Bestiary`
+src/story/postgame.js:212 `${nextCrest.n} Crest${nextCrest.n > 1 ? 's' : ''} mastered`
+src/story/postgame.js:213 `Nothing new for the ledger. Come back at ${hints.join(', or ')}. I\'ll have something put by.`
+src/story/postgame.js:264 `Deepest stair you\'ve reached: B${deep}. ${deep >= FLOORS ? 'All of it. Show-off.' : 'The bottom\'s at thirty. Probably. I drew it at thirt
+src/story/postgame.js:330 `Rank ${ROMAN[rank]}! The odds on you are terrible now. Terrible for me. Everyone bets on you.`
+src/story/postgame.js:367 `Down to B${n}`
+src/story/postgame.js:504 `You have found ${found} of her chalk marks below.`
+src/story/postgame.js:538 `Chalk marks found: ${found} / ${CHALK_FLOORS.length}`
+src/story/postgame.js:579 `${HIDING_SPOTS[spot].empty} From somewhere across the square, a small voice: ${hint}`
+src/story/postgame.js:668 `Rank ${ROMAN[i + 1]} — ${r.name} (Lv ${r.lv})${i < cleared ? ' ✓' : ''}`
+src/story/prologue.js:56 `${keyCap('menu')} / <span class="key">Esc</span> opens the menu · hold ${keyCap('run')} to run`
+src/story/side.js:51 `${b.name}. Confirmed. The Lodge thanks you — here's what was posted.`
+src/story/side.js:58 `${b.name} — Lv ${b.level}${tag}`
+src/story/side.js:65 `${b.name}'s already paid out. Its pelt's on the wall. Well. Its something's on the wall.`
+src/story/side.js:67 `${b.name}: ${b.where}. It's still out there.`
+src/story/side.js:69 `*${b.name}* (Lv ${b.level}) — ${b.where}.` | `Pays ${b.gold} gold and something extra.`
+src/story/side.js:72 `side_b_${b.id}` | `Bounty: ${b.name}` | `Hunt ${b.name} — ${b.where}. Return to the bounty board for the reward.`
+src/story/side.js:108 `*${b.name}* blocks the way!`
+src/story/side.js:112 `side_b_${b.id}` | `${b.name} is slain. Claim the reward at the bounty board.`
+src/story/side.js:113 `${b.name} is slain! Return to the bounty board to claim the reward.`
+src/story/side.js:130 `The ${tone} chime rings out through the inverted nave.`
+src/ui/Fishing.js:31 `${zoneStart * 100}%`
+src/ui/Fishing.js:32 `${zone * 100}%`
+src/ui/Fishing.js:34 `${'◆'.repeat(hits)}${'◇'.repeat(3 - hits)} <span class="fs-miss">${'✕'.repeat(misses)}</span>`
+src/ui/Fishing.js:45 `Caught a <span class="hl">${fish.name}</span>!${log[fishId] === 1 ? ' (New!)' : ''}`
+src/ui/Fishing.js:64 `${pos * 100}%`
+src/ui/Fishing.js:75 `Landed a <b>${fish.name}</b>!`
+src/ui/SceneHints.js:72 `<span class="sh-item">${keyCap('confirm')} Next</span><span class="sh-item">${keyCap('up')} Backlog</span>`
+src/ui/SceneHints.js:73 `<span class="sh-item sh-fast ${fast ? 'on' : ''}">${keyCap('fast')} ${fast ? ` | ` : 'Fast'}</span>`
+src/ui/SceneHints.js:76 `<span class="sh-item sh-skip"><i style="width:${pct}%"></i><span>Hold ${keyCap('menu')} Skip scene</span></span>`
+src/ui/Tutorial.js:39 `<div class="tut-kicker">Tutorial</div><div class="tut-title">${t.title}</div>`
+src/ui/Tutorial.js:40 `<p>${richText(p).replace(/\{key:(\w+)\}/g, (_, a) => keyCap(a))}</p>`
+src/ui/Tutorial.js:41 `<div class="tut-foot"><span>Guide → ${t.guide}</span><span>${keyCap('confirm')} Continue</span></div>`
+src/ui/UI.js:128 `<div class="area-title">${title}</div>${subtitle ? `
+src/ui/UI.js:147 `<div class="cc-sub">${subtitle}</div><div class="cc-title">${title}</div><div class="cc-rule"></div>${line ? `
+src/ui/UI.js:161 `<div class="msg-body">${html}</div><div class="msg-hint">▼</div>`
+src/ui/UI.js:193 `dialogue-box ${opts.style || ''}`
+src/ui/UI.js:335 `<div class="bl-row ${h.style || ''}">${h.speaker ? ` | ` : ''}<span class="bl-text">${richText(h.text)}</span></div>`
+src/ui/UI.js:336 `<div class="panel bl-panel"><div class="bl-title">Backlog</div><div class="bl-list">${rows}</div><div class="bl-hint">${keyCap('up')}${keyC
+src/ui/menu/ArtsScreen.js:48 `Arts — ${ch.name}` | `${KEYS.nav} ${KEYS.back} ${KEYS.swap}`
+src/ui/menu/ArtsScreen.js:59 `<span class="am">★${e.stars}</span>`
+src/ui/menu/ArtsScreen.js:60 `<span class="amp">${s.mp} MP</span>`
+src/ui/menu/ArtsScreen.js:61 `<span class="ci" style="color:${c.color}">${c.icon}</span><span class="an ${e.slot === 'other' || e.locked ? 'locked' : ''}">${e.locked ? '
+src/ui/menu/ArtsScreen.js:83 `Mastery Art — ★${e.stars}` | `Rank ${e.rank}`
+src/ui/menu/ArtsScreen.js:87 `<div class="art-state no">Unlocks at ${c.name} ★${e.stars} — ${need} CP to go${ch.rankOf(e.crest) < 10 ? ' (master the Crest first)' : ''}<
+src/ui/menu/ArtsScreen.js:89 `<div class="art-state no">Equip ${c.name} as primary or secondary Crest to use it in battle.</div>`
+src/ui/menu/ArtsScreen.js:91 `<div class="art-state ok">Usable in battle (${e.slot} Crest).</div>`
+src/ui/menu/ArtsScreen.js:97 `<ul class="art-fx-list">${d.effects.map((x) => ` | `).join('')}</ul>`
+src/ui/menu/CompendiumScreen.js:20 `<span class="cp-elem" style="color:${ELEM_ICONS[e]?.[1] || 'inherit'}">${ELEM_ICONS[e]?.[0] || ''} ${e}</span>`
+src/ui/menu/CompendiumScreen.js:40 `Compendium — ${all.seen} recorded · ${all.defeated} felled of ${all.total} (${pct}%)`
+src/ui/menu/CompendiumScreen.js:41 `${KEYS.nav} ${keyCap('pageLeft')}${keyCap('pageRight')} Section ${KEYS.back}`
+src/ui/menu/CompendiumScreen.js:74 `<span class="cp-no">${entryNo(it.no)}</span><span class="in dim">???</span>`
+src/ui/menu/CompendiumScreen.js:76 `<span class="cp-no">${entryNo(it.no)}</span><span class="in">${it.def.name}</span>${tag}<span class="cnt">${r.defeated ? ` | ` : '<span cla
+src/ui/menu/CompendiumScreen.js:85 `<div class="cd-name">???</div><div class="cd-tier">${entryNo(it.no)}</div><div class="cd-desc dim">Not yet recorded. Something is out there
+src/ui/menu/CompendiumScreen.js:101 `${elem(el2)} ${m < 0 ? 'absorbs' : m === 0 ? 'immune' : `
+src/ui/menu/CompendiumScreen.js:112 `${inv.itemName(id)} <span class="dim">(${rarity(c)})</span>`
+src/ui/menu/CompendiumScreen.js:113 `${inv.itemName(e.steal[0])}${e.steal[1] && e.steal[1] !== e.steal[0] ? `
+src/ui/menu/CompendiumScreen.js:117 `<ul class="cp-tactics">${tacticsOf(e).map((t) => ` | `).join('')}</ul>`
+src/ui/menu/CompendiumScreen.js:118 `<div class="dim cp-tactics-locked">Fell ${e.boss || e.mark ? 'it' : ` | `} to learn how it fights. (${r.defeated || 0}/${e.boss || e.mark ?
+src/ui/menu/ControlsScreen.js:26 `Press a key for <b>${ACTIONS[this.row].label}</b> · <span class="key">Del</span> Clear · <span class="key">Esc</span> Cancel`
+src/ui/menu/ControlsScreen.js:27 `${keyCap('up')}${keyCap('down')}${keyCap('left')}${keyCap('right')} Choose ${keyCap('confirm')} Change key <span class="key">Esc</span> Bac
+src/ui/menu/ControlsScreen.js:35 `<span class="ctl-key ${sel ? 'sel' : ''} ${sel && this.listening ? 'listening' : ''} ${code ? '' : 'empty'}">${text}</span>`
+src/ui/menu/ControlsScreen.js:37 `ctl-row ${r === this.row ? 'cur' : ''}` | `<span class="ctl-label">${a.label}</span><span class="ctl-keys">${cells}</span>`
+src/ui/menu/ControlsScreen.js:39 `ctl-row ctl-reset ${this.row === RESET_ROW ? 'cur sel' : ''}`
+src/ui/menu/ControlsScreen.js:73 `${ACTIONS[this.row].label} needs at least one key.`
+src/ui/menu/ControlsScreen.js:76 `${keyName(code)} can't be bound.`
+src/ui/menu/ControlsScreen.js:81 `${keyName(code)} is ${other.label}'s only key.`
+src/ui/menu/CrestScreen.js:59 `Crests — ${ch.name}` | `${KEYS.nav} ${keyCap('left')}${keyCap('right')} Scroll ${KEYS.ok} ${KEYS.back} ${KEYS.swap}`
+src/ui/menu/CrestScreen.js:70 `<span class="pips stars">${starText(ch.starsOf(e.id))}</span>`
+src/ui/menu/CrestScreen.js:71 `<span class="pips">${'◆'.repeat(e.rank)}${'◇'.repeat(MAX_RANK - e.rank)}</span>`
+src/ui/menu/CrestScreen.js:72 `<span class="ci" style="color:${e.c.color}">${e.c.icon}</span><span class="cn ${e.known ? '' : 'locked'}">${e.known ? e.c.name : e.c.tier =
+src/ui/menu/CrestScreen.js:121 `<div class="cd-name" style="color:${c.color}">${c.icon} ${c.name}</div><div class="cd-tier">${TIER_NAMES[c.tier]}</div>`
+src/ui/menu/CrestScreen.js:122 `<div class="cd-desc">${c.desc}</div>`
+src/ui/menu/CrestScreen.js:126 `<span class="${have >= n ? 'ok' : 'no'}">${CRESTS[r].name} R${n} (${have})</span>`
+src/ui/menu/CrestScreen.js:132 `<div class="cd-stat"><span>${STAT_NAMES[k]}</span><div class="cd-statbar"><i class="${pct >= 0 ? 'up' : 'down'}" style="width:${Math.min(10
+src/ui/menu/CrestScreen.js:135 `<div class="cd-gear">Weapons: ${c.weapons.map((w) => WEAPON_TYPES[w].name).join(', ')}<br>Armor: ${c.armor.join(', ')}${c.shield ? ', shiel
+src/ui/menu/CrestScreen.js:136 `<div class="cd-prog">Rank ${prog.rank} — ${prog.need} CP to next<div class="mbar exp"><i style="width:${prog.frac * 100}%"></i></div></div>
+src/ui/menu/CrestScreen.js:139 `<div class="cd-prog">MASTERED · Ascension <span class="cd-stars">${starText(asc.stars)}</span>${asc.need ? ` | ` : ''}<div class="mbar exp 
+src/ui/menu/CrestScreen.js:143 `<div class="cd-legacy ${have ? 'have' : ''}"><span class="k">Legacy</span> ${c.legacy.desc} <span class="dim">${have ? '— yours, whatever y
+src/ui/menu/CrestScreen.js:146 `<div class="cd-legacy asc dim">Each ★: all stats +${STAR_STATS}% as Primary, this Crest's Arts +${STAR_ARTS}%; ${MAX_STARS}★ adds a Support
+src/ui/menu/CrestScreen.js:155 `${art.mp} MP`
+src/ui/menu/CrestScreen.js:156 `<div class="art-line">${d.line}</div>${d.effects.length ? `
+src/ui/menu/CrestScreen.js:157 `<div class="cd-rank ${learned ? 'learned' : ''} ${extra}"><span class="r">${label}</span><span class="k">${kind}</span><span class="n">${sh
+src/ui/menu/CrestScreen.js:193 `Unequipped: ${removed.map((id) => this.state.inventory.itemName(id)).join(', ')}`
+src/ui/menu/CrestScreen.js:213 `Supports — ${ch.name}` | `${KEYS.nav} ${keyCap('confirm')} Equip/Remove ${KEYS.back} ${KEYS.swap}`
+src/ui/menu/CrestScreen.js:217 `Support Points <b>${used}</b> / ${budget}<div class="sp-pips">${'●'.repeat(used)}${'○'.repeat(Math.max(0, budget - used))}</div>`
+src/ui/menu/CrestScreen.js:223 `<span class="chk">${it.on ? '◆' : '◇'}</span><span class="pn">${it.p.name}</span><span class="pc">${'●'.repeat(it.p.cost)}</span>`
+src/ui/menu/EquipScreen.js:22 `Equipment — ${ch.name}` | `${KEYS.nav} ${KEYS.ok} ${KEYS.back} ${KEYS.swap} ${keyCap('info')} Optimize`
+src/ui/menu/EquipScreen.js:27 `<div class="pc-name">${ch.name}</div><div class="dim">${CRESTS[ch.crest].name}</div>`
+src/ui/menu/EquipScreen.js:33 `<span class="es">${SLOT_NAMES[it.slot]}</span><span class="ei">${it.id ? EQUIPMENT[it.id].name : '<span class="dim">—</span>'}</span>`
+src/ui/menu/EquipScreen.js:64 `<div class="sd-title">Stats</div>${statDiffHtml(before, after)}`
+src/ui/menu/EquipScreen.js:76 `Tier ${d.tier}`
+src/ui/menu/EquipScreen.js:77 `<div class="cd-name">${d.name}</div><div class="cd-tier">${bits.join(' · ')}</div><div class="cd-desc">${d.desc || ''}</div>`
+src/ui/menu/EquipScreen.js:87 `<span class="ei">${it.def.name}</span><span class="cnt">×${it.n}</span>`
+src/ui/menu/EquipScreen.js:91 `<div class="sd-title">${SLOT_NAMES[slot]}</div>`
+src/ui/menu/MainMenu.js:36 `<span class="mi-icon">${c.icon}</span>${c.label}`
+src/ui/menu/MainMenu.js:74 `Chapter ${this.state.chapter}`
+src/ui/menu/SaveScreen.js:24 `${KEYS.nav} ${KEYS.ok} ${keyCap('info')} Export / Import ${KEYS.back}`
+src/ui/menu/SaveScreen.js:38 `<div class="sv-slot"><span class="sv-n">${it.label}</span><span class="dim">— ${it.auto ? 'No autosave yet' : 'Empty'} —</span></div>`
+src/ui/menu/SaveScreen.js:42 `Chapter ${s.chapter}`
+src/ui/menu/SaveScreen.js:89 `Overwrite slot ${it.slot + 1}?`
+src/ui/menu/SaveScreen.js:94 `Saved to slot ${it.slot + 1}.`
+src/ui/menu/SaveScreen.js:101 `autosave ${it.label}` | `slot ${it.slot + 1}`
+src/ui/menu/SaveScreen.js:106 `Save file for ${name}`
+src/ui/menu/SaveScreen.js:115 `slot${it.slot + 1}`
+src/ui/menu/SaveScreen.js:116 `afterlight-${label}-${where}-${new Date(s.savedAt).toISOString().slice(0, 10)}.json`
+src/ui/menu/SaveScreen.js:118 `Exported ${it.auto ? ` | `slot ${it.slot + 1}`
+src/ui/menu/SaveScreen.js:124 `Slot ${it.slot + 1} already has a save. Replace it?`
+src/ui/menu/SaveScreen.js:137 `Imported into slot ${it.slot + 1}.`
+src/ui/menu/ShopScreen.js:34 `${KEYS.nav} ${KEYS.ok} ${KEYS.back} ${keyCap('pageLeft')}${keyCap('pageRight')} Buy/Sell`
+src/ui/menu/ShopScreen.js:35 `<span class="${this.tab === 0 ? 'on' : ''}">Buy</span><span class="${this.tab === 1 ? 'on' : ''}">Sell</span><span class="gold">${this.stat
+src/ui/menu/ShopScreen.js:41 `<span class="in">${it.d.name}</span><span class="cnt dim">${it.have ? ` | ` : ''}</span><span class="price ${this.tab === 0 && it.price > t
+src/ui/menu/ShopScreen.js:56 `<div class="cd-name">${d.name}</div><div class="cd-desc">${richText(d.desc || '')}</div>`
+src/ui/menu/ShopScreen.js:58 `${k.toUpperCase()} +${d[k]}`
+src/ui/menu/ShopScreen.js:59 `<div class="sh-stats">${bits.join(' · ')}</div><div class="sh-who">`
+src/ui/menu/ShopScreen.js:65 `<div class="sh-mem ${can ? '' : 'no'}" data-look="${ch.id}"><span class="nm">${ch.name}</span><span class="${delta > 0 ? 'up' : delta < 0 ?
+src/ui/menu/ShopScreen.js:69 `<div class="sh-qty">Quantity: <b>◂ ${this.qty} ▸</b> &nbsp; Total: <b>${this.qty * it.price} G</b><div class="dim">Z to confirm, X to cance
+src/ui/menu/ShopScreen.js:112 `The ${this.state.crestName(it.d.crest)} Crest is now available to everyone.`
+src/ui/menu/common.js:19 `listview ${cls}`
+src/ui/menu/common.js:35 `<div class="lv-empty">${this.empty}</div>`
+src/ui/menu/common.js:42 `<div class="lv-row ${sel ? 'sel' : ''} ${it?.disabled ? 'off' : ''}">${this.renderItem(it, i, sel)}</div>`
+src/ui/menu/common.js:65 `menu-screen ${cls}`
+src/ui/menu/common.js:83 `<div class="mbar ${cls}"><i style="width:${pct}%"></i></div>`
+src/ui/menu/common.js:95 `pcard ${selected ? 'sel' : ''} ${active ? '' : 'reserve'}`
+src/ui/menu/common.js:102 ` ★${ch.starsOf(ch.crest)}` | ` <span class="pc-sec">/ ${CRESTS[ch.secondary].name}</span>`
+src/ui/menu/common.js:120 `<div class="sd-row"><span class="sd-k">${STAT_LABELS[k]}</span><span class="sd-v">${a}</span>${after ? ` | ` : ''}</div>`
+src/ui/menu/common.js:125 `<div class="ms-header"><div class="ms-title">${title}</div><div class="ms-hint">${hint}</div></div>`
+src/ui/menu/common.js:130 `${keyCap('up')}${keyCap('down')} Select`
+src/ui/menu/common.js:131 `${keyCap('confirm')} Confirm`
+src/ui/menu/common.js:132 `${keyCap('cancel')} Back`
+src/ui/menu/common.js:133 `${keyCap('pageLeft')}${keyCap('pageRight')} Character`
+src/ui/menu/screens.js:37 `${KEYS.nav} ${keyCap('confirm')} Use ${KEYS.back} ${keyCap('pageLeft')}${keyCap('pageRight')} Category`
+src/ui/menu/screens.js:38 `<span class="${i === this.tab ? 'on' : ''}">${t.label}</span>`
+src/ui/menu/screens.js:47 `<span class="ii">${it.def.icon || '◇'}</span><span class="in">${it.def.name}</span><span class="cnt">×${it.n}</span>`
+src/ui/menu/screens.js:61 `<div class="cd-name">${it.def.name}</div><div class="cd-desc">${richText(it.def.desc || '')}</div>${it.def.sell || it.def.price ? `
+src/ui/menu/screens.js:134 `Status — ${ch.name}` | `${KEYS.back} ${KEYS.swap}`
+src/ui/menu/screens.js:140 `<div class="sd-title">Attributes</div>${statDiffHtml(s, null)}`
+src/ui/menu/screens.js:146 `<span class="pips stars">${starText(ch.starsOf(id))}</span>` | `<span class="pips">${'◆'.repeat(r)}${'◇'.repeat(MAX_RANK - r)}</span>`
+src/ui/menu/screens.js:147 `<div class="st-crest"><span style="color:${c.color}">${c.icon} ${c.name}</span>${pips}</div>`
+src/ui/menu/screens.js:152 `<div class="st-legacy"><span style="color:${CRESTS[id].color}">${CRESTS[id].icon}</span> ${CRESTS[id].legacy.desc}</div>`
+src/ui/menu/screens.js:155 `<div class="dim">◆ ${p}</div>`
+src/ui/menu/screens.js:163 `◆ ${PASSIVES[id].name}`
+src/ui/menu/screens.js:187 `${KEYS.nav} ${keyCap('confirm')} Pick / Swap ${KEYS.back} — the first ${ACTIVE_PARTY_SIZE} fight; the rest earn half EXP.`
+src/ui/menu/screens.js:235 `${Math.round(s.musicVolume * 100)}%`
+src/ui/menu/screens.js:236 `${Math.round(s.sfxVolume * 100)}%`
+src/ui/menu/screens.js:237 `${Math.round((s.voiceVolume ?? 0.8) * 100)}%`
+src/ui/menu/screens.js:249 `Fast Mode (${keysFor('fast')[0] ?? '—'})`
+src/ui/menu/screens.js:250 `${s.fastSpeed || 3}×`
+src/ui/menu/screens.js:261 `${keyCap('up')}${keyCap('down')} Select ${keyCap('left')}${keyCap('right')} Change ${keyCap('cancel')} Back`
+src/ui/menu/screens.js:263 `set-row ${i === this.index ? 'sel' : ''}` | `<span>${o.label}</span><span class="set-v">${o.open ? ` | `◂ ${o.value} ▸`
+src/ui/menu/screens.js:309 ` <span class="jn-where">◆ ${name}</span>`
+src/ui/menu/screens.js:311 `<div class="jn-q ${q.status}"><span>${q.status === 'done' ? '✔' : '◆'}</span> <b>${q.title}</b>${q.status === 'done' ? '' : ` | `}</div>`
+src/ui/menu/screens.js:360 `${KEYS.nav} ${KEYS.back}`
+src/world/FieldScene.js:129 `${this.mapId}: arrival (${x},${y}) is off the ${g.w}x${g.h} map`
+src/world/FieldScene.js:280 `chest:${this.mapId}:${c.id ?? `
+src/world/FieldScene.js:424 `${MOUNT.name} won't come here — only on open roads and in the wilds.`
+src/world/FieldScene.js:578 `trig:${this.mapId}:${t.id ?? `
+src/world/FieldScene.js:592 `<span class="hl">Hearthstone attuned</span> — travel back to ${this.map.name} from the world map (Menu → Travel).`
+src/world/FieldScene.js:610 `danger ${r < 0.3 ? 'high' : r < 0.6 ? 'mid' : ''}`
+src/world/FieldScene.js:902 `${keyCap('confirm')} ${label}`
+src/world/MapBuilder.js:490 `map.scatter = { types: ['rock_small', 'mushroom_glow'], density: 0.05, seed }`
+src/world/Minimap.js:30 `<b>${field.map.name || ''}</b><span>${field.map.region || ''}</span>`
+src/world/Minimap.js:35 `<span>${s}</span>` | `<span class="mm-close">${keyCap('map')} Close</span>`
+src/world/Minimap.js:142 `${p.x.toFixed(1)},${p.z.toFixed(1)},${p.dir}|${quest.map((q) => ` | `).join(';')}`
+src/world/QuestMarkers.js:69 `Quest guide: no open way from ${f.mapId} to ${[...new Set(targets.map((t) => t.map))].join(' / ')} for "${text}"`
+src/world/QuestMarkers.js:71 `Travel to <b>${r.node?.name || 'your destination'}</b> on the world map (Menu → Travel).`
+src/world/QuestMarkers.js:74 `Out to the world map, then on to <b>${r.node.name}</b>.`
+src/world/QuestMarkers.js:85 `<div class="qt-head">Objective</div><div class="qt-text">${richText(text)}</div>${note ? `
+src/world/QuestMarkers.js:156 `translate(-50%, -50%) rotate(${angle}rad)`
+src/world/WorldMapScene.js:73 `${keyCap('left')}${keyCap('up')}${keyCap('down')}${keyCap('right')} Choose · ${keyCap('confirm')} Travel · ${keyCap('cancel')} Close`
+src/world/WorldMapScene.js:179 `${n.id} ${n.region || ''}`
+src/world/WorldMapScene.js:209 `<b class="wm-stones">◆${this.stones[i].length}</b>`
+src/world/WorldMapScene.js:211 `wm-node ${nodeKind(n)}${this.isHere(n) ? ' here' : ''}${quest}${side}` | `<i></i><span>${n.name}${stones}</span>`
+src/world/WorldMapScene.js:224 `<div class="wm-side-list">◆ Side quests: ${sides.join(' · ')}</div>`
+src/world/WorldMapScene.js:225 `<div class="wm-stone-list">Hearthstones: ${this.stones[this.index].map((s) => s.name).join(' · ')}</div>`
+src/world/WorldMapScene.js:227 `<div class="cd-name">${n.name}</div><div class="cd-tier">${n.region || ''}</div><div class="cd-desc">${n.desc || ''}</div>${stones}${quest}
+src/world/WorldMapScene.js:248 `<div class="wm-dest${i === this.picker.index ? ' sel' : ''}"><span>${d.name}</span><em>${d.sub}</em></div>`
+src/world/WorldMapScene.js:249 `<div class="cd-name">Travel to…</div>${rows}`
+src/world/WorldMapScene.js:317 `${((from.x + (to.x - from.x) * k) / 1000) * 100}%`
+src/world/WorldMapScene.js:318 `${((from.y + (to.y - from.y) * k) / 750) * 100}%`
