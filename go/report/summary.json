@@ -1,0 +1,26 @@
+{
+ "dictKeys": 7824,
+ "files": 349,
+ "literals": 69389,
+ "tpl": 577,
+ "tplInDict": 0,
+ "str": 7059,
+ "tplChunks": 10,
+ "stChunks": 81,
+ "byDir": {
+  "src/audio": 13,
+  "src/battle": 112,
+  "src/core": 28,
+  "src/data": 5436,
+  "src/debug": 9,
+  "src/main.js": 6,
+  "src/render": 10,
+  "src/scenes": 19,
+  "src/script": 17,
+  "src/state": 10,
+  "src/story": 1635,
+  "src/ui": 278,
+  "src/world": 62,
+  "src/i18n": 1
+ }
+}
