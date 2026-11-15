@@ -8,7 +8,6 @@ battle/BattleUI.js	15	143	0
 core/Input.js	26	44	0
 data/artInfo.js	17	13	0
 data/content/ch11.js	11	500	0
-data/content/ch12.js	33	425	0
 data/content/ch2.js	41	223	0
 data/content/ch3.js	47	275	0
 data/content/ch4a.js	84	362	0
