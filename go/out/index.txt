@@ -20,8 +20,7 @@ data/content/ch9.js	77	319	0
 data/content/colosseum.js	44	194	0
 data/content/postgame_battle.js	19	391	0
 data/content/side.js	178	508	0
-data/fish.js	32	9	0
-data/hunt.js	52	65	0
+data/hunt.js	12	65	0
 data/maps/bc_bellring.js	13	21	1
 data/maps/ch10_evernoon.js	46	74	0
 data/maps/ch10_spire.js	29	66	0
@@ -45,7 +44,7 @@ data/maps/ch4b_stormcrown.js	31	134	0
 data/maps/ch4b_verdance.js	27	109	1
 data/maps/ch5_dungeons.js	11	61	0
 data/maps/ch5_lanternfall.js	38	85	1
-data/maps/ch6_shards.js	70	137	2
+data/maps/ch6_shards.js	69	137	2
 data/maps/ch7_aurenne.js	67	80	1
 data/maps/ch7_undercroft.js	15	82	0
 data/maps/ch8_kiteholm.js	67	88	0

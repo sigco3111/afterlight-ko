@@ -1,16 +1,14 @@
-기존 사전 키: 10427
-페이로드 b15: 72키 누적
-이번 반영: 72
-미수록 텍스트 후보: 4621 (제외 추정 코드 18204, 여러 줄 24)
+기존 사전 키: 10499
+페이로드 b17: 53키 누적
+이번 반영: 53
+미수록 텍스트 후보: 4548 (제외 추정 코드 18195, 여러 줄 24)
 상위 폴더별:
-  data/maps	3094
+  data/maps	3093
   data/content	802
   story/ch11_remnants.js	125
   story/lost.js	53
-  data/hunt.js	52
   data/skills.js	46
   ui/menu	42
-  data/fish.js	32
   core/Input.js	26
   story/ch2_port.js	26
   data/monsterInfo.js	21
@@ -23,6 +21,7 @@
   battle/BattleUI.js	15
   story/ch4a.js	15
   story/colosseum.js	13
+  data/hunt.js	12
   story/ch4b.js	12
   data/tutorials.js	11
   story/ch8.js	11
