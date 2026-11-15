@@ -1,0 +1,18 @@
+{
+ "sha": "f5e48657f3555764527ebb179b29ee759ef0ab48",
+ "report": 577,
+ "entries": 113,
+ "skipped": 0,
+ "skippedIds": [],
+ "partial": [
+  "src/ui/Fishing.js:45 missing 1/1",
+  "src/ui/Fishing.js:75 missing 1/1",
+  "src/ui/menu/ControlsScreen.js:26 missing 3/3",
+  "src/ui/menu/ControlsScreen.js:27 missing 1/3",
+  "src/ui/menu/CrestScreen.js:237 missing 1/2",
+  "src/world/FieldScene.js:592 missing 1/1",
+  "src/world/Minimap.js:35 missing 1/1",
+  "src/world/QuestMarkers.js:71 missing 1/1",
+  "src/world/QuestMarkers.js:74 missing 1/1"
+ ]
+}
