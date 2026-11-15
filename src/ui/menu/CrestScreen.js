@@ -133,14 +133,14 @@ export class CrestScreen extends MemberScreen {
     if (prog && prog.need) html += fmt('<div class="cd-prog">Rank {0} — {1} CP to next<div class="mbar exp"><i style="width:{2}%"></i></div></div>', prog.rank, prog.need, prog.frac * 100);
     else if (prog) {
       const asc = ch.ascendProgress(e.id);
-      html += fmt('<div class="cd-prog">MASTERED · Ascension <span class="cd-stars">{0}</span>{1}<div class="mbar exp asc"><i style="width:{2}%"></i></div></div>', starText(asc.stars), asc.need ? ` — ${asc.need} CP to ★${asc.stars + 1}` : '', asc.frac * 100);
+      html += fmt('<div class="cd-prog">MASTERED · Ascension <span class="cd-stars">{0}</span>{1}<div class="mbar exp asc"><i style="width:{2}%"></i></div></div>', starText(asc.stars), asc.need ? fmt(' — {0} CP to ★{1}', asc.need, asc.stars + 1) : '', asc.frac * 100);
     }
     if (c.legacy) {
       const have = e.rank >= MAX_RANK;
       html += fmt('<div class="cd-legacy {0}"><span class="k">Legacy</span> {1} <span class="dim">{2}</span></div>', have ? 'have' : '', c.legacy.desc, have ? '— yours, whatever you wear' : '— on mastery, whatever you wear');
       if (have) {
         const stars = ch.starsOf(e.id);
-        html += fmt('<div class="cd-legacy asc dim">Each ★: all stats +{0}% as Primary, this Crest\'s Arts +{1}%; {2}★ adds a Support Point.{3}</div>', STAR_STATS, STAR_ARTS, MAX_STARS, stars ? ` Now: stats +${stars * STAR_STATS}%, Arts +${stars * STAR_ARTS}%.` : '');
+        html += fmt('<div class="cd-legacy asc dim">Each ★: all stats +{0}% as Primary, this Crest\'s Arts +{1}%; {2}★ adds a Support Point.{3}</div>', STAR_STATS, STAR_ARTS, MAX_STARS, stars ? fmt(' Now: stats +{0}%, Arts +{1}%.', stars * STAR_STATS, stars * STAR_ARTS) : '');
       }
     }
     html += '<div class="cd-ranks">';

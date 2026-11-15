@@ -246,7 +246,7 @@ export class WorldMapScene {
   }
 
   pickerHtml() {
-    const rows = this.picker.dests.map((d, i) => `<div class="wm-dest${i === this.picker.index ? ' sel' : ''}"><span>${d.name}</span><em>${d.sub}</em></div>`).join('');
+    const rows = this.picker.dests.map((d, i) => fmt('<div class="wm-dest{0}"><span>{1}</span><em>{2}</em></div>', i === this.picker.index ? ' sel' : '', d.name, d.sub)).join('');
     return fmt('<div class="cd-name">Travel to…</div>{0}', rows);
   }
 
