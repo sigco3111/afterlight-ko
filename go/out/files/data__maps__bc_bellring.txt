@@ -10,4 +10,3 @@
 10	The pies are the most dangerous thing here.
 11	Between rounds we give you back a quarter of your strength. Any more and Mr. Brass says it isn't sport.
 12	Lose a cup and we patch everything. Free. It's the only free thing in Aurenne.
-13	@world

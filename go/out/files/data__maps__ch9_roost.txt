@@ -47,24 +47,23 @@
 47	The lift winch. A chalk tally on its housing counts the people who went down to the Boneyard this year. A second tally counts the ones who came up. The second one is shorter.
 48	The stocks. Someone has carved, very small, into the wood: THE GOAT WAS A DOG.
 49	Lift's chained. Mags has the key.
-50	@world
-51	Not yet. We came here for a ship.
-52	You... got a coil. Out of the Boneyard.
-53	...Go show Mags. She'll be insufferable. Let her.
-54	Mags. Wreck. Up the canyon. I'm not coming.
-55	Don't look at me like that, sparrow. Your mother used to look at me like that.
-56	Inn
-57	Beds upstairs. Two hundred. The Captain's old room's free — first time in a year he isn't sleeping on my bar.
-58	Beds upstairs, two hundred a night. Breakfast is whatever Marta caught. Don't ask what.
-59	the Last Call
-60	Zzz... five more minutes...
-61	...five more years...
-62	Bottles, labeled in Tuck's square hand: NOT FOR CORVIN. One new label, the ink still wet: STILL NOT FOR CORVIN. GOOD.
-63	Bottles, mostly empty, all labeled in Tuck's square hand: NOT FOR CORVIN.
-64	A card table. The felt is worn through in exactly one place: where the dealer's left hand rests.
-65	Debits on the left, credits on the right. Debtors on the carpet.
-66	Madam Quill has never once been wrong about a number. She's been wrong about people. Twice. She keeps a ledger of that too.
-67	Ledgers to the ceiling, each spine labeled with a year. The newest are labeled only: AFTER.
-68	A ledger lies open to a page near the back. There is a tidy gap where one page was torn out.
-69	A ledger lies open to a page near the back, worn soft with handling. ASHE, C. The column of figures runs to the bottom and over the page.
-70	A small statue of a woman holding scales. Someone has balanced a coin on each pan. They are perfectly level.
+50	Not yet. We came here for a ship.
+51	You... got a coil. Out of the Boneyard.
+52	...Go show Mags. She'll be insufferable. Let her.
+53	Mags. Wreck. Up the canyon. I'm not coming.
+54	Don't look at me like that, sparrow. Your mother used to look at me like that.
+55	Inn
+56	Beds upstairs. Two hundred. The Captain's old room's free — first time in a year he isn't sleeping on my bar.
+57	Beds upstairs, two hundred a night. Breakfast is whatever Marta caught. Don't ask what.
+58	the Last Call
+59	Zzz... five more minutes...
+60	...five more years...
+61	Bottles, labeled in Tuck's square hand: NOT FOR CORVIN. One new label, the ink still wet: STILL NOT FOR CORVIN. GOOD.
+62	Bottles, mostly empty, all labeled in Tuck's square hand: NOT FOR CORVIN.
+63	A card table. The felt is worn through in exactly one place: where the dealer's left hand rests.
+64	Debits on the left, credits on the right. Debtors on the carpet.
+65	Madam Quill has never once been wrong about a number. She's been wrong about people. Twice. She keeps a ledger of that too.
+66	Ledgers to the ceiling, each spine labeled with a year. The newest are labeled only: AFTER.
+67	A ledger lies open to a page near the back. There is a tidy gap where one page was torn out.
+68	A ledger lies open to a page near the back, worn soft with handling. ASHE, C. The column of figures runs to the bottom and over the page.
+69	A small statue of a woman holding scales. Someone has balanced a coin on each pan. They are perfectly level.

@@ -16,5 +16,5 @@
 36	Mag Tiller's stall: eel-skin boots, reed charms, a jar labeled ROT CURE (GENUINE). The jar is empty. The label is very confident.
 37	A rain barrel, carefully covered. Everyone in Mirefen drinks rainwater now. Nobody trusts the fen.
 38	Nobody goes into the Drownmere. Turn around, please.
-39	@world
-40	We're not leaving. Not while she's like this.
+39	We're not leaving. Not while she's like this.
+40	They say the Marrow girl walked into the Drownmere and walked out carrying its heart in a jar.

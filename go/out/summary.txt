@@ -1,10 +1,9 @@
-기존 사전 키: 10677
-페이로드 b20: 98키 누적
-이번 반영: 98
-미수록 텍스트 후보: 4368 (제외 추정 코드 18065, 여러 줄 24)
+기존 사전 키: 10775
+이번 반영: 0
+미수록 텍스트 후보: 4254 (제외 추정 코드 17978, 여러 줄 21)
 상위 폴더별:
-  data/maps	3093
-  data/content	801
+  data/maps	2983
+  data/content	800
   data/skills.js	46
   ui/menu	42
   core/Input.js	26
@@ -26,8 +25,8 @@
   story/side.js	11
   ui/UI.js	10
   story/ch3_battle.js	9
-  world/Minimap.js	8
   i18n/dom.js	7
+  world/Minimap.js	7
   audio/songs.js	6
   ui/Fishing.js	6
   battle/BattleScene.js	4
@@ -35,9 +34,9 @@
   debug/TestHarness.js	4
   story/ch3.js	4
   story/hunt.js	4
-  world/FieldScene.js	4
   scenes/TitleScene.js	3
   story/ch3_fx.js	3
+  world/FieldScene.js	3
   world/WorldMapScene.js	3
   audio/Audio.js	2
   scenes/OpeningScene.js	2
@@ -55,4 +54,3 @@
   story/ch4b_sky.js	1
   story/prologue.js	1
   world/Autosave.js	1
-  world/QuestGuide.js	1

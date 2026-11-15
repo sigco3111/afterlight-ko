@@ -36,32 +36,31 @@
 36	The town kite-pole. A hundred kite-tails flap from it, one for every child the shard has lost to the wind or the raiders. They snap in the gusts like applause.
 37	The end of the dock. Below: nothing, then haze, then more nothing. The wind tugs at your coat like it has somewhere to show you.
 38	The ladder down to the Underhang. The Kites have chalked a warning on the top rung: DONT. (BOSS SAYS.)
-39	@world
-40	Kestrel's tab is closed, by the way. He came in, paid what he had, and ordered a water. A _water_. I nearly called Ilse.
-41	Bed's a hammock, roof's a sail, breakfast is whatever the wind brings. Hundred and fifty.
-42	the Rusty Anchor
-43	Your big friend loses every hand. Every one. I used to think he was the worst card player alive.
-44	Then I noticed he only loses when there's a Kite watching. Kites get the pot. Every time.
-45	The Baron banned singing after the raiders' lullabies started drifting up from below.
-46	So now I hum. Very quietly. Hmmmm. That one's about a sailor.
-47	They say Evernoon is a city where it's always summer. They say the dead walk around in it, happy.
-48	My wife's dead. I don't want her happy somewhere I can't go. That's selfish, isn't it. I'm drinking about it.
-49	A hammock with a blanket folded very neatly at the foot. A greatsword leans beside it. Scratched on the wall above, a tally of days — and beside every seventh mark, a tiny drawing of a shield.
-50	I cried when I woke up. I always cry when I wake up. Boss says it's because I'm surprised to be alive.
-51	I think it's because waking up is sad. Even when it's good.
-52	Bram swung his sword so hard the Baron's gun fell off the roof. Probably. I wasn't looking. I was hiding. Hiding's a job.
-53	Rule nine: no grown-ups in the Nest.
-54	...You're the Boss's friends? Rule nine-and-a-half: unless they're the Boss's friends. I just made that up. It's allowed.
-55	I'm building my own kite. It's a dragon. Well. It's a triangle. It's a dragon on the inside.
-56	A map of Kiteholm drawn on a sail, covered in pins and string. Every Kite has a pin. Every pin has a name. In the corner, a list in a careful child's hand: FOOD. WATER. SLINGSHOTS. COUNT HEADS. COUNT AGAIN.
-57	Tucked under the map's corner: a folded scrap of paper. Inside, in pencil, a drawing of four tall people and two short ones on a beach. One of the tall ones has a sword. One of the short ones is holding her hand.
-58	The Baron's statue is of the Baron. By the Baron. He posed for eleven days.
-59	He says it captures his "essence." Its essence is mostly chin.
-60	A statue of Baron Dask, welded from scrap, gazing nobly at nothing. A plaque reads: "THE AIR IS FREE. BREATHING IT IS NOT."
-61	Crates of salvage stamped with the Choir's sunburst. The Baron does business with everyone. Everyone does business with the Baron. That is what makes him a Baron.
-62	Arena
-63	I bet on the Gale Roc every week. The Gale Roc has never lost.
-64	I am very rich and very sad.
-65	Iron Moll used to be a Dawnguard sergeant. Now she fights scrap for scrap.
-66	She says it's the same job with better hours.
-67	Chalked rankings: RUSTJAW. COG & SPROCKET (THE TWINS, NOT THE KITE). IRON MOLL. THE GALE ROC — UNDEFEATED. Underneath, someone has added: THE BARON (IN HIS DREAMS).
+39	Kestrel's tab is closed, by the way. He came in, paid what he had, and ordered a water. A _water_. I nearly called Ilse.
+40	Bed's a hammock, roof's a sail, breakfast is whatever the wind brings. Hundred and fifty.
+41	the Rusty Anchor
+42	Your big friend loses every hand. Every one. I used to think he was the worst card player alive.
+43	Then I noticed he only loses when there's a Kite watching. Kites get the pot. Every time.
+44	The Baron banned singing after the raiders' lullabies started drifting up from below.
+45	So now I hum. Very quietly. Hmmmm. That one's about a sailor.
+46	They say Evernoon is a city where it's always summer. They say the dead walk around in it, happy.
+47	My wife's dead. I don't want her happy somewhere I can't go. That's selfish, isn't it. I'm drinking about it.
+48	A hammock with a blanket folded very neatly at the foot. A greatsword leans beside it. Scratched on the wall above, a tally of days — and beside every seventh mark, a tiny drawing of a shield.
+49	I cried when I woke up. I always cry when I wake up. Boss says it's because I'm surprised to be alive.
+50	I think it's because waking up is sad. Even when it's good.
+51	Bram swung his sword so hard the Baron's gun fell off the roof. Probably. I wasn't looking. I was hiding. Hiding's a job.
+52	Rule nine: no grown-ups in the Nest.
+53	...You're the Boss's friends? Rule nine-and-a-half: unless they're the Boss's friends. I just made that up. It's allowed.
+54	I'm building my own kite. It's a dragon. Well. It's a triangle. It's a dragon on the inside.
+55	A map of Kiteholm drawn on a sail, covered in pins and string. Every Kite has a pin. Every pin has a name. In the corner, a list in a careful child's hand: FOOD. WATER. SLINGSHOTS. COUNT HEADS. COUNT AGAIN.
+56	Tucked under the map's corner: a folded scrap of paper. Inside, in pencil, a drawing of four tall people and two short ones on a beach. One of the tall ones has a sword. One of the short ones is holding her hand.
+57	The Baron's statue is of the Baron. By the Baron. He posed for eleven days.
+58	He says it captures his "essence." Its essence is mostly chin.
+59	A statue of Baron Dask, welded from scrap, gazing nobly at nothing. A plaque reads: "THE AIR IS FREE. BREATHING IT IS NOT."
+60	Crates of salvage stamped with the Choir's sunburst. The Baron does business with everyone. Everyone does business with the Baron. That is what makes him a Baron.
+61	Arena
+62	I bet on the Gale Roc every week. The Gale Roc has never lost.
+63	I am very rich and very sad.
+64	Iron Moll used to be a Dawnguard sergeant. Now she fights scrap for scrap.
+65	She says it's the same job with better hours.
+66	Chalked rankings: RUSTJAW. COG & SPROCKET (THE TWINS, NOT THE KITE). IRON MOLL. THE GALE ROC — UNDEFEATED. Underneath, someone has added: THE BARON (IN HIS DREAMS).

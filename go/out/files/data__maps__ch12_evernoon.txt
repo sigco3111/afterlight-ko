@@ -5,57 +5,56 @@
 5	A Vesper soldier's helmet, half-buried in ash. Inside, a folded note: "Mira — if the sun really stops, I'll be home for supper forever. Save me a seat." The ink has faded to violet.
 6	A small stone at the foot of the arch. Two names, carved by an unpracticed hand: LYSA LORNE. CASSIAN LORNE. Underneath, smaller: "Now they both know where the sun goes."
 7	Beyond the arch there is only a bright, ordinary morning, and a long way down.
-8	@world
-9	Halcyon's staying tied off till this is done, sparrow. No coming back — you said it yourself.
-10	Where Evernoon stood there is only the shard, and the wall, and a quiet morning under the new sun. The golden afternoon is gone. Nobody misses it as much as they thought they would.
-11	The dancer smiles at you. Somewhere, faintly, a clock is ticking.
-12	Lemonade! Fresh lemonade! And... swords, apparently. I don't remember stocking swords. I don't remember stocking anything.
-13	Funny. Same lemon. I've been squeezing the same lemon all afternoon.
-14	Lovely afternoon. Lovely.
-15	I keep meaning to go home for supper. Mira will have the soup on.
-16	Lovely afternoon.
-17	Two sweethearts lean toward each other. They have been leaning toward each other for forty years.
-18	Just KISS already.
-19	Let them have it, kid. Some moments are worth taking slow.
-20	Forty years is not slow, Corvin. Forty years is a medical condition.
-21	Three balls in the air above the juggler's hands. They never come down. They never go up, either.
-22	That's the worst thing I've ever seen.
-23	Laaaaaaaaaaaaaa—
-24	He is holding the first note of the Dawnsong. He has been holding it for forty years. He has not taken a breath.
-25	Did you hear? The Keeper's little girl has been asking about the purple lights by the old wall. Such a curious child.
-26	Somebody ought to keep an eye on her tonight.
-27	Have you seen Miss Lysa? Her brother's looking all over.
-28	Miss Lysa! There you are, love. Your brother's been looking all over for you.
-29	I am not her.
-30	Miss Lysa! There you are, love.
-31	Apples! Apples that never brown!
-32	I'd eat one, only then there'd be one fewer. And I don't know how to grow more.
-33	Sel's been about to win since lunch. Never shows his hand.
-34	Somebody ought to call him. Not me. I'm comfortable.
-35	Squire Venn! Eyes front! You'll have the Lantern plaza tonight, lad, and the Keeper won't want a squire who fidgets.
-36	Tonight. Ha. As if tonight's ever coming.
-37	Can't ring her. Rope's stuck fast.
-38	You don't ring at noon, see. You ring at the turning of the hour. And the hour never turns.
-39	You're it! ...You're it! ...You're it!
-40	I'm not it. I've never been it. I'm never going to be it.
-41	Sundial
-42	Books
-43	Fountain
-44	Bench
-45	The bell tower. Its great bell hangs at the top of the swing, about to fall back and ring the hour. It has been about to for forty years.
-46	An anvil with a half-forged sword on it, still glowing. The smith's hammer hangs in the air just above it.
-47	;_our
-48	Lysa! LYSA!
-49	She's not by the old wall. The lights are all over the plaza now. Please — please hurry.
-50	It's so pretty...
-51	Get indoors! The Lantern's guttering — the dark's coming up through the drains!
-52	Hush, hush. Keep your eyes shut, sweetheart. If you don't look at it, it can't see you.
-53	Forty years I've walked this street, and I've never once seen the Lantern flicker.
-54	It's flickering.
-55	Logbook
-56	A chalk drawing on the flagstones: the sun, with a little door drawn in its side. Underneath, in a child's capitals: WHERE DOES IT GO?
-57	A child's white shoe, the buckle undone. It is facing the wall, as if whoever wore it walked straight on without it.
-58	Here the old city wall is thinnest. The stones don't meet. Through the cracks, violet light, and a sound like the sea a long way down.
-59	Lysa's ribbon, on the cobbles. When Sable reaches for it, it isn't there. It was never really there.
-60	Not yet. Everyone's by the fire. One last night first.
-61	Not like this. We should catch our breath first.
+8	Halcyon's staying tied off till this is done, sparrow. No coming back — you said it yourself.
+9	Where Evernoon stood there is only the shard, and the wall, and a quiet morning under the new sun. The golden afternoon is gone. Nobody misses it as much as they thought they would.
+10	The dancer smiles at you. Somewhere, faintly, a clock is ticking.
+11	Lemonade! Fresh lemonade! And... swords, apparently. I don't remember stocking swords. I don't remember stocking anything.
+12	Funny. Same lemon. I've been squeezing the same lemon all afternoon.
+13	Lovely afternoon. Lovely.
+14	I keep meaning to go home for supper. Mira will have the soup on.
+15	Lovely afternoon.
+16	Two sweethearts lean toward each other. They have been leaning toward each other for forty years.
+17	Just KISS already.
+18	Let them have it, kid. Some moments are worth taking slow.
+19	Forty years is not slow, Corvin. Forty years is a medical condition.
+20	Three balls in the air above the juggler's hands. They never come down. They never go up, either.
+21	That's the worst thing I've ever seen.
+22	Laaaaaaaaaaaaaa—
+23	He is holding the first note of the Dawnsong. He has been holding it for forty years. He has not taken a breath.
+24	Did you hear? The Keeper's little girl has been asking about the purple lights by the old wall. Such a curious child.
+25	Somebody ought to keep an eye on her tonight.
+26	Have you seen Miss Lysa? Her brother's looking all over.
+27	Miss Lysa! There you are, love. Your brother's been looking all over for you.
+28	I am not her.
+29	Miss Lysa! There you are, love.
+30	Apples! Apples that never brown!
+31	I'd eat one, only then there'd be one fewer. And I don't know how to grow more.
+32	Sel's been about to win since lunch. Never shows his hand.
+33	Somebody ought to call him. Not me. I'm comfortable.
+34	Squire Venn! Eyes front! You'll have the Lantern plaza tonight, lad, and the Keeper won't want a squire who fidgets.
+35	Tonight. Ha. As if tonight's ever coming.
+36	Can't ring her. Rope's stuck fast.
+37	You don't ring at noon, see. You ring at the turning of the hour. And the hour never turns.
+38	You're it! ...You're it! ...You're it!
+39	I'm not it. I've never been it. I'm never going to be it.
+40	Sundial
+41	Books
+42	Fountain
+43	Bench
+44	The bell tower. Its great bell hangs at the top of the swing, about to fall back and ring the hour. It has been about to for forty years.
+45	An anvil with a half-forged sword on it, still glowing. The smith's hammer hangs in the air just above it.
+46	;_our
+47	Lysa! LYSA!
+48	She's not by the old wall. The lights are all over the plaza now. Please — please hurry.
+49	It's so pretty...
+50	Get indoors! The Lantern's guttering — the dark's coming up through the drains!
+51	Hush, hush. Keep your eyes shut, sweetheart. If you don't look at it, it can't see you.
+52	Forty years I've walked this street, and I've never once seen the Lantern flicker.
+53	It's flickering.
+54	Logbook
+55	A chalk drawing on the flagstones: the sun, with a little door drawn in its side. Underneath, in a child's capitals: WHERE DOES IT GO?
+56	A child's white shoe, the buckle undone. It is facing the wall, as if whoever wore it walked straight on without it.
+57	Here the old city wall is thinnest. The stones don't meet. Through the cracks, violet light, and a sound like the sea a long way down.
+58	Lysa's ribbon, on the cobbles. When Sable reaches for it, it isn't there. It was never really there.
+59	Not yet. Everyone's by the fire. One last night first.
+60	Not like this. We should catch our breath first.

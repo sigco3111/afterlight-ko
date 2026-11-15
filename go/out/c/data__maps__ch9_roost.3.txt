@@ -7,14 +7,14 @@
 47	The lift winch. A chalk tally on its housing counts the people who went down to the Boneyard this year. A second tally counts the ones who came up. The second one is shorter.
 48	The stocks. Someone has carved, very small, into the wood: THE GOAT WAS A DOG.
 49	Lift's chained. Mags has the key.
-50	@world
-51	Not yet. We came here for a ship.
-52	You... got a coil. Out of the Boneyard.
-53	...Go show Mags. She'll be insufferable. Let her.
-54	Mags. Wreck. Up the canyon. I'm not coming.
-55	Don't look at me like that, sparrow. Your mother used to look at me like that.
-56	Inn
-57	Beds upstairs. Two hundred. The Captain's old room's free — first time in a year he isn't sleeping on my bar.
-58	Beds upstairs, two hundred a night. Breakfast is whatever Marta caught. Don't ask what.
-59	the Last Call
-60	Zzz... five more minutes...
+50	Not yet. We came here for a ship.
+51	You... got a coil. Out of the Boneyard.
+52	...Go show Mags. She'll be insufferable. Let her.
+53	Mags. Wreck. Up the canyon. I'm not coming.
+54	Don't look at me like that, sparrow. Your mother used to look at me like that.
+55	Inn
+56	Beds upstairs. Two hundred. The Captain's old room's free — first time in a year he isn't sleeping on my bar.
+57	Beds upstairs, two hundred a night. Breakfast is whatever Marta caught. Don't ask what.
+58	the Last Call
+59	Zzz... five more minutes...
+60	...five more years...

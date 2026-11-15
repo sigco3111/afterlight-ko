@@ -16,5 +16,5 @@
 36	The town kite-pole. A hundred kite-tails flap from it, one for every child the shard has lost to the wind or the raiders. They snap in the gusts like applause.
 37	The end of the dock. Below: nothing, then haze, then more nothing. The wind tugs at your coat like it has somewhere to show you.
 38	The ladder down to the Underhang. The Kites have chalked a warning on the top rung: DONT. (BOSS SAYS.)
-39	@world
-40	Kestrel's tab is closed, by the way. He came in, paid what he had, and ordered a water. A _water_. I nearly called Ilse.
+39	Kestrel's tab is closed, by the way. He came in, paid what he had, and ordered a water. A _water_. I nearly called Ilse.
+40	Bed's a hammock, roof's a sail, breakfast is whatever the wind brings. Hundred and fifty.

@@ -7,14 +7,14 @@
 7	Below, older letters someone tried to chisel away: "...WHERE THE LIGHT GOES, WE GO."
 8	Pilgrim's Arch
 9	A pilgrims' cairn. Every stone has a name scratched on it. Some of the names are very small, like children wrote them.
-10	@world
-11	Sarn says we're not thieves. We're a toll road with knives.
-12	Skull
-13	The ribs of a giant wyrm arch out of the sand like the frame of a ship nobody finished building.
-14	A weathered statue of a Keeper, holding a lamp above her head. The wind has worn away her face.
-15	There is a cup of water at her feet. It is still cool.
-16	Water
-17	Saltglass is east... but that smoke in the north. Someone could be hurt out there.
-18	Lift-glass housing
-19	The mainmast. Someone has carved a tally into it — dozens of little marks — and, at the top, a single word: STAY.
-20	The foremast, splintered halfway up. A torn sail flaps from it like a flag of surrender. Or a very tired wave.
+10	Sarn says we're not thieves. We're a toll road with knives.
+11	Skull
+12	The ribs of a giant wyrm arch out of the sand like the frame of a ship nobody finished building.
+13	A weathered statue of a Keeper, holding a lamp above her head. The wind has worn away her face.
+14	There is a cup of water at her feet. It is still cool.
+15	Water
+16	Saltglass is east... but that smoke in the north. Someone could be hurt out there.
+17	Lift-glass housing
+18	The mainmast. Someone has carved a tally into it — dozens of little marks — and, at the top, a single word: STAY.
+19	The foremast, splintered halfway up. A torn sail flaps from it like a flag of surrender. Or a very tired wave.
+20	Cargo crates stamped with a dozen different port seals. Half of them are empty. The other half are labeled "DEFINITELY NOT CONTRABAND."

@@ -1,20 +1,20 @@
 41	A doorframe with no house behind it. Somebody has hung a wreath of wire and rag flowers on it, and swept the step.
 42	The common soup pot. It smells of ash and onion and, faintly, of hope. Mostly ash.
-43	@world
-44	When I'm better, I'm going to be a Vanguard. Like Wren.
-45	Ilse says I can be anything. She said it like she was cross about it.
-46	...Wren? You're real? I thought the rot was making me see things again.
-47	Everybody from home is gone except me and Ilse. Ilse says that makes us family. She says it angry, but I think she means it.
-48	She's doing better. The Ward Mother sat with her all last night. She sits with everyone, one night each, in turn.
-49	I don't know when she sleeps. I don't think she knows either.
-50	My hand's pink again. Pink! I've never been so happy to look like a boiled ham.
-51	Cut my hand on a scrap of the old Cathedral. A _holy_ scrap. Didn't help.
-52	Ward Mother says the violet's stopped at my wrist. She says it like a promise. She doesn't make promises.
-53	That girl with the bun? Ilse? She held my hand while my Tam went. Didn't say anything. Didn't need to.
-54	You're the one she won't look at. I've been watching. Whatever you did, girl — she still knows exactly where you're standing, every second.
-55	The wall
-56	A cauldron of boiling bandages. Ilse's labels on every jar nearby, in the same tiny, exact handwriting you remember. One says: DO NOT. EVER. — I.M.
-57	Shelves of empty phial-racks. Someone has counted them in chalk: 2. Then the 2 is crossed out: 1.
-58	Shelves stacked with sunsalt phials, glowing like coals. Someone has written a new number in chalk, and underlined it twice.
-59	The Ward Mother? In _my_ chapel? Sit, sit. I'll not take her coin. Yours, though.
-60	A pew to sleep on and a bowl of something hot. Hundred and twenty. We used to be a chapel; now we're a mercy with a bar.
+43	When I'm better, I'm going to be a Vanguard. Like Wren.
+44	Ilse says I can be anything. She said it like she was cross about it.
+45	...Wren? You're real? I thought the rot was making me see things again.
+46	Everybody from home is gone except me and Ilse. Ilse says that makes us family. She says it angry, but I think she means it.
+47	She's doing better. The Ward Mother sat with her all last night. She sits with everyone, one night each, in turn.
+48	I don't know when she sleeps. I don't think she knows either.
+49	My hand's pink again. Pink! I've never been so happy to look like a boiled ham.
+50	Cut my hand on a scrap of the old Cathedral. A _holy_ scrap. Didn't help.
+51	Ward Mother says the violet's stopped at my wrist. She says it like a promise. She doesn't make promises.
+52	That girl with the bun? Ilse? She held my hand while my Tam went. Didn't say anything. Didn't need to.
+53	You're the one she won't look at. I've been watching. Whatever you did, girl — she still knows exactly where you're standing, every second.
+54	The wall
+55	A cauldron of boiling bandages. Ilse's labels on every jar nearby, in the same tiny, exact handwriting you remember. One says: DO NOT. EVER. — I.M.
+56	Shelves of empty phial-racks. Someone has counted them in chalk: 2. Then the 2 is crossed out: 1.
+57	Shelves stacked with sunsalt phials, glowing like coals. Someone has written a new number in chalk, and underlined it twice.
+58	The Ward Mother? In _my_ chapel? Sit, sit. I'll not take her coin. Yours, though.
+59	A pew to sleep on and a bowl of something hot. Hundred and twenty. We used to be a chapel; now we're a mercy with a bar.
+60	the Last Bell

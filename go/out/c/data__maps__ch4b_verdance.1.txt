@@ -16,5 +16,5 @@
 16	He said I could be both. He said that's allowed now. Is that allowed now?
 17	The Memory Tree
 18	Fern's crates: bundles of arrows fletched with jay feathers, jars of honey, a sign reading NO HAGGLING, and under it, smaller: (a little haggling).
-19	@world
-20	blocker:c4b_thornwood:thornA
+19	blocker:c4b_thornwood:thornA
+20	blocker:c4b_thornwood:thornB

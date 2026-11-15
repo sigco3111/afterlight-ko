@@ -13,8 +13,8 @@
 113	Every light in the sky bends toward the Black Star...
 114	Lodge Stores
 115	What's Left of the Stores
-116	@world
-117	Fish
-118	The Hunters' Lodge
-119	Brackenmoor
-120	Tamsk
+116	Fish
+117	The Hunters' Lodge
+118	Brackenmoor
+119	Tamsk
+120	Bounties pay better than honest work. Also, they are honest work.

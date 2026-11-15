@@ -1,10 +1,9 @@
-61	...five more years...
-62	Bottles, labeled in Tuck's square hand: NOT FOR CORVIN. One new label, the ink still wet: STILL NOT FOR CORVIN. GOOD.
-63	Bottles, mostly empty, all labeled in Tuck's square hand: NOT FOR CORVIN.
-64	A card table. The felt is worn through in exactly one place: where the dealer's left hand rests.
-65	Debits on the left, credits on the right. Debtors on the carpet.
-66	Madam Quill has never once been wrong about a number. She's been wrong about people. Twice. She keeps a ledger of that too.
-67	Ledgers to the ceiling, each spine labeled with a year. The newest are labeled only: AFTER.
-68	A ledger lies open to a page near the back. There is a tidy gap where one page was torn out.
-69	A ledger lies open to a page near the back, worn soft with handling. ASHE, C. The column of figures runs to the bottom and over the page.
-70	A small statue of a woman holding scales. Someone has balanced a coin on each pan. They are perfectly level.
+61	Bottles, labeled in Tuck's square hand: NOT FOR CORVIN. One new label, the ink still wet: STILL NOT FOR CORVIN. GOOD.
+62	Bottles, mostly empty, all labeled in Tuck's square hand: NOT FOR CORVIN.
+63	A card table. The felt is worn through in exactly one place: where the dealer's left hand rests.
+64	Debits on the left, credits on the right. Debtors on the carpet.
+65	Madam Quill has never once been wrong about a number. She's been wrong about people. Twice. She keeps a ledger of that too.
+66	Ledgers to the ceiling, each spine labeled with a year. The newest are labeled only: AFTER.
+67	A ledger lies open to a page near the back. There is a tidy gap where one page was torn out.
+68	A ledger lies open to a page near the back, worn soft with handling. ASHE, C. The column of figures runs to the bottom and over the page.
+69	A small statue of a woman holding scales. Someone has balanced a coin on each pan. They are perfectly level.

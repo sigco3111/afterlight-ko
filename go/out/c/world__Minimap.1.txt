@@ -4,5 +4,4 @@
 4	<i class="exit">■</i> Exit
 5	<i class="save">■</i> Hearthstone
 6	<i class="door">■</i> Door
-7	@world
-8	).join(';')}
+7	).join(';')}
