@@ -1,0 +1,15 @@
+[
+ "Keep watch with Pip through the night? (Kiteholm will be attacked.)",
+ "Keep watch",
+ "Leave Kiteholm for Corvin's Roost? (You can return later by the world map.)",
+ "Cast off",
+ "s debt of 1,500 gold? (You have ${s.state.gold})`, ",
+ ")) return s.say(",
+ "ve got ${s.state.inventory.count(",
+ "Rank I — Rustjaw",
+ "Rank II — Cog & Sprocket",
+ "Rank III — Iron Moll",
+ "Champion — the Gale Roc",
+ "THE GALE ROC FALLS! Darlings, you're Kiteholm's champions! Here — the champion's purse. Don't spend it on the Baron.",
+ "And the crowd goes _moderately_ wild! Your prize, darlings."
+]

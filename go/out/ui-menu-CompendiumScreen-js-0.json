@@ -1,0 +1,14 @@
+[
+ "bestiary-screen compendium",
+ "bs-left panel",
+ "bs-detail panel",
+ " <span class=\"cp-full\">✔ Complete</span>",
+ "<span class=\"cp-tag mark\">MARK</span>",
+ "<span class=\"cp-tag boss\">BOSS</span>",
+ "<span class=\"dim\">seen</span>",
+ "<span class=\"dim\">???</span>",
+ "<ul class=\"cp-tactics\">{0}</ul>",
+ "<div class=\"cd-name\">{0}{1}</div>n      <div class=\"cd-tier\">{2} · {3} · Lv {4} · <span class=\"cp-stars\" title=\"seen · felled · studied\">{5}</span> · Seen {6} · Felled {7}</div>n      <div class=\"cp-top\"><div class=\"bs-art\"></div><div class=\"cd-desc\">{8}</div></div>n      <div class=\"bs-row\"><b>Habitat</b> {9}</div>n      <div class=\"bs-row\"><b>HP</b> {10} · <b>Poise</b> {11} · <b>EXP</b> {12} · <b>Gold</b> {13} · <b>CP</b> {14}</div>n      <div class=\"bs-row\"><b>Weak</b> {15}</div>n      <div class=\"bs-row\"><b>Resists</b> {16}</div>n      <div class=\"bs-row\"><b>Immune</b> {17}</div>n      <div class=\"bs-row\"><b>Moves</b> {18}</div>n      <div class=\"bs-row\"><b>Drops</b> {19} · <b>Steal</b> {20}</div>n      <div class=\"bs-row cp-tactics-head\"><b>Tactics</b></div>{21}",
+ " <span class=\"cp-tag mark\">MARK</span>",
+ " <span class=\"cp-tag boss\">BOSS</span>"
+]

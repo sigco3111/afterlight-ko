@@ -1,0 +1,5 @@
+[
+ "position:fixed;left:0;bottom:0;max-height:40vh;overflow:auto;margin:0;color:#ff9090;background:rgba(0,0,0,.8);font:12px monospace;z-index:99;display:none",
+ "t load ${params.get(",
+ "A test line of dialogue, with *gold* and _italic_ markup."
+]
