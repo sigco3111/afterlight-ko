@@ -1,4 +1,4 @@
-import { fmt } from '../../i18n/index.js';
+import { fmt, t } from '../../i18n/index.js';
 // Items, Status, Formation, Settings, Journal and Guide screens (the Compendium is CompendiumScreen.js).
 
 import { el, richText } from '../UI.js';
@@ -348,7 +348,7 @@ export const GUIDE = [
   ['Travel', 'Leave a town or region by its edge to reach the *world map*, then pick a place and go: a marker shows where your objective lies, blue ones mark side quests. *Travel* in the menu jumps straight to towns and to every Hearthstone you have touched, from anywhere outside a dungeon.'],
   ['Tutorials', 'A card explains each system the first time you meet it, and names the Guide entry with the rest. Each shows once per save. Settings → *Tutorials* turns them off.'],
   ['Riding Kindle', 'Once *Kindle* the Emberhart is with you, press *R* (Ride) on open roads and in the wilds to ride, and again to get down. Kindle runs faster than you can, and nothing from the Gloam catches you while you ride — no random battles. Towns, buildings and dungeons are on foot; talking to someone or opening a chest gets you down. On the world map, Kindle carries you to where you are going.'],
-];
+].map(([a, b]) => [t(a), t(b)]);
 
 export class GuideScreen extends Screen {
   constructor(menus) {
