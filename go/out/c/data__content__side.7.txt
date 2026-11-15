@@ -1,20 +1,20 @@
-121	Brackenmoor
-122	Tamsk
-123	Bounties pay better than honest work. Also, they are honest work.
-124	Brackenmoor's east of here. Take the gate and mind your ankles.
-125	Reyna
-126	The old man built this Lodge with his hands. Harrow. Something killed him in a hollow south of the moor.
-127	Adelind won't post it. Says we're not good enough. She's right, which is the annoying part.
-128	Lodge Hall
-129	Adelind
-130	Bounties
-131	Bombs, arrows, and things that go in wounds. Buy something.
-132	The Hunters' Country
-133	The Drowned Observatory
-134	Gale Coast
-135	The Flooded Galleries
-136	Drowned Observatory
-137	Lens
-138	The Dome of Measures
-139	Orrery
-140	Fort Ashwatch
+121	Tamsk
+122	Bounties pay better than honest work. Also, they are honest work.
+123	Brackenmoor's east of here. Take the gate and mind your ankles.
+124	Reyna
+125	The old man built this Lodge with his hands. Harrow. Something killed him in a hollow south of the moor.
+126	Adelind won't post it. Says we're not good enough. She's right, which is the annoying part.
+127	Lodge Hall
+128	Adelind
+129	Bounties
+130	Bombs, arrows, and things that go in wounds. Buy something.
+131	The Hunters' Country
+132	The Drowned Observatory
+133	Gale Coast
+134	The Flooded Galleries
+135	Drowned Observatory
+136	Lens
+137	The Dome of Measures
+138	Orrery
+139	Fort Ashwatch
+140	The Greyspine Foothills

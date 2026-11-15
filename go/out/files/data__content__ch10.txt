@@ -1,70 +1,30 @@
-1	Lemonade (with mint)
-2	Tomas's lemonade, for Bess. It has been on its way for forty years.
-3	Shardling
-4	A splinter of the broken sun that learned to walk. It is warm, and it is not kind.
-5	Noonhound
-6	The Choir's hounds, bred in the Spire's light. They cast no shadow at all.
-7	Glare
-8	An eye of noon, floating. Looking at it is like looking at the sun, which nobody has done for a year.
-9	Vesper Lancer
-10	The Spire's guard. They have been promised the best day of their lives, as soon as their shift ends.
-11	Choir Seraph
-12	A hymn given wings. It heals whatever stands between it and you.
-13	Keeper of the Spire's back door. He has turned away four hundred pilgrims and remembers every face.
-14	Hour Knight
-15	Armor wound like a clock. It stops when it is struck — and so, for a moment, do you.
-16	Stillwisp
-17	A moment that never ended, drifting. Cold as an afternoon that will not let you go home.
-18	Memory Moth
-19	They eat memories the way other moths eat coats. The Spire is a feast.
-20	They practice the Vespersong in shifts. Somebody, somewhere in the Spire, is always singing it.
-21	The Hour-Warden
-22	The Spire's keeper of hours. It has only ever counted to twelve, and it has done so for forty years.
-23	Festival Puppet
-24	"Lovely day for it!" it says, and smiles, and smiles, and comes for your throat.
-25	Paper Lantern
-26	A festival lantern that drifted loose. The candle inside has burned for forty years and never got any shorter.
-27	Gilded Hound
-28	Somebody's dog, remembered as a very good dog. Remembered a little too hard.
-29	"Welcome to the Festival of the Long Light. Enjoy the day." Forever.
-30	Maypole Dancer
-31	She has been dancing round the maypole since before your parents were born. She would love you to join in.
-32	Choir of the Dead
-33	Mercy's congregation. They sing for her because she promised them they would never have to stop.
-34	Evernoon's warden. She believes that a day which never ends cannot hurt anyone. She has never once been told no and believed it.
-35	Unravelling
-36	Where Evernoon comes apart, the Gloam comes in. It wears whatever it finds.
-37	Frayed Puppet
-38	Its strings are cut. Its sentence is unfinished. It is very, very angry about both.
-39	What the Noon Forgot
-40	Every sentence Evernoon never finished, knotted together into something that wants, very badly, to be heard.
-41	TWELVE
-42	ONE
-43	TWO
-44	THREE
-45	FOUR
-46	FIVE
-47	SIX
-48	SEVEN
-49	EIGHT
-50	NINE
-51	TEN
-52	ELEVEN
-53	"Lovely day for—"
-54	"Any moment n—"
-55	"Ask me—"
-56	"And-a-one, and-a-two, and-a—"
-57	"Look how high it g—"
-58	"Have you seen my Lys—"
-59	The Warden's clock-face cracks — its hands spin all the way back!
-60	TWELVE. The Hour-Warden strikes noon.
-61	Time thickens like honey around you.
-62	"NOON." Every bell in Evernoon rings at once.
-63	"Sing with me, children."
-64	Mercy lets down her hood. "You will not take her. You will not take ANY of them." She sings the Vespersong.
-65	A single soft bell begins to toll, counting someone down...
-66	"Hush. Be still. Be still forever."
-67	"Rest now." A lullaby — and under it, the bells of Evernoon begin to swing...
-68	"—IT!" A hundred mouths finish the sentence at once.
-69	It begins to forget its own shape. Light pours through the gaps — light no longer heals it!
-70	A puppet tears loose from its body and staggers forward!
+1	TWELVE
+2	ONE
+3	TWO
+4	THREE
+5	FOUR
+6	FIVE
+7	SIX
+8	SEVEN
+9	EIGHT
+10	NINE
+11	TEN
+12	ELEVEN
+13	"Lovely day for—"
+14	"Any moment n—"
+15	"Ask me—"
+16	"And-a-one, and-a-two, and-a—"
+17	"Look how high it g—"
+18	"Have you seen my Lys—"
+19	The Warden's clock-face cracks — its hands spin all the way back!
+20	TWELVE. The Hour-Warden strikes noon.
+21	Time thickens like honey around you.
+22	"NOON." Every bell in Evernoon rings at once.
+23	"Sing with me, children."
+24	Mercy lets down her hood. "You will not take her. You will not take ANY of them." She sings the Vespersong.
+25	A single soft bell begins to toll, counting someone down...
+26	"Hush. Be still. Be still forever."
+27	"Rest now." A lullaby — and under it, the bells of Evernoon begin to swing...
+28	"—IT!" A hundred mouths finish the sentence at once.
+29	It begins to forget its own shape. Light pours through the gaps — light no longer heals it!
+30	A puppet tears loose from its body and staggers forward!

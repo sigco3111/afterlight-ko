@@ -10,11 +10,11 @@
 50	A note that refused to end.
 51	Thorn Maw
 52	A white flower that bites the hand that waters it.
-53	Memory Moth
-54	It eats the last words before they can be said.
-55	Petal Wraith
-56	Someone who did not get to say goodbye.
-57	Mourning Oak
-58	Planted over a grave a century ago. It grieves slowly.
-59	Bristleback
-60	Bounty. Ate a cart. The cart was occupied.
+53	It eats the last words before they can be said.
+54	Petal Wraith
+55	Someone who did not get to say goodbye.
+56	Mourning Oak
+57	Planted over a grave a century ago. It grieves slowly.
+58	Bristleback
+59	Bounty. Ate a cart. The cart was occupied.
+60	Lanternjaw

@@ -61,54 +61,53 @@
 61	It came up out of the gutters with the others. It is looking for a girl.
 62	The Hungry Dark
 63	The Gloam, the one night it came into Aurenne. It took one child. It has been hungry ever since.
-64	Choir Seraph
-65	It sings Cassian's hymns. It does not know any others.
-66	Sunforged Knight
-67	Plate forged from noon. Inside, nobody — only the idea of someone who would never let you get hurt.
-68	Hour Watcher
-69	Tick. Tick. Tick. It is counting something. It will not say what.
-70	Cassian, the Hierophant
-71	He has never once raised his voice. He is not raising it now.
-72	Choir Shade
-73	Acolytes he remembers. They remember nothing but the hymns.
-74	The Noon King
-75	Cassian and the broken sun, sung into one shape. The king of a single afternoon.
-76	One of the seven pieces. It circles the King like a moth around a— well.
-77	Vesper, the Unending Moment
-78	The Vespersong, grown a face. A clock that ate the sun. It does not want anything except for this to never end.
-79	Hour Hand
-80	Slow. Inevitable. It has been coming toward you since the moment you were born.
-81	Minute Hand
-82	Quick. Restless. Never where it was a moment ago.
-83	The string snaps taut. The kite stoops like a hawk!
-84	The kite climbs into air that has not moved in forty years...
-85	"Hush," says the Bell, in a voice like an empty cathedral.
-86	The First Bell swings back... and back... and back...
-87	Confetti swirls into the shape of a dancer!
-88	"And one-two-three, and one-two-three, and—"
-89	The dark opens. It has been hungry for a very long time.
-90	Shadows peel off the Hungry Dark and run on four legs!
-91	The Hungry Dark opens wider. It wants whoever is weakest.
-92	"I don't want to hurt you, Wren. I never have. Please — let me show you."
-93	"Sing with me, children. Just once more."
-94	Cassian hums the first bar of the Vespersong. The air forgets how to move.
-95	Cassian lifts his hands. The first verse of the Vespersong gathers in the air...
-96	"Look at it, Wren. The sun, whole — for as long as I can hold it."
-97	The seven shards blaze into a crown of noon.
-98	The shards are tearing loose! Light can reach the man inside the sun!
-99	A shard tears free and circles the King.
-100	The King lifts the broken sun to its highest point...
-101	The Hour and Minute Hands cross before Vesper's face. It is shielded!
-102	A hand falls still. Vesper's face is open!
-103	Vesper, Unwound
-104	Vesper's hands spin backwards. Every clock in Evernoon begins to unwind — its weaknesses turn with it!
-105	Vesper, the Last Second
-106	"STAY," says every clock at once. Vesper rewinds itself — but dawn-colored cracks are showing through!
-107	The last toll sounds. Someone's time is running out.
-108	A hand reassembles itself out of the ticking.
-109	Both hands creep toward XII...
-110	Vesper begins to hum a lullaby. Stay. Stay. Stay...
-111	The clock-sun swells. It is about to strike noon forever...
-112	Mott's Last Pack
-113	Bettany's Stall
-114	Where Cassian's frozen afternoon stood. Only a quiet morning now, and two names on a stone.
+64	It sings Cassian's hymns. It does not know any others.
+65	Sunforged Knight
+66	Plate forged from noon. Inside, nobody — only the idea of someone who would never let you get hurt.
+67	Hour Watcher
+68	Tick. Tick. Tick. It is counting something. It will not say what.
+69	Cassian, the Hierophant
+70	He has never once raised his voice. He is not raising it now.
+71	Choir Shade
+72	Acolytes he remembers. They remember nothing but the hymns.
+73	The Noon King
+74	Cassian and the broken sun, sung into one shape. The king of a single afternoon.
+75	One of the seven pieces. It circles the King like a moth around a— well.
+76	Vesper, the Unending Moment
+77	The Vespersong, grown a face. A clock that ate the sun. It does not want anything except for this to never end.
+78	Hour Hand
+79	Slow. Inevitable. It has been coming toward you since the moment you were born.
+80	Minute Hand
+81	Quick. Restless. Never where it was a moment ago.
+82	The string snaps taut. The kite stoops like a hawk!
+83	The kite climbs into air that has not moved in forty years...
+84	"Hush," says the Bell, in a voice like an empty cathedral.
+85	The First Bell swings back... and back... and back...
+86	Confetti swirls into the shape of a dancer!
+87	"And one-two-three, and one-two-three, and—"
+88	The dark opens. It has been hungry for a very long time.
+89	Shadows peel off the Hungry Dark and run on four legs!
+90	The Hungry Dark opens wider. It wants whoever is weakest.
+91	"I don't want to hurt you, Wren. I never have. Please — let me show you."
+92	"Sing with me, children. Just once more."
+93	Cassian hums the first bar of the Vespersong. The air forgets how to move.
+94	Cassian lifts his hands. The first verse of the Vespersong gathers in the air...
+95	"Look at it, Wren. The sun, whole — for as long as I can hold it."
+96	The seven shards blaze into a crown of noon.
+97	The shards are tearing loose! Light can reach the man inside the sun!
+98	A shard tears free and circles the King.
+99	The King lifts the broken sun to its highest point...
+100	The Hour and Minute Hands cross before Vesper's face. It is shielded!
+101	A hand falls still. Vesper's face is open!
+102	Vesper, Unwound
+103	Vesper's hands spin backwards. Every clock in Evernoon begins to unwind — its weaknesses turn with it!
+104	Vesper, the Last Second
+105	"STAY," says every clock at once. Vesper rewinds itself — but dawn-colored cracks are showing through!
+106	The last toll sounds. Someone's time is running out.
+107	A hand reassembles itself out of the ticking.
+108	Both hands creep toward XII...
+109	Vesper begins to hum a lullaby. Stay. Stay. Stay...
+110	The clock-sun swells. It is about to strike noon forever...
+111	Mott's Last Pack
+112	Bettany's Stall
+113	Where Cassian's frozen afternoon stood. Only a quiet morning now, and two names on a stone.

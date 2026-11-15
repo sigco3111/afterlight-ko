@@ -5,16 +5,16 @@
 5	Bell Stair Key
 6	An iron key, warm from Halvard's hand.
 7	Sand Blast
-8	Glare
-9	Siren Song
-10	Erupt
-11	Song of Breaking
-12	Avalanche
-13	Hold the Line
-14	Execution Sweep
-15	Thorne's Verdict
-16	Shield Wall
-17	Dune Scorpion
-18	The color of the dunes at noon. You find out it is there when it finds out you are.
-19	Wyrmling
-20	A sand wyrm hatchling: the length of a man and all appetite. Its mother is never far.
+8	Siren Song
+9	Erupt
+10	Song of Breaking
+11	Avalanche
+12	Hold the Line
+13	Execution Sweep
+14	Thorne's Verdict
+15	Shield Wall
+16	Dune Scorpion
+17	The color of the dunes at noon. You find out it is there when it finds out you are.
+18	Wyrmling
+19	A sand wyrm hatchling: the length of a man and all appetite. Its mother is never far.
+20	Sun Wisp

@@ -1,14 +1,13 @@
-101	The Hour and Minute Hands cross before Vesper's face. It is shielded!
-102	A hand falls still. Vesper's face is open!
-103	Vesper, Unwound
-104	Vesper's hands spin backwards. Every clock in Evernoon begins to unwind — its weaknesses turn with it!
-105	Vesper, the Last Second
-106	"STAY," says every clock at once. Vesper rewinds itself — but dawn-colored cracks are showing through!
-107	The last toll sounds. Someone's time is running out.
-108	A hand reassembles itself out of the ticking.
-109	Both hands creep toward XII...
-110	Vesper begins to hum a lullaby. Stay. Stay. Stay...
-111	The clock-sun swells. It is about to strike noon forever...
-112	Mott's Last Pack
-113	Bettany's Stall
-114	Where Cassian's frozen afternoon stood. Only a quiet morning now, and two names on a stone.
+101	A hand falls still. Vesper's face is open!
+102	Vesper, Unwound
+103	Vesper's hands spin backwards. Every clock in Evernoon begins to unwind — its weaknesses turn with it!
+104	Vesper, the Last Second
+105	"STAY," says every clock at once. Vesper rewinds itself — but dawn-colored cracks are showing through!
+106	The last toll sounds. Someone's time is running out.
+107	A hand reassembles itself out of the ticking.
+108	Both hands creep toward XII...
+109	Vesper begins to hum a lullaby. Stay. Stay. Stay...
+110	The clock-sun swells. It is about to strike noon forever...
+111	Mott's Last Pack
+112	Bettany's Stall
+113	Where Cassian's frozen afternoon stood. Only a quiet morning now, and two names on a stone.

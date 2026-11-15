@@ -1,20 +1,20 @@
-21	Sun Wisp
-22	A shimmer of heat that decided to stay. Drinks fire. Fears the dark.
-23	Bone Vulture
-24	It is patient. In the Sunscar, patience always eats.
-25	Takes your water first. Then your boots. Then, if you complain, you.
-26	Raider Slinger
-27	Throws sand, stones and insults, all with remarkable accuracy.
-28	Mirage
-29	It wears the shape of what you want most. Up close it is only heat and hunger.
-30	Sandmaw
-31	A sand wyrm in its prime: forty feet of hunger that swims the dunes like open sea.
-32	Raider-king of the southern dunes. Laughs like a jackal. Fights like three of them.
-33	Glassback
-34	Its shell is saltglass. It chimes when it walks, which is the only mercy it offers.
-35	Prism Bat
-36	Wings thin enough to throw rainbows. It throws them in your eyes.
-37	Saltglass Golem
-38	The caverns grow them like geodes. Nobody knows what wakes them. Something does.
-39	Glass Crawler
-40	Spins its webs from molten sand. They set like glass, and so do you.
+21	A shimmer of heat that decided to stay. Drinks fire. Fears the dark.
+22	Bone Vulture
+23	It is patient. In the Sunscar, patience always eats.
+24	Takes your water first. Then your boots. Then, if you complain, you.
+25	Raider Slinger
+26	Throws sand, stones and insults, all with remarkable accuracy.
+27	Mirage
+28	It wears the shape of what you want most. Up close it is only heat and hunger.
+29	Sandmaw
+30	A sand wyrm in its prime: forty feet of hunger that swims the dunes like open sea.
+31	Raider-king of the southern dunes. Laughs like a jackal. Fights like three of them.
+32	Glassback
+33	Its shell is saltglass. It chimes when it walks, which is the only mercy it offers.
+34	Prism Bat
+35	Wings thin enough to throw rainbows. It throws them in your eyes.
+36	Saltglass Golem
+37	The caverns grow them like geodes. Nobody knows what wakes them. Something does.
+38	Glass Crawler
+39	Spins its webs from molten sand. They set like glass, and so do you.
+40	Brood Wyrm

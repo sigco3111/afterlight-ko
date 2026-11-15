@@ -1,20 +1,20 @@
-1	Lemonade (with mint)
-2	Tomas's lemonade, for Bess. It has been on its way for forty years.
-3	Shardling
-4	A splinter of the broken sun that learned to walk. It is warm, and it is not kind.
-5	Noonhound
-6	The Choir's hounds, bred in the Spire's light. They cast no shadow at all.
-7	Glare
-8	An eye of noon, floating. Looking at it is like looking at the sun, which nobody has done for a year.
-9	Vesper Lancer
-10	The Spire's guard. They have been promised the best day of their lives, as soon as their shift ends.
-11	Choir Seraph
-12	A hymn given wings. It heals whatever stands between it and you.
-13	Keeper of the Spire's back door. He has turned away four hundred pilgrims and remembers every face.
-14	Hour Knight
-15	Armor wound like a clock. It stops when it is struck — and so, for a moment, do you.
-16	Stillwisp
-17	A moment that never ended, drifting. Cold as an afternoon that will not let you go home.
-18	Memory Moth
-19	They eat memories the way other moths eat coats. The Spire is a feast.
-20	They practice the Vespersong in shifts. Somebody, somewhere in the Spire, is always singing it.
+1	TWELVE
+2	ONE
+3	TWO
+4	THREE
+5	FOUR
+6	FIVE
+7	SIX
+8	SEVEN
+9	EIGHT
+10	NINE
+11	TEN
+12	ELEVEN
+13	"Lovely day for—"
+14	"Any moment n—"
+15	"Ask me—"
+16	"And-a-one, and-a-two, and-a—"
+17	"Look how high it g—"
+18	"Have you seen my Lys—"
+19	The Warden's clock-face cracks — its hands spin all the way back!
+20	TWELVE. The Hour-Warden strikes noon.
