@@ -1,18 +1,17 @@
-161	It doesn't hurt. I promise. Go on, go — I'll catch up.
-162	Did the sun come up? Somebody tell me the sun came up.
-163	The Hedge of Last Words
-164	I should have called you back. Every day, I should have called you back.
-165	The boy's name is Tam. Look after him. He's scared of the dark.
-166	The Heart of the Garden
-167	Under the Black Star
-168	Above the Seven Wounds
-169	Hunters' Lodge
-170	Bounties for monsters too much for a village.
-171	At low tide, a causeway rises to a dome older than the Lanterns.
-172	Greyspine Foothills
-173	An abandoned Dawnguard fort. Sir Aldous's old command.
-174	Where the Lodge's founder died.
-175	The Hunters' Lodge survived. Some of it.
-176	A bell-tower hanging upside-down under a shard. It rings on its own.
-177	White flowers that speak the last words of the dead.
-178	It does not shine. It takes.
+161	Did the sun come up? Somebody tell me the sun came up.
+162	The Hedge of Last Words
+163	I should have called you back. Every day, I should have called you back.
+164	The boy's name is Tam. Look after him. He's scared of the dark.
+165	The Heart of the Garden
+166	Under the Black Star
+167	Above the Seven Wounds
+168	Hunters' Lodge
+169	Bounties for monsters too much for a village.
+170	At low tide, a causeway rises to a dome older than the Lanterns.
+171	Greyspine Foothills
+172	An abandoned Dawnguard fort. Sir Aldous's old command.
+173	Where the Lodge's founder died.
+174	The Hunters' Lodge survived. Some of it.
+175	A bell-tower hanging upside-down under a shard. It rings on its own.
+176	White flowers that speak the last words of the dead.
+177	It does not shine. It takes.

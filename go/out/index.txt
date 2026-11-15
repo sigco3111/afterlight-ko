@@ -19,7 +19,7 @@ data/content/ch8.js	49	248	0
 data/content/ch9.js	77	319	0
 data/content/colosseum.js	44	194	0
 data/content/postgame_battle.js	19	391	0
-data/content/side.js	178	508	0
+data/content/side.js	177	508	0
 data/hunt.js	12	65	0
 data/maps/bc_bellring.js	13	21	1
 data/maps/ch10_evernoon.js	46	74	0
@@ -228,7 +228,6 @@ story/ch6.js	20	109	0
 story/ch8.js	11	121	0
 story/colosseum.js	13	43	0
 story/hunt.js	4	16	0
-story/lost.js	53	5	0
 story/opening.js	2	130	0
 story/postgame.js	17	114	0
 story/prologue.js	1	75	0

@@ -1,12 +1,11 @@
-기존 사전 키: 10499
-페이로드 b17: 53키 누적
-이번 반영: 53
-미수록 텍스트 후보: 4548 (제외 추정 코드 18195, 여러 줄 24)
+기존 사전 키: 10552
+페이로드 b18: 100키 누적
+이번 반영: 100
+미수록 텍스트 후보: 4494 (제외 추정 코드 18190, 여러 줄 24)
 상위 폴더별:
   data/maps	3093
-  data/content	802
+  data/content	801
   story/ch11_remnants.js	125
-  story/lost.js	53
   data/skills.js	46
   ui/menu	42
   core/Input.js	26
