@@ -1,2 +1,0 @@
-1	low,high,mid,high
-2	Orsolya

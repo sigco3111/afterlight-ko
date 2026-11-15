@@ -1,9 +1,0 @@
-1	  ccccccc=======ccccccccc               
-2	  ccccccc           #####               
-3	  ccccccc           ccccc       ####### 
-4	 cccccccccc       ccccccccc=====ccccccc 
-5	 cccccccccc=======ccccccccc     ccccccc 
-6	                    ==          ccccccc 
-7	                    ==            ccc   
-8	             ccccccccc========ccccccccc 
-9	 ox  R   o                        o     

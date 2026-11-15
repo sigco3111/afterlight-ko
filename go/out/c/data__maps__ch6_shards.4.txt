@@ -1,9 +1,0 @@
-61	Bridge is down. Gods help you.
-62	If you see the Unmoored... don't look it in the eye. It looks back. It remembers things.
-63	Salvager, once. North spoke's the Chainyard — winch is on the old deck. South spoke's the Psalm — winch is in the deckhouse.
-64	Turn both and the strait bridge comes down. I'd do it myself, but I like being alive. It's a habit.
-65	Winch
-66	Banner
-67	The Gilded Psalm's mainmast, snapped off at the deck. Gold leaf still clings to it. The Choir built its ships to be looked at.
-68	A chain-lock as big as a barrel, padlocked to the bridge. The chain runs away north, toward the Chainyard.
-69	A second chain-lock. This chain runs south, toward the wreck of the Psalm.

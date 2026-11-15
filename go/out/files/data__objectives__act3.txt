@@ -1,3 +1,0 @@
-blocker:c11_mirefen:rot_a
-blocker:c11_mirefen:rot_b
-blocker:c11_thornwood:thorn_a

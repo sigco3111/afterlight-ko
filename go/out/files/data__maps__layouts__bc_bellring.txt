@@ -1,7 +1,0 @@
-1	SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-2	SSSSSSSSssssssssssssssssSSSSSSSS
-3	S;;;;;;;;sssssssssssss;;;;;;;;;S
-4	S;;;;;;;;;;;;ssssss;;;;;;;;;;;;S
-5	S;;;;;;;;;;;;;xxxx;;;;;;;;;;;;;S
-6	SSSSSSSSSSSS;;;;;;;;SSSSSSSSSSSS
-7	     FFFFFFFFS    SFFFFFFFF     

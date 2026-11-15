@@ -1,9 +1,0 @@
-1	Communion
-2	She drinks the dark, and it drinks her back.
-3	The great bell splits with a sound like a scream. The Wight tears the clapper free!
-4	The foundry floor shifts. Old bones answer the bell.
-5	The Wight raises its hammer toward the great bell...
-6	"Hush, now. Let me sing you something."
-7	Mercy uncorks a vial of darkness and drinks. Her shadow stands up behind her.
-8	"There, there. It only hurts until it doesn't."
-9	Mercy draws a long breath. The air goes still, as if waiting for noon...

@@ -1,5 +1,0 @@
-1	UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
-2	UUUUUUUUUUUUUuuuuuuuuuuuuuuuuuuuuuuuUUUU
-3	          FFFF FFFF FFFF FFFF  FFFFFFF  
-4	                              CC     O  
-5	      HH     E  E     ==                

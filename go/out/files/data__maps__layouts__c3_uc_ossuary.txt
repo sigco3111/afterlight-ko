@@ -1,4 +1,0 @@
-1	RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
-2	RRRRRRRRRrrrrrrrrrrrRRRRRRRRccccccccccccccRRRR
-3	         O                  ddx               
-4	    xd                              ^       ^ 

@@ -1,6 +1,0 @@
-21	                   gnn            PP
-22	TT                  n              T
-23	TP                                 P
-24	TP                    nf           T
-25	PbPb  b  Tbb TTb    PbP  bb bbT  TPP
-26	TbPTT TTP  P TPb    PP PT  PPb   PTP

@@ -1,7 +1,0 @@
-21	Hollis the gardener wants seeds that will grow in ash. The Choir kept dawnmoss below the city.
-22	Osric the bellringer's clapper fell into the depths of the Undercroft. Find it.
-23	Dead Letters
-24	Deliver Petra's letters: Sorrel at the gate, Hollis in the garden, and the Cathedral (the foot of the Grand Lantern).
-25	Old Clapper
-26	Something that tolls like a bell nests in the Undercroft's north-east Reliquary. Slay it for the city's bounty.
-27	Something uncoils in the shallows of the Reliquary — scaled, rust-red, its belly swollen around a shape that is unmistakably a bell.

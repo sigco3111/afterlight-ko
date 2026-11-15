@@ -1,3 +1,0 @@
-1	<div class="wm-quest">◆ Your objective lies this way</div>
-2	<div class="dim">Nowhere to go yet.</div>
-3	<div class="wm-dest{0}"><span>{1}</span><em>{2}</em></div>

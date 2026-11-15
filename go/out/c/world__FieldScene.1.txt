@@ -1,3 +1,0 @@
-1	Missing look for
-2	Examine
-3	Read

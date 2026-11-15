@@ -1,3 +1,0 @@
-1	<div class="lv-more up">▲</div>
-2	<div class="lv-more down">▼</div>
-3	 : ''}</div>

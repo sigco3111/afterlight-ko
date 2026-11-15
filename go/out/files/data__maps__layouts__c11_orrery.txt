@@ -1,8 +1,0 @@
-1	    KKKKKKKKKKKKKKKKKK    
-2	    MMMMMMMMXXMMMMMMMM    
-3	    MMMMMMXXXXXXMMMMMM    
-4	    MMMMMXXXXXXXXMMMMM    
-5	  ooMMMMMMMM;;;MMMMMMMo   
-6	   ooooooooo;;;oooooooo   
-7	         ooo==oo          
-8	     HHH          HHH     

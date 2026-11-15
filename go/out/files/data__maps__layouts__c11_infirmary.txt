@@ -1,5 +1,0 @@
-1	PPPPPPPPPPPPPPPPPPP
-2	P+++++++++++pppp++P
-3	P+pppppp++++++++++P
-4	P++++++pppp+++++++P
-5	P+++++++xxx+++++++P

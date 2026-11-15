@@ -1,2 +1,0 @@
-1	application/json
-2	.json,application/json

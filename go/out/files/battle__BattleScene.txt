@@ -1,4 +1,0 @@
-1	ABCDEFG
-2	AUTO
-3	WEAK
-4	<div class="go-title">The light fades...</div><div class="go-sub">but it has not gone out.</div>
