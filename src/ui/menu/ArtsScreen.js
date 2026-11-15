@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // Arts: every Art a party member knows, by Crest, with full details (data/artInfo.js).
 // The Arts of the primary and secondary Crests come first — those are usable in battle —
 // then their Mastery Arts still to unlock (with the CP to go), then Arts learned on
@@ -45,7 +46,7 @@ export class ArtsScreen extends MemberScreen {
 
   build() {
     const ch = this.ch;
-    this.el.innerHTML = header(`Arts — ${ch.name}`, `${KEYS.nav} ${KEYS.back} ${KEYS.swap}`);
+    this.el.innerHTML = header(fmt('Arts — {0}', ch.name), `${KEYS.nav} ${KEYS.back} ${KEYS.swap}`);
     const body = el('div', 'cs-body arts-body');
     const left = el('div', 'cs-left panel');
     const items = this.entries();
@@ -80,15 +81,15 @@ export class ArtsScreen extends MemberScreen {
     const mods = ch.modifiers().mods;
     const mp = s.mp ? Math.max(0, Math.round(s.mp * (1 + (mods.mpCost || 0) / 100))) : 0;
     const d = artDetails(s, { mp, powerMult: ch.artPower()[e.id] || 1 });
-    const source = e.stars ? `Mastery Art — ★${e.stars}` : `Rank ${e.rank}`;
+    const source = e.stars ? fmt('Mastery Art — ★{0}', e.stars) : `Rank ${e.rank}`;
     let status;
     if (e.locked) {
       const need = ASCEND_CP[e.stars - 1] - (ch.crests[e.crest] || 0);
-      status = `<div class="art-state no">Unlocks at ${c.name} ★${e.stars} — ${need} CP to go${ch.rankOf(e.crest) < 10 ? ' (master the Crest first)' : ''}</div>`;
+      status = fmt('<div class="art-state no">Unlocks at {0} ★{1} — {2} CP to go{3}</div>', c.name, e.stars, need, ch.rankOf(e.crest) < 10 ? ' (master the Crest first)' : '');
     } else if (e.slot === 'other') {
-      status = `<div class="art-state no">Equip ${c.name} as primary or secondary Crest to use it in battle.</div>`;
+      status = fmt('<div class="art-state no">Equip {0} as primary or secondary Crest to use it in battle.</div>', c.name);
     } else {
-      status = `<div class="art-state ok">Usable in battle (${e.slot} Crest).</div>`;
+      status = fmt('<div class="art-state ok">Usable in battle ({0} Crest).</div>', e.slot);
     }
     this.detail.innerHTML = `<div class="cd-name">${s.name}</div>
       <div class="cd-tier"><span style="color:${c.color}">${c.icon} ${c.name}</span> · ${source}</div>

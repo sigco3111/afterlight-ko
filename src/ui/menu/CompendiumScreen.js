@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // The Compendium (menu 'bestiary'): Greer Thackery's book of every creature, one
 // section per chapter plus side paths, marks, arenas and the Abyss. Entries are
 // numbered in book order; a creature never met is a "???" in its place, so the gaps
@@ -37,7 +38,7 @@ export class CompendiumScreen extends Screen {
   build() {
     const all = this.done.all;
     const pct = all.total ? Math.floor((100 * all.defeated) / all.total) : 0;
-    this.el.innerHTML = header(`Compendium — ${all.seen} recorded · ${all.defeated} felled of ${all.total} (${pct}%)`,
+    this.el.innerHTML = header(fmt('Compendium — {0} recorded · {1} felled of {2} ({3}%)', all.seen, all.defeated, all.total, pct),
       `${KEYS.nav} ${keyCap('pageLeft')}${keyCap('pageRight')} Section ${KEYS.back}`);
     const body = el('div', 'bs-body');
     const left = el('div', 'bs-left panel');
@@ -82,7 +83,7 @@ export class CompendiumScreen extends Screen {
     if (!it) { this.detail.innerHTML = ''; return; }
     const k = knowledge(st, it.def);
     if (!k) {
-      this.detail.innerHTML = `<div class="cd-name">???</div><div class="cd-tier">${entryNo(it.no)}</div><div class="cd-desc dim">Not yet recorded. Something is out there that the book has no name for.</div>`;
+      this.detail.innerHTML = fmt('<div class="cd-name">???</div><div class="cd-tier">{0}</div><div class="cd-desc dim">Not yet recorded. Something is out there that the book has no name for.</div>', entryNo(it.no));
       return;
     }
     const e = it.def;
@@ -115,18 +116,8 @@ export class CompendiumScreen extends Screen {
     const habitat = known(2) ? (where.length ? where.join(', ') : (e.mark ? 'Wherever the Ledger says' : 'Met only once')) : '???';
     const tactics = known(3)
       ? `<ul class="cp-tactics">${tacticsOf(e).map((t) => `<li>${t}</li>`).join('')}</ul>`
-      : `<div class="dim cp-tactics-locked">Fell ${e.boss || e.mark ? 'it' : `${STUDY_DEFEATS} of them`} to learn how it fights. (${r.defeated || 0}/${e.boss || e.mark ? 1 : STUDY_DEFEATS})</div>`;
-    this.detail.innerHTML = `<div class="cd-name">${e.name}${e.mark ? ' <span class="cp-tag mark">MARK</span>' : e.boss ? ' <span class="cp-tag boss">BOSS</span>' : ''}</div>
-      <div class="cd-tier">${entryNo(it.no)} · ${familyOf(e)} · Lv ${e.level} · <span class="cp-stars" title="seen · felled · studied">${STARS[k]}</span> · Seen ${r.seen} · Felled ${r.defeated}</div>
-      <div class="cp-top"><div class="bs-art"></div><div class="cd-desc">${e.desc || ''}</div></div>
-      <div class="bs-row"><b>Habitat</b> ${habitat}</div>
-      <div class="bs-row"><b>HP</b> ${known(2) ? Math.round(s.hp * d.hp).toLocaleString() : '???'} · <b>Poise</b> ${e.poise ?? 2} · <b>EXP</b> ${known(2) ? s.exp : '???'} · <b>Gold</b> ${known(2) ? s.gold : '???'} · <b>CP</b> ${known(2) ? s.cp : '???'}</div>
-      <div class="bs-row"><b>Weak</b> ${weak}</div>
-      <div class="bs-row"><b>Resists</b> ${res}</div>
-      <div class="bs-row"><b>Immune</b> ${imm}</div>
-      <div class="bs-row"><b>Moves</b> ${moves}</div>
-      <div class="bs-row"><b>Drops</b> ${drops} · <b>Steal</b> ${steal}</div>
-      <div class="bs-row cp-tactics-head"><b>Tactics</b></div>${tactics}`;
+      : fmt('<div class="dim cp-tactics-locked">Fell {0} to learn how it fights. ({1}/{2})</div>', e.boss || e.mark ? 'it' : `${STUDY_DEFEATS} of them`, r.defeated || 0, e.boss || e.mark ? 1 : STUDY_DEFEATS);
+    this.detail.innerHTML = fmt('<div class="cd-name">{0}{1}</div>\n      <div class="cd-tier">{2} · {3} · Lv {4} · <span class="cp-stars" title="seen · felled · studied">{5}</span> · Seen {6} · Felled {7}</div>\n      <div class="cp-top"><div class="bs-art"></div><div class="cd-desc">{8}</div></div>\n      <div class="bs-row"><b>Habitat</b> {9}</div>\n      <div class="bs-row"><b>HP</b> {10} · <b>Poise</b> {11} · <b>EXP</b> {12} · <b>Gold</b> {13} · <b>CP</b> {14}</div>\n      <div class="bs-row"><b>Weak</b> {15}</div>\n      <div class="bs-row"><b>Resists</b> {16}</div>\n      <div class="bs-row"><b>Immune</b> {17}</div>\n      <div class="bs-row"><b>Moves</b> {18}</div>\n      <div class="bs-row"><b>Drops</b> {19} · <b>Steal</b> {20}</div>\n      <div class="bs-row cp-tactics-head"><b>Tactics</b></div>{21}', e.name, e.mark ? ' <span class="cp-tag mark">MARK</span>' : e.boss ? ' <span class="cp-tag boss">BOSS</span>' : '', entryNo(it.no), familyOf(e), e.level, STARS[k], r.seen, r.defeated, e.desc || '', habitat, known(2) ? Math.round(s.hp * d.hp).toLocaleString() : '???', e.poise ?? 2, known(2) ? s.exp : '???', known(2) ? s.gold : '???', known(2) ? s.cp : '???', weak, res, imm, moves, drops, steal, tactics);
     const art = getMonsterSprite(e.sprite).canvas;
     const img = document.createElement('canvas');
     img.width = art.width; img.height = art.height;

@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // DOM overlay UI. Widgets live on a focus stack; only the top widget receives
 // input. High-level helpers (dialogue, choice, banner, toast) return Promises
 // so scripts can simply `await` them.
@@ -333,7 +334,7 @@ class Backlog {
     this.resolve = resolve;
     this.el = el('div', 'backlog');
     const rows = ui.history.map((h) => `<div class="bl-row ${h.style || ''}">${h.speaker ? `<span class="bl-who">${h.speaker}</span>` : ''}<span class="bl-text">${richText(h.text)}</span></div>`).join('');
-    this.el.innerHTML = `<div class="panel bl-panel"><div class="bl-title">Backlog</div><div class="bl-list">${rows}</div><div class="bl-hint">${keyCap('up')}${keyCap('down')} Scroll · ${keyCap('cancel')} Close</div></div>`;
+    this.el.innerHTML = fmt('<div class="panel bl-panel"><div class="bl-title">Backlog</div><div class="bl-list">{0}</div><div class="bl-hint">{1}{2} Scroll · {3} Close</div></div>', rows, keyCap('up'), keyCap('down'), keyCap('cancel'));
     this.list = this.el.querySelector('.bl-list');
   }
 
