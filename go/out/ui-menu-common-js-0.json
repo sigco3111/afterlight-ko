@@ -1,5 +1,0 @@
-[
- "<div class=\"lv-more up\">▲</div>",
- "<div class=\"lv-more down\">▼</div>",
- "n    <div class=\"pc-top\"><span class=\"pc-name\">{0}</span><span class=\"pc-lv\">Lv <b>{1}</b></span></div>n    <div class=\"pc-crest\" style=\"color:{2}\">{3} {4} <span class=\"pc-rank\">R{5}{6}</span>{7}</div>n    <div class=\"pc-vit\"><span>HP</span>{8}<span class=\"num\">{9}/{10}</span></div>n    <div class=\"pc-vit\"><span>MP</span>{11}<span class=\"num\">{12}/{13}</span></div>n    <div class=\"pc-vit small\"><span>EXP</span>{14}<span class=\"num\">{15} to next</span></div>"
-]
