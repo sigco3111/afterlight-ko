@@ -1,0 +1,27 @@
+[
+ {
+  "line": 2,
+  "tpl": false,
+  "s": "s offer; Sable"
+ },
+ {
+  "line": 306,
+  "tpl": false,
+  "s": "not yet"
+ },
+ {
+  "line": 526,
+  "tpl": false,
+  "s": "Nell went with them? _Smiling?_"
+ },
+ {
+  "line": 773,
+  "tpl": false,
+  "s": "Sister Mercy was making Gloam beasts out of the poor of Low Town. We beat her, but she walked into her own shadow and was gone. \"Noon is coming,\" she said. We got Nell, Tuck and Wick out — and Rowan the baker, and ten others."
+ },
+ {
+  "line": 794,
+  "tpl": true,
+  "s": "villager_${40 + i}"
+ }
+]

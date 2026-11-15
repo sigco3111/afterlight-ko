@@ -1,0 +1,77 @@
+[
+ {
+  "line": 159,
+  "tpl": true,
+  "s": "${n} found. ${5 - n} to go. They're _good_ at hiding. Boss taught us. \"Somewhere nobody looks, which is everywhere, if you're small.\""
+ },
+ {
+  "line": 184,
+  "tpl": true,
+  "s": "Kites found: <span class=\"hl\">${n} / 5</span>"
+ },
+ {
+  "line": 416,
+  "tpl": false,
+  "s": "Keep watch with Pip through the night? (Kiteholm will be attacked.)"
+ },
+ {
+  "line": 416,
+  "tpl": false,
+  "s": "Keep watch"
+ },
+ {
+  "line": 681,
+  "tpl": false,
+  "s": "Leave Kiteholm for Corvin's Roost? (You can return later by the world map.)"
+ },
+ {
+  "line": 681,
+  "tpl": false,
+  "s": "Cast off"
+ },
+ {
+  "line": 718,
+  "tpl": true,
+  "s": "Pay Bram's debt of 1,500 gold? (You have ${s.state.gold})"
+ },
+ {
+  "line": 755,
+  "tpl": true,
+  "s": "Three cogs. You've got ${s.state.inventory.count('scrap_gear')}. The golems below keep 'em in their bellies."
+ },
+ {
+  "line": 780,
+  "tpl": false,
+  "s": "Rank I — Rustjaw"
+ },
+ {
+  "line": 781,
+  "tpl": false,
+  "s": "Rank II — Cog & Sprocket"
+ },
+ {
+  "line": 782,
+  "tpl": false,
+  "s": "Rank III — Iron Moll"
+ },
+ {
+  "line": 783,
+  "tpl": false,
+  "s": "Champion — the Gale Roc"
+ },
+ {
+  "line": 793,
+  "tpl": true,
+  "s": "Enter ${next.name}?"
+ },
+ {
+  "line": 800,
+  "tpl": false,
+  "s": "THE GALE ROC FALLS! Darlings, you're Kiteholm's champions! Here — the champion's purse. Don't spend it on the Baron."
+ },
+ {
+  "line": 801,
+  "tpl": false,
+  "s": "And the crowd goes _moderately_ wild! Your prize, darlings."
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "line": 79,
+  "tpl": true,
+  "s": "villager_${20 + i}"
+ }
+]

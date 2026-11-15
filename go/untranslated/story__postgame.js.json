@@ -1,0 +1,137 @@
+[
+ {
+  "line": 185,
+  "tpl": true,
+  "s": "THE TALLY — Names known: *${t.named}* of ${t.total} (${t.pct}%)"
+ },
+ {
+  "line": 186,
+  "tpl": true,
+  "s": "Crests mastered: *${t.mastered}* — ${t.per.map(([n, k]) => "
+ },
+ {
+  "line": 186,
+  "tpl": false,
+  "s": ").join(' · ')}"
+ },
+ {
+  "line": 189,
+  "tpl": true,
+  "s": "Deepest stair: *B${t.deepest}* of ${FLOORS} · Echo Colosseum: ${t.rank ? "
+ },
+ {
+  "line": 189,
+  "tpl": false,
+  "s": " : 'unranked'}"
+ },
+ {
+  "line": 190,
+  "tpl": true,
+  "s": "The First Dark: ${s.flag('pg_first_dark') ? 'given an edge' : 'unnamed'} · Lysa: ${s.flag('pg_lysa_done') ? 'found' : 'still hiding'}"
+ },
+ {
+  "line": 211,
+  "tpl": true,
+  "s": "${nextName.pct}% of the Bestiary"
+ },
+ {
+  "line": 212,
+  "tpl": true,
+  "s": "${nextCrest.n} Crest${nextCrest.n > 1 ? 's' : ''} mastered"
+ },
+ {
+  "line": 213,
+  "tpl": true,
+  "s": "Nothing new for the ledger. Come back at ${hints.join(', or ')}. I'll have something put by."
+ },
+ {
+  "line": 261,
+  "tpl": false,
+  "s": "If you see a little golden light flitting about down there — a Wishing Mote — use magic. Blades go right through it. Catch one and it might leave a Crest Tome."
+ },
+ {
+  "line": 262,
+  "tpl": false,
+  "s": "The chests down there that bite are Hoarder Mimics. They've eaten whole fortunes. Pierce them, shock them, and they cough up the most wonderful fruit."
+ },
+ {
+  "line": 263,
+  "tpl": false,
+  "s": "Every fifth stair has a Hearthstone. Somebody put them there. I would very much like to meet that somebody."
+ },
+ {
+  "line": 264,
+  "tpl": true,
+  "s": "Deepest stair you've reached: B${deep}. ${deep >= FLOORS ? 'All of it. Show-off.' : 'The bottom's at thirty. Probably. I drew it at thirty.'}"
+ },
+ {
+  "line": 328,
+  "tpl": false,
+  "s": "You beat YOURSELVES. Dace cried. Not the happy kind — he had money on the hollow ones. I didn't. I'm rich. Four coppers rich."
+ },
+ {
+  "line": 330,
+  "tpl": true,
+  "s": "Rank ${ROMAN[rank]}! The odds on you are terrible now. Terrible for me. Everyone bets on you."
+ },
+ {
+  "line": 331,
+  "tpl": false,
+  "s": "The Colosseum's through that big door. Dace'll fight you against anything the Gloam remembers. Everything you ever beat, it remembers."
+ },
+ {
+  "line": 367,
+  "tpl": true,
+  "s": "Down to B${n}"
+ },
+ {
+  "line": 504,
+  "tpl": true,
+  "s": "You have found ${found} of her chalk marks below."
+ },
+ {
+  "line": 518,
+  "tpl": false,
+  "s": "Chalk on the stone in a child's hand: a hopscotch grid, and beside it — I'M HIDING. DON'T LOOK HERE. (She was not hiding here.)"
+ },
+ {
+  "line": 519,
+  "tpl": false,
+  "s": "A chalk arrow, pointing the way she went. Underneath: WARMER!"
+ },
+ {
+  "line": 520,
+  "tpl": false,
+  "s": "Chalk, faded but careful: CASSIAN ALWAYS FINDS ME. HE'S THE BEST AT THIS GAME. Below it, very small: are you cassian?"
+ },
+ {
+  "line": 521,
+  "tpl": false,
+  "s": "A chalk door, drawn small, rubbed out, and drawn again bigger. Under it: I GOT TIRED OF WAITING. I'M SOMEWHERE NICE NOW. THE DOOR IS WHERE IT STARTED."
+ },
+ {
+  "line": 538,
+  "tpl": true,
+  "s": "Chalk marks found: ${found} / ${CHALK_FLOORS.length}"
+ },
+ {
+  "line": 578,
+  "tpl": false,
+  "s": "\"Warmer! Warmer!\""
+ },
+ {
+  "line": 578,
+  "tpl": false,
+  "s": "\"Freezing! Brrr!\""
+ },
+ {
+  "line": 579,
+  "tpl": true,
+  "s": "${HIDING_SPOTS[spot].empty} From somewhere across the square, a small voice: ${hint}"
+ },
+ {
+  "line": 668,
+  "tpl": true,
+  "s": "Rank ${ROMAN[i + 1]} — ${r.name} (Lv ${r.lv})${i < cleared ? ' ✓' : ''}"
+ }
+]

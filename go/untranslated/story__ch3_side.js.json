@@ -1,0 +1,12 @@
+[
+ {
+  "line": 76,
+  "tpl": true,
+  "s": "The ${note === 'mid' ? 'middle' : note} bell rings out${seq.length > 1 ? ', and the others answer faintly' : ''}."
+ },
+ {
+  "line": 96,
+  "tpl": true,
+  "s": "${n} of four. My heart is old, Page, but it is patient."
+ }
+]

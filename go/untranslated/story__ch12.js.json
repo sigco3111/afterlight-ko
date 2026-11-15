@@ -1,0 +1,12 @@
+[
+ {
+  "line": 151,
+  "tpl": true,
+  "s": "The dancers wait for a beat that never comes. (Sundials woken: ${dialsDone(s.state)}/3)"
+ },
+ {
+  "line": 188,
+  "tpl": true,
+  "s": "Wake the remaining sundials (${n}/3 woken)."
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "line": 112,
+  "tpl": true,
+  "s": "summon${Math.floor(c.turn / 4)}"
+ }
+]

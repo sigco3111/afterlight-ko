@@ -1,0 +1,172 @@
+[
+ {
+  "line": 38,
+  "tpl": true,
+  "s": "${KEYS.nav} ${keyCap('confirm')} Use ${KEYS.back} ${keyCap('pageLeft')}${keyCap('pageRight')} Category"
+ },
+ {
+  "line": 39,
+  "tpl": true,
+  "s": "<span class=\"${i === this.tab ? 'on' : ''}\">${t.label}</span>"
+ },
+ {
+  "line": 42,
+  "tpl": false,
+  "s": "it-left panel"
+ },
+ {
+  "line": 48,
+  "tpl": true,
+  "s": "<span class=\"ii\">${it.def.icon || '◇'}</span><span class=\"in\">${it.def.name}</span><span class=\"cnt\">×${it.n}</span>"
+ },
+ {
+  "line": 53,
+  "tpl": false,
+  "s": "it-desc panel"
+ },
+ {
+  "line": 62,
+  "tpl": true,
+  "s": "<div class=\"cd-name\">${it.def.name}</div><div class=\"cd-desc\">${richText(it.def.desc || '')}</div>${it.def.sell || it.def.price ? "
+ },
+ {
+  "line": 135,
+  "tpl": true,
+  "s": "${KEYS.back} ${KEYS.swap}"
+ },
+ {
+  "line": 137,
+  "tpl": false,
+  "s": "st-left panel"
+ },
+ {
+  "line": 140,
+  "tpl": false,
+  "s": "st-mid panel"
+ },
+ {
+  "line": 141,
+  "tpl": false,
+  "s": "st-right panel"
+ },
+ {
+  "line": 146,
+  "tpl": true,
+  "s": "<span class=\"pips stars\">${starText(ch.starsOf(id))}</span>"
+ },
+ {
+  "line": 146,
+  "tpl": true,
+  "s": "<span class=\"pips\">${'◆'.repeat(r)}${'◇'.repeat(MAX_RANK - r)}</span>"
+ },
+ {
+  "line": 147,
+  "tpl": true,
+  "s": "<div class=\"st-crest\"><span style=\"color:${c.color}\">${c.icon} ${c.name}</span>${pips}</div>"
+ },
+ {
+  "line": 151,
+  "tpl": false,
+  "s": "<div class=\"sd-title\" style=\"margin-top:14px\">Legacies</div>"
+ },
+ {
+  "line": 152,
+  "tpl": true,
+  "s": "<div class=\"st-legacy\"><span style=\"color:${CRESTS[id].color}\">${CRESTS[id].icon}</span> ${CRESTS[id].legacy.desc}</div>"
+ },
+ {
+  "line": 155,
+  "tpl": true,
+  "s": "<div class=\"dim\">◆ ${p}</div>"
+ },
+ {
+  "line": 155,
+  "tpl": false,
+  "s": "<div class=\"dim\">None</div>"
+ },
+ {
+  "line": 163,
+  "tpl": true,
+  "s": "◆ ${PASSIVES[id].name}"
+ },
+ {
+  "line": 235,
+  "tpl": true,
+  "s": "${Math.round(s.musicVolume * 100)}%"
+ },
+ {
+  "line": 236,
+  "tpl": true,
+  "s": "${Math.round(s.sfxVolume * 100)}%"
+ },
+ {
+  "line": 237,
+  "tpl": true,
+  "s": "${Math.round((s.voiceVolume ?? 0.8) * 100)}%"
+ },
+ {
+  "line": 250,
+  "tpl": true,
+  "s": "${s.fastSpeed || 3}×"
+ },
+ {
+  "line": 262,
+  "tpl": false,
+  "s": "set-list panel"
+ },
+ {
+  "line": 263,
+  "tpl": true,
+  "s": "set-row ${i === this.index ? 'sel' : ''}"
+ },
+ {
+  "line": 263,
+  "tpl": true,
+  "s": "<span>${o.label}</span><span class=\"set-v\">${o.open ? "
+ },
+ {
+  "line": 302,
+  "tpl": false,
+  "s": "jn panel"
+ },
+ {
+  "line": 309,
+  "tpl": true,
+  "s": " <span class=\"jn-where\">◆ ${name}</span>"
+ },
+ {
+  "line": 311,
+  "tpl": true,
+  "s": "<div class=\"jn-q ${q.status}\"><span>${q.status === 'done' ? '✔' : '◆'}</span> <b>${q.title}</b>${q.status === 'done' ? '' : "
+ },
+ {
+  "line": 311,
+  "tpl": false,
+  "s": "<div class=\"dim\">No side quests yet.</div>"
+ },
+ {
+  "line": 312,
+  "tpl": false,
+  "s": "<p class=\"dim\">Nothing yet.</p>"
+ },
+ {
+  "line": 356,
+  "tpl": true,
+  "s": "${KEYS.nav} ${KEYS.back}"
+ },
+ {
+  "line": 358,
+  "tpl": false,
+  "s": "bs-left panel"
+ },
+ {
+  "line": 361,
+  "tpl": false,
+  "s": "bs-detail panel"
+ },
+ {
+  "line": 369,
+  "tpl": true,
+  "s": "<div class=\"cd-name\">${t}</div><div class=\"cd-desc\" style=\"font-size:20px;line-height:1.6\">${richText(text)}</div>"
+ }
+]

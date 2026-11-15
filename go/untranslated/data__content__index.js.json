@@ -1,0 +1,22 @@
+[
+ {
+  "line": 54,
+  "tpl": false,
+  "s": "s additions to maps it doesn"
+ },
+ {
+  "line": 58,
+  "tpl": true,
+  "s": "Content pack '${name}': no encounter table on '${mapId}'"
+ },
+ {
+  "line": 64,
+  "tpl": true,
+  "s": "Content pack '${name}': no map '${mapId}'"
+ },
+ {
+  "line": 75,
+  "tpl": true,
+  "s": "Content pack '${name}' failed to load: ${e.message}"
+ }
+]

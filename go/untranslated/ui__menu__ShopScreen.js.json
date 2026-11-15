@@ -1,0 +1,67 @@
+[
+ {
+  "line": 2,
+  "tpl": false,
+  "s": "who can equip"
+ },
+ {
+  "line": 35,
+  "tpl": true,
+  "s": "${KEYS.nav} ${KEYS.ok} ${KEYS.back} ${keyCap('pageLeft')}${keyCap('pageRight')} Buy/Sell"
+ },
+ {
+  "line": 36,
+  "tpl": true,
+  "s": "<span class=\"${this.tab === 0 ? 'on' : ''}\">Buy</span><span class=\"${this.tab === 1 ? 'on' : ''}\">Sell</span><span class=\"gold\">${this.state.gold.toLocaleString()} G</span>"
+ },
+ {
+  "line": 38,
+  "tpl": false,
+  "s": "sh-left panel"
+ },
+ {
+  "line": 42,
+  "tpl": true,
+  "s": "<span class=\"in\">${it.d.name}</span><span class=\"cnt dim\">${it.have ? "
+ },
+ {
+  "line": 42,
+  "tpl": true,
+  "s": " : ''}</span><span class=\"price ${this.tab === 0 && it.price > this.state.gold ? 'no' : ''}\">${it.price} G</span>"
+ },
+ {
+  "line": 47,
+  "tpl": false,
+  "s": "sh-detail panel"
+ },
+ {
+  "line": 57,
+  "tpl": true,
+  "s": "<div class=\"cd-name\">${d.name}</div><div class=\"cd-desc\">${richText(d.desc || '')}</div>"
+ },
+ {
+  "line": 59,
+  "tpl": true,
+  "s": "${k.toUpperCase()} +${d[k]}"
+ },
+ {
+  "line": 60,
+  "tpl": true,
+  "s": "<div class=\"sh-stats\">${bits.join(' · ')}</div><div class=\"sh-who\">"
+ },
+ {
+  "line": 66,
+  "tpl": true,
+  "s": "<div class=\"sh-mem ${can ? '' : 'no'}\" data-look=\"${ch.id}\"><span class=\"nm\">${ch.name}</span><span class=\"${delta > 0 ? 'up' : delta < 0 ? 'down' : ''}\">${can ? (delta > 0 ? "
+ },
+ {
+  "line": 66,
+  "tpl": false,
+  "s": " : delta < 0 ? "
+ },
+ {
+  "line": 66,
+  "tpl": false,
+  "s": " : '=') : '—'}</span></div>"
+ }
+]

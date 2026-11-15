@@ -1,0 +1,22 @@
+[
+ {
+  "line": 70,
+  "tpl": false,
+  "s": "<span class=\"sh-item sh-skipping\"><b>&gt;&gt;&gt;</b> Skipping</span>"
+ },
+ {
+  "line": 74,
+  "tpl": true,
+  "s": "<span class=\"sh-item sh-fast ${fast ? 'on' : ''}\">${keyCap('fast')} ${fast ? "
+ },
+ {
+  "line": 74,
+  "tpl": false,
+  "s": " : 'Fast'}</span>"
+ },
+ {
+  "line": 76,
+  "tpl": false,
+  "s": "<span class=\"sh-item sh-skip off\">This scene can't be skipped</span>"
+ }
+]

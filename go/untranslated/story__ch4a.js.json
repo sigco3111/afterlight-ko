@@ -1,0 +1,57 @@
+[
+ {
+  "line": 83,
+  "tpl": false,
+  "s": "...Ilse. Look."
+ },
+ {
+  "line": 138,
+  "tpl": false,
+  "s": "Being... hot?"
+ },
+ {
+  "line": 263,
+  "tpl": true,
+  "s": "A ring of brass sockets, each the size of a fist. ${n ? "
+ },
+ {
+  "line": 263,
+  "tpl": false,
+  "s": " : 'Something used to sit in them'}."
+ },
+ {
+  "line": 301,
+  "tpl": false,
+  "s": "Define \"owe.\""
+ },
+ {
+  "line": 485,
+  "tpl": false,
+  "s": "Eleven, then."
+ },
+ {
+  "line": 502,
+  "tpl": false,
+  "s": "Yes, ma'am."
+ },
+ {
+  "line": 506,
+  "tpl": false,
+  "s": "...Yeah. Yeah, okay. Yes."
+ },
+ {
+  "line": 572,
+  "tpl": false,
+  "s": "Pay 600 gold"
+ },
+ {
+  "line": 572,
+  "tpl": true,
+  "s": "Pay Corvin's debt? (You have ${s.state.gold} gold)"
+ },
+ {
+  "line": 640,
+  "tpl": false,
+  "s": "It's _tuning_ it."
+ }
+]

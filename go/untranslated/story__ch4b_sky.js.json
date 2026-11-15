@@ -1,0 +1,12 @@
+[
+ {
+  "line": 93,
+  "tpl": true,
+  "s": "<span class=\"hl\">Storm Cores</span> — ${k} of 3"
+ },
+ {
+  "line": 524,
+  "tpl": true,
+  "s": "<span class=\"hl\">Lift-pylons</span> — ${n} of 3 charged"
+ }
+]

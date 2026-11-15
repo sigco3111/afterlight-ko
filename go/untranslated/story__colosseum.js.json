@@ -1,0 +1,132 @@
+[
+ {
+  "line": 16,
+  "tpl": false,
+  "s": "Round one! From the kennels under the east stand — the SAND HOUNDS! They have not been fed. That is a joke. Mostly."
+ },
+ {
+  "line": 17,
+  "tpl": false,
+  "s": "Round two! Brothers in arms, brothers in debt — KELL THE NET and KELL THE FIST!"
+ },
+ {
+  "line": 18,
+  "tpl": false,
+  "s": "The final round! He has eaten three gates and a herald — GRIZZLEMAW!"
+ },
+ {
+  "line": 25,
+  "tpl": false,
+  "s": "Round one! Imported at great expense from the Sunscar — the GLASS SCORPIONS! Do not step on them. They hate that."
+ },
+ {
+  "line": 26,
+  "tpl": false,
+  "s": "Round two! Fastest blade in the Heartland, slowest to pay his tab — SERENO THE SWIFT!"
+ },
+ {
+  "line": 27,
+  "tpl": false,
+  "s": "The final round! Forged in the bell foundries from a broken bell and a bad idea — THE IRON BULL!"
+ },
+ {
+  "line": 34,
+  "tpl": false,
+  "s": "Round one! Dredged from the Fens at tremendous personal risk — the MIRE LURKERS!"
+ },
+ {
+  "line": 35,
+  "tpl": false,
+  "s": "Round two! One prays, one curses, neither has ever lost — the MASKS OF DAWN AND DUSK!"
+ },
+ {
+  "line": 36,
+  "tpl": false,
+  "s": "The final round! Mother of a thousand, mercy for none — THE SCYTHE MATRON!"
+ },
+ {
+  "line": 43,
+  "tpl": false,
+  "s": "Round one! They ride the bells' own echoes — the STORM KITES!"
+ },
+ {
+  "line": 44,
+  "tpl": false,
+  "s": "Round two! Three shields, one wall, no gaps — the PHALANX OF AURENNE!"
+ },
+ {
+  "line": 45,
+  "tpl": false,
+  "s": "The championship! Forty-one bouts. Forty-one wins. Your champion, and mine — VALKA THE UNDEFEATED!"
+ },
+ {
+  "line": 99,
+  "tpl": true,
+  "s": "Down in round ${ROMAN[i]}! The crowd is on its feet — some of them are cheering."
+ },
+ {
+  "line": 104,
+  "tpl": true,
+  "s": "Round ${ROMAN[i]} won. The arena medics patch you up (a quarter of HP and MP)."
+ },
+ {
+  "line": 127,
+  "tpl": true,
+  "s": "${c.name} (Lv ${c.lv})${cleared(s, c) ? ' ✓' : ''}"
+ },
+ {
+  "line": 128,
+  "tpl": true,
+  "s": "The ${next.name} opens later in your travels."
+ },
+ {
+  "line": 138,
+  "tpl": true,
+  "s": "Enter the ${cup.name}? Three rounds; HP carries over."
+ },
+ {
+  "line": 150,
+  "tpl": true,
+  "s": "The ${cup.name}, AGAIN! The crowd knows your names now. They are pronouncing them wrong, but with love."
+ },
+ {
+  "line": 151,
+  "tpl": true,
+  "s": "Received *${earned}* Bell Tokens. (You have ${tokens(s)}.)"
+ },
+ {
+  "line": 160,
+  "tpl": true,
+  "s": "The ${cup.name} goes to my contenders! Did I not say? I said. Ask anyone."
+ },
+ {
+  "line": 164,
+  "tpl": true,
+  "s": "Received *${earned}* Bell Tokens. (You have ${tokens(s)}.)"
+ },
+ {
+  "line": 166,
+  "tpl": true,
+  "s": "And the ${next.name} is open to you. Rest first. Or don't. The crowd prefers don't."
+ },
+ {
+  "line": 174,
+  "tpl": true,
+  "s": "${s.state.inventory.itemName(id)}${n > 1 ? "
+ },
+ {
+  "line": 174,
+  "tpl": true,
+  "s": " : ''} — ${cost} Tokens"
+ },
+ {
+  "line": 175,
+  "tpl": true,
+  "s": "Bell Tokens: ${tokens(s)}"
+ },
+ {
+  "line": 178,
+  "tpl": true,
+  "s": "That's ${cost} Tokens. You have ${tokens(s)}. The ring is that way."
+ }
+]

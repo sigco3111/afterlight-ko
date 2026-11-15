@@ -1,0 +1,877 @@
+[
+ {
+  "line": 34,
+  "tpl": false,
+  "s": "Aldous's Letter"
+ },
+ {
+  "line": 34,
+  "tpl": false,
+  "s": "Unsent. \"To my squire, whoever he turns out to be.\""
+ },
+ {
+  "line": 36,
+  "tpl": false,
+  "s": "Ashwatch Signet"
+ },
+ {
+  "line": 36,
+  "tpl": false,
+  "s": "A commander's ring. DEF/RES +12, counter 15%."
+ },
+ {
+  "line": 37,
+  "tpl": false,
+  "s": "Harrow's Fang"
+ },
+ {
+  "line": 37,
+  "tpl": false,
+  "s": "STR +18, critical rate +12%. The Lodge's founder, avenged."
+ },
+ {
+  "line": 38,
+  "tpl": false,
+  "s": "Agathe's Bell"
+ },
+ {
+  "line": 38,
+  "tpl": false,
+  "s": "Start battles with Veil (dodge two attacks). It rings very quietly."
+ },
+ {
+  "line": 39,
+  "tpl": false,
+  "s": "Black Star Shard"
+ },
+ {
+  "line": 39,
+  "tpl": false,
+  "s": "STR/MAG +30, Afterglow +30%. Hums below hearing."
+ },
+ {
+  "line": 59,
+  "tpl": false,
+  "s": "Heath Hound"
+ },
+ {
+  "line": 59,
+  "tpl": false,
+  "s": "Moor dogs gone wild. Polite, until they are not."
+ },
+ {
+  "line": 60,
+  "tpl": false,
+  "s": "Bracken Crow"
+ },
+ {
+  "line": 60,
+  "tpl": false,
+  "s": "It steals buttons. Then eyes."
+ },
+ {
+  "line": 61,
+  "tpl": false,
+  "s": "Bog Light"
+ },
+ {
+  "line": 61,
+  "tpl": false,
+  "s": "Follow it, and you will find exactly what it wants you to find."
+ },
+ {
+  "line": 62,
+  "tpl": false,
+  "s": "Gorse Boar"
+ },
+ {
+  "line": 62,
+  "tpl": false,
+  "s": "Bristleback's many, many children."
+ },
+ {
+  "line": 64,
+  "tpl": false,
+  "s": "Tide Lurker"
+ },
+ {
+  "line": 64,
+  "tpl": false,
+  "s": "Barnacled to the causeway for so long it forgot how to leave."
+ },
+ {
+  "line": 65,
+  "tpl": false,
+  "s": "Lens Jelly"
+ },
+ {
+  "line": 65,
+  "tpl": false,
+  "s": "It focuses sunlight into anyone foolish enough to look at it."
+ },
+ {
+  "line": 66,
+  "tpl": false,
+  "s": "Gallery Eel"
+ },
+ {
+  "line": 66,
+  "tpl": false,
+  "s": "Lives in the flooded galleries. Eats astronomers, historically."
+ },
+ {
+  "line": 67,
+  "tpl": false,
+  "s": "Brass Measurer"
+ },
+ {
+  "line": 67,
+  "tpl": false,
+  "s": "Built by the first Keepers to measure the sun. Still measuring."
+ },
+ {
+  "line": 69,
+  "tpl": false,
+  "s": "Ashwatch Sentinel"
+ },
+ {
+  "line": 69,
+  "tpl": false,
+  "s": "Still at their posts. Nobody relieved them."
+ },
+ {
+  "line": 70,
+  "tpl": false,
+  "s": "Oathless Shade"
+ },
+ {
+  "line": 70,
+  "tpl": false,
+  "s": "A soldier who broke an oath here. It is still sorry."
+ },
+ {
+  "line": 71,
+  "tpl": false,
+  "s": "Barrow Hound"
+ },
+ {
+  "line": 71,
+  "tpl": false,
+  "s": "Mange's pack. They guard the graves."
+ },
+ {
+  "line": 72,
+  "tpl": false,
+  "s": "Rusted Dawnguard"
+ },
+ {
+  "line": 72,
+  "tpl": false,
+  "s": "Empty armor that remembers the drill."
+ },
+ {
+  "line": 74,
+  "tpl": false,
+  "s": "Ember Harrier"
+ },
+ {
+  "line": 74,
+  "tpl": false,
+  "s": "Gulls that flew too close to the broken sun."
+ },
+ {
+  "line": 75,
+  "tpl": false,
+  "s": "Cinder Hound"
+ },
+ {
+  "line": 75,
+  "tpl": false,
+  "s": "Coal-bellied dogs of the ash wastes."
+ },
+ {
+  "line": 76,
+  "tpl": false,
+  "s": "Shard Crawler"
+ },
+ {
+  "line": 76,
+  "tpl": false,
+  "s": "Grows a shell from fallen window-glass."
+ },
+ {
+  "line": 77,
+  "tpl": false,
+  "s": "Ash Shade"
+ },
+ {
+  "line": 77,
+  "tpl": false,
+  "s": "Ash that remembers being a person."
+ },
+ {
+  "line": 79,
+  "tpl": false,
+  "s": "Belfry Bat"
+ },
+ {
+  "line": 79,
+  "tpl": false,
+  "s": "They hang right-way-up now, which is to say, upside-down."
+ },
+ {
+  "line": 80,
+  "tpl": false,
+  "s": "Still singing the wedding hymn. Still a little flat."
+ },
+ {
+  "line": 81,
+  "tpl": false,
+  "s": "Clapper Golem"
+ },
+ {
+  "line": 81,
+  "tpl": false,
+  "s": "A bell-clapper that grew arms. It strikes on the hour."
+ },
+ {
+  "line": 82,
+  "tpl": false,
+  "s": "Hymn Wisp"
+ },
+ {
+  "line": 82,
+  "tpl": false,
+  "s": "A note that refused to end."
+ },
+ {
+  "line": 84,
+  "tpl": false,
+  "s": "Thorn Maw"
+ },
+ {
+  "line": 84,
+  "tpl": false,
+  "s": "A white flower that bites the hand that waters it."
+ },
+ {
+  "line": 85,
+  "tpl": false,
+  "s": "It eats the last words before they can be said."
+ },
+ {
+  "line": 86,
+  "tpl": false,
+  "s": "Petal Wraith"
+ },
+ {
+  "line": 86,
+  "tpl": false,
+  "s": "Someone who did not get to say goodbye."
+ },
+ {
+  "line": 87,
+  "tpl": false,
+  "s": "Mourning Oak"
+ },
+ {
+  "line": 87,
+  "tpl": false,
+  "s": "Planted over a grave a century ago. It grieves slowly."
+ },
+ {
+  "line": 90,
+  "tpl": false,
+  "s": "Bounty. Ate a cart. The cart was occupied."
+ },
+ {
+  "line": 91,
+  "tpl": false,
+  "s": "Bounty. Its lure is the last light many travelers saw."
+ },
+ {
+  "line": 92,
+  "tpl": false,
+  "s": "Bounty. A cairn that got hungry."
+ },
+ {
+  "line": 93,
+  "tpl": false,
+  "s": "Bounty. The toll is fingers."
+ },
+ {
+  "line": 94,
+  "tpl": false,
+  "s": "Bounty. Still on patrol."
+ },
+ {
+  "line": 95,
+  "tpl": false,
+  "s": "Bounty. Flew through the broken sun."
+ },
+ {
+  "line": 96,
+  "tpl": false,
+  "s": "Bounty. Saints in its back."
+ },
+ {
+  "line": 97,
+  "tpl": false,
+  "s": "Bounty. It speaks with the voices of the buried."
+ },
+ {
+  "line": 98,
+  "tpl": false,
+  "s": "Bounty. Still conducting."
+ },
+ {
+  "line": 99,
+  "tpl": false,
+  "s": "Bounty. Do not let her hold your hand."
+ },
+ {
+  "line": 102,
+  "tpl": false,
+  "s": "The Orrery Warden"
+ },
+ {
+  "line": 102,
+  "tpl": false,
+  "s": "Built by the first Keepers to guard what they chose never to do."
+ },
+ {
+  "line": 103,
+  "tpl": false,
+  "s": "The Iron Duke"
+ },
+ {
+  "line": 103,
+  "tpl": false,
+  "s": "The fort commander's ceremonial armor. Someone has to hold the stair."
+ },
+ {
+  "line": 104,
+  "tpl": false,
+  "s": "The Hollow Bell"
+ },
+ {
+  "line": 104,
+  "tpl": false,
+  "s": "A bell that would not stop ringing, because stopping meant goodbye."
+ },
+ {
+  "line": 105,
+  "tpl": false,
+  "s": "The Last Bloom"
+ },
+ {
+  "line": 105,
+  "tpl": false,
+  "s": "It wanted to keep every last word. It kept too many."
+ },
+ {
+  "line": 107,
+  "tpl": false,
+  "s": "The Bane of Harrow"
+ },
+ {
+  "line": 107,
+  "tpl": false,
+  "s": "Hidden hunt. It killed the Lodge's founder, and it remembers how he tasted."
+ },
+ {
+  "line": 108,
+  "tpl": false,
+  "s": "Hidden hunt. It does not shine. It takes."
+ },
+ {
+  "line": 175,
+  "tpl": false,
+  "s": "Bristleback paws the ground, head low..."
+ },
+ {
+  "line": 179,
+  "tpl": false,
+  "s": "The lure brightens. Something huge opens beneath it..."
+ },
+ {
+  "line": 182,
+  "tpl": false,
+  "s": "Gravelgut swallows a cairn and hardens!"
+ },
+ {
+  "line": 183,
+  "tpl": false,
+  "s": "Gravelgut rears up, stones grinding..."
+ },
+ {
+  "line": 186,
+  "tpl": false,
+  "s": "The Pinch opens its great claw wide..."
+ },
+ {
+  "line": 189,
+  "tpl": false,
+  "s": "Mange howls for the pack!"
+ },
+ {
+  "line": 190,
+  "tpl": false,
+  "s": "Mange crouches, hackles up..."
+ },
+ {
+  "line": 193,
+  "tpl": false,
+  "s": "Cinderwing climbs into the ash, burning brighter..."
+ },
+ {
+  "line": 196,
+  "tpl": false,
+  "s": "Glasshide's shell reflects the light!"
+ },
+ {
+  "line": 197,
+  "tpl": false,
+  "s": "Glasshide raises its glittering tail..."
+ },
+ {
+  "line": 201,
+  "tpl": false,
+  "s": "Gravemouth inhales. A hundred buried voices fall silent..."
+ },
+ {
+  "line": 205,
+  "tpl": false,
+  "s": "The Choirmother raises her baton for the final verse..."
+ },
+ {
+  "line": 208,
+  "tpl": false,
+  "s": "The Thornmaiden blooms, thorns everywhere!"
+ },
+ {
+  "line": 209,
+  "tpl": false,
+  "s": "She holds out her hand. Do not take it..."
+ },
+ {
+  "line": 212,
+  "tpl": false,
+  "s": "The seven brass suns align!"
+ },
+ {
+  "line": 212,
+  "tpl": false,
+  "s": "Light gathers at the orrery's center..."
+ },
+ {
+  "line": 216,
+  "tpl": false,
+  "s": "The Iron Duke takes a two-handed stance."
+ },
+ {
+  "line": 217,
+  "tpl": false,
+  "s": "The Duke raises his greatsword high..."
+ },
+ {
+  "line": 220,
+  "tpl": false,
+  "s": "The bell tolls, and a note takes shape!"
+ },
+ {
+  "line": 221,
+  "tpl": false,
+  "s": "The great bell swings back, back, back..."
+ },
+ {
+  "line": 224,
+  "tpl": false,
+  "s": "Moths pour from the petals!"
+ },
+ {
+  "line": 225,
+  "tpl": false,
+  "s": "The Last Bloom drinks the whole garden's voice!"
+ },
+ {
+  "line": 226,
+  "tpl": false,
+  "s": "A thousand petal-mouths open at once..."
+ },
+ {
+  "line": 229,
+  "tpl": false,
+  "s": "The Bane of Harrow roars. Its wounds close!"
+ },
+ {
+  "line": 230,
+  "tpl": false,
+  "s": "It drags itself up for one last killing lunge..."
+ },
+ {
+  "line": 231,
+  "tpl": false,
+  "s": "The Bane lowers its head. Its jaws unhinge..."
+ },
+ {
+  "line": 234,
+  "tpl": false,
+  "s": "The Black Star swallows the light. Time slows."
+ },
+ {
+  "line": 235,
+  "tpl": false,
+  "s": "The Black Star collapses inward — everything is pulled toward it!"
+ },
+ {
+  "line": 236,
+  "tpl": false,
+  "s": "Every light in the sky bends toward the Black Star..."
+ },
+ {
+  "line": 256,
+  "tpl": false,
+  "s": "Lodge Stores"
+ },
+ {
+  "line": 257,
+  "tpl": false,
+  "s": "What's Left of the Stores"
+ },
+ {
+  "line": 276,
+  "tpl": false,
+  "s": "The Hunters' Lodge"
+ },
+ {
+  "line": 279,
+  "tpl": false,
+  "s": "Bounties pay better than honest work. Also, they are honest work."
+ },
+ {
+  "line": 279,
+  "tpl": false,
+  "s": "Brackenmoor's east of here. Take the gate and mind your ankles."
+ },
+ {
+  "line": 280,
+  "tpl": false,
+  "s": "The old man built this Lodge with his hands. Harrow. Something killed him in a hollow south of the moor."
+ },
+ {
+  "line": 280,
+  "tpl": false,
+  "s": "Adelind won't post it. Says we're not good enough. She's right, which is the annoying part."
+ },
+ {
+  "line": 287,
+  "tpl": false,
+  "s": "Lodge Hall"
+ },
+ {
+  "line": 290,
+  "tpl": false,
+  "s": "Lodge Stores"
+ },
+ {
+  "line": 290,
+  "tpl": false,
+  "s": "Lodge Stores"
+ },
+ {
+  "line": 290,
+  "tpl": false,
+  "s": "Bombs, arrows, and things that go in wounds. Buy something."
+ },
+ {
+  "line": 295,
+  "tpl": false,
+  "s": "The Hunters' Country"
+ },
+ {
+  "line": 309,
+  "tpl": false,
+  "s": "The Drowned Observatory"
+ },
+ {
+  "line": 309,
+  "tpl": false,
+  "s": "Gale Coast"
+ },
+ {
+  "line": 318,
+  "tpl": false,
+  "s": "The Flooded Galleries"
+ },
+ {
+  "line": 318,
+  "tpl": false,
+  "s": "Drowned Observatory"
+ },
+ {
+  "line": 326,
+  "tpl": false,
+  "s": "The Dome of Measures"
+ },
+ {
+  "line": 326,
+  "tpl": false,
+  "s": "Drowned Observatory"
+ },
+ {
+  "line": 333,
+  "tpl": false,
+  "s": "Fort Ashwatch"
+ },
+ {
+  "line": 333,
+  "tpl": false,
+  "s": "The Greyspine Foothills"
+ },
+ {
+  "line": 342,
+  "tpl": false,
+  "s": "Ashwatch Keep"
+ },
+ {
+  "line": 342,
+  "tpl": false,
+  "s": "Fort Ashwatch"
+ },
+ {
+  "line": 350,
+  "tpl": false,
+  "s": "The Signal Tower"
+ },
+ {
+  "line": 350,
+  "tpl": false,
+  "s": "Fort Ashwatch"
+ },
+ {
+  "line": 356,
+  "tpl": false,
+  "s": "The Lodge, After"
+ },
+ {
+  "line": 356,
+  "tpl": false,
+  "s": "A shard of Brackenmoor"
+ },
+ {
+  "line": 360,
+  "tpl": false,
+  "s": "Everything's twice the price and half the quality. That's the apocalypse for you."
+ },
+ {
+  "line": 366,
+  "tpl": false,
+  "s": "The Ashen Reach"
+ },
+ {
+  "line": 366,
+  "tpl": false,
+  "s": "The Ruin"
+ },
+ {
+  "line": 375,
+  "tpl": false,
+  "s": "The Hollow Bell"
+ },
+ {
+  "line": 375,
+  "tpl": false,
+  "s": "The Abbey of Hours"
+ },
+ {
+  "line": 380,
+  "tpl": false,
+  "s": "The Inverted Nave"
+ },
+ {
+  "line": 380,
+  "tpl": false,
+  "s": "The Hollow Bell"
+ },
+ {
+  "line": 394,
+  "tpl": false,
+  "s": "The Belfry"
+ },
+ {
+  "line": 394,
+  "tpl": false,
+  "s": "The Hollow Bell"
+ },
+ {
+  "line": 402,
+  "tpl": false,
+  "s": "The Garden That Remembers"
+ },
+ {
+  "line": 402,
+  "tpl": false,
+  "s": "A cemetery shard"
+ },
+ {
+  "line": 403,
+  "tpl": false,
+  "s": "Lost Crest"
+ },
+ {
+  "line": 407,
+  "tpl": false,
+  "s": "Tell Mara the bread is in the oven. Tell her it's her turn to burn it."
+ },
+ {
+  "line": 408,
+  "tpl": false,
+  "s": "It doesn't hurt. I promise. Go on, go — I'll catch up."
+ },
+ {
+  "line": 409,
+  "tpl": false,
+  "s": "Did the sun come up? Somebody tell me the sun came up."
+ },
+ {
+  "line": 416,
+  "tpl": false,
+  "s": "The Hedge of Last Words"
+ },
+ {
+  "line": 416,
+  "tpl": false,
+  "s": "The Garden That Remembers"
+ },
+ {
+  "line": 423,
+  "tpl": false,
+  "s": "I should have called you back. Every day, I should have called you back."
+ },
+ {
+  "line": 424,
+  "tpl": false,
+  "s": "The boy's name is Tam. Look after him. He's scared of the dark."
+ },
+ {
+  "line": 430,
+  "tpl": false,
+  "s": "The Heart of the Garden"
+ },
+ {
+  "line": 430,
+  "tpl": false,
+  "s": "The Garden That Remembers"
+ },
+ {
+  "line": 436,
+  "tpl": false,
+  "s": "Under the Black Star"
+ },
+ {
+  "line": 436,
+  "tpl": false,
+  "s": "Above the Seven Wounds"
+ },
+ {
+  "line": 449,
+  "tpl": false,
+  "s": "Hunters' Lodge"
+ },
+ {
+  "line": 449,
+  "tpl": false,
+  "s": "Bounties for monsters too much for a village."
+ },
+ {
+  "line": 450,
+  "tpl": false,
+  "s": "Drowned Observatory"
+ },
+ {
+  "line": 450,
+  "tpl": false,
+  "s": "Gale Coast"
+ },
+ {
+  "line": 450,
+  "tpl": false,
+  "s": "At low tide, a causeway rises to a dome older than the Lanterns."
+ },
+ {
+  "line": 451,
+  "tpl": false,
+  "s": "Fort Ashwatch"
+ },
+ {
+  "line": 451,
+  "tpl": false,
+  "s": "Greyspine Foothills"
+ },
+ {
+  "line": 451,
+  "tpl": false,
+  "s": "An abandoned Dawnguard fort. Sir Aldous's old command."
+ },
+ {
+  "line": 452,
+  "tpl": false,
+  "s": "Where the Lodge's founder died."
+ },
+ {
+  "line": 453,
+  "tpl": false,
+  "s": "The Lodge, After"
+ },
+ {
+  "line": 453,
+  "tpl": false,
+  "s": "A shard of Brackenmoor"
+ },
+ {
+  "line": 453,
+  "tpl": false,
+  "s": "The Hunters' Lodge survived. Some of it."
+ },
+ {
+  "line": 454,
+  "tpl": false,
+  "s": "The Hollow Bell"
+ },
+ {
+  "line": 454,
+  "tpl": false,
+  "s": "The Abbey of Hours"
+ },
+ {
+  "line": 454,
+  "tpl": false,
+  "s": "A bell-tower hanging upside-down under a shard. It rings on its own."
+ },
+ {
+  "line": 455,
+  "tpl": false,
+  "s": "The Garden That Remembers"
+ },
+ {
+  "line": 455,
+  "tpl": false,
+  "s": "A cemetery shard"
+ },
+ {
+  "line": 455,
+  "tpl": false,
+  "s": "White flowers that speak the last words of the dead."
+ },
+ {
+  "line": 456,
+  "tpl": false,
+  "s": "Above the Seven Wounds"
+ },
+ {
+  "line": 456,
+  "tpl": false,
+  "s": "It does not shine. It takes."
+ }
+]

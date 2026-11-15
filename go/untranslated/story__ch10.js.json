@@ -1,0 +1,17 @@
+[
+ {
+  "line": 32,
+  "tpl": true,
+  "s": "c10_puppet_${actor?.def?.id || name}"
+ },
+ {
+  "line": 34,
+  "tpl": true,
+  "s": "${name} has stopped mid-word. The smile is still there. Nothing behind it is."
+ },
+ {
+  "line": 134,
+  "tpl": true,
+  "s": "Clocks stopped: ${n} of 3."
+ }
+]

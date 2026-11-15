@@ -1,0 +1,392 @@
+[
+ {
+  "line": 13,
+  "tpl": false,
+  "s": "Singing Saltglass"
+ },
+ {
+  "line": 13,
+  "tpl": false,
+  "s": "Lift-glass from the Glass Caverns. It hums when you hold it to the sun — and when you hold it near the tuning forks."
+ },
+ {
+  "line": 14,
+  "tpl": false,
+  "s": "Halvard's Score"
+ },
+ {
+  "line": 14,
+  "tpl": false,
+  "s": "The Dawnsong in Brother Halvard's cramped hand. One note is circled twice. Beside it: REFLECTION?"
+ },
+ {
+  "line": 15,
+  "tpl": false,
+  "s": "Bell Stair Key"
+ },
+ {
+  "line": 15,
+  "tpl": false,
+  "s": "An iron key, warm from Halvard's hand."
+ },
+ {
+  "line": 20,
+  "tpl": false,
+  "s": "Sand Blast"
+ },
+ {
+  "line": 22,
+  "tpl": false,
+  "s": "Siren Song"
+ },
+ {
+  "line": 25,
+  "tpl": false,
+  "s": "Song of Breaking"
+ },
+ {
+  "line": 27,
+  "tpl": false,
+  "s": "Hold the Line"
+ },
+ {
+  "line": 28,
+  "tpl": false,
+  "s": "Execution Sweep"
+ },
+ {
+  "line": 29,
+  "tpl": false,
+  "s": "Thorne's Verdict"
+ },
+ {
+  "line": 30,
+  "tpl": false,
+  "s": "Shield Wall"
+ },
+ {
+  "line": 101,
+  "tpl": false,
+  "s": "Dune Scorpion"
+ },
+ {
+  "line": 104,
+  "tpl": false,
+  "s": "The color of the dunes at noon. You find out it is there when it finds out you are."
+ },
+ {
+  "line": 109,
+  "tpl": false,
+  "s": "A sand wyrm hatchling: the length of a man and all appetite. Its mother is never far."
+ },
+ {
+  "line": 111,
+  "tpl": false,
+  "s": "Sun Wisp"
+ },
+ {
+  "line": 114,
+  "tpl": false,
+  "s": "A shimmer of heat that decided to stay. Drinks fire. Fears the dark."
+ },
+ {
+  "line": 116,
+  "tpl": false,
+  "s": "Bone Vulture"
+ },
+ {
+  "line": 119,
+  "tpl": false,
+  "s": "It is patient. In the Sunscar, patience always eats."
+ },
+ {
+  "line": 124,
+  "tpl": false,
+  "s": "Takes your water first. Then your boots. Then, if you complain, you."
+ },
+ {
+  "line": 126,
+  "tpl": false,
+  "s": "Raider Slinger"
+ },
+ {
+  "line": 129,
+  "tpl": false,
+  "s": "Throws sand, stones and insults, all with remarkable accuracy."
+ },
+ {
+  "line": 134,
+  "tpl": false,
+  "s": "It wears the shape of what you want most. Up close it is only heat and hunger."
+ },
+ {
+  "line": 139,
+  "tpl": false,
+  "s": "A sand wyrm in its prime: forty feet of hunger that swims the dunes like open sea."
+ },
+ {
+  "line": 144,
+  "tpl": false,
+  "s": "Raider-king of the southern dunes. Laughs like a jackal. Fights like three of them."
+ },
+ {
+  "line": 151,
+  "tpl": false,
+  "s": "Its shell is saltglass. It chimes when it walks, which is the only mercy it offers."
+ },
+ {
+  "line": 153,
+  "tpl": false,
+  "s": "Prism Bat"
+ },
+ {
+  "line": 156,
+  "tpl": false,
+  "s": "Wings thin enough to throw rainbows. It throws them in your eyes."
+ },
+ {
+  "line": 158,
+  "tpl": false,
+  "s": "Saltglass Golem"
+ },
+ {
+  "line": 161,
+  "tpl": false,
+  "s": "The caverns grow them like geodes. Nobody knows what wakes them. Something does."
+ },
+ {
+  "line": 163,
+  "tpl": false,
+  "s": "Glass Crawler"
+ },
+ {
+  "line": 166,
+  "tpl": false,
+  "s": "Spins its webs from molten sand. They set like glass, and so do you."
+ },
+ {
+  "line": 168,
+  "tpl": false,
+  "s": "Brood Wyrm"
+ },
+ {
+  "line": 171,
+  "tpl": false,
+  "s": "The Queen's children. Half-grown and wholly furious."
+ },
+ {
+  "line": 173,
+  "tpl": false,
+  "s": "The Sand Wyrm Queen"
+ },
+ {
+  "line": 176,
+  "tpl": false,
+  "s": "She has eaten caravans whole. Her scales are saltglass; her song is the sound of the desert breaking."
+ },
+ {
+  "line": 180,
+  "tpl": false,
+  "s": "Frost Wolf"
+ },
+ {
+  "line": 183,
+  "tpl": false,
+  "s": "Hunts in the white. Its coat is snow; its breath is the cold that comes after."
+ },
+ {
+  "line": 185,
+  "tpl": false,
+  "s": "Crag Harpy"
+ },
+ {
+  "line": 188,
+  "tpl": false,
+  "s": "They sing travelers to sleep in the snow. The snow does the rest."
+ },
+ {
+  "line": 190,
+  "tpl": false,
+  "s": "Rime Elemental"
+ },
+ {
+  "line": 193,
+  "tpl": false,
+  "s": "A winter that learned to walk. It does not hate you. It only wishes you were still."
+ },
+ {
+  "line": 195,
+  "tpl": false,
+  "s": "Snowdrift Ogre"
+ },
+ {
+  "line": 198,
+  "tpl": false,
+  "s": "Sleeps under the snow for months. Wakes up hungry and offended."
+ },
+ {
+  "line": 203,
+  "tpl": false,
+  "s": "Old as the monastery, the monks say. Every squire who ever kept the Vigil has heard it howl."
+ },
+ {
+  "line": 205,
+  "tpl": false,
+  "s": "Icicle Bat"
+ },
+ {
+  "line": 208,
+  "tpl": false,
+  "s": "Hangs from the ceiling like an icicle. Falls like one too, but with teeth."
+ },
+ {
+  "line": 215,
+  "tpl": false,
+  "s": "Gray cloaks over Dawnguard steel. They used to guard the dawn. Now they guard something else."
+ },
+ {
+  "line": 217,
+  "tpl": false,
+  "s": "Vesper Arbalist"
+ },
+ {
+  "line": 220,
+  "tpl": false,
+  "s": "Crossbows wound with Choir prayers. The bolts still hurt."
+ },
+ {
+  "line": 225,
+  "tpl": false,
+  "s": "They hum the same few notes over and over. After a while, you catch yourself humming them too."
+ },
+ {
+  "line": 227,
+  "tpl": false,
+  "s": "Thorne's Guard"
+ },
+ {
+  "line": 230,
+  "tpl": false,
+  "s": "Garrick's chosen. They do not speak. They do not retreat."
+ },
+ {
+  "line": 235,
+  "tpl": false,
+  "s": "Lord-Commander of the Dawnguard and the Hierophant's sword. Nobody has ever asked him to explain himself."
+ },
+ {
+  "line": 293,
+  "tpl": false,
+  "s": "The sand ERUPTS beneath your feet!"
+ },
+ {
+  "line": 294,
+  "tpl": false,
+  "s": "Sandmaw shrieks. Something small and hungry answers from under the dunes!"
+ },
+ {
+  "line": 295,
+  "tpl": false,
+  "s": "Sandmaw dives beneath the sand... the dune begins to tremble."
+ },
+ {
+  "line": 301,
+  "tpl": false,
+  "s": "\"Ha! Lads — fresh meat, fresh water! GET IN HERE!\""
+ },
+ {
+  "line": 302,
+  "tpl": false,
+  "s": "Sarn kicks up a wall of sand!"
+ },
+ {
+  "line": 312,
+  "tpl": false,
+  "s": "The Queen bursts up through the glass floor!"
+ },
+ {
+  "line": 313,
+  "tpl": false,
+  "s": "The Queen SHRIEKS. The cavern walls crack — and the glass comes down like rain!"
+ },
+ {
+  "line": 315,
+  "tpl": true,
+  "s": "brood${Math.floor(c.turn / 5)}"
+ },
+ {
+  "line": 315,
+  "tpl": false,
+  "s": "The Queen calls, and the walls answer with small hungry voices."
+ },
+ {
+  "line": 316,
+  "tpl": false,
+  "s": "The Queen sinks into the sand. The glass floor starts to hum..."
+ },
+ {
+  "line": 317,
+  "tpl": false,
+  "s": "The Queen sings. Your armor sings back — and cracks."
+ },
+ {
+  "line": 323,
+  "tpl": false,
+  "s": "The mountain answers Whitefang's howl!"
+ },
+ {
+  "line": 324,
+  "tpl": false,
+  "s": "Somewhere above, the pack answers."
+ },
+ {
+  "line": 325,
+  "tpl": false,
+  "s": "Whitefang throws back its head and HOWLS. Snow shivers on the slopes above..."
+ },
+ {
+  "line": 341,
+  "tpl": false,
+  "s": "\"Kneel, Kestrel.\""
+ },
+ {
+  "line": 344,
+  "tpl": false,
+  "s": "\"Form up. Shields high. This will not take long.\""
+ },
+ {
+  "line": 345,
+  "tpl": false,
+  "s": "Garrick wipes blood from his mouth and laughs. \"Good. GOOD. Again.\""
+ },
+ {
+  "line": 347,
+  "tpl": false,
+  "s": "\"Enough.\" Garrick plants his greatsword in the snow. \"Guard! To me!\""
+ },
+ {
+  "line": 351,
+  "tpl": true,
+  "s": "Garrick raises his greatsword high and fixes his eyes on ${c.m.mark.name}..."
+ },
+ {
+  "line": 358,
+  "tpl": false,
+  "s": "\"Still shaking, Kestrel? Aldous would be so proud.\""
+ },
+ {
+  "line": 369,
+  "tpl": false,
+  "s": "A town of glass and wind around the blind Keeper's Lantern. The caravans gather here."
+ },
+ {
+  "line": 371,
+  "tpl": false,
+  "s": "The snow monastery, where the oldest Dawnsong is carved in ice."
+ },
+ {
+  "line": 382,
+  "tpl": false,
+  "s": "Ysmay's Water & Sundries"
+ }
+]

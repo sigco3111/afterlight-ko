@@ -1,0 +1,62 @@
+[
+ {
+  "line": 107,
+  "tpl": true,
+  "s": "b-auto${this.autoToggle ? ' on' : ''}"
+ },
+ {
+  "line": 267,
+  "tpl": true,
+  "s": "turn ${sys.turn} ${actor.name}"
+ },
+ {
+  "line": 328,
+  "tpl": true,
+  "s": "${names.join(', ')} ${this.sys.enemies.length > 1 ? 'appear' : 'appears'}!"
+ },
+ {
+  "line": 382,
+  "tpl": true,
+  "s": "${e.on ? '' : '−'}${STATUSES[e.id].name}"
+ },
+ {
+  "line": 516,
+  "tpl": false,
+  "s": " weakhit"
+ },
+ {
+  "line": 517,
+  "tpl": false,
+  "s": " resist"
+ },
+ {
+  "line": 518,
+  "tpl": false,
+  "s": " onparty"
+ },
+ {
+  "line": 520,
+  "tpl": false,
+  "s": "tag crit"
+ },
+ {
+  "line": 521,
+  "tpl": false,
+  "s": "tag weak"
+ },
+ {
+  "line": 714,
+  "tpl": true,
+  "s": "Test: party lost battle '${this.params.troopId}' (levels ${this.sys.party.map((b) => b.level).join('/')})"
+ },
+ {
+  "line": 751,
+  "tpl": false,
+  "s": "<div class=\"go-title\">The light fades...</div><div class=\"go-sub\">but it has not gone out.</div>"
+ },
+ {
+  "line": 822,
+  "tpl": true,
+  "s": "${p.y - 14}px"
+ }
+]

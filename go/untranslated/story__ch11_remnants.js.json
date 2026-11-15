@@ -1,0 +1,12 @@
+[
+ {
+  "line": 38,
+  "tpl": true,
+  "s": "A bell of fused desert glass. It faces ${hour === 'morning' ? 'east, toward a sunrise that no longer comes' : hour === 'noon' ? 'straight up, at nothing' : 'west, toward the dark'}."
+ },
+ {
+  "line": 379,
+  "tpl": true,
+  "s": "The rod drinks the storm and goes quiet. (${done}/3 grounded)"
+ }
+]

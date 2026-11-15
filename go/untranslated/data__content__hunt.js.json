@@ -1,0 +1,7 @@
+[
+ {
+  "line": 183,
+  "tpl": true,
+  "s": "toads${Math.floor(c.turn / 5)}"
+ }
+]

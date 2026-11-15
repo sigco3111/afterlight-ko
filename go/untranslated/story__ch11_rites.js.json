@@ -1,0 +1,12 @@
+[
+ {
+  "line": 605,
+  "tpl": true,
+  "s": "${given} of seven. Keep looking — they hum, if you get close. A bit like a kettle thinking about it."
+ },
+ {
+  "line": 611,
+  "tpl": true,
+  "s": "Oh, _lovely_. Hold still, little one — there. That's ${total} of seven on the chart."
+ }
+]

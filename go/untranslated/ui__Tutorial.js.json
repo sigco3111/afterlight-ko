@@ -1,0 +1,12 @@
+[
+ {
+  "line": 39,
+  "tpl": false,
+  "s": "panel tutorial-card"
+ },
+ {
+  "line": 41,
+  "tpl": true,
+  "s": "<p>${richText(p).replace(/{key:(w+)}/g, (_, a) => keyCap(a))}</p>"
+ }
+]

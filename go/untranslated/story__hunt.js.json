@@ -1,0 +1,92 @@
+[
+ {
+  "line": 5,
+  "tpl": false,
+  "s": "ve been off their boots, and gives them her spare Compendium (the menu"
+ },
+ {
+  "line": 16,
+  "tpl": false,
+  "s": "Greer Thackery, the Collegium's bestiarist, has posted five marks: rare beasts of the old roads. Hunt them, then tell her by the canal bridge in Aurenne. She also pays for new kinds of creature in the Compendium."
+ },
+ {
+  "line": 17,
+  "tpl": false,
+  "s": "Greer Thackery survived the Sundering and keeps the Ledger in Keelhaven now. Five new marks are posted, and any old mark still alive came through the Sundering too. Hunt them all, then tell her."
+ },
+ {
+  "line": 96,
+  "tpl": true,
+  "s": "${n} kinds felled and written down. ${next ? "
+ },
+ {
+  "line": 96,
+  "tpl": false,
+  "s": "ll have something for you.` : "
+ },
+ {
+  "line": 96,
+  "tpl": false,
+  "s": ",\n        'Strike a weakness and the book remembers it. Watch a beast's moves and they go in too. Fell a few of a kind and you'll learn how it thinks.',\n      ]);\n    }\n    return s.say('Greer', 'Mind the ones with too many eyes. That's general advice.');\n  },\n\n  /** Greer reads the board: what's open and where (act: only that act's new postings). */\n  async ledger(s, act) {\n    const open = MARK_"
+ },
+ {
+  "line": 109,
+  "tpl": false,
+  "s": "came through the Sundering. Someone saw it again out there."
+ },
+ {
+  "line": 109,
+  "tpl": false,
+  "s": "still out there, somewhere."
+ },
+ {
+  "line": 109,
+  "tpl": false,
+  "s": " : m.rumour;\n    });\n    if (!lines.length) return s.say('Greer', 'Nothing open on the board just now. Give the world a minute. It will grow something.');\n    return s.say('Greer', lines);\n  },\n\n  /** Pay for marks felled, titles earned and kinds recorded. Returns whether anything was paid. */\n  async report(s) {\n    const st = s.state;\n    let any = false;\n    for (const id of MARK_IDS) {\n      i"
+ },
+ {
+  "line": 123,
+  "tpl": false,
+  "s": ");\n      await s.say('Greer', "
+ },
+ {
+  "line": 124,
+  "tpl": false,
+  "s": ");\n      await s.gold(m.reward.gold);\n      for (const [item, n] of m.reward.items) await s.give(item, n);\n    }\n    const n = marksFelled(st);\n    for (const r of RANKS) {\n      if (n < r.n || s.flag(r.flag)) continue;\n      any = true;\n      s.setFlag(r.flag);\n      await s.say('Greer', r.n === 10\n        ? ['Ten. Every mark on the board, before the Sundering and after. Nobody has finished the L"
+ },
+ {
+  "line": 135,
+  "tpl": false,
+  "s": "ll make you one instead.`, "
+ },
+ {
+  "line": 143,
+  "tpl": true,
+  "s": "${k.n} kinds of creature in the book. ${k.n >= 150 ? 'I had to start a second volume.' : 'That's more than most hunters see in a lifetime.'} For the ink."
+ },
+ {
+  "line": 159,
+  "tpl": true,
+  "s": "${m.approach} Scarred and thinner, but alive. It came through the Sundering like you did."
+ },
+ {
+  "line": 160,
+  "tpl": true,
+  "s": "${m.name}, a mark on Greer's Ledger."
+ },
+ {
+  "line": 165,
+  "tpl": true,
+  "s": "You come to some way off, bruised but whole. ${m.name} is still there. It didn't follow."
+ },
+ {
+  "line": 170,
+  "tpl": true,
+  "s": "We hunted ${m.name} in ${m.where}."
+ },
+ {
+  "line": 172,
+  "tpl": true,
+  "s": "Mark felled. Tell Greer Thackery. (${left} still open on the Ledger.)"
+ }
+]

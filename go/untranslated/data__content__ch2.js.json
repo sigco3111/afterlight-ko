@@ -1,0 +1,202 @@
+[
+ {
+  "line": 15,
+  "tpl": false,
+  "s": "Merry's Acorn"
+ },
+ {
+  "line": 15,
+  "tpl": false,
+  "s": "A small acorn, warm as a held hand. \"The key to my secret place.\""
+ },
+ {
+  "line": 16,
+  "tpl": false,
+  "s": "Thorne's Writ"
+ },
+ {
+  "line": 16,
+  "tpl": false,
+  "s": "\"The girl is to be detained and conveyed to the Cathedral of Dawn. Unharmed.\" Sealed in black wax."
+ },
+ {
+  "line": 19,
+  "tpl": false,
+  "s": "MAG +4, RES +4, MP +10%. Inscribed inside: \"Keep the light.\""
+ },
+ {
+  "line": 22,
+  "tpl": false,
+  "s": "Pell's Horseshoe"
+ },
+ {
+  "line": 23,
+  "tpl": false,
+  "s": "LCK +10, DEF +4. The third horseshoe from over the Pell farmhouse door."
+ },
+ {
+  "line": 41,
+  "tpl": false,
+  "s": "Cliff Kite"
+ },
+ {
+  "line": 44,
+  "tpl": false,
+  "s": "Rides the Gale like a thrown knife. Nests in the cliffs and resents everyone below them."
+ },
+ {
+  "line": 49,
+  "tpl": false,
+  "s": "A crab that took one look at the Gale and grew a boulder on its back."
+ },
+ {
+  "line": 51,
+  "tpl": false,
+  "s": "Spume Jelly"
+ },
+ {
+  "line": 54,
+  "tpl": false,
+  "s": "Sea-foam that learned to hold a grudge. Spits salt in your eyes."
+ },
+ {
+  "line": 59,
+  "tpl": false,
+  "s": "The Lord-Commander's personal guard. Black trim, a sun with a closed eye, and orders they will not explain."
+ },
+ {
+  "line": 62,
+  "tpl": false,
+  "s": "Mourning Moth"
+ },
+ {
+  "line": 65,
+  "tpl": false,
+  "s": "They drink tears. In the Whisperwold they never go thirsty."
+ },
+ {
+  "line": 67,
+  "tpl": false,
+  "s": "Hollow Sapling"
+ },
+ {
+  "line": 70,
+  "tpl": false,
+  "s": "A young tree with a hollow where its heart should be. Something whispers in the hollow."
+ },
+ {
+  "line": 72,
+  "tpl": false,
+  "s": "Lost Shade"
+ },
+ {
+  "line": 75,
+  "tpl": false,
+  "s": "It is saying something. It has been saying it for a hundred years. It no longer knows to whom."
+ },
+ {
+  "line": 81,
+  "tpl": false,
+  "s": "The oldest tree in the Whisperwold. She gathered the voices of the dead into her hollow so that none of them would ever be forgotten — or ever be allowed to end."
+ },
+ {
+  "line": 87,
+  "tpl": false,
+  "s": "Three generations of Pells built him. One sack of cheap purple stuffing woke him up."
+ },
+ {
+  "line": 89,
+  "tpl": false,
+  "s": "Bandit Bruiser"
+ },
+ {
+  "line": 92,
+  "tpl": false,
+  "s": "Red Tam hires by the pound."
+ },
+ {
+  "line": 94,
+  "tpl": false,
+  "s": "Tam's Mastiff"
+ },
+ {
+  "line": 97,
+  "tpl": false,
+  "s": "Answers to \"Biscuit.\" Do not call it Biscuit."
+ },
+ {
+  "line": 102,
+  "tpl": false,
+  "s": "Quarry stone that soaked up the violet seam beneath it, and got up."
+ },
+ {
+  "line": 104,
+  "tpl": false,
+  "s": "Bethan, the Crestless Sage"
+ },
+ {
+  "line": 107,
+  "tpl": false,
+  "s": "Mender, Arcanist, Ranger, Cantor, Pugilist. \"Same old woman. Different tools.\""
+ },
+ {
+  "line": 148,
+  "tpl": false,
+  "s": "\"Stay... stay... STAY.\""
+ },
+ {
+  "line": 149,
+  "tpl": false,
+  "s": "Her bark splits wide open. A hundred voices weep at once!"
+ },
+ {
+  "line": 150,
+  "tpl": false,
+  "s": "\"Come back to me, little ones...\""
+ },
+ {
+  "line": 151,
+  "tpl": false,
+  "s": "The Hollow Mother draws every voice in the wold into her branches..."
+ },
+ {
+  "line": 156,
+  "tpl": false,
+  "s": "Old Strawman bursts into violet flame!"
+ },
+ {
+  "line": 157,
+  "tpl": true,
+  "s": "crows${Math.floor(c.turn / 3)}"
+ },
+ {
+  "line": 158,
+  "tpl": false,
+  "s": "Old Strawman flaps its sleeves. Crows pour out of its coat!"
+ },
+ {
+  "line": 161,
+  "tpl": false,
+  "s": "Violet dust gathers in Old Strawman's stitched grin..."
+ },
+ {
+  "line": 167,
+  "tpl": true,
+  "s": "Bethan's Crest shifts — ${BETHAN_CRESTS[phase]}!"
+ },
+ {
+  "line": 232,
+  "tpl": false,
+  "s": "Harbor town of the Gale Coast. Sailors, smugglers, and the Salt & Lantern."
+ },
+ {
+  "line": 233,
+  "tpl": false,
+  "s": "An ancient forest where the trees speak with the voices of the dead."
+ },
+ {
+  "line": 234,
+  "tpl": false,
+  "s": "A farming village of beehives and autumn fields. Home of the Crestless Sage."
+ }
+]

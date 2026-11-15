@@ -1,0 +1,117 @@
+[
+ {
+  "line": 21,
+  "tpl": true,
+  "s": "<span class=\"cp-elem\" style=\"color:${ELEM_ICONS[e]?.[1] || 'inherit'}\">${ELEM_ICONS[e]?.[0] || ''} ${e}</span>"
+ },
+ {
+  "line": 26,
+  "tpl": false,
+  "s": "bestiary-screen compendium"
+ },
+ {
+  "line": 42,
+  "tpl": true,
+  "s": "${KEYS.nav} ${keyCap('pageLeft')}${keyCap('pageRight')} Section ${KEYS.back}"
+ },
+ {
+  "line": 44,
+  "tpl": false,
+  "s": "bs-left panel"
+ },
+ {
+  "line": 56,
+  "tpl": false,
+  "s": "bs-detail panel"
+ },
+ {
+  "line": 68,
+  "tpl": true,
+  "s": "<div class=\"cp-sec-name\">${many ? '◀ ' : ''}${sec.name}${many ? ' ▶' : ''}</div>\n      <div class=\"cp-sec-sub\">${sec.sub} · ${c.defeated}/${c.total} felled${c.defeated === c.total ? ' <span class=\"cp-full\">✔ Complete</span>' : ''}</div>"
+ },
+ {
+  "line": 75,
+  "tpl": true,
+  "s": "<span class=\"cp-no\">${entryNo(it.no)}</span><span class=\"in dim\">???</span>"
+ },
+ {
+  "line": 76,
+  "tpl": false,
+  "s": "<span class=\"cp-tag mark\">MARK</span>"
+ },
+ {
+  "line": 76,
+  "tpl": false,
+  "s": "<span class=\"cp-tag boss\">BOSS</span>"
+ },
+ {
+  "line": 77,
+  "tpl": true,
+  "s": "<span class=\"cp-no\">${entryNo(it.no)}</span><span class=\"in\">${it.def.name}</span>${tag}<span class=\"cnt\">${r.defeated ? "
+ },
+ {
+  "line": 77,
+  "tpl": false,
+  "s": " : '<span class=\"dim\">seen</span>'}</span>"
+ },
+ {
+  "line": 97,
+  "tpl": false,
+  "s": "<span class=\"dim\">???</span>"
+ },
+ {
+  "line": 102,
+  "tpl": true,
+  "s": "${elem(el2)} ${m < 0 ? 'absorbs' : m === 0 ? 'immune' : "
+ },
+ {
+  "line": 102,
+  "tpl": false,
+  "s": "<span class=\"dim\">???</span>"
+ },
+ {
+  "line": 105,
+  "tpl": false,
+  "s": "<span class=\"dim\">???</span>"
+ },
+ {
+  "line": 110,
+  "tpl": false,
+  "s": "<span class=\"dim\">???</span>"
+ },
+ {
+  "line": 111,
+  "tpl": false,
+  "s": "<span class=\"dim\">???</span>"
+ },
+ {
+  "line": 113,
+  "tpl": true,
+  "s": "${inv.itemName(id)} <span class=\"dim\">(${rarity(c)})</span>"
+ },
+ {
+  "line": 114,
+  "tpl": true,
+  "s": "${inv.itemName(e.steal[0])}${e.steal[1] && e.steal[1] !== e.steal[0] ? "
+ },
+ {
+  "line": 118,
+  "tpl": false,
+  "s": "<ul class=\"cp-tactics\">{0}</ul>"
+ },
+ {
+  "line": 120,
+  "tpl": false,
+  "s": " <span class=\"cp-tag mark\">MARK</span>"
+ },
+ {
+  "line": 120,
+  "tpl": false,
+  "s": " <span class=\"cp-tag boss\">BOSS</span>"
+ },
+ {
+  "line": 126,
+  "tpl": true,
+  "s": "${art.width * scale}px"
+ }
+]

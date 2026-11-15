@@ -1,0 +1,12 @@
+[
+ {
+  "line": 85,
+  "tpl": true,
+  "s": "Lost Crest: ${CRESTS[id].name}"
+ },
+ {
+  "line": 116,
+  "tpl": true,
+  "s": "The *${CRESTS[id].name}* is a Lost Calling — set it under *Crests* like any other. ${L.giver} would like to know."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "line": 1,
+  "tpl": false,
+  "s": "s Roost: Ferro"
+ },
+ {
+  "line": 34,
+  "tpl": true,
+  "s": "The card is the *${CARD_NAMES[card]}*. Higher, or lower?"
+ },
+ {
+  "line": 44,
+  "tpl": true,
+  "s": "...the *${CARD_NAMES[next]}*."
+ },
+ {
+  "line": 158,
+  "tpl": true,
+  "s": "Sightlines so far: ${done} of 3. The world's waiting to be the right shape."
+ }
+]

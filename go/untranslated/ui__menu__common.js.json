@@ -1,0 +1,72 @@
+[
+ {
+  "line": 20,
+  "tpl": true,
+  "s": "listview ${cls}"
+ },
+ {
+  "line": 36,
+  "tpl": true,
+  "s": "<div class=\"lv-empty\">${this.empty}</div>"
+ },
+ {
+  "line": 39,
+  "tpl": false,
+  "s": "<div class=\"lv-more up\">▲</div>"
+ },
+ {
+  "line": 43,
+  "tpl": true,
+  "s": "<div class=\"lv-row ${sel ? 'sel' : ''} ${it?.disabled ? 'off' : ''}\">${this.renderItem(it, i, sel)}</div>"
+ },
+ {
+  "line": 45,
+  "tpl": false,
+  "s": "<div class=\"lv-more down\">▼</div>"
+ },
+ {
+  "line": 66,
+  "tpl": true,
+  "s": "menu-screen ${cls}"
+ },
+ {
+  "line": 84,
+  "tpl": true,
+  "s": "<div class=\"mbar ${cls}\"><i style=\"width:${pct}%\"></i></div>"
+ },
+ {
+  "line": 96,
+  "tpl": true,
+  "s": "pcard ${selected ? 'sel' : ''} ${active ? '' : 'reserve'}"
+ },
+ {
+  "line": 101,
+  "tpl": true,
+  "s": " ★${ch.starsOf(ch.crest)}"
+ },
+ {
+  "line": 101,
+  "tpl": true,
+  "s": " <span class=\"pc-sec\">/ ${CRESTS[ch.secondary].name}</span>"
+ },
+ {
+  "line": 116,
+  "tpl": true,
+  "s": "<div class=\"sd-row\"><span class=\"sd-k\">${STAT_LABELS[k]}</span><span class=\"sd-v\">${a}</span>${after ? "
+ },
+ {
+  "line": 116,
+  "tpl": true,
+  "s": "sd-n ${cls}"
+ },
+ {
+  "line": 116,
+  "tpl": false,
+  "s": " : ''}</div>"
+ },
+ {
+  "line": 121,
+  "tpl": true,
+  "s": "<div class=\"ms-header\"><div class=\"ms-title\">${title}</div><div class=\"ms-hint\">${hint}</div></div>"
+ }
+]
