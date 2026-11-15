@@ -1,20 +1,5 @@
-21	The whole island is doing it. Look. The square. The well.
-22	The Lantern's still burning. Up on the bluff.
-23	She's up there.
-24	Then we walk up. Nobody's in a hurry, sparrow. Not here.
-25	Lanternfall. The dock hangs over nothing. The island is remembering things. It remembered Mom saying "come back to me." I did. A year late.
-26	Up on the bluff, the light in the Lantern's doorway thins, like a held breath let out.
-27	The village well. WREN + ILSE + THE SEA. The W is backwards. It always was.
-28	Little Ilse
-29	You did the W backwards.
-30	Little Wren
-31	It's _stylish_. When I'm famous everyone'll do their W's like this.
-32	You're not going to be famous. You're going to be a Keeper like your mum.
-33	I'm going to sail to the end of the world and come back with a sea monster.
-34	...Can I come?
-35	Obviously. Somebody has to carry the bandages.
-36	We were seven.
-37	I did come back with a sea monster. Sort of. Brinefang counts.
-38	It doesn't count, you didn't bring it back.
-39	The memory sours at the edges, the way milk turns — and the well vomits up black water, and the water has hands.
-40	For the record, I still have the bandages.
+21	I said goodbye to Mom. A real one, this time. She said a Keeper is someone who keeps a light going for people out in the dark. Then she let go, and the Lantern went out, and the light was in my hand. Grow up well, she said. I'm trying.
+22	The Lantern log of Lanternfall, open on its stand, two hundred years of weather and oil in neat columns. One page is creased, as if it has been opened to many times.
+23	_14th of Harvest. Keeper absent from the lamp, second bell to fourth. Keeper at sea in search of the fishing boat Gull's Return, lost with one aboard. — Y.H._
+24	And below it, in a hand that is not quite steady: _Lamp relit at fourth bell. Wren asleep. Did not find him. Do not tell her._
+25	...She went out. Keepers never leave the Lantern. She went out after him.

@@ -6,7 +6,6 @@
 6	Rude.
 7	...Ysolde?
 8	Gloamweaver.
-9	Captain.
-10	_No. No. No._
-11	..._Tobin._
-12	Told _who_ no?
+9	_No. No. No._
+10	..._Tobin._
+11	Told _who_ no?

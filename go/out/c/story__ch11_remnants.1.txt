@@ -1,20 +1,20 @@
-1	The tower's coming down! Everybody out — that includes you, Lord-Commander.
-2	I'll walk. I'll not be carried out of my own Lantern by a squire.
-3	Bram: Knight. Sir Bram Kestrel.
-4	Garrick: Hm. And who dubbed you?
-5	Bram: A deserter.
-6	Garrick: Ha. Of course he did.
-7	Bram: Then walk.
-8	The Grand Lantern. Bram fought Garrick alone. He went down twice and got up twice. He didn't kill him. Garrick gave us the Shard and walked out on his own. Bram's hands didn't stop shaking for an hour. He says that's the trick.
-9	Pressed between two volumes of liturgy: a child's drawing. Two stick figures under an enormous yellow sun. The tall one is labeled CASS. The small one is labeled ME.
-10	Underneath, in a grown man's careful hand: _Lysa, age 7._
-11	...She drew the sun too big.
-12	Everybody draws the sun too big when they're seven.
-13	A Choir ledger. Columns of names from the Undercroft, each with a date and a single word beside it: _Offered._ At the foot of every page, the same initials, in the same careful hand as the drawing: C.L.
-14	He knew. About Mercy. About the Undercroft. He signed every page.
-15	He dismissed her in front of the whole city.
-16	He's always very kind in front of people.
-17	The Halcyon moors at the end of the old dock. The dock hangs over nothing now.
-18	This is where she stood. This is where she gave you Dad's compass, and told you to go.
-19	...I came back. I'm late.
-20	That was not her. That was the island remembering her.
+1	They are now.
+2	Now. The light.
+3	She holds out the lamp. Inside the brass, where the Dawnstone used to sleep, a piece of the broken sun.
+4	A Keeper's light can't go out while the Keeper holds it. So I'm going to stop holding it. And you're going to carry it instead.
+5	I don't know how to be a Keeper. I never learned the Lantern. I left before you could teach me.
+6	Oh, Wren. A Keeper isn't a lighthouse. A Keeper is someone who keeps a light going for the people still out in the dark. You've been doing it all year. I watched.
+7	Not here. Not this island. Wherever you go.
+8	Wren carries the Lanternkeeper's light. The *Lanternkeeper* Crest can now be equipped.
+9	There. Oh, that's better. My hands were so tired.
+10	Mom. Don't—
+11	I have to, little bird. That's the whole point. That's what I was too afraid to learn.
+12	I'm trying.
+13	I know. I can tell.
+14	And for the first time in a year, the Lantern of Lanternfall goes out.
+15	For a moment there is nothing at all.
+16	Then, in Wren's open hand, a small warm light. It does not need a Lantern.
+17	...She was nice. Your mum.
+18	She was terrible. She was the best.
+19	Both. She was both.
+20	Yeah. Both is allowed.

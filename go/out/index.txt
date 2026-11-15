@@ -212,7 +212,7 @@ scenes/OpeningScene.js	2	28	0
 scenes/TitleScene.js	3	35	0
 script/Lines.js	1	35	0
 story/ch11.js	1	76	0
-story/ch11_remnants.js	125	125	0
+story/ch11_remnants.js	25	125	0
 story/ch12_finale.js	17	119	0
 story/ch2_common.js	2	9	0
 story/ch2_port.js	26	59	0
@@ -222,7 +222,7 @@ story/ch3_battle.js	9	24	0
 story/ch3_fx.js	3	9	0
 story/ch3_side.js	2	49	0
 story/ch4a.js	15	86	0
-story/ch4b.js	12	62	1
+story/ch4b.js	11	62	1
 story/ch4b_sky.js	1	68	0
 story/ch6.js	20	109	0
 story/ch8.js	11	121	0
