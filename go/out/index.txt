@@ -214,7 +214,6 @@ scenes/TitleScene.js	3	35	0
 script/Lines.js	1	35	0
 story/ch11.js	1	76	0
 story/ch11_remnants.js	125	125	0
-story/ch12.js	30	97	0
 story/ch12_finale.js	17	119	0
 story/ch2_common.js	2	9	0
 story/ch2_port.js	26	59	0
