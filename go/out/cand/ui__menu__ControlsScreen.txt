@@ -1,0 +1,5 @@
+7	../UI.js
+9	../../core/Input.js
+30	ctl-list panel
+40	<span class="ctl-label">Reset to defaults</span>
+41	ctl-note dim

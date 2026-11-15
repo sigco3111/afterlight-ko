@@ -1,0 +1,49 @@
+11	Brig Key
+11	An iron key from the Vigil's captain's chair, stamped BRIG.
+12	Vesper Orders
+12	"Children remember the best days best. Evernoon has need of them." Signed with a weeping mask.
+13	A patched blue kite with a painted grin, rescued from a shrike nest.
+16	Kite-Tail Ribbon
+16	SPD +4, evasion +6%. The tail of the first kite Pip ever built. Lucky. That's science.
+17	Bram's Old Shield
+17	Max HP +5%. Dented Dawnguard steel, redeemed from the Baron. Heavy as an apology.
+18	Venn's Signet
+18	DEF +12, RES +8, max HP +8%. Sir Aldous Venn's ring, left behind when the armor emptied. "Good lad."
+62	Gale Shrike
+65	They nest under the shards and steal anything shiny, blue, or belonging to Wick.
+67	Shard Crawler
+70	It lives upside-down on the underside of the world and does not understand why you are falling over.
+75	Salvage that wandered off on its own. Its belly is full of airship cogs. Nobody knows why. Gaffer Quill has theories.
+77	Wind Eel
+80	When the sea fell into the sky, some of the eels decided the sky was just more sea.
+83	Vesper Raider
+86	A Vesper soldier. Living, for now. He believes he is collecting the children for their own good. So did every kidnapper ever.
+91	They sing the lullabies. They mean every word.
+93	Hollow Squire
+96	Armor with a dead man in it — or the memory of one. Evernoon lends them out. They remember their own swords.
+98	Lullaby Wisp
+101	A stray note from the Lullaby Engine, still humming. It would very much like you to lie down.
+104	The Lullaby Engine
+107	A music box the size of a chapel. It keeps children dreaming their best day, forever. The pins on its drum are tiny teeth.
+112	A knight in black armor and a weeping mask, who holds his blade high in the old Venn Guard. Under the mask is a face Bram knows.
+115	Rustjaw
+118	A war-boar with an iron jaw bolted on. It was a gift. It has not forgiven anyone.
+120	Cog
+123	The left twin. Says nothing. Hits hard. Fixes Sprocket.
+128	The right twin. Not to be confused with the Kite. The Kite is much scarier.
+130	Iron Moll
+133	Former Dawnguard sergeant. "Same job, better hours." Still salutes her opponents before she flattens them.
+135	The Gale Roc
+138	Undefeated champion of the Scrap Arena. It was a chick when the world ended. It has been growing ever since, out of spite.
+183	The drum turns. A lullaby pours out of every pipe at once.
+184	Gears shriek. The Engine lurches and thrashes its brass arms!
+185	A stray note shakes loose from the pipes and drifts into the air.
+186	The Engine's key begins to wind... _tick... tick... tick..._
+192	The Venn Guard falls — one perfect, merciless stroke.
+193	A crack runs down the weeping mask. "Squires. To me." Empty armor answers.
+194	"STAND, SQUIRE. THIS IS YOUR TRIAL."
+197	The Penitent lifts his blade high over his shoulder — the Venn Guard. Someone is about to be cut in half. Guard!
+206	The Gale Roc folds its wings and comes down like a falling bell!
+207	The Roc screams. Shrikes pour in from the rafters!
+208	The Gale Roc climbs toward the arena roof...
+223	A shanty town of kites and scrap on a windy cliff-shard. Pip's Kites keep watch.

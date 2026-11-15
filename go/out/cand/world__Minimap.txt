@@ -1,0 +1,11 @@
+13	../ui/UI.js
+14	../core/Input.js
+34	<i class="you">▲</i> You
+34	<i class="obj">◆</i> Objective
+34	<i class="side">◆</i> Side quest
+35	<i class="exit">■</i> Exit
+35	<i class="save">■</i> Hearthstone
+35	<i class="door">■</i> Door
+120	rgba(20, 14, 10, 0.85)
+143	).join(';')}
+153	rgba(255, 250, 235, 0.45)

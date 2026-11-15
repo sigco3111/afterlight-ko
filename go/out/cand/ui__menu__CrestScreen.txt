@@ -1,0 +1,25 @@
+4	../UI.js
+5	../../core/Input.js
+8	../../data/artInfo.js
+12	../../render/SpriteFactory.js
+14	HP
+14	MP
+31	pageRight
+32	pageLeft
+62	cs-left panel
+69	<span class="tag p">PRIMARY</span>
+69	<span class="tag s">SECOND</span>
+80	cs-lock dim
+80	<em>One Crest, one life.</em> No one you know has ever changed theirs.
+82	cs-detail panel
+83	cs-who panel
+121	<div class="cd-req">Requires: 
+124	</div>
+126	<div class="cd-stats">
+146	<div class="cd-ranks">
+156	Art
+156	Support
+159	<div class="cd-mastery-head">Mastery Arts <span class="dim">— learned at Ascension stars, once mastered</span></div>
+212	sp-left panel
+225	sp-detail panel
+233	<div class="dim">Supports are passive abilities learned from Crest ranks. Any learned Support can be equipped, whatever your current Crest.</div>

@@ -1,0 +1,11 @@
+6	../world/MapBuilder.js
+7	../world/FieldAtmosphere.js
+8	../world/Actor.js
+9	../render/Moods.js
+10	../render/Particles.js
+11	../render/SpriteFactory.js
+12	../render/MonsterFactory.js
+13	../render/PropFactory.js
+14	../battle/BattleStage.js
+15	../battle/Backgrounds.js
+19	../state/Character.js

@@ -1,0 +1,11 @@
+13	Bristleback
+15	Lanternjaw
+17	Gravelgut
+21	Mange
+23	Cinderwing
+25	Glasshide
+27	Gravemouth
+57	 {blue|[hunting]}
+57	 {dim|[done]}
+160	Adelind
+314	Agathe

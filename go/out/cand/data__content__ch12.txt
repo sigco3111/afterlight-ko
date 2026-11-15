@@ -1,0 +1,4 @@
+8	../../render/Moods.js
+36	allyAny
+44	partyHeal15
+443	gameClear

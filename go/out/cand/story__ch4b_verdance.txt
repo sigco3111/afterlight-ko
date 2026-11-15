@@ -1,0 +1,3 @@
+124	thornA
+145	thornB
+161	thornC

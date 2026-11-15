@@ -1,0 +1,9 @@
+4	../UI.js
+5	../../core/Input.js
+7	./CrestScreen.js
+9	../../state/Character.js
+25	eq-left panel
+39	eq-items panel
+40	eq-stats panel
+69	<div class="dim">Choose a slot.</div>
+88	<span class="dim">— Remove —</span>

@@ -1,0 +1,5 @@
+5	./UI.js
+6	../core/Input.js
+17	panel fishing
+44	 (New!)
+56	A bite! <b>Reel it in!</b>

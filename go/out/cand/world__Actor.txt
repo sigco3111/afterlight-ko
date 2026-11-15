@@ -1,0 +1,7 @@
+5	../render/SpriteFactory.js
+6	../render/MountFactory.js
+7	../render/MonsterFactory.js
+8	../render/PropFactory.js
+9	./MapBuilder.js
+22	rgba(0,0,0,0.55)
+23	rgba(0,0,0,0)

@@ -1,0 +1,31 @@
+14	Restores 1,200 HP and 60 MP to the party. Nana Brisa's brew for the night before every hard thing.
+18	Ysolde's Bread
+19	Restores 800 HP. Dense, a little burnt. Not as good as Nana's.
+38	Duskwater Jelly
+41	The tide pools of Lanternfall started glowing at night a week ago. This is why.
+43	Gloamshell Crab
+46	Its shell has gone the color of a bruise, and it rings like crystal when struck.
+48	Drowned Fisher
+51	Lanternfall has given men to the sea for four hundred years. The tide caves remember every one of them.
+53	Tide Wraith
+57	A cold shape that drifts above the pools, humming a lullaby nobody has sung in a hundred years.
+59	Gloam Eel
+62	The eels Ilse once complained about, changed. It is hard to say they are worse. They are certainly purpler.
+64	Shardwing Bat
+67	Its wings have grown crystal edges. It sounds like wind chimes when it dives at you.
+72	Lord-Commander Thorne's own guard. They do not ask why. That is why he chose them.
+74	Sunderhound
+77	The first things to come through after the sky broke. Dogs made of dusk, with embers where their eyes should be.
+79	Falling Ember
+82	A fleck of the broken sun. It burns because it does not know how to do anything else.
+84	The Tidemourner
+88	Everything the sea ever took from Lanternfall, knotted together and wearing itself like a coat. It speaks in a voice you know.
+94	Head of the Dawnguard and the Hierophant's sword. He has never once lost a duel, and has never once enjoyed winning one.
+129	The Tidemourner brings the whole drowned sea down on you!
+130	"...help us... it's so cold... help..." Hands claw up out of the water.
+131	It calls again, in voices you almost know.
+132	The Tidemourner draws in a long, wet, rattling breath...
+133	It sings, in a man's voice, a song about a gull.
+137	"VERDICT."
+138	"Dawnguard! To me! Show these children what discipline looks like!"
+139	Garrick lifts his greatsword high over his head. "Iron Verdict—"

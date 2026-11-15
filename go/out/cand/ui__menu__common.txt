@@ -1,0 +1,9 @@
+5	../UI.js
+6	../../core/Input.js
+7	../../render/SpriteFactory.js
+9	../../state/Character.js
+39	<div class="lv-more up">▲</div>
+45	<div class="lv-more down">▼</div>
+116	 : ''}</div>
+129	pageLeft
+129	pageRight

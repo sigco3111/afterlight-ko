@@ -1,0 +1,15 @@
+22	So. Swamp.
+52	Fen.
+69	*WANTED* by order of the Lord-Commander of the Dawnguard:
+A GIRL, black hair, pale, about sixteen, answers to "Sable."
+Traveling with a red-haired Vanguard; a Mender; a disgraced squire; a street child; and a man who owes money.
+*5,000 gold — ALIVE.*
+77	That's... good?
+94	Kestrel? Bram _Kestrel_?
+116	...Stranger.
+133	Rude.
+178	...Ysolde?
+200	Gloamweaver.
+226	_No. No. No._
+392	..._Tobin._
+568	Told _who_ no?

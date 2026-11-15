@@ -1,0 +1,12 @@
+13	./Formulas.js
+14	./AI.js
+15	./EnemyMind.js
+82	allyAny
+135	afterglowScale
+137	allWeak
+150	evadeCounter
+223	autoPotion
+226	Auto-Tonic
+430	delayAll
+563	 — doubles!
+635	enemyFlee

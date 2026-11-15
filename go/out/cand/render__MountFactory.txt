@@ -1,0 +1,2 @@
+11	./PixelCanvas.js
+12	./SpriteFactory.js

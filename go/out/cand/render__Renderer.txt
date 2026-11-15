@@ -1,0 +1,9 @@
+5	three/addons/postprocessing/EffectComposer.js
+6	three/addons/postprocessing/RenderPass.js
+7	three/addons/postprocessing/UnrealBloomPass.js
+8	three/addons/postprocessing/ShaderPass.js
+9	three/addons/postprocessing/OutputPass.js
+31	
+    varying vec2 vUv;
+    void main() { vUv = uv; gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0); }
+  

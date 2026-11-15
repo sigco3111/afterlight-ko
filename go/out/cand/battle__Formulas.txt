@@ -1,0 +1,4 @@
+85	bareKnuckle
+86	spearMaster
+87	beastBond
+90	breakLimit

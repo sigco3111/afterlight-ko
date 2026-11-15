@@ -1,0 +1,10 @@
+4	../UI.js
+5	../../core/Input.js
+10	../../render/SpriteFactory.js
+38	sh-left panel
+47	sh-detail panel
+66	 : delta < 0 ? 
+66	 : '=') : '—'}</span></div>
+68	</div>
+94	pageRight
+94	pageLeft

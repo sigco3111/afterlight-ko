@@ -1,0 +1,20 @@
+20	Counting...
+21	Kneeling...
+22	Burrowing...
+24	Oathbreaker
+26	Unform
+27	Lightless
+29	Unname
+34	Hopscotch
+36	Hide!
+38	delayAll
+43	Penance
+82	Gloammoth
+89	Dreadhound
+155	Rimewolf
+160	Hoarlight
+187	Hoarwing
+199	Unfinished
+305	Brinefang, Twice-Told
+591	"Ninety-eight... ninety-nine..."
+628	"HAYMAKER!"

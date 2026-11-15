@@ -1,0 +1,9 @@
+18	../core/Input.js
+20	../ui/UI.js
+22	./OpeningStages.js
+23	./OpeningCaptions.js
+248	rgba(255,252,236,1)
+249	rgba(255,236,190,1)
+250	rgba(255,190,110,0.75)
+251	rgba(255,130,70,0.25)
+252	rgba(255,90,50,0)

@@ -1,0 +1,2 @@
+77	low,high,mid,high
+151	Orsolya

@@ -1,0 +1,13 @@
+3	./core/Game.js
+4	./ui/UI.js
+5	./state/GameState.js
+6	./audio/Audio.js
+7	./audio/VoiceLines.js
+8	./ui/SceneHints.js
+9	./world/FieldScene.js
+50	position:fixed;left:0;bottom:0;max-height:40vh;overflow:auto;margin:0;color:#ff9090;background:rgba(0,0,0,.8);font:12px monospace;z-index:99;display:none
+59	./scenes/TitleScene.js
+93	./ui/Menus.js
+99	./debug/TestHarness.js
+138	A test line of dialogue, with *gold* and _italic_ markup.
+154	./scenes/OpeningScene.js

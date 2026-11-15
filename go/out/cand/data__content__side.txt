@@ -1,0 +1,177 @@
+34	Aldous's Letter
+34	Unsent. "To my squire, whoever he turns out to be."
+36	Ashwatch Signet
+36	A commander's ring. DEF/RES +12, counter 15%.
+37	Harrow's Fang
+37	STR +18, critical rate +12%. The Lodge's founder, avenged.
+38	Agathe's Bell
+38	Start battles with Veil (dodge two attacks). It rings very quietly.
+39	Black Star Shard
+39	STR/MAG +30, Afterglow +30%. Hums below hearing.
+59	Heath Hound
+59	Moor dogs gone wild. Polite, until they are not.
+60	Bracken Crow
+60	It steals buttons. Then eyes.
+61	Bog Light
+61	Follow it, and you will find exactly what it wants you to find.
+62	Gorse Boar
+62	Bristleback's many, many children.
+64	Tide Lurker
+64	Barnacled to the causeway for so long it forgot how to leave.
+65	Lens Jelly
+65	It focuses sunlight into anyone foolish enough to look at it.
+66	Gallery Eel
+66	Lives in the flooded galleries. Eats astronomers, historically.
+67	Brass Measurer
+67	Built by the first Keepers to measure the sun. Still measuring.
+69	Ashwatch Sentinel
+69	Still at their posts. Nobody relieved them.
+70	Oathless Shade
+70	A soldier who broke an oath here. It is still sorry.
+71	Barrow Hound
+71	Mange's pack. They guard the graves.
+72	Rusted Dawnguard
+72	Empty armor that remembers the drill.
+74	Ember Harrier
+74	Gulls that flew too close to the broken sun.
+75	Cinder Hound
+75	Coal-bellied dogs of the ash wastes.
+76	Shard Crawler
+76	Grows a shell from fallen window-glass.
+77	Ash Shade
+77	Ash that remembers being a person.
+79	Belfry Bat
+79	They hang right-way-up now, which is to say, upside-down.
+80	Still singing the wedding hymn. Still a little flat.
+81	Clapper Golem
+81	A bell-clapper that grew arms. It strikes on the hour.
+82	Hymn Wisp
+82	A note that refused to end.
+84	Thorn Maw
+84	A white flower that bites the hand that waters it.
+85	It eats the last words before they can be said.
+86	Petal Wraith
+86	Someone who did not get to say goodbye.
+87	Mourning Oak
+87	Planted over a grave a century ago. It grieves slowly.
+90	Bristleback
+90	Bounty. Ate a cart. The cart was occupied.
+91	Lanternjaw
+91	Bounty. Its lure is the last light many travelers saw.
+92	Gravelgut
+92	Bounty. A cairn that got hungry.
+93	Bounty. The toll is fingers.
+94	Mange
+94	Bounty. Still on patrol.
+95	Cinderwing
+95	Bounty. Flew through the broken sun.
+96	Glasshide
+96	Bounty. Saints in its back.
+97	Gravemouth
+97	Bounty. It speaks with the voices of the buried.
+98	Bounty. Still conducting.
+99	Bounty. Do not let her hold your hand.
+102	The Orrery Warden
+102	Built by the first Keepers to guard what they chose never to do.
+103	The Iron Duke
+103	The fort commander's ceremonial armor. Someone has to hold the stair.
+104	The Hollow Bell
+104	A bell that would not stop ringing, because stopping meant goodbye.
+105	The Last Bloom
+105	It wanted to keep every last word. It kept too many.
+107	The Bane of Harrow
+107	Hidden hunt. It killed the Lodge's founder, and it remembers how he tasted.
+108	Hidden hunt. It does not shine. It takes.
+175	Bristleback paws the ground, head low...
+179	The lure brightens. Something huge opens beneath it...
+182	Gravelgut swallows a cairn and hardens!
+183	Gravelgut rears up, stones grinding...
+186	The Pinch opens its great claw wide...
+189	Mange howls for the pack!
+190	Mange crouches, hackles up...
+193	Cinderwing climbs into the ash, burning brighter...
+196	Glasshide's shell reflects the light!
+197	Glasshide raises its glittering tail...
+201	Gravemouth inhales. A hundred buried voices fall silent...
+205	The Choirmother raises her baton for the final verse...
+208	The Thornmaiden blooms, thorns everywhere!
+209	She holds out her hand. Do not take it...
+212	The seven brass suns align!
+212	Light gathers at the orrery's center...
+216	The Iron Duke takes a two-handed stance.
+217	The Duke raises his greatsword high...
+220	The bell tolls, and a note takes shape!
+221	The great bell swings back, back, back...
+224	Moths pour from the petals!
+225	The Last Bloom drinks the whole garden's voice!
+226	A thousand petal-mouths open at once...
+229	The Bane of Harrow roars. Its wounds close!
+230	It drags itself up for one last killing lunge...
+231	The Bane lowers its head. Its jaws unhinge...
+234	The Black Star swallows the light. Time slows.
+235	The Black Star collapses inward — everything is pulled toward it!
+236	Every light in the sky bends toward the Black Star...
+256	Lodge Stores
+257	What's Left of the Stores
+266	Fish
+276	The Hunters' Lodge
+276	Brackenmoor
+279	Tamsk
+279	Bounties pay better than honest work. Also, they are honest work.
+279	Brackenmoor's east of here. Take the gate and mind your ankles.
+280	Reyna
+280	The old man built this Lodge with his hands. Harrow. Something killed him in a hollow south of the moor.
+280	Adelind won't post it. Says we're not good enough. She's right, which is the annoying part.
+287	Lodge Hall
+289	Adelind
+289	Bounties
+290	Bombs, arrows, and things that go in wounds. Buy something.
+295	The Hunters' Country
+309	The Drowned Observatory
+309	Gale Coast
+318	The Flooded Galleries
+318	Drowned Observatory
+321	Lens
+326	The Dome of Measures
+327	Orrery
+333	Fort Ashwatch
+333	The Greyspine Foothills
+335	Graves
+342	Ashwatch Keep
+344	Office
+350	The Signal Tower
+356	The Lodge, After
+356	A shard of Brackenmoor
+360	Stores
+360	Everything's twice the price and half the quality. That's the apocalypse for you.
+366	The Ashen Reach
+366	The Ruin
+375	The Abbey of Hours
+380	The Inverted Nave
+385	Chime
+394	The Belfry
+396	Agathe
+402	The Garden That Remembers
+402	A cemetery shard
+403	Lost Crest
+407	Flower
+407	Tell Mara the bread is in the oven. Tell her it's her turn to burn it.
+408	It doesn't hurt. I promise. Go on, go — I'll catch up.
+409	Did the sun come up? Somebody tell me the sun came up.
+416	The Hedge of Last Words
+422	Crest-glass
+423	I should have called you back. Every day, I should have called you back.
+424	The boy's name is Tam. Look after him. He's scared of the dark.
+430	The Heart of the Garden
+436	Under the Black Star
+436	Above the Seven Wounds
+449	Hunters' Lodge
+449	Bounties for monsters too much for a village.
+450	At low tide, a causeway rises to a dome older than the Lanterns.
+451	Greyspine Foothills
+451	An abandoned Dawnguard fort. Sir Aldous's old command.
+452	Where the Lodge's founder died.
+453	The Hunters' Lodge survived. Some of it.
+454	A bell-tower hanging upside-down under a shard. It rings on its own.
+455	White flowers that speak the last words of the dead.
+456	It does not shine. It takes.

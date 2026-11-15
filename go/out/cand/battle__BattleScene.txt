@@ -1,0 +1,28 @@
+7	../ui/Tutorial.js
+10	../core/Input.js
+11	./AutoPlay.js
+12	./BattleSystem.js
+13	./BattleUI.js
+14	./Effects.js
+15	../world/MapBuilder.js
+16	./BattleStage.js
+17	../render/Moods.js
+18	../render/Particles.js
+19	../render/SpriteFactory.js
+20	../render/MonsterFactory.js
+21	../render/PropFactory.js
+24	./Backgrounds.js
+25	../ui/UI.js
+26	../state/GameState.js
+33	ABCDEFG
+107	AUTO
+418	enemyFlee
+515	 crit
+516	 weakhit
+517	 resist
+518	 onparty
+520	tag crit
+521	WEAK
+521	tag weak
+586	enemyDie
+751	<div class="go-title">The light fades...</div><div class="go-sub">but it has not gone out.</div>

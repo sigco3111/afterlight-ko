@@ -1,0 +1,62 @@
+64	/g, 
+64	).replace(/[^a-z0-9]+/g, 
+64	).replace(/^_|_$/g, 
+85	 ? p * 0.5 : p * 0.85;
+    add(slug(name), {
+      name, slot: 
+113	, armor: 
+121	, price: 120, def: 3, desc: 
+121	 },
+  sea_charm: { name: 
+122	, price: 200, res: 5, desc: 
+122	 },
+  power_band: { name: 
+123	, price: 500, str: 6, desc: 
+123	 },
+  sage_ring: { name: 
+124	, price: 500, mag: 6, desc: 
+124	 },
+  swift_boots: { name: 
+125	, price: 900, spd: 5, desc: 
+125	 },
+  vigor_bangle: { name: 
+126	, price: 800, mods: { hpPct: 10 }, desc: 
+126	 },
+  focus_pendant: { name: 
+127	, price: 800, mods: { mpPct: 15 }, desc: 
+127	 },
+  antidote_charm: { name: 
+128	, price: 300, immune: [
+128	], desc: 
+128	 },
+  sun_goggles: { name: 
+129	, price: 400, immune: [
+129	 },
+  bell_earring: { name: 
+130	, price: 600, immune: [
+130	 },
+  wake_charm: { name: 
+131	 },
+  star_pendant: { name: 
+132	, price: 0, immune: [
+132	 },
+  ribbon: { name: 
+133	 },
+  ember_ring: { name: 
+134	, price: 1200, resist: { fire: 0.5 }, desc: 
+134	 },
+  frost_ring: { name: 
+135	, price: 1200, resist: { ice: 0.5 }, desc: 
+135	 },
+  storm_ring: { name: 
+136	, price: 1200, resist: { bolt: 0.5 }, desc: 
+136	 },
+  dusk_ring: { name: 
+137	, price: 2400, resist: { dark: 0.5 }, desc: 
+137	 },
+  lucky_coin: { name: 
+138	, price: 0, lck: 15, mods: { goldPct: 20 }, desc: 
+138	 },
+  hunters_eye: { name: 
+139	s Eye
+150	breakLimit

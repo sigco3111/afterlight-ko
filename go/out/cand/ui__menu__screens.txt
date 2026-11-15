@@ -1,0 +1,41 @@
+4	../UI.js
+5	./ControlsScreen.js
+6	../../core/Input.js
+8	./CrestScreen.js
+13	../../state/GameState.js
+16	../../world/QuestGuide.js
+42	it-left panel
+53	it-desc panel
+69	pageRight
+70	pageLeft
+137	st-left panel
+140	st-mid panel
+141	st-right panel
+151	<div class="sd-title" style="margin-top:14px">Legacies</div>
+155	<div class="dim">None</div>
+235	musicVolume
+236	sfxVolume
+237	voiceVolume
+238	autoRun
+239	textSize
+240	textSpeed
+241	autoAdvance
+242	hideSceneHints
+246	battleSpeed
+247	autoBattle
+248	skipBattles
+249	fastMode
+250	fastSpeed
+251	reduceEffects
+252	hideMinimap
+253	hideQuestGuide
+254	hideSideQuests
+262	set-list panel
+263	}</span>
+302	jn panel
+311	}</div>
+311	<div class="dim">No side quests yet.</div>
+312	Explore.
+312	<p class="dim">Nothing yet.</p>
+358	bs-left panel
+361	bs-detail panel

@@ -1,0 +1,6 @@
+3	../UI.js
+6	../../state/GameState.js
+8	../../data/monsterInfo.js
+54	mm-left panel
+59	mm-foot panel
+74	}</span>
