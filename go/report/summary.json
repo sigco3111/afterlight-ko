@@ -1,26 +1,25 @@
 {
- "dictKeys": 7824,
+ "dictKeys": 7949,
  "files": 349,
  "literals": 69389,
  "tpl": 577,
  "tplInDict": 0,
- "str": 7059,
+ "str": 6952,
  "tplChunks": 10,
- "stChunks": 81,
+ "stChunks": 80,
  "byDir": {
   "src/audio": 13,
-  "src/battle": 112,
-  "src/core": 28,
+  "src/battle": 97,
+  "src/core": 6,
   "src/data": 5436,
   "src/debug": 9,
   "src/main.js": 6,
-  "src/render": 10,
+  "src/render": 9,
   "src/scenes": 19,
-  "src/script": 17,
-  "src/state": 10,
+  "src/script": 10,
+  "src/state": 2,
   "src/story": 1635,
-  "src/ui": 278,
-  "src/world": 62,
-  "src/i18n": 1
+  "src/ui": 236,
+  "src/world": 51
  }
 }
