@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, mkdirSync, statSync } from 'node:fs';
 
 const dict = {};
 for (const f of readdirSync('i18n/parts').filter((x) => x.endsWith('.json'))) {
@@ -6,13 +6,14 @@ for (const f of readdirSync('i18n/parts').filter((x) => x.endsWith('.json'))) {
   for (const [k, v] of Object.entries(o)) dict[k] = v;
 }
 
-const files = [
-  'src/story/side.js',
-  'src/data/content/ch11.js',
-  'src/data/content/postgame_battle.js',
-  'src/data/content/postgame_items.js',
-  'src/data/content/postgame.js',
-];
+function walk(dir, out) {
+  for (const name of readdirSync(dir)) {
+    const p = dir + '/' + name;
+    if (statSync(p).isDirectory()) walk(p, out);
+    else if (p.endsWith('.js')) out.push(p);
+  }
+  return out;
+}
 
 function litsOf(src) {
   const out = [];
@@ -26,18 +27,21 @@ function litsOf(src) {
 }
 
 mkdirSync('go/out', { recursive: true });
-const summary = {};
-for (const f of files) {
-  const slug = f.replace(/^src\//, '').replace(/[\/.]/g, '-');
-  let src = '';
-  try { src = readFileSync(f, 'utf8'); } catch (e) { summary[f] = 'missing'; continue; }
+const per = {};
+const group = {};
+let total = 0;
+for (const f of walk('src', []).sort()) {
+  const src = readFileSync(f, 'utf8');
   const miss = litsOf(src).filter((v) => dict[v] === undefined);
-  summary[f] = miss.length;
+  if (!miss.length) continue;
+  per[f] = miss.length;
+  total += miss.length;
+  const g = f.split('/').slice(0, 3).join('/');
+  group[g] = (group[g] || 0) + miss.length;
+  const slug = f.replace(/^src\//, '').replace(/[\/.]/g, '-');
   for (let i = 0, n = 0; i < miss.length; i += 60, n++) {
     writeFileSync('go/out/' + slug + '-' + n + '.json', JSON.stringify(miss.slice(i, i + 60), null, 1));
   }
 }
-writeFileSync('go/out/summary.json', JSON.stringify(summary, null, 1));
-console.log(JSON.stringify(summary));
-
-// 트리거 재시도
+writeFileSync('go/out/summary-all.json', JSON.stringify({ dict: Object.keys(dict).length, total, per, group }, null, 1));
+console.log('total ' + total);
