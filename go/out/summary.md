@@ -1,0 +1,50 @@
+# 6차 런타임 덤프
+
+- 시나리오: 42
+- 캔버스에서 그려진 서로 다른 문자열: 0
+- 그중 한글 없는 문자열: 0
+- DOM 영어 줄: 55
+
+## 시나리오
+- title: canvas 0, errs 0
+- save:ch00_01_lf_wren_house: canvas 0, errs 0
+- save:ch02_01_port_gale: canvas 0, errs 0
+- save:ch02_06_thistledown: canvas 0, errs 0
+- save:ch03_03_c3_cathedral: canvas 0, errs 0
+- save:ch04_01_sunscar_road: canvas 0, errs 0
+- save:ch04_06_c4a_sg_inn: canvas 0, errs 0
+- save:ch04_11_c4a_fh_hall: canvas 0, errs 0
+- save:ch04_16_c4b_mirefen_inn: canvas 0, errs 0
+- save:ch04_21_c4b_skyreach: canvas 0, errs 0
+- save:ch05_03_c5_keepers_stair: canvas 0, errs 0
+- save:ch06_05_c6_shattered_sea: canvas 0, errs 0
+- save:ch08_02_c8_underhang: canvas 0, errs 0
+- save:ch09_04_c9_cinderdeep: canvas 0, errs 0
+- save:ch11_01_halcyon_deck: canvas 0, errs 0
+- save:ch11_06_c11_skyreach: canvas 0, errs 0
+- save:ch11_11_c11_vigil: canvas 0, errs 0
+- save:ch12_02_c12_streets: canvas 0, errs 0
+- save:pg_03_abyss_2: canvas 0, errs 0
+- save:pg_08_abyss_7: canvas 0, errs 0
+- save:pg_13_abyss_12: canvas 0, errs 0
+- save:pg_18_abyss_17: canvas 0, errs 0
+- save:pg_23_abyss_22: canvas 0, errs 0
+- save:pg_28_abyss_27: canvas 0, errs 0
+- menu:main: canvas 0, errs 0
+- menu:items: canvas 0, errs 0
+- menu:crests: canvas 0, errs 0
+- menu:arts: canvas 0, errs 0
+- menu:supports: canvas 0, errs 0
+- menu:equip: canvas 0, errs 0
+- menu:status: canvas 0, errs 0
+- menu:formation: canvas 0, errs 0
+- menu:settings: canvas 0, errs 0
+- menu:bestiary: canvas 0, errs 0
+- menu:journal: canvas 0, errs 0
+- menu:guide: canvas 0, errs 0
+- menu:world: canvas 0, errs 0
+- shop:lf_store: canvas 0, errs 0
+- shop:port_gale: canvas 0, errs 0
+- shop:thistledown: canvas 0, errs 0
+- battle:lf_jelly2: canvas 0, errs 0
+- battle:lf_jelly_crab: canvas 0, errs 0
