@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Enemy decision making. Ordinary turns are weighed by EnemyMind (weighted skills
 // bent by circumstance, judged targets, a few reflexes); bosses use named scripts
 // with phases and telegraphs, and their open picks are judged the same way.
@@ -75,7 +76,7 @@ export function chooseEnemyAction(sys, self) {
 
   const r = reflex(sys, self);
   if (r) {
-    if (r.id === 'e_enrage') sys.queueText(`${self.name} flies into a rage!`);
+    if (r.id === 'e_enrage') sys.queueText(fmt('{0} flies into a rage!', self.name));
     return r;
   }
   const a = judge(sys, self, self.def.skills || [['attack', 1]]);

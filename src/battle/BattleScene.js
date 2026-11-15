@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Battle presentation: builds a diorama stage, places battlers, runs the turn
 // loop from BattleSystem and choreographs every event (lunges, spells,
 // popups, breaks, KOs) before returning the outcome to the field.
@@ -105,7 +106,7 @@ export class BattleScene {
     this.isBattle = true;
     this.autoEl = el('div', `b-auto${this.autoToggle ? ' on' : ''}`, 'AUTO');
     this.ui.root.appendChild(this.autoEl);
-    this.ui.root.appendChild(el('div', 'b-keys', `${keyCap('info')} Auto`));
+    this.ui.root.appendChild(el('div', 'b-keys', fmt('{0} Auto', keyCap('info'))));
     game.timeScale = [1, 1.5, 2][game.state.settings.battleSpeed || 0];
     this.run().catch((e) => { console.error(e); this.finish('win'); });
   }
@@ -396,7 +397,7 @@ export class BattleScene {
         case 'interrupt':
           this.game.audio?.sfx('interrupt');
           this.ui.popup(this.ui_screen(e.target, 'mid'), 'Interrupted!', 'status-off');
-          await this.ui.message(`${e.target.name}'s attack is interrupted!`, 0.9);
+          await this.ui.message(fmt('{0}\'s attack is interrupted!', e.target.name), 0.9);
           break;
         case 'recover':
           this.ui.popup(this.ui_screen(e.target), 'Recovered', 'status-off');
@@ -404,10 +405,10 @@ export class BattleScene {
           await this.game.wait(0.35);
           break;
         case 'poise': this.ui.refreshEnemyTag(e.target); break;
-        case 'reveal': this.ui.refreshEnemyTag(e.target); this.ui.popup(this.ui_screen(e.target, 'mid'), `${ELEM_ICONS[e.elem]?.[0] || ''} Weakness!`, 'weak'); break;
-        case 'scan': this.ui.refreshEnemyTag(e.target); await this.ui.message(`${e.target.name}: HP ${e.target.hp}/${e.target.maxHp}. Lv ${e.target.level}.`, 1.1); break;
+        case 'reveal': this.ui.refreshEnemyTag(e.target); this.ui.popup(this.ui_screen(e.target, 'mid'), fmt('{0} Weakness!', ELEM_ICONS[e.elem]?.[0] || ''), 'weak'); break;
+        case 'scan': this.ui.refreshEnemyTag(e.target); await this.ui.message(fmt('{0}: HP {1}/{2}. Lv {3}.', e.target.name, e.target.hp, e.target.maxHp, e.target.level), 1.1); break;
         case 'steal':
-          await this.ui.message(`${e.user.name} stole *${this.game.state.inventory.itemName(e.item)}*!`, 0.9);
+          await this.ui.message(fmt('{0} stole *{1}*!', e.user.name, this.game.state.inventory.itemName(e.item)), 0.9);
           break;
         case 'text': await this.ui.message(e.text, 1.0); break;
         case 'afterglow': this.ui.refreshGlow(); break;
@@ -459,7 +460,7 @@ export class BattleScene {
       e.surgeShown = true;
       this.game.audio?.sfx('surge');
       if (s) this.particles.rise({ x: s.mesh.position.x, y: 0, z: s.mesh.position.z + 0.2, count: 14 * action.surge, colors: ['#ff9a4a', '#ffe090'], speed: 2.6 });
-      this.ui.popup(this.screenOf(user, 'head'), `SURGE ${'◆'.repeat(action.surge)}`, 'surge');
+      this.ui.popup(this.screenOf(user, 'head'), fmt('SURGE {0}', '◆'.repeat(action.surge)), 'surge');
     }
     const melee = isMelee(anim) && targets.length && targets[0] !== user && targets[0].side !== user.side;
     if (melee && s) {
@@ -672,7 +673,7 @@ export class BattleScene {
     const ns = this.addSprite(inn, s.base.clone());
     ns.offset.x = 6;
     this.ui.replaceMember(out, inn);
-    await this.ui.message(`${inn.name} steps in!`, 0.5);
+    await this.ui.message(fmt('{0} steps in!', inn.name), 0.5);
     await this.game.tween(0.25, (k) => { ns.offset.x = 6 * (1 - k); });
   }
 
@@ -753,7 +754,7 @@ export class BattleScene {
         game.audio?.playMusic('gameover');
         game.audio?.muffle(false);
         const last = SaveStore.read(SaveStore.latestSlot())?.summary;
-        const options = [['retry', 'Try again'], ...(last ? [['load', `Load last save — ${last.location || 'saved game'}`]] : []), ['title', 'Return to title']];
+        const options = [['retry', 'Try again'], ...(last ? [['load', fmt('Load last save — {0}', last.location || 'saved game')]] : []), ['title', 'Return to title']];
         const i = await game.ui.choice(options.map((o) => o[1]), { prompt: '' });
         box.remove();
         resolve(/** @type {'retry' | 'load' | 'title'} */ (options[i][0]));

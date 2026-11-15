@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Resolves battle actions into state changes + a list of presentation events.
 //
 // Event types (consumed by BattleScene):
@@ -40,7 +41,7 @@ export class ActionResolver {
     const ev = [];
     if (action.kind === 'item') return this.useItem(user, action, ev);
     const skill = SKILLS[action.id];
-    if (!skill) { ev.push({ t: 'text', text: `${user.name} hesitates.` }); return ev; }
+    if (!skill) { ev.push({ t: 'text', text: fmt('{0} hesitates.', user.name) }); return ev; }
 
     // Costs
     if (action.kind !== 'link') {
@@ -49,7 +50,7 @@ export class ActionResolver {
       user.mp = Math.max(0, user.mp - mp);
       if (skill.hpCost) user.hp = Math.max(1, user.hp - Math.floor(user.maxHp * skill.hpCost));
     }
-    if (action.id !== 'attack' && action.id !== 'guard') ev.push({ t: 'announce', user, name: action.gambit ? `${skill.name} — Gambit!` : skill.name });
+    if (action.id !== 'attack' && action.id !== 'guard') ev.push({ t: 'announce', user, name: action.gambit ? fmt('{0} — Gambit!', skill.name) : skill.name });
 
     const repeat = user.hasStatus('doubled') && action.id !== 'double_down' && action.id !== 'attack' ? 2 : 1;
     if (repeat === 2) user.removeStatus('doubled');
@@ -203,7 +204,7 @@ export class ActionResolver {
       const bram = this.b.party.find((p) => p.alive && p.flags.has('bulwark') && p !== target && !p.flagsUsed.has('bulwark'));
       if (bram && amount < bram.hp + bram.maxHp * 0.5) {
         bram.flagsUsed.add('bulwark');
-        ev.push({ t: 'text', text: `${bram.name} throws himself in the way!` });
+        ev.push({ t: 'text', text: fmt('{0} throws himself in the way!', bram.name) });
         target = bram;
         amount = Math.round(amount * 0.6);
       }
@@ -216,7 +217,7 @@ export class ActionResolver {
     }
     target.damage(amount);
     ev.push({ t: 'damage', target, amount, ...info, ko: !target.alive });
-    if (survived) ev.push({ t: 'text', text: `${target.name} refuses to fall!` });
+    if (survived) ev.push({ t: 'text', text: fmt('{0} refuses to fall!', target.name) });
     if (target.isParty) {
       this.gainAfterglow(target, target.flags.has('adrenaline') ? 7 : 3, ev);
       if (target.alive && target.flags.has('autoPotion') && !target.flagsUsed.has('autoPotion') && target.hp < target.maxHp * 0.3) {
@@ -241,7 +242,7 @@ export class ActionResolver {
       target.memory.pilfered = 0;
       this.b.goldStolen -= g;
       this.b.state.gold += g;
-      ev.push({ t: 'text', text: `Recovered ${g} gold from ${target.name}.` });
+      ev.push({ t: 'text', text: fmt('Recovered {0} gold from {1}.', g, target.name) });
     }
     if (reraise) {
       target.revive(0.25);
@@ -254,7 +255,7 @@ export class ActionResolver {
     if (target.hp > target.maxHp * 0.3) return target;
     const coverer = this.b.party.find((p) => p !== target && p.alive && p.flags.has('cover') && !p.hasStatus('sleep') && !p.hasStatus('stun'));
     if (!coverer || this.rnd() > (coverer.flags.has('martyr') ? 0.9 : 0.6)) return target;
-    ev.push({ t: 'text', text: `${coverer.name} covers ${target.name}!` });
+    ev.push({ t: 'text', text: fmt('{0} covers {1}!', coverer.name, target.name) });
     return coverer;
   }
 
@@ -358,7 +359,7 @@ export class ActionResolver {
     user.addStatus('airborne');
     user.pendingJump = { ...action, landing: true };
     ev.push({ t: 'jump', user, up: true });
-    ev.push({ t: 'text', text: `${user.name} leaps into the sky!` });
+    ev.push({ t: 'text', text: fmt('{0} leaps into the sky!', user.name) });
   }
 
   // =====================================================================
@@ -482,7 +483,7 @@ const SPECIALS = {
   },
   dispel(r, user, skill, targets, action, ev) {
     if (!skill.power) ev.push({ t: 'anim', user, anim: 'debuff', targets });
-    for (const t of targets) if (t.alive && t.clearBuffs()) ev.push({ t: 'text', text: `${t.name}'s protections unravel.` });
+    for (const t of targets) if (t.alive && t.clearBuffs()) ev.push({ t: 'text', text: fmt('{0}\'s protections unravel.', t.name) });
   },
   partyHeal15(r, user, skill, targets, action, ev) {
     for (const a of r.livingAllies(user)) ev.push({ t: 'heal', target: a, amount: a.heal(Math.round(a.maxHp * 0.15)) });
@@ -501,13 +502,13 @@ const SPECIALS = {
     ev.push({ t: 'anim', user, anim: 'steal', targets: [t] });
     const g = Math.round(t.level * 12 * (0.8 + r.rnd() * 0.4));
     r.b.bonusGold += g;
-    ev.push({ t: 'text', text: `Transmuted ${g} gold!` });
+    ev.push({ t: 'text', text: fmt('Transmuted {0} gold!', g) });
   },
   delay(r, user, skill, targets, action, ev) {
     ev.push({ t: 'anim', user, anim: 'debuff', targets });
     for (const t of targets) {
       t.av += t.baseAV() * pushback(t, false);
-      ev.push({ t: 'text', text: `${t.name} is pushed back in time.` });
+      ev.push({ t: 'text', text: fmt('{0} is pushed back in time.', t.name) });
     }
   },
   delayAll(r, user, skill, targets, action, ev) {
@@ -518,7 +519,7 @@ const SPECIALS = {
   quicken(r, user, skill, targets, action, ev) {
     ev.push({ t: 'anim', user, anim: 'buff', targets });
     for (const t of targets) { if (t !== user) t.av = 0; }
-    ev.push({ t: 'text', text: `${targets[0]?.name} moves at once!` });
+    ev.push({ t: 'text', text: fmt('{0} moves at once!', targets[0]?.name) });
   },
   gravity(r, user, skill, targets, action, ev) {
     ev.push({ t: 'anim', user, anim: 'dark', targets });
@@ -559,7 +560,7 @@ const SPECIALS = {
   },
   dice(r, user, skill, targets, action, ev) {
     const a = 1 + Math.floor(r.rnd() * 6), b = 1 + Math.floor(r.rnd() * 6);
-    ev.push({ t: 'text', text: `Rolled ${a} + ${b}${a === b ? ' — doubles!' : ''}` });
+    ev.push({ t: 'text', text: fmt('Rolled {0} + {1}{2}', a, b, a === b ? ' — doubles!' : '') });
     ev.push({ t: 'anim', user, anim: 'shot', targets });
     const dmg = Math.round((a + b) * user.level * 3.2 * (a === b ? 2 : 1));
     for (const t of targets) if (t.alive) r.applyDamage(t, Math.min(9999, dmg), ev, {});
@@ -586,7 +587,7 @@ const SPECIALS = {
   coins(r, user, skill, targets, action, ev) {
     const spend = Math.max(10, Math.floor(r.b.state.gold * 0.02));
     r.b.state.gold = Math.max(0, r.b.state.gold - spend);
-    ev.push({ t: 'text', text: `Threw ${spend} gold!` });
+    ev.push({ t: 'text', text: fmt('Threw {0} gold!', spend) });
     ev.push({ t: 'anim', user, anim: 'shot', targets: r.livingOpponents(user) });
     for (const t of r.livingOpponents(user)) r.applyDamage(t, Math.min(9999, spend * 2), ev, {});
   },
@@ -599,7 +600,7 @@ const SPECIALS = {
     ev.push({ t: 'anim', user, anim: 'buff', targets: [user] });
     user.addStatus('charging');
     ev.push({ t: 'status', target: user, id: 'charging', on: true });
-    ev.push({ t: 'text', text: `${user.name} is gathering power...` });
+    ev.push({ t: 'text', text: fmt('{0} is gathering power...', user.name) });
   },
   enemySteal(r, user, skill, targets, action, ev) {
     const g = Math.min(r.b.state.gold, Math.round(user.level * 6));
@@ -611,7 +612,7 @@ const SPECIALS = {
       user.memory.pilfered = (user.memory.pilfered || 0) + g;
       user.memory.pilfers = (user.memory.pilfers || 0) + 1;
     }
-    ev.push({ t: 'text', text: `${user.name} pinched ${g} gold!` });
+    ev.push({ t: 'text', text: fmt('{0} pinched {1} gold!', user.name, g) });
   },
   /** A foe eats one of its own side to mend itself (a quarter of its HP). */
   devour(r, user, skill, targets, action, ev) {
@@ -626,19 +627,19 @@ const SPECIALS = {
   },
   /** A foe runs from the fight: gone, with no EXP, gold or drops for it (or what it stole). */
   enemyFlee(r, user, skill, targets, action, ev) {
-    if (!user.isEnemy || user.def?.boss || r.b.boss) { ev.push({ t: 'text', text: `${user.name} stands its ground.` }); return; }
+    if (!user.isEnemy || user.def?.boss || r.b.boss) { ev.push({ t: 'text', text: fmt('{0} stands its ground.', user.name) }); return; }
     const g = user.memory.pilfered || 0;
     user.alive = false;
     user.fled = true;
     user.statuses.clear();
-    ev.push({ t: 'enemyFlee', target: user, text: g ? `${user.name} runs off with ${g} gold!` : `${user.name} runs away!` });
+    ev.push({ t: 'enemyFlee', target: user, text: g ? fmt('{0} runs off with {1} gold!', user.name, g) : fmt('{0} runs away!', user.name) });
   },
   mpDrain(r, user, skill, targets, action, ev) {
     ev.push({ t: 'anim', user, anim: 'dark', targets });
     for (const t of targets) {
       const n = Math.min(t.mp, Math.round(5 + user.level * 0.8));
       t.mp -= n;
-      ev.push({ t: 'text', text: `${t.name} loses ${n} MP.` });
+      ev.push({ t: 'text', text: fmt('{0} loses {1} MP.', t.name, n) });
     }
   },
   selfDestruct(r, user, skill, targets, action, ev) {
@@ -655,7 +656,7 @@ const SPECIALS = {
     if (!pool.length || r.b.enemies.filter((e) => e.alive).length >= 5) { ev.push({ t: 'text', text: 'No one answers.' }); return; }
     const id = pool[Math.floor(r.rnd() * pool.length)];
     const nb = r.b.spawnEnemy(id);
-    if (nb) ev.push({ t: 'summon', battler: nb, text: `${user.name} calls ${nb.name}!` });
+    if (nb) ev.push({ t: 'summon', battler: nb, text: fmt('{0} calls {1}!', user.name, nb.name) });
   },
 };
 
