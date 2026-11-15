@@ -1,7 +1,7 @@
 {
- "dict": 2,
- "files": 2,
- "replaced": 2,
+ "dict": 0,
+ "files": 0,
+ "replaced": 0,
  "unmatched": [
   "src/battle/AI.js:78",
   "src/battle/Actions.js:43",
@@ -53,6 +53,7 @@
   "src/ui/SceneHints.js:76",
   "src/ui/Tutorial.js:39",
   "src/ui/Tutorial.js:41",
+  "src/ui/UI.js:336",
   "src/ui/menu/ArtsScreen.js:48",
   "src/ui/menu/ArtsScreen.js:83|Mastery Art",
   "src/ui/menu/ArtsScreen.js:87",
@@ -60,6 +61,7 @@
   "src/ui/menu/ArtsScreen.js:91",
   "src/ui/menu/CompendiumScreen.js:40",
   "src/ui/menu/CompendiumScreen.js:85",
+  "src/ui/menu/CompendiumScreen.js:118",
   "src/ui/menu/CompendiumScreen.js:119",
   "src/ui/menu/ControlsScreen.js:26",
   "src/ui/menu/ControlsScreen.js:27",
