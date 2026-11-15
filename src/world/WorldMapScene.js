@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // World map: fast travel between unlocked destinations. Painted procedurally
 // as pixel art — a parchment continent before the Sundering, a shattered sky
 // archipelago with seven burning sun-wounds after it. A destination with attuned
@@ -70,7 +71,7 @@ export class WorldMapScene {
     this.info = el('div', 'wm-info panel');
     this.root.appendChild(this.info);
     this.root.appendChild(el('div', 'wm-title', act === 1 ? 'Solmere' : 'The Ruin of Solmere'));
-    this.root.appendChild(el('div', 'wm-hint', `${keyCap('left')}${keyCap('up')}${keyCap('down')}${keyCap('right')} Choose · ${keyCap('confirm')} Travel · ${keyCap('cancel')} Close`));
+    this.root.appendChild(el('div', 'wm-hint', fmt('{0}{1}{2}{3} Choose · {4} Travel · {5} Close', keyCap('left'), keyCap('up'), keyCap('down'), keyCap('right'), keyCap('confirm'), keyCap('cancel'))));
     this.game.ui.layers.menus.appendChild(this.root);
     this.paintBase();
     this.buildMarkers();
@@ -221,8 +222,8 @@ export class WorldMapScene {
     const n = this.nodes[this.index];
     const quest = n && n === this.questNode ? '<div class="wm-quest">◆ Your objective lies this way</div>' : '';
     const sides = n && this.sideAt.get(n.id);
-    const side = sides?.length ? `<div class="wm-side-list">◆ Side quests: ${sides.join(' · ')}</div>` : '';
-    const stones = this.stones[this.index]?.length ? `<div class="wm-stone-list">Hearthstones: ${this.stones[this.index].map((s) => s.name).join(' · ')}</div>` : '';
+    const side = sides?.length ? fmt('<div class="wm-side-list">◆ Side quests: {0}</div>', sides.join(' · ')) : '';
+    const stones = this.stones[this.index]?.length ? fmt('<div class="wm-stone-list">Hearthstones: {0}</div>', this.stones[this.index].map((s) => s.name).join(' · ')) : '';
     if (this.picker) this.info.innerHTML = this.pickerHtml();
     else this.info.innerHTML = n ? `<div class="cd-name">${n.name}</div><div class="cd-tier">${n.region || ''}</div><div class="cd-desc">${n.desc || ''}</div>${stones}${quest}${side}` : '<div class="dim">Nowhere to go yet.</div>';
     const corner = this.panelCorner();
@@ -246,7 +247,7 @@ export class WorldMapScene {
 
   pickerHtml() {
     const rows = this.picker.dests.map((d, i) => `<div class="wm-dest${i === this.picker.index ? ' sel' : ''}"><span>${d.name}</span><em>${d.sub}</em></div>`).join('');
-    return `<div class="cd-name">Travel to…</div>${rows}`;
+    return fmt('<div class="cd-name">Travel to…</div>{0}', rows);
   }
 
   handlePicker(input) {

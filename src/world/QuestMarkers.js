@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Field quest markers: a gold gem floating over where the objective leads on this
 // map — the spot, the person, or the exit/door that heads toward it — an arrow at
 // the screen edge while it's out of view, the same spots on the minimap (which
@@ -68,10 +69,10 @@ export class QuestMarkers {
       // Reported (tests collect these) once the player is free to look for the way.
       this.miss = targets.length && !r ? `Quest guide: no open way from ${f.mapId} to ${[...new Set(targets.map((t) => t.map))].join(' / ')} for "${text}"` : null;
       if (r?.goals) for (const t of r.goals) this.addGoal(t);
-      else if (r?.hop.kind === 'travel') note = `Travel to <b>${r.node?.name || 'your destination'}</b> on the world map (Menu → Travel).`;
+      else if (r?.hop.kind === 'travel') note = fmt('Travel to <b>{0}</b> on the world map (Menu → Travel).', r.node?.name || 'your destination');
       else if (r?.hop) {
         this.addHop(r.hop);
-        if (r.node && r.hop.kind === 'world') note = `Out to the world map, then on to <b>${r.node.name}</b>.`;
+        if (r.node && r.hop.kind === 'world') note = fmt('Out to the world map, then on to <b>{0}</b>.', r.node.name);
       }
     }
     // Optional quests: blue, only for what's on this map (or behind a door here).
@@ -82,7 +83,7 @@ export class QuestMarkers {
         else if (r?.hop?.kind === 'door') this.addHop(r.hop, true);
       }
     }
-    this.tracker.innerHTML = this.on && text ? `<div class="qt-head">Objective</div><div class="qt-text">${richText(text)}</div>${note ? `<div class="qt-note">${note}</div>` : ''}` : '';
+    this.tracker.innerHTML = this.on && text ? fmt('<div class="qt-head">Objective</div><div class="qt-text">{0}</div>{1}', richText(text), note ? `<div class="qt-note">${note}</div>` : '') : '';
     this.update(0);
   }
 
