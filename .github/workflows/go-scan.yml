@@ -1,0 +1,26 @@
+name: go-scan
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'go/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: 스캔
+        run: node go/scan.mjs
+      - name: 보고서 커밋
+        run: |
+          git config user.name "ko-scan-bot"
+          git config user.email "ko-scan-bot@users.noreply.github.com"
+          git add -A go
+          git commit -m "스캔: 영문 문자열 보고서 [skip ci]" || echo "no change"
+          git push
