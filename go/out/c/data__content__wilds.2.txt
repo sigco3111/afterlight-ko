@@ -1,20 +1,2 @@
-21	Brass Scarab
-22	It lived in the Halcyon's engines and guards the wreck the way a dog guards a bone. It throws its shell over anything hurt.
-23	Emberwing Gull
-24	Lanternfall's gulls in the last week. Their wings smoulder, and they have stopped being afraid of anything.
-25	Gutter-Lamp Wisp
-26	The last lamps of Lanternfall burn too bright and too long. Some of them have wandered off.
-27	Ash Mote
-28	A cinder that kept burning after the fire around it went out. It goes out angry.
-29	Rime Warden
-30	The monks of Frosthollow built it to keep the pass. It keeps the monks now, what is left of them.
-31	Brinecoral Polyp
-32	The reef grows over everything that drowns here, and mends the other drowned things too.
-33	Vigil Lamplighter
-34	Somebody has to keep the vigil lamps lit. Nobody told it the vigil is over.
-35	Rift Maw
-36	The Rift opens. Sometimes the Rift has teeth.
-37	Hollow Orderly
-38	It still makes its rounds and still tends the sick. Whatever it gives them, they don't get better.
-39	Lantern Urchin
-40	Its spines light up when something comes close. Then it lights up too.
+21	Topiary Hound
+22	The garden remembers dogs. It remembers them a little wrong.
