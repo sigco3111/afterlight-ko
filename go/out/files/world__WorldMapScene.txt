@@ -1,0 +1,4 @@
+wm-info panel
+<div class="wm-quest">◆ Your objective lies this way</div>
+<div class="dim">Nowhere to go yet.</div>
+<div class="wm-dest{0}"><span>{1}</span><em>{2}</em></div>

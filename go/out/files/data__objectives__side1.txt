@@ -1,0 +1,1 @@
+blocker:c2_wold_outer:thorns

@@ -1,0 +1,3 @@
+ctl-list panel
+<span class="ctl-label">Reset to defaults</span>
+ctl-note dim

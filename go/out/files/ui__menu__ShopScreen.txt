@@ -1,0 +1,6 @@
+sh-left panel
+sh-detail panel
+ : delta < 0 ? 
+ : '=') : '—'}</span></div>
+</div>
+.sh-mem

@@ -1,0 +1,11 @@
+Bristleback
+Lanternjaw
+Gravelgut
+Mange
+Cinderwing
+Glasshide
+Gravemouth
+ {blue|[hunting]}
+ {dim|[done]}
+Adelind
+Agathe

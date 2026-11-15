@@ -1,0 +1,24 @@
+ qqqq       qq qqqq q           qqqq  
+ qqqq    qqqqqqqqqqqqqq q       qqqq  
+       qqqqqqqqqqqqqqqqq q       qq   
+    q qqqqqq,qqq,qq,qqqqqqqqq         
+    qqqqqqqq,,,,,,,,qqqqqqqqqq        
+   qqqqqqq,,,,,,,,,,,,,qqqqqqqq       
+   qqqqdddd,,,:,,,,,,,,qqqqqqqq       
+   qqqqdddd,,,:,,,,,,,,::qqqqq        
+   qqqqdddd,,::,,,,,,,,::qqqq         
+   qqqqq,,,,,::::::::::,,qqqq=========
+  qqqqq,,,:::::,,,,,,,,::::::=========
+   qqqqq::,,,::,,,ddddddqqqq q        
+   qqqq:q,,,,::,,,ddddddqqqq          
+   q qq:qq,,,::,,,ddddddqqq           
+      :qqqaaa::aaaddddddqq            
+      qqaaaaaa::aaaaaaqqqq            
+       aaaaaaa::aaaaaaaqq             
+      aaaaaaaaaaaaaaaaaa       qqqq   
+       aaaaaaaaaaaaaaaaa       qqqq   
+ qq     aaaaaaaaaaaaaa                
+ qq        aaaaaaa a                  
+      FFFFFf      @       t t         
+       Bbf      f                     
+             o  %x ox                 

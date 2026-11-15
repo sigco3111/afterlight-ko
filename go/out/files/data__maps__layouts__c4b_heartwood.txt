@@ -1,0 +1,44 @@
+,,,,,,,,,,,o,oooooo,,,,,,,,,,,,,
+,,,,,,,,,,ooooooooooooo,,,,,,,,,
+,,,,,,,,ooooooooooooooooo,,,,,,,
+,,,,,,ooooooooooooooooooo,,,,,,,
+,,,,,,ooooooo......oooooooo,,,,,
+,,,,oooooo...........ooooooo,,,,
+,,,,oooooo.............ooooo,,,,
+,,,oooooo..............oooooo,,,
+,,,ooooo................oooo,,,,
+,,,ooooo................ooooo,,,
+,,::::oo................ooooo,,,
+::::::ooo..............oooooo,,,
+:::,ooooo..............ooooo,,,,
+,,,,,ooooo...........ooooooo,,,,
+,,,,,,ooooooo.....o.ooooooo,,,,,
+,,,,,,oooooooooooooooooooo,,,,,,
+,,,,,,,ooooooooooooooooo,,,,,,,,
+,,,,,,,,,ooooooooooooooo,,,,,,,,
+,,,,,,,,,,,oooooooo,o,,,,,,,,,,,
+,,,,,,,,,,,,,,oooo,,,,,,,,,,,,,,
+KK    K  TTTTP K T TPTK  T     T
+ TT  TK TK  KTPTTTTTT TK  TPTTTT
+ PT TT KT  TTPP  K   TP   PTT  T
+TP  P     P     g    PP  K P    
+TKK P KP Tf     g       P K TKPT
+ P  PPKT                 KTPKTT 
+T       f    gg   g   G    T  T 
+TKT    g f                  PPKP
+ KPP      K           K     T PT
+           f              G   TK
+  TB                 f g    T  T
+TKP       G         fg G G   KKK
+PTT                     f    PP 
+              B              TPP
+        g    G        g       TT
+                f     gG    PTT 
+ TPPP   ff            $    TT T 
+T T   g            g     fPK TKK
+TPT  KKg                P KT KP 
+KP P  TTK               T K KTTP
+TKKTT TK T         T TKKP K TTKK
+PKT  TT TT  T       K KP   T KK 
+ PP   T  T  T      K  PTTT PT PT
+P  T TK P  TK      TKKTTTKK PTTT

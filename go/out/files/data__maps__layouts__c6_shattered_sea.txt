@@ -1,0 +1,32 @@
+      ggg            aaaaaaa                                            
+    ggggggg      aaaaaaaaaa++++           uuuuuuu                       
+   g####ggg      aaaaaaaaaa++++          uuuuuuuuuu                     
+  gg####gggg=====aaaaaaaaaa++++a         uuuuuuuuuu  qqqq               
+  gggggggggg=====aaaaaaaaaaaaaaa         uuuuuuuuuuu qqqq               
+  gggggggggg     aaaaaaaaaaaaaaa   qqqq  uuuuuuuuuu                     
+    gggggg       aaaaaaaaaaaaaa    qqqq   uuuuuuuu                      
+        g           aaaaaaaa                ==                          
+                       ==                   ==           aaaaaaaa       
+                      q==                   ==          aaaaaaaaaa      
+                   qqqq==qqq                ==        aaaaaaaaaaaaa     
+    aaaaa          qqqqqqqqqq            qqq==q       aaaaaauuauaaaa    
+  aaaaaaaa       qqqqqggggqqqqq         qqqqqqqq     aaaauuuuuuuuaaaa   
+ aaaaaaaaaa      qqqgggggggqqqq        qqqqqqqqq    aaaaauuuuuuuuaaaa   
+===aaaaaaaa=====qqqqggggggggqqq========qqqqqqqqqq===aaaauuuuuuuuuuaaa===
+ aaaaaaaaa       qqqqggggggqqqqq       qqqqqqqqqq    aaauuuuuuuuuuaaa   
+  aaaaaaaa       qqqqqgggggqqqq         qqqqqqqq      aaauuuuuuuuaaaa   
+    aaaaa         qqqqqqqqqqq             qqqqq       aaaauauuaaaaaa    
+                    qqqqqqqqq                          aaaaaaaaaaaa     
+                       == q                            aaaaaaaaaaa      
+                       ==                                aaaaaa         
+            qqqq       ==          qq                                   
+            qqqq       ==        qqqqqq                                 
+                       ==        qqqqqq                                 
+                   aaaaaaaaaa      qq                                   
+               WWWWWWWW++WWWWWWWWW                                      
+              aW+++++++++++++++++W                                      
+              aW++++++++++WWWWW++Wa                               qqqq  
+  qq         aaW++++++++++W+++W++Wa               qqqq           qqqqqq 
+ qqqq        aaW++++++++++W+++W++Wa               qqqq           qqqqqq 
+ qqqqq       aaW+++++++++++++++++Wa                               qqqq  
+                                                           dD  d        

@@ -1,0 +1,41 @@
+,,,,,,,,,,,,,,VVVVVVVVVVVVVVVVVVVVVVVVVVVV,,,,,,
+,,,,,,,,,,,,VVVVVVVVVVVVVVV,,,,,,,,VVVVVVVVVV,,,
+,,,m,,,,,,,VVVVVVVVVVVVVVV,,,,,,,,,,VVVVVVVVV,,,
+,,,VVVVVVVVVVVVVVVVVVVVVVV,,,,,,,,,,VVVVVVVVV,,,
+,,,VVVVVVVVVVVVVVV,VVVVVVVV,,pp,,,,VVVVVVVVVV,,,
+,,,VVVVVVVVVVV,,,,,,,,VVVVVVppppVVVVVVVV,,,,,,,,
+,,,VVVVVVVVV,,,,,,,,===VVVVpppppVVVVVVV,,,,,,,,,
+,,,VVVVVVVVV,,,,,,,,,,,,VppppppVVVVVmm,,,,,,,,,,
+,,,VVVVVVVVV,,,,,,,,,,,,ppppVVVVVVmmm:::::::::::
+,,,VVVVVVVVV,::::::::::mppmmmVVVVmmm::::::::::::
+,,,VVVVVVVV===:::::::::===mmmmmmmmm===mmm,,,,m::
+,,,mmmmmmmm===ppV,,,pp:===mmmmmmmm:===mmmmVVVVVV
+,,,mmmmmmm:===ppVVVVVpm===:::::::::===mppmVVVVVV
+::::::::::::mmmmVVVVVVmmm::::::::::mmppppppVVVVV
+:::::::::::mmmmmVVVVVVVVmmmmm::ppppVmppppppVVVVV
+:::mmmmmm=mmmmmVVVVVVVVVVmm,,::pppVVVVVppVVVVVVV
+,,,VVmppm=mmmVVVVVVVVVVVV,,,,::,,,,VVVVVVVVVVVVV
+,,,VVmpp=mmmVVVVVVVVVVVV,,,,,,,,,,,,VVVVVVVVVVVV
+,,,Vmmmm=mmmVVVVVVVVVVVV,,,,,,,,,,,,VVVVVVVVVVVV
+,,,VmmmmmmmmVVVVVVVVVVVVV,,,,,,,,,,VVVVVVVVVVVVV
+,,,VVmmmmmmVVVVVVVVVVVVVVVV,,,,,,VVVVVVVVVVVVVVV
+,,,VVVVmVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+,,,VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+DbT  T   TT   T    bT  T T    P     T  T b    PT
+TTT  bD  TT  T   P T T D T DTb  bDbb   b       P
+b T  D    D   T  DD P          TD T      P  bb D
+  DT D     P   P     bT  TP   D       D     T TT
+ D bPT           D   TPTTD  T  TT  Tb PDbb bDDT 
+  T bDDP   T  D T  TT D  T P    TTTD b  D  T Tbb
+D T   P    Tb                       n     P    T
+D T b P  T        nn          D T            T  
+  Dm                              G            D
+  b                    n       D              DT
+bD   nn                      n    b             
+ T            b                    n          DD
+TD                   $   n            L         
+ D n      n      n              qF     nm       
+  b                      mn    D F O            
+bDT    n m     n              @                 
+bbD   !   |       n n            b              
+Tb   G  S  n                     nE             

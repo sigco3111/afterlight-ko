@@ -1,0 +1,55 @@
+a,,,,,,,,,,,,,,,,,,,oooo,,,,,,,,,,,,,,,,,,,a
+a,,,,,,,,,,,,,,,,...oooo...,,,,,,,,,,,,,,,,a
+a,,oooooooo,ooooo..........ooooo,oooooooo,,a
+a,,oo,oo,,,,oo,,,....oo....,,,oo,oo,oo,,,,,a
+a,,oo,ooooo,ooooo,oo,ooooo,ooooo,oo,ooooo,,a
+a,,oo,,,,oo,,,,oo,oo,oo,,,,,,,oo,oo,,,,oo,,a
+a,,oo,ooooo,ooooo,oo,oooooooo,oo,ooooo,oo,,a
+a,,oo,oo,ooooo,,,,oo,,,,,,,oo,oo,,,,,,,oo,,a
+a,,oo,oo,ooooo,oooooooo,ooooo,oooooooo,oo,,a
+a,,oo,oo,oo,oo,oooooooo,ooooo,oooooooo,oo,,a
+a,,oo,oo,,,,oo,,,..........,,,,,o,,,oo,oo,,a
+a,,oo,ooooooooooo..........oooooooo,ooooo,,a
+a,,oo,,,,,,,,,,,,..........,,,,,,oo,,,,oo,,a
+a,,oooooooo,ooooo..........oo,ooooo,ooooo,,a
+a,,,,,oo,,,,oo,,,..........ooooo,,,,,,,,,,,a
+a,,oo,oo,ooooo,ooooooooooo,oooooooooooooo,,a
+a,,oo,oo,ooooo,ooooooooooo,oo,ooooooooooo,,a
+a,,oo,ooooo,oo,,,,,,,,,,oo,oo,,,,,,,,,,oo,,a
+a,,oo,oo,oo,oo,ooooo,oo,oo,ooooooooooo,oo,,a
+a,,oo,oo,oo,,,,ooooo,oo,oo,,,,oo,,,,,,,oo,,a
+a,,ooooo,ooooo,oo,oo,ooooo,ooooo,ooooo,oo,,a
+a,,oo,,,,,,,oo,oo,oo,,,,oo,,,,,,,oo,ooooo,,a
+a,,oooooooo,ooooo,ooooo,ooooooooooo,ooooo,,a
+a,,,,,,,,,,,,,,,,,,,,oo,,,,,,,,,,,,,,,,,,,,a
+ b      b bb  B  Bbb    b   bbB bB  b  BB b 
+  b b   bbBb   bb          b bbb   bB b bbb 
+ Bb f    f    f   L     $ L  g  B     f fb  
+ BB  f     b                 f g         b  
+ bb   g Bb b  b b           b   b  b      B 
+ bbf b                    b              B  
+ bB  B       g                  b       gb  
+      bBb  b  b  b  b    b b    b   b bf  b 
+     B     b    g   b        b  B     bg    
+     B g   b   f b          gb g      b   b 
+ bb     bg      b     b         b   bb    B 
+ b   b  b   g   f g                      bb 
+              b  f           b           bb 
+  Bg b   b    bbB   ff    fBb bB     g   Bb 
+ Bb f             tg  g g g        b   g bb 
+ Bb g bbb  b b  b   fg  f gB       bBBb     
+      f   f      ff  f  ff     g   b   g b  
+ b         B  g    f  f  tf  B     b        
+ b bbb   bB   Bb      g f f     b b  Bbbbb  
+ b   B                                   BB 
+ bBf B     b   b b B b    bg BBbb    bb     
+ BB  B     b        b  b      g       B   B 
+  bg  f    b  b     b  b  b        fg b  b  
+  b     b  bb B       f   b  b   b b B   b  
+ bB            f       f        b     b     
+  b fb  b b   B  b  B bb     BbBb  b     bb 
+ Bb                        f       B      b 
+ bB        b                         g   bb 
+ Bbb Bb  bbbb    b       bb b BbB     b     
+ bB  b b bbbbbBB b b    B bB bb b bbb   bB  
+  bb  B bbb bbbBb Bb     bbb  B  b   bBb b  

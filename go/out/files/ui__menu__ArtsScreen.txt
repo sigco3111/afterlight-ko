@@ -1,0 +1,7 @@
+cs-body arts-body
+cs-left panel
+cd-panel panel arts-detail
+<div class="dim">Arts are learned from Crest ranks; mastered Crests teach two Mastery Arts more, at their first and third Ascension stars (★).</div>
+ (master the Crest first)
+color:${c.color}
+art-line big

@@ -1,0 +1,12 @@
+bestiary-screen compendium
+bs-left panel
+bs-detail panel
+<span class="cp-tag mark">MARK</span>
+<span class="cp-tag boss">BOSS</span>
+ : '<span class="dim">seen</span>'}</span>
+<span class="dim">???</span>
+<ul class="cp-tactics">{0}</ul>
+<li>{0}</li>
+ <span class="cp-tag mark">MARK</span>
+ <span class="cp-tag boss">BOSS</span>
+.bs-art

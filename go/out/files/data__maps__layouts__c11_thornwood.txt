@@ -1,0 +1,77 @@
+kqkkkqkkqkkkkqkk,,,,,,,kqkkkqkqqkqqqkqqk
+kqqkqqkkkkkkkq,,,,,,,,,,,kqkkkkkqqqqqkkk
+kkkkkkqkkkqkk,,,,,,,,,,,,,,kqkqqkkqkkkqq
+kkkqkqqkqkkkq,,,,,,,,,,,,,,,qkkkqkkkkkqq
+kkkqqqqqqkkk,,,,,,,,,,,,,,,,kqqkqqqkkkkk
+kkkkkkkkqkqq,,,,,,,,,,,,,,,,kqqkkqkqqkkk
+kqkkkqkqkkkk,,,,,,,,,,,,,,,,kqqqkqqqkqqq
+kkqqkqkqkkkkkk,,,,,,,,,,,,,qkqqkqkkqqkkq
+kqkkkkkkkqkkkqq,,,,,,,,,,kqkqkkkkkkqqqkq
+kkkkkkkqkkkkkkkkk,,::,,,qkkqqkqkqkkkkkkk
+kqkkqk::kkkqkkkkkqk::qkkkkkkkkq::qqkqkkq
+kkkkkk:::kkqqkqqkkk::kkkqqqkkk:::kkqkqkk
+kqqqkkk::kkkqkqkkqq::kqkkkkkk:::kkkqkqkk
+kkqkqqk:::kkkkkkkqq::kkkkqkk:::kqqkkkkkq
+kkkkkqkq::::qkkkqkk::kkkkkk:::kqkkqkkkkq
+kkqkkkqkq::::qqkqkk::kkqqk:::qkkkkkqkkqq
+qqqkqqqqkkq:::qkkkq::qkkk:::kqkkkkkqkkkk
+kkkkqkqqkkkk::::kqk::kkq:::kkqkkkkkkqkqk
+kkkkkkkkkkkqk::::qq::qq:::kkqkkkkqkkkkqq
+kkqkkkkkqkkkkqk::qqqqqq::kkkkkqqkkkkkkkk
+kkqkkkqkqqkkkkkkqqq::qqkkkkqkkkqkkkqkkkk
+kqkkkqqqqqqkkkkkkkq::qkkqkkkkqkkkkkkkkkq
+kkkqqqqqqqqqkqqkkkk::qkkkqq:::kkkkkqqqkk
+qkkqqqqqqq::qkqkkkk::kqkkk::::kkkkkqkkkk
+kkqkqqqqqq::::kkkkk::kkq::::kqkkkkkkkqkk
+kkqkqqqqqqq::::kkkk::kq::::kkkkqkkkkkkkk
+kkkkkqqqqqqkk:::::k::::::kqkkkkkkkqkkkkk
+kkkkkqkkqkkkkk::::::::::kkkkkkkqqkkkkkkk
+kkkkkkkkkqkkkkqkk:::::qkkkkkkkkkkkkkkkkk
+kkkkkqkqkkqkkkkkqk:::kkkkkkkkkkkkkqqkkkk
+kkkkkkkkkkkkkkqkkkk::kkkkkkkqkkqkkkkkkqk
+qkkkkkkkkkkkqkkkkkk::kkkkkkkqkkkqkkkkkkk
+kkkqkqkkkkkkkkkkkkk::kkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkqkkk::kkkkkkkkkkkkkqkkkkk
+kkkkkqkkkkkkkkkkkkk::kkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkqkkkkk::kkqkkkkkkkqqkkkkkkk
+DDDDTTDTTDTTTDTTTTDDDTTDTTDDDTDDDDTDTTTT
+DTTDTTTTDDDTTTTDTDDDTDDTDDTDDDDDTTDTDDTT
+TTTDDDTTTDTTDTTT       TTTTTDDDTDDTTDTDD
+TTDDDDDTTTTDTT           DTDDDDDDTTDTTDT
+TTTDTDDDDTTDT              DTTTDTDTTTTTT
+DDTDDTTTTTDTD               DTTTDDDTDTDT
+TTTTDDDTDTDTf K           K TDDDDTDTDTTD
+TTDDDDTTDDTT                TTDDDTDDTDDD
+TTDDTTTDTDDD                TDTT DDTTDTD
+TDDT  Z DTTDTT             DTT    m DDTT
+TDT Z    TTTTT   $         DT     g  TTD
+DD     f TTDDD             TD        DDT
+TDD       TTDD             DT      G DTT
+TTT      TDTDDTTTTD  TTDDDDDTT       DDT
+TTTDB B  DDDDDDDTDT  TTTTTTDD       DDTT
+DDTTTTTG  DTTTTTTTD  TTTTTDD   TTDTTTDDT
+DTTTDTDD  m DTDTDTT  TTDDTD   TDTDTTDDTD
+TTTDTTTTT    TTTTTD  DTTTD   TDTTDDTTDTT
+TTDDTTDTTTT   TDTTT  TDTT  GDDTDDTDTTTTT
+DDTTTTTDTTTD   mTTT  TDD   DTTTTTDDTDTTT
+TTDTDTTTTTTTTG            DTDDTDDDTDTDTT
+TDTDTDTTTDDTTTD    G     TTDTTDTDTDTDTDT
+TTTDTTTDTTTTDTT     T    TTTTTDDDTTTDTDT
+TDTTTDTTDTDTDTD        G TDTTTDTDTTTTTTT
+TTDTTTTTTTTTTTT          DDTTDTTTDTTTTTD
+DTTTTTTT TTTDDTT       TDTTT  m   TTTTTT
+TDTTD      TTTTTDT G TTTTTTG  BG   TTTTT
+TDTD        TDTTTTT mTTTTTTm G   G TTDDT
+DDT    S    TDTTDDT  TDTDD   G     DTTTT
+TTDD          DTDTT GTTDm    G   G TTDDT
+TTTT     f    mTDTT  TT    T   G  TDTTTD
+TDTDD    G TTm    T  G   DTTTTTTTDTTTTTT
+TDDTTTTTTTTTTT          TTTTTTTTTDTTTTTT
+DTDDTDTTTTTTTTTTT  G  TTTTTTTTDDTDDTTTTT
+TTTTTDDTTDTTTTTT        DTTTTTTTTTTTTTTT
+TTTTTTTDTTTTTT            TTTTTTTDTTTTTT
+TTTTTDTDTDTTTT      m     TTTTTTDTTTTTTT
+TTTDTDTTTDTTDT            TTTTTTTTTTTTDT
+TTDDTTDTTTTTTTD          TDDTTTTTTTTTTTT
+TDTTTTTTDTTDTDTT        TTTTTTTTTTTTTTTT
+TTTTTTTDTTTTTTTTTT    TTTTTDTTTTTTDDTTTT

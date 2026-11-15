@@ -1,0 +1,69 @@
+,,,,,,,,,,,,,,,,,VVV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,VVVVV,,,,VooooVVVVVVVVVmmmmmmmmVVVVVVVVVVVVVVVVVVVVV,
+,VVVVVV,,VooooooVVVVVVmmmppppppmmmVVVVVVVVVVVVVVVVVVV,
+,VVVVVVVVVooooooVVVVVmmmppppppppmmmVVVVVVVVVVVVVVVVVV,
+,VVVVVVVVVVooooVVVVVmmmmppppppppmmmVVVVVVVVVVVVVVVVVV,
+,VVVVVVVVVpppVVVVVVVmmmmmppppppmmmmmVVVVVVVVVVVVVVVV,,
+,VVVVVVVVVpppVVVVVVVVmmmmmmmmmmmmmmVVVVVVVVVVVVVVVVV,,
+,,VVVVVVVppppVVVVVVVVVmmmmmmmmmmmmVVVVVVVVVVVVVVVVV,,,
+,,VVVVVVVVppVVVVVVVVVVVVmmmmmmmmVVVVVVCCCCCCCCCCCCCCC,
+,,,VVVVoVppVVVVVVVVVVVVVVmmmmVVVVVVVVVCCcccccCCCCCcCC,
+,,,VVoooopoVVVVVVVVVVVVVVmmmmVVVVVVVVVCcccccccCCCcccC,
+,,,ooooooooooVVVVVVVVVVmmmmmmmmVVVVVVVCcccccccCCCcccC,
+,,,ooooooooooVVVVVVVVVVmmmmmmmmmmmmVVVCCcccccccccccCC,
+,,,ooooooooooVVVVVVVVVVmmmmmmmmmmmmVVVCCCCCCccccCcCCC,
+,,,,oooooooooVVVVVVVVVVmmmmmmmmVmVVVVVCCCCCCCccCCCCCC,
+,,,VVoooooooVVVVVVVVVVVVVmmmVVVVVVVVVVCCCCCCccccCCCCC,
+,,,VVVVpppVVVVVVVVVVVVVVVmmmmVVVVVVVVVCCccCccccCCCCCC,
+,,VVVVppppVVVVVVVVVVVVVVVVmmmVVVVVVVVVCcccccccccCCCCC,
+,,,VVVVpppVVVVVVVVVVVVVVVVmmmVVVVVVVVVCccccccccccccCC,
+,,VVVVVpppVVVVVVVVVVVVVVVVmmmVVVVVVVVVCCcccccccCccccC,
+,,,VVVVpppVVVVVVVVVVVVVVVmmmVVVVVVVVVVCCCCcccccCCcccC,
+,,,VVVVVpmmVVVVVVVVVVVVVVVmmVVVVVVVVVVCCCCccccCCCCCCC,
+,,,VVVVVVmmmVVVVVVVVVVVVVVmmVVVVVVVVVVCCCCcccCCCCCCCC,
+,,,,VVVVVmmmmVVVVVVVVVVVVVmmVVVVVVVVVVVVVmcccVVVVVV,,,
+,,,,VVVVVmmmmVVVVVVVVVVoommmmooVVVVVVVVVmmmVVVVVVV,,,,
+,,,VVVVVVVmmmmVVVVVVVVooommmooooVVVVVVVVmmmVVVVVVVV,,,
+,,VVVVVVVVmmmmVVVVVVVoooommmoooooVVVVVVmmmmmVVVVVVVV,,
+,,VVVVVVVmmmmmmVVVVpppooooooooooooVVVVmmmmmVVVVVVVVV,,
+,VVVVVVVmmmmmmmmpppppppoooooooooppppppmmmVVVVVVVVVVV,,
+,,VVVVVVmmVVVmmmppppppooooooooooppppmmmmVVVVVVVVVVV,,,
+,,VVVVVmmVVVVmmmmppppVooooooooooVpppmmmVVVVVVVVVVVVV,,
+,,VVVVmmmVVVVVmmVVVVVVVooooooooVVVVVmmmVVVVVVVVVVVV,,,
+,,,VVmmmVVVVVVVVVVVVVVVVVVmmmVVVVVVVVVVVVVVVVVVVVVV,,,
+,,,mmmmVVVVVVVVVVVVVVVVVVmmmmVVVVVVVVVVVVVVVVVVVVVV,,,
+,,,mmmmmVVVVVVVVVmmmmVppVmmmmVVVVVVVVVVVVVVVVVVVVVV,,,
+,,,mmmmVVVVVVVVVmmmmppppppmmmVVVVVVVVVVVVVVVVVVVVVVV,,
+,,,,VVVVVVVVVVVVmmmmppppVpmmmVVVVVVVVVVVVVVVVVVVVVVVV,
+,,,,VVVVVVVVVVVVVmmmmVVVVmmmmVVVVVVVVVVVVVVVVVVVVVVVV,
+,,,VVVVVVVVVVVVVVVVVVVVVVmmmmmVVVVVVVVVVVVVVVVVVVVVVV,
+,,,,VVVVVVVVVVVVVVVVVVVVVmmmmmVVVVVVVVVVVVVVVVVVVVVVV,
+b b DT bb   DDbbb D Db Db T b  b D  T Db T D    TTb D 
+ bT D  DbT  b  DD   D     b  DTbb D  D     T Db  DTbDb
+TDTb   D    bD  b   bDT DD  T     bD  DDD b T b D TbbT
+   n    TD                    m                       
+           |           xn n     nn                   T
+           t   t   n   mnn n                         D
+b  n   n  nn          D   nG nn   Db                  
+T         nGn     n           nn  n        n         D
+TT         nn       n   x        x                    
+          nn                        n                b
+         nn n       n                      G      m   
+ Db               n   n                       m       
+ DT   !   |       n                           G       
+T D     nn  n                           G       x    b
+          nm                                        TT
+    n                  |   S   !        nD          bT
+b n         n                         DD            TT
+D    n    n   b  G n               nn               DD
+         G n   D  nn             n                nDT 
+ D               n   n !       |  nG   n            T 
+      G              n                             TT 
+ b  b                 n                  n      n   bT
+b  nm    n                                         D b
+DbTm                n                     n           
+bDTT                  G               n        n     D
+T DT          n                n  nn  n              b
+D  bn                     $                           
+ bT         n                         n              b
+  bD                                                 T

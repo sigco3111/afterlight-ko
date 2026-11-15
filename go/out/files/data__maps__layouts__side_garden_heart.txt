@@ -1,0 +1,37 @@
+         aaaaaaaaaaa a        
+      aaaa.a......aaaa        
+     aaaa...........a.a a     
+    aaa................aa     
+   aa....................aa   
+   a........wwooww.......aa   
+  aa......wwwoooowww.......a  
+  aa......wwwoooowww......aa  
+  ........wwwwoowwww.......aa 
+ a........wwww===www........a 
+ a..........ww===w..........a 
+ aa...........oo=..........a  
+ aa...........oo............aa
+  a...........oo...........aa 
+  aa..........oo..........aa  
+  aa..........oo..........a   
+   aaa........oo.........aa   
+    aa........oo.......aaa    
+      aaa.....oo.....aaaa     
+       aaa...oooo.a.aaaa      
+          aaaooooaa  a        
+         ff f    g g          
+         g f   f gf  g        
+     f f f g ff f     fg      
+     ffff  f   K    f  g      
+    f t      K   K      tf    
+     f   g          ffg f     
+    f   ff             ff     
+   g f              ff f f    
+       g  f       g    ff     
+     g    f g     f ff   ff   
+      g  g f      ffff f      
+   gf f  f fg            f    
+    f ft  g       g g ft      
+      f gf        g f ffgf    
+        fg  f     f    f      
+        g tg        t         

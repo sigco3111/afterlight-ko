@@ -1,0 +1,19 @@
+  ccccccc       ccccccccc               
+  ccccccc=======ccccccccc               
+  ccccccc           #####               
+  ccccccc           ccccc               
+  ccccccc           ccccc       ####### 
+  ccccccc           ccccc       ccccccc 
+   ccc              ccccc       ccccccc 
+   ccc            ccccccccc     ccccccc 
+ cccccccccc       ccccccccc=====ccccccc 
+ cccccccccc=======ccccccccc     ccccccc 
+ cccccccccc       ccccccccc     ccccccc 
+                    ==          ccccccc 
+                    ==            ccc   
+             ccccccccc            ccc   
+             ccccccccc        ccccccccc 
+             ccccccccc========ccccccccc 
+    d                d             dx o 
+ ox  R   o                        o     
+                     d              go  

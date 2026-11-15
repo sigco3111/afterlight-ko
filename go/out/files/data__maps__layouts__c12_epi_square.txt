@@ -1,0 +1,18 @@
+;;;;;;;;;;;;;;MMMMMMMM;;;;;;;;;;;;;;
+;;;;;;;;;;;;MMMMMMMMMMMM;;;;;;;;;;;;
+;;RRRR;;;;;MMMMMMMMMMMMMM;;;;;RRRR;;
+;;R;;;;;;;MMMMMMMMMMMMMMMM;;;;;;;R;;
+;;R;;;;;;MMMMMMMMMMMMMMMMMM;;;;;;R;;
+;;;;;;;;;MMMMMMMMMMMMMMMMMM;;;;;;;;;
+;;..........MMMMMMMMMMMMMMM;;;;;;;;;
+;;..........MMMMMMMMMMMMMMdddddddd;;
+;;..........MMMMMMMMMMMMM;dddddddd;;
+;;..........MMMMMMMMMMMM;;dddddddd;;
+;;..........;;MMMMMMMM;;;;dddddddd;;
+;;..........;;;;;;;;;;;;;;dddddddd;;
+ bK        b  T T   TbK b   b T bb K
+K  b  KK T    T K         TK   b  T 
+  T   T T  b  T        TKTTb  T b   
+       b f                FFFFFFFF  
+       fb f                a     OF 
+      K                          kF 

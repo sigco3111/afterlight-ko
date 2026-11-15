@@ -1,0 +1,20 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCcccccccCCCCccCCCCCC
+CCCCCCCCCCCCccccccccccccCccccCCCCC
+CCCCCCCCCCCccccccccccccccccccCCCCC
+CCCCCCCCCCccccccgggggggccccccCCCCC
+CCCCCCCCCcccccgggggggggggcccccCCCC
+CCCCCCCCCcccgggggggggggggcccccCCCC
+CCCCCCCccccgggggggggggggggcccccCCC
+CCCCCCCccccgggggggggggggggggcccCCC
+CcccccccccggggggggggggggggggcccCCC
+CCCCCCCcccggggggggggggggggggcccCCC
+CCCCCCCccccggggggggggggggggccccCCC
+CCCCCCCCccccggggggggggggggcccccCCC
+CCCCCCCCccccccgggggggggggccccCCCCC
+CCCCCCCCCcccccggcggcggcccccccCCCCC
+CCCCCCCCCCccccccccccccccccCCCCCCCC
+CCCCCCCCCCCCCcccccccccccccCCCCCCCC
+CCCCCCCCCCCCCCcccccccccCCCCCCCCCCC
+            Rx   x           o    
+    $    xd  x                    

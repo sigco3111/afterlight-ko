@@ -1,0 +1,19 @@
+CCC           _______cccccccc  CCC
+CCC  ccccccccc       cccccccc  CCC
+CCC  ccccccccc=======cccccccc  CCC
+CCC  __              cccccccc  CCC
+CCC  __                        CCC
+CCC  __                   ccc  CCC
+CCC  __        ccccc      ccc  CCC
+CCC  cccccccccccccccccccccccc  CCC
+CCC            ccccc           CCC
+CCCCCCCCCCCCccCccccccccCCcccCCCCCC
+CCCCCCcCCCCccccccccccccccccccCCCCC
+CCCCCccccccccccccccccccccccccCCCCC
+CCCCCcccwwwwccccccccccccccccCCCCCC
+CCCCCcccwwwwccccccccccwwwwcCCCCCCC
+CCCCCcccccccccccccccccwwwwcCCCCCCC
+CCCCCcccccccccccccccccccccccCCCCCC
+CCCCCCcCCCccccccccccccccccccCCCCCC
+CCCCCCCCCCCCCCCCcccCCCCCCCcCCCCCCC
+CCCCCCCCCCCCCCCCcccCCCCCCCCCCCCCCC

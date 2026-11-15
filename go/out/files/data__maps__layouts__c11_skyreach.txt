@@ -1,0 +1,21 @@
+                  MM MM                 
+             MMMMMMMMMMMMM              
+           MMMMMMXXXXXXMMMMM            
+           MMMMXXXXXXXXXXMMMMM          
+         MMMMMXXXXXXXXXXXXMMMM          
+          MMMMXXXXXXXXXXXXMMMM          
+          MMMMMXXXXXXXXXXMMMMM          
+           MMMMMMXXXXXXMMMMMM           
+             MMMMMMMMMMMMMM             
+     MM M          ===        ======    
+    MMMMMMM        ===      ==========  
+   MMMMMMMM        ===     ============ 
+  MMMMMMMMMM       ===     ============ 
+  MMMMMMMMMM       ===      =========== 
+    MMMMM==        ===      =========   
+     MMMM===       ===     ========     
+    MMMMMMM===            ===MMMMMMM    
+   MMMMMMMM==              ==MMMMMMMM   
+   MMMMMMMMMM              MMMMMMMMMM   
+    MMMMMMMM                MMMMMMMM    
+    MMMMM==M                 ==MMMMM    

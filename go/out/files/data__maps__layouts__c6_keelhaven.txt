@@ -1,0 +1,24 @@
+                aa  aaa aa aaaaa      qqqqqq      
+               aaaaaaaaaaaaaaaaaaaaa qqqqqqqq     
+         aaaaaaaqaqqqqqqqqqqqqqqq::aaaqqqqqq      
+     a aaa::aqqqqqqqqqqqqqqqqqqqq::qaaa::aa       
+     aaaaa::qqqqqqqqqqqqqqqqqqqqq::qqaa::aaaa     
+    aaaaaa::qqqqqqqqqqqqqqqqqqqqq::qqqaqaaaaaa    
+    aaaaaa::qqqqqqqqq;;;;;;;;;;;q::qqqqqqaaaaaa   
+   aaaaaaa::qqqqqqqqq;;;;;;;;;;;q::qqqqqqaaaaaa   
+  aaaaaaaq::qqqqqqqqq;;;;;;;;;;;q::qqqqqqaaaaaaa  
+   aaaaqqq::qqqqqqqqq;;;;;;;;;;;q::qqqqqqqaaaaa   
+   aaaaaaq::qqqqqqqqq;;;;;;;;;;;q::qqqqqqqaaaaaa  
+  aaaaaaqqqqqqqqqqq::qqqqqqqqqqqqqqqqqqqqqaaaaaaa 
+  aaaaaaqqqqqqqqq;;;;;;;;;;qqqqqqqqqqqqqaaaaaaaaa 
+  aaaaaaaaqqqqqqq;;;;;;;;;;qqqqqqqqqqqqaaaaaaaa   
+   aaaaaaaaaqqqqq;;;;;;;;;;qqqqqqqqqqqqaaaaaaa    
+    aaaaaaaaqqqqq;;;;;;;;;;qqqqqqqqqqqaaaaaaaaaa  
+    aaaaaaaaaqqqqqq::qqqqqqqqqqqqqqaqaaaaaaaaaa   
+     aaaaaaaaaaaaqq::qqqqqqqqqqqaaaqaaaaaaaaa     
+      aaaaaaaaaaaaa::qqqqqqaaaaaaaaaaaaaaaaaa     
+       aaaaaaaaaaaa::aaqaaaaaaaaaaaaaaaaaaaa      
+             a aaaaaaaaaaaaaaaaa  aa              
+                   a aaaaaaaa aa                  
+   qLs                        L             xL    
+   qL           R     $             !        L    

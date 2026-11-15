@@ -1,0 +1,4 @@
+Missing look for
+@world
+Examine
+Read

@@ -1,0 +1,7 @@
+panel fishing
+.fs-msg
+.fs-zone
+.fs-mark
+.fs-pips
+ (New!)
+A bite! <b>Reel it in!</b>

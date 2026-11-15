@@ -1,0 +1,2 @@
+mm-left panel
+mm-foot panel

@@ -1,0 +1,8 @@
+chest:c6_drift:c6_dr2
+chest:c6_drift:c6_dr4
+chest:c6_shattered_sea:c6_ss1
+chest:c6_shattered_sea:c6_ss3
+chest:ch7_drowned_undercroft:lab2
+chest:ch7_drowned_choir:clapper
+chest:c8_vigil_wreck:b
+chest:c8_vigil_wreck:h

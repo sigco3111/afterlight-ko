@@ -1,0 +1,3 @@
+Esc
+.ts-menu
+.ts-diff

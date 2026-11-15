@@ -1,0 +1,4 @@
+chest:abyss_3:c0
+Cinderwing
+Glasshide
+Gravemouth

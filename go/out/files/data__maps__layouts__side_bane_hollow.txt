@@ -1,0 +1,9 @@
+         a aaa aaaaa          
+        aaaaqqaqaqaaa aa      
+     aaaaqqqqqqqqqqaqaa a     
+       aa aaaaqaaaaaaaa       
+         a aaaaaaa aa         
+          xx     dx x         
+           R d xx  x          
+            d    ddx          
+           dd    d  Rx        

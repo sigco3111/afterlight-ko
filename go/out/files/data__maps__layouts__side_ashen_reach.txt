@@ -1,0 +1,31 @@
+                     a aaa                          
+                   aaaaaaaaa              aaaaaaaa  
+                 aaaaaaaaaaaaa            aaaaaaaaa 
+               aaaaaaaaaaaaaaa           aaaqqqaaaa 
+               aaaaaaqqqqqaaaaa         aaaqqqqqaaaa
+              aaaaaqqqqqqqqaaaaa         aaaqqqqqaaa
+              aaaaqqqqqqqqqaaaa          a===qqqaaa 
+              aaaaqqqqqqqqqaaaaa         ====aaaaaa 
+              aa::aqqqqqqqqq==aa         ===aaaaaa  
+              ::::aaqqqqqqaa===           ==  aa    
+            :::::aaaaaqaaaaaa=== aaa aaaa ==        
+     aaa aa::::  aaaaaaaaaaaaa==a aaaaaaaa==        
+   aaaaaaaa::      aaaaaaaa   ===aaaaaaaaaaaa       
+ aaaaaaaaaaa::::::  a a aa    a===aaqaqaaaaaaa      
+ aaaaaaqqaaa::::::            aa==aaaqqqqqaaaa      
+aaaaaqqqqqaaaaaa            a aaaqqqqqqqqaqaaaa     
+ aaaqqqqqqqqaaaa             aaaaaqqqqqqqqaaaaa     
+:::aqqqqqqqqaaaa            aaaaaqqqqqqqqqqqaa::::::
+:::aqqqqqqqqqaaa            aaaaaqqqqqqqqqqaaa::::::
+:::aaqqqqqqaaaaa            aaaaaqqqqqqqqqqqaa::::::
+ aaaaqqqqqqaaaaa             aaaaaqqqqqqqaaaaaa     
+ aaaaaaqqqaaa======          aaaaaqqqqqqqaaaaaa     
+ aaaaaaaaaaaa======aaaaaaa    aaaa::aqaaaaaaa       
+   aaaaaaaaaa ===aaaaaaaaaaa  a a:::aaaaaaaaa       
+      aaaa a   ==aaaaaaaaaaa    a::aaaaaaaa         
+              a===aaaqqqaaaaaa  :::aaaaa            
+              aa==qqqqqqqqaa::::::                  
+             aaaaaqqqqqqqqaa::::::                  
+                      D xD  D                       
+      D                                    oR       
+                      ox   x %                      

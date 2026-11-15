@@ -1,0 +1,20 @@
+PPPPPPPPPPPPPPP    PPPPPPPPPPPPPPP
+PP;;;;;;;;;;;;P    P;;;;;;;;;;;;PP
+PP;;;;;;;;;;;MMMMMMMMM;;;;;;;;;;PP
+PP;;;;;;;MMMMMMMMMMMMMMM;;;;;;;;PP
+PP;;;;;;MMMMMMMMMMMMMMMMMM;;;;;;PP
+PP;;;;MMMMMMMMMMMMMMMMMMMMMM;;;;PP
+PP;;;MMMMMMMMMMMMMMMMMMMMMMMM;;;PP
+PP;;MMMMMMMMMM;;;;;;MMMMMMMMMM;;PP
+PP;;MMMMMMMMM;;;;;;;;MMMMMMMMM;;PP
+PP;;MMMMMMMMMMMMMMMMMMMMMMMMM;;;PP
+PP;;;MMMMMMMMMMMMMMMMMMMMMMM;;;;PP
+PP;;;;;;MMMMMMMMMMMMMMMMMMM;;;;;PP
+PP;;;;;;;MMMMMMMMMMMMMMMM;;;;;;;PP
+PP;;;;;;;;;;MMMMMMMMMM;;;;;;;;;;PP
+PP;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;PP
+PP;;;;;;;;;;;;;MMMM;;;;;;;;;;;;;PP
+PPPPPPPPPPPPPPPMMMMPPPPPPPPPPPPPPP
+    CC           Q      o         
+    Lf             f     o  o     
+         f              OOf   L   

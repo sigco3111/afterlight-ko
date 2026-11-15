@@ -1,0 +1,44 @@
+,,,,,,,,,::,,,,,,,,,,,,,,,VVVVVV,,,,,,,,,,,,,,
+,,V,,,,,,==,,,,,VV,VVV,,,VVVVVV,,,,,,,,,,,,V,,
+,,VVVVVVV==VVVVVVVVVVVVVVV======,,,,,,,,,,,V,,
+,,VVVVVVV==VVVV=========VV======,,,,,:,,,,,V,,
+,,V========VVVV=========VV======,,==:,,,,,pp,,
+,,V=======VVVVV=========VV======V===:,,,pppp,,
+,,V=======VVVVV=========VV======V==VVVVVpppp,,
+,,V=======VVVVV=========VVV==VVVV==VVVVVpppp,,
+,,V=======VVVVV=========VVV=============pppp,,
+VVV=======VVVVV+++==++++++++V===========pppp,,
+VVVVV==VVVVVVVV+++++++++++==============VppV,,
+VVVVV==VVVVVVVV+++++++++++==============VVVV,,
+================++++++++++++V===========VVVV,,
+VVVppppppVV==VV++++++==+++++V===========VVVV,,
+VVVppppppVV==VV++++++==+++++VVVVVVVVVVVVVVVVVV
+VVVppppppVV==VVVVVVVV==VVVVVVVVVVVVVVVVVVVVVVV
+VVVVpp=======VVVVVVVV==VVVVVVVVVVVVVVVVVVVVVVV
+VVVVpp=======VVVVVVVV==VVVVV=======VV======VVV
+VVVVVV=======VVVVVVVV======================VVV
+VVVVVp=======ppVVVVVV==VVVVV=======VV======VVV
+VVVVVpppppppppppVVVVV==VVVVV=======pp======VVV
+VVVVppppppppppppVVVVV==VVVVVVVppppppppppppVVVV
+VVVVVppppppppppVVVVVV==VVVVVVppppppppppppppVVV
+VVVVVVVpppppVVVVVVVVV==VVVVVVppppppppppppppVVV
+VVVVVVVVVVVVVVVVVVVVV==VVVVVVpppppppppppppVVVV
+VVVVVVVVVVVVVVVVVVVVV==VVVVVVVVVpppppppppVVVVV
+VVVVVVVVVVVVVVVVVVVVV===VVVVVVVVVVVVVVVVVVVVVV
+TT     D    TT  bT TT D TTT   Db DT bT T DD DD
+ T TTb D             bD        D DT bT D     T
+TT  T  D       b T  T b bb  D   T bbTb b   bDT
+ T b   T    T  Tb   b  Tb TT   GT TD       TTD
+DT  b T      b  T      T T b  b T T  b T b TT 
+DDT         Tb  DT T  T         G      DbGT TT
+DD                                 D  G      T
+ T             n                 n   b      DD
+TT                              Dn    n     D 
+TD                                      D n  D
+                             |         |nn    
+                     $                    n DD
+                              k       u     DD
+              sL                             D
+    n                        |         |    DT
+                 Ck     CO                    
+                 nn      n                    
