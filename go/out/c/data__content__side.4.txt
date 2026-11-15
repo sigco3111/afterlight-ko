@@ -1,20 +1,20 @@
-61	Bounty. Its lure is the last light many travelers saw.
-62	Gravelgut
-63	Bounty. A cairn that got hungry.
-64	Bounty. The toll is fingers.
-65	Mange
-66	Bounty. Still on patrol.
-67	Cinderwing
-68	Bounty. Flew through the broken sun.
-69	Glasshide
-70	Bounty. Saints in its back.
-71	Gravemouth
-72	Bounty. It speaks with the voices of the buried.
-73	Bounty. Still conducting.
-74	Bounty. Do not let her hold your hand.
-75	The Orrery Warden
-76	Built by the first Keepers to guard what they chose never to do.
-77	The Iron Duke
-78	The fort commander's ceremonial armor. Someone has to hold the stair.
-79	The Hollow Bell
-80	A bell that would not stop ringing, because stopping meant goodbye.
+61	Gravelgut
+62	Bounty. A cairn that got hungry.
+63	Bounty. The toll is fingers.
+64	Mange
+65	Bounty. Still on patrol.
+66	Cinderwing
+67	Bounty. Flew through the broken sun.
+68	Glasshide
+69	Bounty. Saints in its back.
+70	Gravemouth
+71	Bounty. It speaks with the voices of the buried.
+72	Bounty. Still conducting.
+73	Bounty. Do not let her hold your hand.
+74	The Orrery Warden
+75	Built by the first Keepers to guard what they chose never to do.
+76	The Iron Duke
+77	The fort commander's ceremonial armor. Someone has to hold the stair.
+78	The Hollow Bell
+79	A bell that would not stop ringing, because stopping meant goodbye.
+80	The Last Bloom

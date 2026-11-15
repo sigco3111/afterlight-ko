@@ -17,4 +17,3 @@
 17	Pharmacist
 18	Adrenaline
 19	Gloamborn
-20	Updraft

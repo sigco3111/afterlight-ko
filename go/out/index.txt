@@ -8,7 +8,7 @@ battle/BattleUI.js	15	143	0
 core/Input.js	26	44	0
 data/artInfo.js	17	13	0
 data/content/ch11.js	11	500	0
-data/content/ch12.js	113	425	0
+data/content/ch12.js	33	425	0
 data/content/ch2.js	41	223	0
 data/content/ch3.js	47	275	0
 data/content/ch4a.js	84	362	0
@@ -20,7 +20,7 @@ data/content/ch8.js	49	248	0
 data/content/ch9.js	77	319	0
 data/content/colosseum.js	44	194	0
 data/content/postgame_battle.js	19	391	0
-data/content/side.js	179	508	0
+data/content/side.js	178	508	0
 data/fish.js	32	9	0
 data/hunt.js	52	65	0
 data/maps/bc_bellring.js	13	21	1
@@ -203,7 +203,7 @@ data/maps/postgame_gate.js	10	36	3
 data/monsterInfo.js	21	60	0
 data/objectives/side2.js	1	88	0
 data/objectives/side4.js	3	116	0
-data/passives.js	20	26	0
+data/passives.js	19	26	0
 data/skills.js	46	97	0
 data/tutorials.js	11	0	0
 debug/TestHarness.js	4	14	0

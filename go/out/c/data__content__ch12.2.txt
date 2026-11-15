@@ -1,20 +1,13 @@
-21	Tock
-22	Noon Strikes Twelve
-23	Noon Forever
-24	The clock-sun strikes noon, and means it.
-25	Forever
-26	Hourglass
-27	Swallow the Light
-28	Updraft
-29	Toll of the First Bell
-30	Endless Dance
-31	Dusk Hound
-32	The Drowned Hound had a litter. Forty years in the Gloam, and they grew up.
-33	Hollow Reveler
-34	A festival-goer who wandered too far from the party. Its smile is painted on. So is its face.
-35	Shardglass Golem
-36	Rubble from the broken sun, still warm, still trying to be something.
-37	Lament Wisp
-38	It is singing a song someone forgot the words to.
-39	Festival Lanternbearer
-40	Its paper lantern has been lit for forty years and has never burned down.
+21	A hand falls still. Vesper's face is open!
+22	Vesper, Unwound
+23	Vesper's hands spin backwards. Every clock in Evernoon begins to unwind — its weaknesses turn with it!
+24	Vesper, the Last Second
+25	"STAY," says every clock at once. Vesper rewinds itself — but dawn-colored cracks are showing through!
+26	The last toll sounds. Someone's time is running out.
+27	A hand reassembles itself out of the ticking.
+28	Both hands creep toward XII...
+29	Vesper begins to hum a lullaby. Stay. Stay. Stay...
+30	The clock-sun swells. It is about to strike noon forever...
+31	Mott's Last Pack
+32	Bettany's Stall
+33	Where Cassian's frozen afternoon stood. Only a quiet morning now, and two names on a stone.
