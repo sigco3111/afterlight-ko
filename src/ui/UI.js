@@ -333,7 +333,7 @@ class Backlog {
     this.ui = ui;
     this.resolve = resolve;
     this.el = el('div', 'backlog');
-    const rows = ui.history.map((h) => fmt('<div class="bl-row {0}">{1}<span class="bl-text">{2}</span></div>', h.style || '', h.speaker ? `<span class="bl-who">${h.speaker}</span>` : '', richText(h.text))).join('');
+    const rows = ui.history.map((h) => fmt('<div class="bl-row {0}">{1}<span class="bl-text">{2}</span></div>', h.style || '', h.speaker ? fmt('<span class="bl-who">{0}</span>', h.speaker) : '', richText(h.text))).join('');
     this.el.innerHTML = fmt('<div class="panel bl-panel"><div class="bl-title">Backlog</div><div class="bl-list">{0}</div><div class="bl-hint">{1}{2} Scroll · {3} Close</div></div>', rows, keyCap('up'), keyCap('down'), keyCap('cancel'));
     this.list = this.el.querySelector('.bl-list');
   }
