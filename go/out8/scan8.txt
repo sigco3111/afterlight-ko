@@ -1,2 +1,0 @@
-src/ui/menu/ArtsScreen.js:88:  (master the Crest first)
-src/world/FieldScene.js:194: Missing look for
