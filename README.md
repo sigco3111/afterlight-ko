@@ -28,6 +28,15 @@ three.js로 만든 2D-HD JRPG **Afterlight**를 한국어로 옮긴 비공식 �
   WebAudio 사운드트랙 30곡.
 - **세이브**: 6슬롯 + 자동 저장. 세이브/로드 화면에서 슬롯에 커서를 두고 F로 파일로 내보내기·불러오기.
 
+## 실행 화면
+
+[배포본](https://sigco3111.github.io/afterlight-ko/)에서 캡처한 실제 실행 화면입니다.
+
+| 타이틀 | 인게임 대사 |
+|:-:|:-:|
+| ![타이틀 화면](screenshots/afterlight-title.png) | ![인게임 대사 장면](screenshots/afterlight-dialogue.png) |
+| 한글 제목 「애프터라이트」와 새 게임·불러오기 메뉴가 표시된 타이틀 화면입니다. | 챕터 1 오프닝. 이솔데의 대사가 한국어로 표시됩니다. |
+
 ## 한국어판 특징
 
 ### 번역 범위
