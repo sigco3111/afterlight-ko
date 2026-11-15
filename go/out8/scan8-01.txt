@@ -1,24 +1,2 @@
-src/data/content/ch7.js:204: The City of Bells, silent and drifting. Ilse's Ember Ward keeps its people breathing.
-src/main.js:138: A test line of dialogue, with *gold* and _italic_ markup.
-src/script/Lines.js:198: Lines: a node with nothing to say or do
-src/story/ch3_fx.js:32: The bells of Aurenne ring the hour.
-src/story/ch3_fx.js:70: Not from here. I'd land on a chimney.
-src/story/ch4b.js:22: So. Swamp.
-src/story/ch4b.js:77: That's... good?
-src/story/ch4b.js:94: Kestrel? Bram _Kestrel_?
-src/story/ch4b.js:568: Told _who_ no?
-src/story/colosseum.js:16: Round one! From the kennels under the east stand — the SAND HOUNDS! They have not been fed. That is a joke. Mostly.
-src/story/colosseum.js:17: Round two! Brothers in arms, brothers in debt — KELL THE NET and KELL THE FIST!
-src/story/colosseum.js:18: The final round! He has eaten three gates and a herald — GRIZZLEMAW!
-src/story/colosseum.js:25: Round one! Imported at great expense from the Sunscar — the GLASS SCORPIONS! Do not step on them. They hate that.
-src/story/colosseum.js:26: Round two! Fastest blade in the Heartland, slowest to pay his tab — SERENO THE SWIFT!
-src/story/colosseum.js:27: The final round! Forged in the bell foundries from a broken bell and a bad idea — THE IRON BULL!
-src/story/colosseum.js:34: Round one! Dredged from the Fens at tremendous personal risk — the MIRE LURKERS!
-src/story/colosseum.js:35: Round two! One prays, one curses, neither has ever lost — the MASKS OF DAWN AND DUSK!
-src/story/colosseum.js:36: The final round! Mother of a thousand, mercy for none — THE SCYTHE MATRON!
-src/story/colosseum.js:43: Round one! They ride the bells' own echoes — the STORM KITES!
-src/story/colosseum.js:44: Round two! Three shields, one wall, no gaps — the PHALANX OF AURENNE!
-src/story/colosseum.js:45: The championship! Forty-one bouts. Forty-one wins. Your champion, and mine — VALKA THE UNDEFEATED!
-src/story/hunt.js:97: s moves and they go in too. Fell a few of a kind and you'll learn how it thinks.
 src/ui/menu/ArtsScreen.js:88:  (master the Crest first)
 src/world/FieldScene.js:194: Missing look for

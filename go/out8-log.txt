@@ -1,4 +1,4 @@
-scan8: 24 candidates (files 164), dict 11841, chunks 1
+scan8: 2 candidates (files 164), dict 11865, chunks 1
 scenarios: 42 (saves 23, maps 38)
 scenario title: 0 canvas strings, errs 0
 scenario save:ch00_01_lf_wren_house: 0 canvas strings, errs 0
@@ -42,11 +42,11 @@ scenario shop:port_gale: 0 canvas strings, errs 0
 scenario shop:thistledown: 0 canvas strings, errs 0
 scenario battle:lf_jelly2: 0 canvas strings, errs 0
 scenario battle:lf_jelly_crab: 0 canvas strings, errs 0
-dict=11841
-scan8_candidates=24
+dict=11865
+scan8_candidates=2
 scenarios=42
 canvas_en_lines=0
-dom_en_lines=28
+dom_en_lines=27
 c8_chunks=0
 d8_chunks=1
-ts=2026-11-15T14:45:12.134Z
+ts=2026-11-15T20:52:31.000Z
