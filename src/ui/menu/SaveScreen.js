@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // Save / Load slot picker. F on a slot exports it to a file or imports one, so saves
 // can be backed up or moved between browsers, computers and the hosted game. The three
 // rotating autosaves (A1 newest – A3 oldest; world/Autosave.js) head the list in both
@@ -86,12 +87,12 @@ export class SaveScreen extends Screen {
     }
     this.busy = true;
     if (it.s) {
-      const ok = await this.game.ui.choice(['Overwrite', 'Cancel'], { prompt: `Overwrite slot ${it.slot + 1}?`, cancel: 1 });
+      const ok = await this.game.ui.choice(['Overwrite', 'Cancel'], { prompt: fmt('Overwrite slot {0}?', it.slot + 1), cancel: 1 });
       if (ok !== 0) { this.busy = false; return; }
     }
     const done = SaveStore.write(it.slot, this.state);
     this.sfx(done ? 'save' : 'buzzer');
-    this.game.ui.toast(done ? `Saved to slot ${it.slot + 1}.` : 'Save failed.');
+    this.game.ui.toast(done ? fmt('Saved to slot {0}.', it.slot + 1) : 'Save failed.');
     this.busy = false;
     this.build();
   }
@@ -103,7 +104,7 @@ export class SaveScreen extends Screen {
     if (it.s) options.push({ id: 'export', label: 'Export to file' });
     if (!it.auto) options.push({ id: 'import', label: 'Import from file' });
     if (!options.length) { this.sfx('buzzer'); return; }
-    const pick = await this.game.ui.choice([...options.map((o) => o.label), 'Cancel'], { prompt: `Save file for ${name}`, cancel: options.length });
+    const pick = await this.game.ui.choice([...options.map((o) => o.label), 'Cancel'], { prompt: fmt('Save file for {0}', name), cancel: options.length });
     const action = options[pick]?.id;
     if (action === 'export') this.exportSlot(it);
     if (action === 'import') await this.importSlot(it);
@@ -115,13 +116,13 @@ export class SaveScreen extends Screen {
     const label = it.auto ? 'autosave' : `slot${it.slot + 1}`;
     downloadText(`afterlight-${label}-${where}-${new Date(s.savedAt).toISOString().slice(0, 10)}.json`, SaveStore.exportFile(it.slot));
     this.sfx('confirm');
-    this.game.ui.toast(`Exported ${it.auto ? `autosave ${it.label}` : `slot ${it.slot + 1}`} to your downloads.`);
+    this.game.ui.toast(fmt('Exported {0} to your downloads.', it.auto ? `autosave ${it.label}` : `slot ${it.slot + 1}`));
   }
 
   async importSlot(it) {
     if (!canPickFile()) { this.sfx('buzzer'); this.game.ui.toast('Use the keyboard or mouse to choose a file.'); return; }
     if (it.s) {
-      const ok = await this.game.ui.choice(['Replace it', 'Cancel'], { prompt: `Slot ${it.slot + 1} already has a save. Replace it?`, cancel: 1 });
+      const ok = await this.game.ui.choice(['Replace it', 'Cancel'], { prompt: fmt('Slot {0} already has a save. Replace it?', it.slot + 1), cancel: 1 });
       if (ok !== 0) return;
     }
     const text = await pickTextFile();
@@ -134,7 +135,7 @@ export class SaveScreen extends Screen {
       return;
     }
     this.sfx('save');
-    this.game.ui.toast(`Imported into slot ${it.slot + 1}.`);
+    this.game.ui.toast(fmt('Imported into slot {0}.', it.slot + 1));
     this.build();
   }
 }

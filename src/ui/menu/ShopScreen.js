@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // Shops: buy / sell with quantity picker and "who can equip" preview.
 
 import { el, richText } from '../UI.js';
@@ -66,7 +67,7 @@ export class ShopScreen extends Screen {
       }
       html += '</div>';
     }
-    if (this.qty !== null) html += `<div class="sh-qty">Quantity: <b>◂ ${this.qty} ▸</b> &nbsp; Total: <b>${this.qty * it.price} G</b><div class="dim">Z to confirm, X to cancel</div></div>`;
+    if (this.qty !== null) html += fmt('<div class="sh-qty">Quantity: <b>◂ {0} ▸</b> &nbsp; Total: <b>{1} G</b><div class="dim">Z to confirm, X to cancel</div></div>', this.qty, this.qty * it.price);
     this.detail.innerHTML = html;
     this.detail.querySelectorAll('.sh-mem').forEach((m) => {
       const ch = this.state.characters[m.dataset.look];
@@ -109,7 +110,7 @@ export class ShopScreen extends Screen {
       this.state.gold -= cost;
       if (it.d.kind === 'crest') {
         this.state.unlockCrest(it.d.crest);
-        this.game.ui.toast(`The ${this.state.crestName(it.d.crest)} Crest is now available to everyone.`);
+        this.game.ui.toast(fmt('The {0} Crest is now available to everyone.', this.state.crestName(it.d.crest)));
       } else this.state.inventory.add(it.id, n);
     } else {
       this.state.gold += it.price * n;

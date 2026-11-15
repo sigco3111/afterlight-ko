@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // Shared menu building blocks: a keyboard ListView, a base Screen class and
 // small renderers (party cards, bars, stat diffs).
 
@@ -97,12 +98,7 @@ export function partyCard(ch, { active = true, selected = false } = {}) {
   const crest = CRESTS[ch.crest];
   const prog = ch.rankProgress(ch.crest);
   const need = expToNext(ch.level);
-  const body = el('div', 'pc-body', `
-    <div class="pc-top"><span class="pc-name">${ch.name}</span><span class="pc-lv">Lv <b>${ch.level}</b></span></div>
-    <div class="pc-crest" style="color:${crest.color}">${crest.icon} ${crest.name} <span class="pc-rank">R${prog.rank}${prog.rank >= MAX_RANK && ch.starsOf(ch.crest) ? ` ★${ch.starsOf(ch.crest)}` : ''}</span>${ch.secondary ? ` <span class="pc-sec">/ ${CRESTS[ch.secondary].name}</span>` : ''}</div>
-    <div class="pc-vit"><span>HP</span>${bar(ch.hp, s.hp, 'hp')}<span class="num">${ch.hp}/${s.hp}</span></div>
-    <div class="pc-vit"><span>MP</span>${bar(ch.mp, s.mp, 'mp')}<span class="num">${ch.mp}/${s.mp}</span></div>
-    <div class="pc-vit small"><span>EXP</span>${bar(ch.exp, need, 'exp')}<span class="num">${need - ch.exp} to next</span></div>`);
+  const body = el('div', 'pc-body', fmt('\n    <div class="pc-top"><span class="pc-name">{0}</span><span class="pc-lv">Lv <b>{1}</b></span></div>\n    <div class="pc-crest" style="color:{2}">{3} {4} <span class="pc-rank">R{5}{6}</span>{7}</div>\n    <div class="pc-vit"><span>HP</span>{8}<span class="num">{9}/{10}</span></div>\n    <div class="pc-vit"><span>MP</span>{11}<span class="num">{12}/{13}</span></div>\n    <div class="pc-vit small"><span>EXP</span>{14}<span class="num">{15} to next</span></div>', ch.name, ch.level, crest.color, crest.icon, crest.name, prog.rank, prog.rank >= MAX_RANK && ch.starsOf(ch.crest) ? ` ★${ch.starsOf(ch.crest)}` : '', ch.secondary ? ` <span class="pc-sec">/ ${CRESTS[ch.secondary].name}</span>` : '', bar(ch.hp, s.hp, 'hp'), ch.hp, s.hp, bar(ch.mp, s.mp, 'mp'), ch.mp, s.mp, bar(ch.exp, need, 'exp'), need - ch.exp));
   card.appendChild(body);
   if (!active) card.appendChild(el('div', 'pc-reserve', 'Reserve'));
   return card;
@@ -127,8 +123,8 @@ export function header(title, hint = '') {
 
 /** Key hints for menu headers, built from the player's current key bindings. */
 export const KEYS = {
-  get nav() { return `${keyCap('up')}${keyCap('down')} Select`; },
-  get ok() { return `${keyCap('confirm')} Confirm`; },
-  get back() { return `${keyCap('cancel')} Back`; },
-  get swap() { return `${keyCap('pageLeft')}${keyCap('pageRight')} Character`; },
+  get nav() { return fmt('{0}{1} Select', keyCap('up'), keyCap('down')); },
+  get ok() { return fmt('{0} Confirm', keyCap('confirm')); },
+  get back() { return fmt('{0} Back', keyCap('cancel')); },
+  get swap() { return fmt('{0}{1} Character', keyCap('pageLeft'), keyCap('pageRight')); },
 };
