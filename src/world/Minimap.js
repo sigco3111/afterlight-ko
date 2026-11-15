@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Field minimap: the current map's floor plan, drawn once per scene into an
 // offscreen canvas (floor, water, raised ground, exits, Hearthstones, doors),
 // then blitted each frame with the party's position and facing, and the quest
@@ -32,7 +33,7 @@ export class Minimap {
     this.legend = el('div', 'mm-legend', [
       '<i class="you">▲</i> You', '<i class="obj">◆</i> Objective', '<i class="side">◆</i> Side quest',
       '<i class="exit">■</i> Exit', '<i class="save">■</i> Hearthstone', '<i class="door">■</i> Door',
-    ].map((s) => `<span>${s}</span>`).join('') + `<span class="mm-close">${keyCap('map')} Close</span>`);
+    ].map((s) => fmt('<span>{0}</span>', s)).join('') + fmt('<span class="mm-close">{0} Close</span>', keyCap('map')));
     this.expand = el('button', 'mm-expand', '⤢');
     this.expand.title = 'Enlarge the map';
     this.expand.addEventListener('click', (e) => { e.stopPropagation(); this.toggleLarge(); });

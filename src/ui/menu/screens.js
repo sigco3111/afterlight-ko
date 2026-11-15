@@ -1,3 +1,4 @@
+import { fmt } from '../../i18n/index.js';
 // Items, Status, Formation, Settings, Journal and Guide screens (the Compendium is CompendiumScreen.js).
 
 import { el, richText } from '../UI.js';
@@ -131,15 +132,14 @@ export class StatusScreen extends MemberScreen {
   build() {
     const ch = this.ch;
     const s = ch.stats();
-    this.el.innerHTML = header(`Status — ${ch.name}`, `${KEYS.back} ${KEYS.swap}`);
+    this.el.innerHTML = header(fmt('Status — {0}', ch.name), `${KEYS.back} ${KEYS.swap}`);
     const body = el('div', 'st-body');
     const left = el('div', 'st-left panel');
     left.appendChild(portraitEl(ch.look, 6));
-    left.appendChild(el('div', 'st-id', `<div class="st-name">${ch.name}</div><div class="st-title">${ch.def.title}</div><div class="dim">Age ${ch.def.age} · Lv ${ch.level}</div><div class="st-bio">${ch.def.bio}</div>
-      <div class="st-personal"><b>${ch.def.personal.name}</b> — ${ch.def.personal.desc}</div>`));
-    const mid = el('div', 'st-mid panel', `<div class="sd-title">Attributes</div>${statDiffHtml(s, null)}`);
+    left.appendChild(el('div', 'st-id', fmt('<div class="st-name">{0}</div><div class="st-title">{1}</div><div class="dim">Age {2} · Lv {3}</div><div class="st-bio">{4}</div>\n      <div class="st-personal"><b>{5}</b> — {6}</div>', ch.name, ch.def.title, ch.def.age, ch.level, ch.def.bio, ch.def.personal.name, ch.def.personal.desc)));
+    const mid = el('div', 'st-mid panel', fmt('<div class="sd-title">Attributes</div>{0}', statDiffHtml(s, null)));
     const right = el('div', 'st-right panel');
-    let html = `<div class="sd-title">Crest Mastery</div><div class="dim" style="margin-bottom:6px">Mastered: ${ch.masteredCount()} — all stats +${ch.masteredCount()}%</div>`;
+    let html = fmt('<div class="sd-title">Crest Mastery</div><div class="dim" style="margin-bottom:6px">Mastered: {0} — all stats +{1}%</div>', ch.masteredCount(), ch.masteredCount());
     for (const id of Object.keys(ch.crests)) {
       const c = CRESTS[id];
       const r = ch.rankOf(id);
@@ -151,7 +151,7 @@ export class StatusScreen extends MemberScreen {
       html += '<div class="sd-title" style="margin-top:14px">Legacies</div>';
       html += legacies.map((id) => `<div class="st-legacy"><span style="color:${CRESTS[id].color}">${CRESTS[id].icon}</span> ${CRESTS[id].legacy.desc}</div>`).join('');
     }
-    html += `<div class="sd-title" style="margin-top:14px">Supports (${ch.supportUsed()}/${ch.supportBudget()})</div>`;
+    html += fmt('<div class="sd-title" style="margin-top:14px">Supports ({0}/{1})</div>', ch.supportUsed(), ch.supportBudget());
     html += ch.passives.length ? ch.passives.map((p) => `<div class="dim">◆ ${p}</div>`).join('') : '<div class="dim">None</div>';
     right.innerHTML = html;
     body.append(left, mid, right);
@@ -184,7 +184,7 @@ export class FormationScreen extends Screen {
   }
 
   build() {
-    this.el.innerHTML = header('Formation', `${KEYS.nav} ${keyCap('confirm')} Pick / Swap ${KEYS.back} — the first ${ACTIVE_PARTY_SIZE} fight; the rest earn half EXP.`);
+    this.el.innerHTML = header('Formation', fmt('{0} {1} Pick / Swap {2} — the first {3} fight; the rest earn half EXP.', KEYS.nav, keyCap('confirm'), KEYS.back, ACTIVE_PARTY_SIZE));
     const list = el('div', 'fm-list');
     this.state.allMembers().forEach((ch, i) => {
       const c = partyCard(ch, { active: i < ACTIVE_PARTY_SIZE, selected: i === this.index });
@@ -246,7 +246,7 @@ export class SettingsScreen extends Screen {
       { key: 'battleSpeed', label: 'Battle Speed', value: ['Normal', 'Fast', 'Fastest'][s.battleSpeed || 0], step: 1, min: 0, max: 2 },
       { key: 'autoBattle', label: 'Auto-Battle', value: ['Off', 'Random battles', 'All battles'][s.autoBattle || 0], step: 1, min: 0, max: 2 },
       { key: 'skipBattles', label: 'Skip Random Battles', value: s.skipBattles ? 'On' : 'Off', toggle: true },
-      { key: 'fastMode', label: `Fast Mode (${keysFor('fast')[0] ?? '—'})`, value: s.fastMode ? 'On' : 'Off', toggle: true },
+      { key: 'fastMode', label: fmt('Fast Mode ({0})', keysFor('fast')[0] ?? '—'), value: s.fastMode ? 'On' : 'Off', toggle: true },
       { key: 'fastSpeed', label: 'Fast Mode Speed', value: `${s.fastSpeed || 3}×`, step: 1, min: 2, max: 4 },
       { key: 'reduceEffects', label: 'Flashes & Shake', value: s.reduceEffects ? 'Reduced' : 'Full', toggle: true },
       { key: 'hideMinimap', label: 'Minimap', value: s.hideMinimap ? 'Off' : 'On', toggle: true },
@@ -258,7 +258,7 @@ export class SettingsScreen extends Screen {
   }
 
   build() {
-    this.el.innerHTML = header('Settings', `${keyCap('up')}${keyCap('down')} Select ${keyCap('left')}${keyCap('right')} Change ${keyCap('cancel')} Back`);
+    this.el.innerHTML = header('Settings', fmt('{0}{1} Select {2}{3} Change {4} Back', keyCap('up'), keyCap('down'), keyCap('left'), keyCap('right'), keyCap('cancel')));
     const box = el('div', 'set-list panel');
     this.options().forEach((o, i) => box.appendChild(el('div', `set-row ${i === this.index ? 'sel' : ''}`, `<span>${o.label}</span><span class="set-v">${o.open ? `${o.value} ▸` : `◂ ${o.value} ▸`}</span>`)));
     this.el.appendChild(box);
@@ -309,11 +309,7 @@ export class JournalScreen extends Screen {
       return name ? ` <span class="jn-where">◆ ${name}</span>` : '';
     };
     const qhtml = quests.length ? quests.map((q) => `<div class="jn-q ${q.status}"><span>${q.status === 'done' ? '✔' : '◆'}</span> <b>${q.title}</b>${q.status === 'done' ? '' : `${where(q)} — ${richText(q.desc || '')}`}</div>`).join('') : '<div class="dim">No side quests yet.</div>';
-    box.innerHTML = `<div class="jn-obj"><div class="sd-title">Current Objective</div><div class="jn-objtext">${richText(st.vars.objective || 'Explore.')}</div></div>
-      <div class="sd-title">Side Quests</div><div class="jn-quests">${qhtml}</div>
-      <div class="sd-title">The Story So Far</div>
-      <div class="jn-log">${log.slice().reverse().map((e) => `<p>${richText(e)}</p>`).join('') || '<p class="dim">Nothing yet.</p>'}</div>
-      <div class="jn-meta">Playtime ${formatTime(st.playtime)} · Battles ${st.stats.battles}</div>`;
+    box.innerHTML = fmt('<div class="jn-obj"><div class="sd-title">Current Objective</div><div class="jn-objtext">{0}</div></div>\n      <div class="sd-title">Side Quests</div><div class="jn-quests">{1}</div>\n      <div class="sd-title">The Story So Far</div>\n      <div class="jn-log">{2}</div>\n      <div class="jn-meta">Playtime {3} · Battles {4}</div>', richText(st.vars.objective || 'Explore.'), qhtml, log.slice().reverse().map((e) => `<p>${richText(e)}</p>`).join('') || '<p class="dim">Nothing yet.</p>', formatTime(st.playtime), st.stats.battles);
     this.el.appendChild(box);
   }
 

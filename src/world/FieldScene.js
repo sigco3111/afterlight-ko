@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Exploration scene: builds a map diorama, moves the party leader, runs NPCs,
 // triggers, exits, chests, random encounters and event scripts.
 
@@ -421,7 +422,7 @@ export class FieldScene {
     if (!hasMount(this.state)) return;
     if (!rideable(this.map)) {
       this.game.audio?.sfx('buzzer');
-      this.game.ui.toast(`${MOUNT.name} won't come here — only on open roads and in the wilds.`, 2600);
+      this.game.ui.toast(fmt('{0} won\'t come here — only on open roads and in the wilds.', MOUNT.name), 2600);
       return;
     }
     this.setRiding(true);
@@ -589,7 +590,7 @@ export class FieldScene {
 
   /** Passing a route or dungeon Hearthstone makes it a fast-travel point (world/Waystones.js). */
   attune(x, y) {
-    if (attuneNear(this, x, y)) this.game.ui.toast(`<span class="hl">Hearthstone attuned</span> — travel back to ${this.map.name} from the world map (Menu → Travel).`, 3600);
+    if (attuneNear(this, x, y)) this.game.ui.toast(fmt('<span class="hl">Hearthstone attuned</span> — travel back to {0} from the world map (Menu → Travel).', this.map.name), 3600);
   }
 
   // =====================================================================
