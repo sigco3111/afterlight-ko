@@ -45,3 +45,5 @@ for (const f of walk('src', []).sort()) {
 }
 writeFileSync('go/out/summary-all.json', JSON.stringify({ dict: Object.keys(dict).length, total, per, group }, null, 1));
 console.log('total ' + total);
+
+// 집계 재실행
