@@ -1,4 +1,4 @@
-import { fmt } from '../i18n/index.js';
+import { fmt, t } from '../i18n/index.js';
 // Title screen: Lanternfall at dusk behind the logo; New Game / Continue / Load.
 // New Game asks for a difficulty, then plays the opening movie; left idle, the title
 // plays the movie too and comes back.
@@ -49,7 +49,7 @@ export class TitleScene {
     game.renderer.setFocus(0.55, 0.18);
 
     this.root = el('div', 'title-screen');
-    this.root.innerHTML = fmt('\n      <div class="ts-logo"><div class="ts-pre">A coming-of-age at the end of the world</div><div class="ts-name">AFTERLIGHT</div><div class="ts-rule"></div></div>\n      <div class="ts-menu"></div>\n      <div class="ts-diff" style="display:none"></div>\n      <div class="ts-foot">{0} and the other arrows to move · {1} to confirm · {2} to cancel · {3} for the menu · remap in Settings → Controls</div>', keysFor('up').join(' / '), keysFor('confirm').slice(0, 2).join(' / '), [...keysFor('cancel').slice(0, 1), 'Esc'].join(' / '), keysFor('menu')[0] ?? 'Esc');
+    this.root.innerHTML = fmt('\n      <div class="ts-logo"><div class="ts-pre">{4}</div><div class="ts-name">AFTERLIGHT</div><div class="ts-rule"></div></div>\n      <div class="ts-menu"></div>\n      <div class="ts-diff" style="display:none"></div>\n      <div class="ts-foot">{0} and the other arrows to move · {1} to confirm · {2} to cancel · {3} for the menu · remap in Settings → Controls</div>', keysFor('up').join(' / '), keysFor('confirm').slice(0, 2).join(' / '), [...keysFor('cancel').slice(0, 1), 'Esc'].join(' / '), keysFor('menu')[0] ?? 'Esc', t('A coming-of-age at the end of the world'));
     game.ui.layers.hud.appendChild(this.root);
     this.menuEl = this.root.querySelector('.ts-menu');
     this.diffEl = this.root.querySelector('.ts-diff');
