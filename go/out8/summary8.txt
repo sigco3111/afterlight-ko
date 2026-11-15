@@ -1,0 +1,8 @@
+dict=11841
+scan8_candidates=24
+scenarios=42
+canvas_en_lines=0
+dom_en_lines=28
+c8_chunks=0
+d8_chunks=1
+ts=2026-11-15T14:45:12.134Z
