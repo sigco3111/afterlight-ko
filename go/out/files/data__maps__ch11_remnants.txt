@@ -1,46 +1,26 @@
-1	Bell
-2	Glass wall
-3	A wall of glass has grown across the bridge, clear as still water and hard as a vow. Something in the garden below must open it.
-4	A nomad's water barrel. On the lid, a tally scratched with a knife: one notch for every day. The notches stop on the day the sun broke. Beside them, in a child's hand: STILL HERE. STILL HERE. STILL HERE. Then nothing.
-5	A caravan tent, its poles fused into the glass. Inside, a bedroll, a cold teapot and a child's sandal. Whoever lived here packed in a hurry and left the important things.
-6	A Choir pilgrim, still in her traveling sandals, facing the Lantern. She came all this way to hear the Dawnsong one last time.
-7	Brazier
-8	Ice
-9	A wall of blue ice seals the stair. Deep inside it, the shadow of a monk's hand, pressed flat, as if he had tried to hold the avalanche back.
-10	More ice. Above it, very faintly, a voice reciting the same short prayer over and over.
-11	A cairn of stones. On the top stone, in charcoal that the snow has somehow never touched: HALVARD. A monk's prayer-cord is wrapped around it. Someone came back for him.
-12	Through a cracked shutter: a monk's cell. A cot, a candle stub, and a table covered in drawings of a tuning fork, each with a single note crossed out.
-13	The refectory. Forty bowls set out on a long table, forty spoons beside them. The soup froze a year ago. No one sat down.
-14	The monastery bell lies split in the snow. It rang the hours on this mountain for six hundred years. Then it rang the avalanche.
-15	The village well. A bucket on a rope. The water at the bottom is perfectly clear: the only clean water in Mirefen. Osk kept it that way to the end.
-16	Through the window of the stilt-house: rows of cots, each one neatly made, each one empty. A chalkboard: NAME / HOUR / MEDICINE, filled in until the chalk ran out, then filled in with charcoal, then with a burnt stick.
-17	A child's wooden boat on the windowsill, carved with more love than skill. Painted on the side: FOR MOTHER OSK, WHO MADE ME BETTER.
-18	Osk's hut. Herbs hang from every beam. On the door, a list of names in her neat hand, each one crossed out, gently, with a single line.
-19	Shrine
-20	Thorns
-21	Carved inside the hollow oak, at a child's height: LYSA WAS HERE. Below it, in a careful, very old hand: SO WAS ELOWEN.
-22	A cherry tree, still in blossom. The only living thing in the court. Petals fall and do not land; they hang in the air, as if waiting to be told what to do.
-23	Lightning rod
-24	A ward of raw lightning hangs across the bridge, humming like a hive. Your hair stands on end from three paces away.
-25	A storm-rider of Stormcrown, carved in stone, arm flung up to the sky. The inscription: FLY INTO IT. Someone has added, underneath: BUT MAYBE NOT TODAY.
-26	Another rider, younger, laughing. The sculptor caught a crack in the stone running right across the smile, and kept it.
-27	The Stormcrown Pride, Vasha's flagship, broken across the rocks. Her figurehead is the Ardent herself, carved mid-shout, finger pointing at a horizon that isn't there.
-28	Vasha's flight log, under a stone. Last entry: "Gave the Dawnstone to the Hierophant today. He held my hands and thanked me. I have never been so certain of anything." A week later, written so hard the pen tore the page: "WHAT HAVE I DONE."
-29	Halt. ...No, I can't remember why I'm meant to say that either. Go on in. Everyone else is dead or upstairs.
-30	Shelf
-31	Ledger
-32	The Bellwright Fountain. Dry for a year. Someone has dropped a single coin in it anyway, very recently, for luck.
-33	A statue of the first Hierophant, arms raised to the sun. Someone has chalked a mustache on him. It is a very good mustache.
-34	A Dawnguard cot, the blanket squared to regulation. Pinned above it: a child's drawing of a knight with a very large sword, signed TO DAD.
-35	The cradle of the Great Lamp of Aurenne. The glass is cracked from rim to base. It was the brightest light in the world for nine hundred years.
-36	Well
-37	Garden
-38	The village Hearthstone. Cold, for the first time in anyone's memory. Someone has left a bunch of dried sea-lavender on it.
-39	Tobias's shack. A note pinned under a stone in his square capitals: BACK SOON. DON'T TOUCH THE NETS. The nets are still here. Nobody touched them.
-40	Nana Brisa's house. Through the window, jars of herbs labeled in tiny exact handwriting. One just says: DO NOT. LET WREN. TOUCH.
-41	Two plates. Two cups. A year of ash on both.
-42	Your bed. Unmade, obviously. Some things survive the end of the world.
-43	Your father's books. Sea charts, star charts, and the pirate-queen novel with the last chapter torn out. Tucked in its place, a folded paper in your mother's hand: "She ends up happy. Don't tell Wren, she'll want to read it herself."
-44	Your own books, salt-stiff. The Sunward Atlas is not among them. You took it with you. You remember choosing it over a sweater.
-45	The great lamp of Lanternfall, dark. Inside the brass, where the Dawnstone used to sleep, nothing at all. It is only a lamp now.
-46	Lantern log
+1	Carved inside the hollow oak, at a child's height: LYSA WAS HERE. Below it, in a careful, very old hand: SO WAS ELOWEN.
+2	A cherry tree, still in blossom. The only living thing in the court. Petals fall and do not land; they hang in the air, as if waiting to be told what to do.
+3	Lightning rod
+4	A ward of raw lightning hangs across the bridge, humming like a hive. Your hair stands on end from three paces away.
+5	A storm-rider of Stormcrown, carved in stone, arm flung up to the sky. The inscription: FLY INTO IT. Someone has added, underneath: BUT MAYBE NOT TODAY.
+6	Another rider, younger, laughing. The sculptor caught a crack in the stone running right across the smile, and kept it.
+7	The Stormcrown Pride, Vasha's flagship, broken across the rocks. Her figurehead is the Ardent herself, carved mid-shout, finger pointing at a horizon that isn't there.
+8	Vasha's flight log, under a stone. Last entry: "Gave the Dawnstone to the Hierophant today. He held my hands and thanked me. I have never been so certain of anything." A week later, written so hard the pen tore the page: "WHAT HAVE I DONE."
+9	Halt. ...No, I can't remember why I'm meant to say that either. Go on in. Everyone else is dead or upstairs.
+10	Shelf
+11	Ledger
+12	The Bellwright Fountain. Dry for a year. Someone has dropped a single coin in it anyway, very recently, for luck.
+13	A statue of the first Hierophant, arms raised to the sun. Someone has chalked a mustache on him. It is a very good mustache.
+14	A Dawnguard cot, the blanket squared to regulation. Pinned above it: a child's drawing of a knight with a very large sword, signed TO DAD.
+15	The cradle of the Great Lamp of Aurenne. The glass is cracked from rim to base. It was the brightest light in the world for nine hundred years.
+16	Well
+17	Garden
+18	The village Hearthstone. Cold, for the first time in anyone's memory. Someone has left a bunch of dried sea-lavender on it.
+19	Tobias's shack. A note pinned under a stone in his square capitals: BACK SOON. DON'T TOUCH THE NETS. The nets are still here. Nobody touched them.
+20	Nana Brisa's house. Through the window, jars of herbs labeled in tiny exact handwriting. One just says: DO NOT. LET WREN. TOUCH.
+21	Two plates. Two cups. A year of ash on both.
+22	Your bed. Unmade, obviously. Some things survive the end of the world.
+23	Your father's books. Sea charts, star charts, and the pirate-queen novel with the last chapter torn out. Tucked in its place, a folded paper in your mother's hand: "She ends up happy. Don't tell Wren, she'll want to read it herself."
+24	Your own books, salt-stiff. The Sunward Atlas is not among them. You took it with you. You remember choosing it over a sweater.
+25	The great lamp of Lanternfall, dark. Inside the brass, where the Dawnstone used to sleep, nothing at all. It is only a lamp now.
+26	Lantern log

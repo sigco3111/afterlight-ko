@@ -1,5 +1,4 @@
 1	Listen
-2	Thorns
-3	Gravestone
-4	A standing stone, carved with spirals worn almost smooth. Moss has grown into the shape of a hand.
-5	Read
+2	Gravestone
+3	A standing stone, carved with spirals worn almost smooth. Moss has grown into the shape of a hand.
+4	Read

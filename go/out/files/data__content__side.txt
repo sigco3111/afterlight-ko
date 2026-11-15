@@ -143,39 +143,38 @@
 143	Ashwatch Keep
 144	Office
 145	The Signal Tower
-146	Brazier
-147	The Lodge, After
-148	A shard of Brackenmoor
-149	Stores
-150	Everything's twice the price and half the quality. That's the apocalypse for you.
-151	The Ashen Reach
-152	The Ruin
-153	The Abbey of Hours
-154	The Inverted Nave
-155	Chime
-156	The Belfry
-157	Agathe
-158	The Garden That Remembers
-159	A cemetery shard
-160	Sexton Mabry
-161	Lost Crest
-162	Flower
-163	Tell Mara the bread is in the oven. Tell her it's her turn to burn it.
-164	It doesn't hurt. I promise. Go on, go — I'll catch up.
-165	Did the sun come up? Somebody tell me the sun came up.
-166	The Hedge of Last Words
-167	I should have called you back. Every day, I should have called you back.
-168	The boy's name is Tam. Look after him. He's scared of the dark.
-169	The Heart of the Garden
-170	Under the Black Star
-171	Above the Seven Wounds
-172	Hunters' Lodge
-173	Bounties for monsters too much for a village.
-174	At low tide, a causeway rises to a dome older than the Lanterns.
-175	Greyspine Foothills
-176	An abandoned Dawnguard fort. Sir Aldous's old command.
-177	Where the Lodge's founder died.
-178	The Hunters' Lodge survived. Some of it.
-179	A bell-tower hanging upside-down under a shard. It rings on its own.
-180	White flowers that speak the last words of the dead.
-181	It does not shine. It takes.
+146	The Lodge, After
+147	A shard of Brackenmoor
+148	Stores
+149	Everything's twice the price and half the quality. That's the apocalypse for you.
+150	The Ashen Reach
+151	The Ruin
+152	The Abbey of Hours
+153	The Inverted Nave
+154	Chime
+155	The Belfry
+156	Agathe
+157	The Garden That Remembers
+158	A cemetery shard
+159	Sexton Mabry
+160	Lost Crest
+161	Flower
+162	Tell Mara the bread is in the oven. Tell her it's her turn to burn it.
+163	It doesn't hurt. I promise. Go on, go — I'll catch up.
+164	Did the sun come up? Somebody tell me the sun came up.
+165	The Hedge of Last Words
+166	I should have called you back. Every day, I should have called you back.
+167	The boy's name is Tam. Look after him. He's scared of the dark.
+168	The Heart of the Garden
+169	Under the Black Star
+170	Above the Seven Wounds
+171	Hunters' Lodge
+172	Bounties for monsters too much for a village.
+173	At low tide, a causeway rises to a dome older than the Lanterns.
+174	Greyspine Foothills
+175	An abandoned Dawnguard fort. Sir Aldous's old command.
+176	Where the Lodge's founder died.
+177	The Hunters' Lodge survived. Some of it.
+178	A bell-tower hanging upside-down under a shard. It rings on its own.
+179	White flowers that speak the last words of the dead.
+180	It does not shine. It takes.
