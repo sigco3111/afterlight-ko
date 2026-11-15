@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Turn-order and rules engine for one battle. No rendering here: the scene
 // asks for the next actor, feeds it an action, and presents the events.
 //
@@ -170,7 +171,7 @@ export class BattleSystem {
     if (actor.alive && actor.hasStatus('doom')) {
       const st = actor.statuses.get('doom');
       st.count = (st.count ?? 3) - 1;
-      ev.push({ t: 'text', text: `${actor.name}'s doom: ${Math.max(0, st.count)}` });
+      ev.push({ t: 'text', text: fmt('{0}\'s doom: {1}', actor.name, Math.max(0, st.count)) });
       if (st.count <= 0) { actor.damage(actor.hp); ev.push({ t: 'damage', target: actor, amount: 0, ko: true, silent: true }); this.resolver.onKo(actor, ev); }
     }
     if (actor.isParty && actor.alive && actor.flags.has('vigil')) {
@@ -215,7 +216,7 @@ export class BattleSystem {
     while (this.pendingCounters.length) {
       const { from, to } = this.pendingCounters.shift();
       if (!from.alive || !to.alive) continue;
-      ev.push({ t: 'text', text: `${from.name} counters!` });
+      ev.push({ t: 'text', text: fmt('{0} counters!', from.name) });
       ev.push(...this.resolver.execute(from, { kind: 'skill', id: 'attack', targets: [to], counter: true }));
     }
     for (const text of this.textQueue.splice(0)) ev.unshift({ t: 'text', text });

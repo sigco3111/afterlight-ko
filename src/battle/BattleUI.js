@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // DOM battle HUD: party status, turn timeline, Afterglow gauge, enemy tags,
 // command menus (with Surge), target selection, popups and victory screen.
 
@@ -250,7 +251,7 @@ export class BattleUI {
     return new Promise((resolve) => {
       const box = el('div', 'panel victory');
       let html = '<div class="v-title">Victory</div>';
-      html += `<div class="v-totals"><span>EXP <b>${summary.exp}</b></span><span>Gold <b>${summary.gold}</b></span><span>CP <b>${summary.cp}</b></span></div>`;
+      html += fmt('<div class="v-totals"><span>EXP <b>{0}</b></span><span>Gold <b>{1}</b></span><span>CP <b>{2}</b></span></div>', summary.exp, summary.gold, summary.cp);
       if (summary.items.length) {
         const counts = {};
         for (const id of summary.items) counts[id] = (counts[id] || 0) + 1;
@@ -269,13 +270,13 @@ export class BattleUI {
         for (const k of r.ranks) {
           const name = CRESTS[k.crest].name;
           if (k.star) {
-            html += `<div class="v-learn">${name} ascends: <b>★${k.star}</b>${k.unlock ? ` — Mastery Art <b>${SKILLS[k.unlock.skill].name}</b>` : ''}</div>`;
+            html += fmt('<div class="v-learn">{0} ascends: <b>★{1}</b>{2}</div>', name, k.star, k.unlock ? ` — Mastery Art <b>${SKILLS[k.unlock.skill].name}</b>` : '');
             continue;
           }
           const u = k.unlock;
           const nm = u.skill ? SKILLS[u.skill].name : PASSIVES[u.passive].name;
-          html += `<div class="v-learn">${name} rank ${k.rank}: learned <b>${nm}</b></div>`;
-          if (k.legacy) html += `<div class="v-learn">${name} mastered — Legacy: <b>${k.legacy.desc}</b></div>`;
+          html += fmt('<div class="v-learn">{0} rank {1}: learned <b>{2}</b></div>', name, k.rank, nm);
+          if (k.legacy) html += fmt('<div class="v-learn">{0} mastered — Legacy: <b>{1}</b></div>', name, k.legacy.desc);
         }
         html += '</div>';
       }
@@ -322,7 +323,7 @@ export class BattleUI {
         }
         card.appendChild(el('div', 'lu-stats', rows));
         const sp = ch.supportBudget();
-        if (r.supportFrom !== undefined && sp > r.supportFrom) card.appendChild(el('div', 'lu-extra', `Support Points ${r.supportFrom} → <b>${sp}</b>`));
+        if (r.supportFrom !== undefined && sp > r.supportFrom) card.appendChild(el('div', 'lu-extra', fmt('Support Points {0} → <b>{1}</b>', r.supportFrom, sp)));
         row.appendChild(card);
       }
       box.appendChild(row);
@@ -420,7 +421,7 @@ class CommandMenu {
     html += '</div>';
     const cur = t.entries[t.index];
     if (cur?.desc) html += `<div class="cmd-desc">${richText(cur.desc)}${cur.detail || ''}</div>`;
-    html += `<div class="cmd-surge ${surgeOk ? '' : 'off'}">${keyCap('pageLeft')}${keyCap('pageRight')} Surge ${'◆'.repeat(this.surge)}${'◇'.repeat(Math.max(0, 3 - this.surge))}</div>`;
+    html += fmt('<div class="cmd-surge {0}">{1}{2} Surge {3}{4}</div>', surgeOk ? '' : 'off', keyCap('pageLeft'), keyCap('pageRight'), '◆'.repeat(this.surge), '◇'.repeat(Math.max(0, 3 - this.surge)));
     this.el.innerHTML = html;
     this.bui.refreshTimeline(this.actor, this.entryAction(cur));
   }

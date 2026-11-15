@@ -1,3 +1,4 @@
+import { fmt } from '../i18n/index.js';
 // Game: owns the renderer, input, audio, UI and persistent state, runs the
 // main loop and switches between scenes (Title, Field, Battle...).
 
@@ -154,7 +155,7 @@ export class Game {
     s.fastMode = !s.fastMode;
     this.applySettings(s);
     this.audio?.sfx('cursor');
-    this.ui?.toast(s.fastMode ? `Fast Mode ×${s.fastSpeed || 3}` : 'Fast Mode off', 1200);
+    this.ui?.toast(s.fastMode ? fmt('Fast Mode ×{0}', s.fastSpeed || 3) : 'Fast Mode off', 1200);
   }
 
   /**
