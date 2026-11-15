@@ -1,20 +1,20 @@
-~~~~~~~~~~~~~~~~~~;;;;;~~~~~~ssss~s~~~~~
-~~~~~~~ssss~~~~~~~;;;;;~~~~ssssssss~~~~~
-~~~sssssssss~~~~~~;;;;;~~~sssswwwssss~~~
-~~ssssssssssss~~~~wwwww~ssswwwwwwwsss~~~
-~~sssssswwssss~~~~wwwww~ssswwwwwwwwsss~~
-~sssssswwwwss~~~~~wwwww~~sswwwwwwwwss~~~
-~~~sssswwwwsss~~~~;;;;;ssssswwwwwwssss~~
-~~sssssswwsssss~ss;;;;;ssssswwwwsssss~~~
-~~~sssssssssssssss;;;;;ssssssssssssss~~~
-~~~~ssssssssssssss;;;;;sssssssssss~~~~~~
-~~~~ssssssssssssss;;;;;ssssssssssss~~~~~
-~~~~~sssssssssssss;;;;;ssssssssssss~~~~~
-~~~s~ssssswwwwssss;;;;;sssssssssssss~~~~
-~~~ssssssswwwwssss;;;;;swwwwwwssssss~~~~
-~~~sssssssssssssss;;;;;swwwwwwsssssss~~~
-~~~~ssssssssssssss;;;;;sssssssssss~ss~~~
-~~~~~~sssssssssssssssssssssssssssss~~~~~
-~~~~~~~~s~sssssssssssssssssss~ss~~~~~~~~
-        n oR                            
-       V                  Oo            
+1	~~~~~~~~~~~~~~~~~~;;;;;~~~~~~ssss~s~~~~~
+2	~~~~~~~ssss~~~~~~~;;;;;~~~~ssssssss~~~~~
+3	~~~sssssssss~~~~~~;;;;;~~~sssswwwssss~~~
+4	~~ssssssssssss~~~~wwwww~ssswwwwwwwsss~~~
+5	~~sssssswwssss~~~~wwwww~ssswwwwwwwwsss~~
+6	~sssssswwwwss~~~~~wwwww~~sswwwwwwwwss~~~
+7	~~~sssswwwwsss~~~~;;;;;ssssswwwwwwssss~~
+8	~~sssssswwsssss~ss;;;;;ssssswwwwsssss~~~
+9	~~~sssssssssssssss;;;;;ssssssssssssss~~~
+10	~~~~ssssssssssssss;;;;;sssssssssss~~~~~~
+11	~~~~ssssssssssssss;;;;;ssssssssssss~~~~~
+12	~~~~~sssssssssssss;;;;;ssssssssssss~~~~~
+13	~~~s~ssssswwwwssss;;;;;sssssssssssss~~~~
+14	~~~ssssssswwwwssss;;;;;swwwwwwssssss~~~~
+15	~~~sssssssssssssss;;;;;swwwwwwsssssss~~~
+16	~~~~ssssssssssssss;;;;;sssssssssss~ss~~~
+17	~~~~~~sssssssssssssssssssssssssssss~~~~~
+18	~~~~~~~~s~sssssssssssssssssss~ss~~~~~~~~
+19	        n oR                            
+20	       V                  Oo            

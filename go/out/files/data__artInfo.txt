@@ -1,18 +1,18 @@
-Physical
-Hybrid
-Healing
-Support
-Special
-Self
-Unaligned
-Pierce
-Blunt
-Fire
-Ice
-Bolt
-Wind
-Light
-Dark
-Item
-Heal
-Power
+1	Physical
+2	Hybrid
+3	Healing
+4	Support
+5	Special
+6	Self
+7	Unaligned
+8	Pierce
+9	Blunt
+10	Fire
+11	Ice
+12	Bolt
+13	Wind
+14	Light
+15	Dark
+16	Item
+17	Heal
+18	Power

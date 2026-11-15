@@ -1,19 +1,9 @@
-  ccccccc       ccccccccc               
-  ccccccc=======ccccccccc               
-  ccccccc           #####               
-  ccccccc           ccccc               
-  ccccccc           ccccc       ####### 
-  ccccccc           ccccc       ccccccc 
-   ccc              ccccc       ccccccc 
-   ccc            ccccccccc     ccccccc 
- cccccccccc       ccccccccc=====ccccccc 
- cccccccccc=======ccccccccc     ccccccc 
- cccccccccc       ccccccccc     ccccccc 
-                    ==          ccccccc 
-                    ==            ccc   
-             ccccccccc            ccc   
-             ccccccccc        ccccccccc 
-             ccccccccc========ccccccccc 
-    d                d             dx o 
- ox  R   o                        o     
-                     d              go  
+1	  ccccccc=======ccccccccc               
+2	  ccccccc           #####               
+3	  ccccccc           ccccc       ####### 
+4	 cccccccccc       ccccccccc=====ccccccc 
+5	 cccccccccc=======ccccccccc     ccccccc 
+6	                    ==          ccccccc 
+7	                    ==            ccc   
+8	             ccccccccc========ccccccccc 
+9	 ox  R   o                        o     

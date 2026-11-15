@@ -1,4 +1,4 @@
-Missing look for
-@world
-Examine
-Read
+1	Missing look for
+2	@world
+3	Examine
+4	Read

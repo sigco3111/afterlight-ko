@@ -1,56 +1,56 @@
-Thackery's Compendium
-Greer Thackery's spare copy of her book of creatures. It fills in as you fight: open the Compendium from the menu.
-Hunter's Charm
-Critical rate +5%. Foes drop items 25% more often. A tracker's first token from the Collegium.
-Stalker's Cloak
-Evasion +6%. EXP +10%. It smells of every forest you have lain in, waiting.
-Huntmaster's Horn
-You strike first more often. Critical rate +10%. Drops +50%. Greer's own, given to the only hunters who finished her Ledger.
-Gore
-Trample
-Silk Shroud
-Venom Fang
-Plague Breath
-Devour
-Glass Gaze
-Shed Skin
-Bog Croak
-Belly Flop
-Hymn of Hush
-Scrap Barrage
-Whiteout
-Dreamless
-The farmers of Thistledown have lost three fences, two carts and a scarecrow to him. They have stopped counting the turnips.
-She has been spinning in the Whisperwold's heart since before the Mother. The web catches birds, deer and, once, a tax collector.
-A rat king: a hundred rats bound tail to tail, sharing one hunger. When it is hurt it eats a few of its own and grows back.
-A sun-basilisk of the Sunscar. Its glass eye holds the noon, and anyone who meets its gaze stands very still.
-Grandfather of every toad in the Mirefen, by his own account. Sings to the marsh at dusk, and the marsh goes to sleep.
-It swims through the Drift's ash as a pike swims through a pond. Where it surfaces, the ash remembers it was once fire.
-It lived under the Drowned Choir for a hundred years, listening. When the singers drowned, it took up the hymns.
-Every engine that fell into the Boneyard went into it. It crowned itself with the rivets. It has never stopped building.
-The pass's oldest story. She sings travelers to sleep in the snow, the monks say, and her wolves come for them after.
-An eye at the bottom of the Rift that has never once closed. It has been very tired for a very long time, and it wants company.
-Widowling
-One of the Widow's brood. She has hundreds. Mostly they are hungry.
-Old Gnarlhide's hackles rise. He paws the earth.
-Old Gnarlhide lowers his tusks and scrapes the ground...
-The Widow throws a shroud of silk over everything.
-The web shivers. More of the brood come down it.
-Mother Knot pulls one of its own rats into itself...
-A hundred voices squeal. Rats boil up out of the drains.
-Glasseye's skin cracks and peels away. Fresh glass gleams underneath.
-The sun in Glasseye's eye flares white...
-Old Belcher's throat swells like a bellows...
-Old Belcher croaks. The bog croaks back.
-Cinderjaw's scales split open, and fire pours out of the cracks.
-Cinderjaw thrashes. Burning motes spin up out of the ash.
-Cinderjaw dives under the ash. The ground grows hot...
-Hymnal takes a deep breath and holds it, like a singer before the last verse...
-The Scrap King tears a drone apart and bolts the pieces into himself.
-The Scrap King hammers a new drone together out of nothing.
-The Scrap King raises both fists over his crown...
-Grandmother Frost begins to hum a lullaby...
-"Come, children. Supper."
-Neverwake looks at you. Your eyelids grow heavy...
-The dark in the Rift draws in toward the eye...
-Greer Thackery
+1	Thackery's Compendium
+2	Greer Thackery's spare copy of her book of creatures. It fills in as you fight: open the Compendium from the menu.
+3	Hunter's Charm
+4	Critical rate +5%. Foes drop items 25% more often. A tracker's first token from the Collegium.
+5	Stalker's Cloak
+6	Evasion +6%. EXP +10%. It smells of every forest you have lain in, waiting.
+7	Huntmaster's Horn
+8	You strike first more often. Critical rate +10%. Drops +50%. Greer's own, given to the only hunters who finished her Ledger.
+9	Gore
+10	Trample
+11	Silk Shroud
+12	Venom Fang
+13	Plague Breath
+14	Devour
+15	Glass Gaze
+16	Shed Skin
+17	Bog Croak
+18	Belly Flop
+19	Hymn of Hush
+20	Scrap Barrage
+21	Whiteout
+22	Dreamless
+23	The farmers of Thistledown have lost three fences, two carts and a scarecrow to him. They have stopped counting the turnips.
+24	She has been spinning in the Whisperwold's heart since before the Mother. The web catches birds, deer and, once, a tax collector.
+25	A rat king: a hundred rats bound tail to tail, sharing one hunger. When it is hurt it eats a few of its own and grows back.
+26	A sun-basilisk of the Sunscar. Its glass eye holds the noon, and anyone who meets its gaze stands very still.
+27	Grandfather of every toad in the Mirefen, by his own account. Sings to the marsh at dusk, and the marsh goes to sleep.
+28	It swims through the Drift's ash as a pike swims through a pond. Where it surfaces, the ash remembers it was once fire.
+29	It lived under the Drowned Choir for a hundred years, listening. When the singers drowned, it took up the hymns.
+30	Every engine that fell into the Boneyard went into it. It crowned itself with the rivets. It has never stopped building.
+31	The pass's oldest story. She sings travelers to sleep in the snow, the monks say, and her wolves come for them after.
+32	An eye at the bottom of the Rift that has never once closed. It has been very tired for a very long time, and it wants company.
+33	Widowling
+34	One of the Widow's brood. She has hundreds. Mostly they are hungry.
+35	Old Gnarlhide's hackles rise. He paws the earth.
+36	Old Gnarlhide lowers his tusks and scrapes the ground...
+37	The Widow throws a shroud of silk over everything.
+38	The web shivers. More of the brood come down it.
+39	Mother Knot pulls one of its own rats into itself...
+40	A hundred voices squeal. Rats boil up out of the drains.
+41	Glasseye's skin cracks and peels away. Fresh glass gleams underneath.
+42	The sun in Glasseye's eye flares white...
+43	Old Belcher's throat swells like a bellows...
+44	Old Belcher croaks. The bog croaks back.
+45	Cinderjaw's scales split open, and fire pours out of the cracks.
+46	Cinderjaw thrashes. Burning motes spin up out of the ash.
+47	Cinderjaw dives under the ash. The ground grows hot...
+48	Hymnal takes a deep breath and holds it, like a singer before the last verse...
+49	The Scrap King tears a drone apart and bolts the pieces into himself.
+50	The Scrap King hammers a new drone together out of nothing.
+51	The Scrap King raises both fists over his crown...
+52	Grandmother Frost begins to hum a lullaby...
+53	"Come, children. Supper."
+54	Neverwake looks at you. Your eyelids grow heavy...
+55	The dark in the Rift draws in toward the eye...
+56	Greer Thackery

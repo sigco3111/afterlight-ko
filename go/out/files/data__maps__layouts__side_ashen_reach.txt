@@ -1,31 +1,21 @@
-                     a aaa                          
-                   aaaaaaaaa              aaaaaaaa  
-                 aaaaaaaaaaaaa            aaaaaaaaa 
-               aaaaaaaaaaaaaaa           aaaqqqaaaa 
-               aaaaaaqqqqqaaaaa         aaaqqqqqaaaa
-              aaaaaqqqqqqqqaaaaa         aaaqqqqqaaa
-              aaaaqqqqqqqqqaaaa          a===qqqaaa 
-              aaaaqqqqqqqqqaaaaa         ====aaaaaa 
-              aa::aqqqqqqqqq==aa         ===aaaaaa  
-              ::::aaqqqqqqaa===           ==  aa    
-            :::::aaaaaqaaaaaa=== aaa aaaa ==        
-     aaa aa::::  aaaaaaaaaaaaa==a aaaaaaaa==        
-   aaaaaaaa::      aaaaaaaa   ===aaaaaaaaaaaa       
- aaaaaaaaaaa::::::  a a aa    a===aaqaqaaaaaaa      
- aaaaaaqqaaa::::::            aa==aaaqqqqqaaaa      
-aaaaaqqqqqaaaaaa            a aaaqqqqqqqqaqaaaa     
- aaaqqqqqqqqaaaa             aaaaaqqqqqqqqaaaaa     
-:::aqqqqqqqqaaaa            aaaaaqqqqqqqqqqqaa::::::
-:::aqqqqqqqqqaaa            aaaaaqqqqqqqqqqaaa::::::
-:::aaqqqqqqaaaaa            aaaaaqqqqqqqqqqqaa::::::
- aaaaqqqqqqaaaaa             aaaaaqqqqqqqaaaaaa     
- aaaaaaqqqaaa======          aaaaaqqqqqqqaaaaaa     
- aaaaaaaaaaaa======aaaaaaa    aaaa::aqaaaaaaa       
-   aaaaaaaaaa ===aaaaaaaaaaa  a a:::aaaaaaaaa       
-      aaaa a   ==aaaaaaaaaaa    a::aaaaaaaa         
-              a===aaaqqqaaaaaa  :::aaaaa            
-              aa==qqqqqqqqaa::::::                  
-             aaaaaqqqqqqqqaa::::::                  
-                      D xD  D                       
-      D                                    oR       
-                      ox   x %                      
+1	              aaaaqqqqqqqqqaaaa          a===qqqaaa 
+2	              aaaaqqqqqqqqqaaaaa         ====aaaaaa 
+3	              aa::aqqqqqqqqq==aa         ===aaaaaa  
+4	              ::::aaqqqqqqaa===           ==  aa    
+5	            :::::aaaaaqaaaaaa=== aaa aaaa ==        
+6	     aaa aa::::  aaaaaaaaaaaaa==a aaaaaaaa==        
+7	   aaaaaaaa::      aaaaaaaa   ===aaaaaaaaaaaa       
+8	 aaaaaaaaaaa::::::  a a aa    a===aaqaqaaaaaaa      
+9	 aaaaaaqqaaa::::::            aa==aaaqqqqqaaaa      
+10	:::aqqqqqqqqaaaa            aaaaaqqqqqqqqqqqaa::::::
+11	:::aqqqqqqqqqaaa            aaaaaqqqqqqqqqqaaa::::::
+12	:::aaqqqqqqaaaaa            aaaaaqqqqqqqqqqqaa::::::
+13	 aaaaaaqqqaaa======          aaaaaqqqqqqqaaaaaa     
+14	 aaaaaaaaaaaa======aaaaaaa    aaaa::aqaaaaaaa       
+15	   aaaaaaaaaa ===aaaaaaaaaaa  a a:::aaaaaaaaa       
+16	      aaaa a   ==aaaaaaaaaaa    a::aaaaaaaa         
+17	              a===aaaqqqaaaaaa  :::aaaaa            
+18	              aa==qqqqqqqqaa::::::                  
+19	                      D xD  D                       
+20	      D                                    oR       
+21	                      ox   x %                      

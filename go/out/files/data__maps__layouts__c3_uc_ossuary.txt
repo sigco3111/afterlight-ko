@@ -1,8 +1,4 @@
-RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
-RRRRRRRRRrrrrrrrrrrrRRRRRRRRccccccccccccccRRRR
-        t t t     tdt t                       
-       xx  d  x                               
-           x x    dd             d            
-         O                  ddx               
-             x x            xu      d   u     
-    xd                              ^       ^ 
+1	RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+2	RRRRRRRRRrrrrrrrrrrrRRRRRRRRccccccccccccccRRRR
+3	         O                  ddx               
+4	    xd                              ^       ^ 

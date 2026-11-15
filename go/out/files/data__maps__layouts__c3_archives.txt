@@ -1,6 +1,6 @@
-SSSSSSSSSSSSSSSSS
-S++++++++++XXXXXS
- HHHHH  ^ HHH HH 
-  HHHH  ==H      
-          HHH HH 
-  HHHH           
+1	SSSSSSSSSSSSSSSSS
+2	S++++++++++XXXXXS
+3	 HHHHH  ^ HHH HH 
+4	  HHHH  ==H      
+5	          HHH HH 
+6	  HHHH           

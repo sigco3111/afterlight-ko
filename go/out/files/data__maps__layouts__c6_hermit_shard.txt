@@ -1,24 +1,15 @@
- qqqq       qq qqqq q           qqqq  
- qqqq    qqqqqqqqqqqqqq q       qqqq  
-       qqqqqqqqqqqqqqqqq q       qq   
-    q qqqqqq,qqq,qq,qqqqqqqqq         
-    qqqqqqqq,,,,,,,,qqqqqqqqqq        
-   qqqqqqq,,,,,,,,,,,,,qqqqqqqq       
-   qqqqdddd,,,:,,,,,,,,qqqqqqqq       
-   qqqqdddd,,,:,,,,,,,,::qqqqq        
-   qqqqdddd,,::,,,,,,,,::qqqq         
-   qqqqq,,,,,::::::::::,,qqqq=========
-  qqqqq,,,:::::,,,,,,,,::::::=========
-   qqqqq::,,,::,,,ddddddqqqq q        
-   qqqq:q,,,,::,,,ddddddqqqq          
-   q qq:qq,,,::,,,ddddddqqq           
-      :qqqaaa::aaaddddddqq            
-      qqaaaaaa::aaaaaaqqqq            
-       aaaaaaa::aaaaaaaqq             
-      aaaaaaaaaaaaaaaaaa       qqqq   
-       aaaaaaaaaaaaaaaaa       qqqq   
- qq     aaaaaaaaaaaaaa                
- qq        aaaaaaa a                  
-      FFFFFf      @       t t         
-       Bbf      f                     
-             o  %x ox                 
+1	    q qqqqqq,qqq,qq,qqqqqqqqq         
+2	    qqqqqqqq,,,,,,,,qqqqqqqqqq        
+3	   qqqqqqq,,,,,,,,,,,,,qqqqqqqq       
+4	   qqqqdddd,,,:,,,,,,,,qqqqqqqq       
+5	   qqqqdddd,,,:,,,,,,,,::qqqqq        
+6	   qqqqdddd,,::,,,,,,,,::qqqq         
+7	   qqqqq,,,,,::::::::::,,qqqq=========
+8	  qqqqq,,,:::::,,,,,,,,::::::=========
+9	   qqqqq::,,,::,,,ddddddqqqq q        
+10	   qqqq:q,,,,::,,,ddddddqqqq          
+11	   q qq:qq,,,::,,,ddddddqqq           
+12	      :qqqaaa::aaaddddddqq            
+13	      FFFFFf      @       t t         
+14	       Bbf      f                     
+15	             o  %x ox                 

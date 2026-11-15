@@ -1,36 +1,36 @@
-q,a#############q,,q,qaaq,qqqqqqq,,   ,qqaqqqa
-qqq,qq,aqqaq,,,,q,q,,aqaaaqaqqqqqq,q  q,,qqq  
-qqqqqaqq,,,:::qa,,,qqqaq,,a,aqaqa,,a  aqa,qa  
-  q,qa,q,q::::::::::::::::::::::q,qq  qqq,q,  
-  ,qq,,,::::qq::::::::::::::::::,qqq   a,,,q  
-  a,,qaq:::,,aaaqa,qq,qq,,a,,q::,qq,,  a,qaa  
-  q,,,qaqaqq,q,,q,,,qqq,,aqqq,:::,,,a  qq,q,  
-       aqqq.q.qa..qa..qaq.....a::q.aa         
-     s qqqqq....qaqq.qa..qq.qqa::aqq   as     
-    sq...qaq...aq...q..qqqaa..::a.a.  qqq     
-   ssaqa.qa...qqqaq..qq..aq..a::..qq  .qqqa   
-   a.qq...q.qaaq:q..qqq.q.qqq.::q..qqqaqaaaa  
-  aaaqa.q.aa..a.:qa;;;;;:;;;qa::....aqqa.qa   
-s  s.qqqqa......::::;;;;;;::::::qaqq.qqqq.as  
- asa .qq.q.qaq..qaq;;;;;;;::::::::::::::::::::
- aaaaqqqa.::::::::::;;::;;;;..::::::::::::::::
-a sas.qqq.q...aqaq.;;;::;;;;qaaqq..q.q.q  ::::
-  saa .qaq.qa..q..q..q::q.q.qa...qq.qq.qsa::::
-          ...qq...qaqu::..q.qqqq.qq.a..aasas  
-            .==   .aq.::.q...aaqaqqq.sa   as  
-    a saa    ==   aq.q::..aquuqa.aqaasassaas  
-     sasaaa  == qquu.q::a.qqqqaq     aaa      
-    ssaaa   s==sqa.qq.::....                  
-      aas assa aassaaa=== a s    ssa          
-       a sa asaaasassa===saasas  s sas        
-         aa  saaass ss===aasssasass           
-               asaa sa===saaas                
-                b    D  Db d     bD        P  
-                D    x    P DDP P       P  D  
-  DP x                            P     T D   
-      b      D b     Db     P       D         
-         g        L        SL                 
-                o    O   kg g                 
-The door is fused shut with Gloam-glass. Through the window: a chair, pushed back from a table, exactly as someone left it.
-The Gull's Rest. The sign still swings. There is no wind.
-A wall of light fills the doorway, warm as a hand. It will not let you in. Not while the island is still remembering so loudly.
+1	q,a#############q,,q,qaaq,qqqqqqq,,   ,qqaqqqa
+2	qqq,qq,aqqaq,,,,q,q,,aqaaaqaqqqqqq,q  q,,qqq  
+3	qqqqqaqq,,,:::qa,,,qqqaq,,a,aqaqa,,a  aqa,qa  
+4	  q,qa,q,q::::::::::::::::::::::q,qq  qqq,q,  
+5	  ,qq,,,::::qq::::::::::::::::::,qqq   a,,,q  
+6	  a,,qaq:::,,aaaqa,qq,qq,,a,,q::,qq,,  a,qaa  
+7	  q,,,qaqaqq,q,,q,,,qqq,,aqqq,:::,,,a  qq,q,  
+8	       aqqq.q.qa..qa..qaq.....a::q.aa         
+9	     s qqqqq....qaqq.qa..qq.qqa::aqq   as     
+10	    sq...qaq...aq...q..qqqaa..::a.a.  qqq     
+11	   ssaqa.qa...qqqaq..qq..aq..a::..qq  .qqqa   
+12	   a.qq...q.qaaq:q..qqq.q.qqq.::q..qqqaqaaaa  
+13	  aaaqa.q.aa..a.:qa;;;;;:;;;qa::....aqqa.qa   
+14	s  s.qqqqa......::::;;;;;;::::::qaqq.qqqq.as  
+15	 asa .qq.q.qaq..qaq;;;;;;;::::::::::::::::::::
+16	 aaaaqqqa.::::::::::;;::;;;;..::::::::::::::::
+17	a sas.qqq.q...aqaq.;;;::;;;;qaaqq..q.q.q  ::::
+18	  saa .qaq.qa..q..q..q::q.q.qa...qq.qq.qsa::::
+19	          ...qq...qaqu::..q.qqqq.qq.a..aasas  
+20	            .==   .aq.::.q...aaqaqqq.sa   as  
+21	    a saa    ==   aq.q::..aquuqa.aqaasassaas  
+22	     sasaaa  == qquu.q::a.qqqqaq     aaa      
+23	    ssaaa   s==sqa.qq.::....                  
+24	      aas assa aassaaa=== a s    ssa          
+25	       a sa asaaasassa===saasas  s sas        
+26	         aa  saaass ss===aasssasass           
+27	               asaa sa===saaas                
+28	                b    D  Db d     bD        P  
+29	                D    x    P DDP P       P  D  
+30	  DP x                            P     T D   
+31	      b      D b     Db     P       D         
+32	         g        L        SL                 
+33	                o    O   kg g                 
+34	The door is fused shut with Gloam-glass. Through the window: a chair, pushed back from a table, exactly as someone left it.
+35	The Gull's Rest. The sign still swings. There is no wind.
+36	A wall of light fills the doorway, warm as a hand. It will not let you in. Not while the island is still remembering so loudly.

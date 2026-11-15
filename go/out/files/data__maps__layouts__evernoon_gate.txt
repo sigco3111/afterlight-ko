@@ -1,29 +1,17 @@
-  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
-   KKKKKKKKKKKKKKKKMMMKKKKKKKKKKKKKKK   
-           MMMMMMMMMMMMMMMMMMM          
-           MMMMMMMMMMMMMMMMMMM   MM     
-           MMMMMMMMMMMMMMMMMMM MMMMMM   
-           MMMMMMMMMMMMMMMMMM===MMMMM   
-               MMMMMMMMMM               
-     aaa a        rrrr                  
-   aaaaaaaa      rrrrr                  
-  aaaaaaaaaa    rruuur                  
-  aarrrrrraa    ruuuur                  
- aaarrrrrraaa  rruuuu                   
- aaarrrrrr=======uuuu                   
- aarrrrrrr=======rrr                    
- aaarrrrrraaa  rrrr          aaaaaa     
-  aaarrrrraa   rrrr         aaaaaaaa    
-  aaaaaaaaaa   rrrrr       aaaaaaaaaa   
-    aaaaaaa    rruuu       aaaaaaaaaaa  
-    aaaaa      uuuuuu=======aaaaaaaaaa  
-                uuuuu=======aaaaaaaaaa  
-                uuuuur     aaaaaaaaaaa  
-                 rrrrr     aaaaaaaaaa   
-                  rrrr        aaaaa     
-           aaaaaauu===aaaaaaa           
-            aaaaaaa===aaaaaaa           
-             aaaaa=====aaaaa            
-               aaaa====a                
-  f           K          L     L K  KL  
-          R                   CO x      
+1	  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
+2	   KKKKKKKKKKKKKKKKMMMKKKKKKKKKKKKKKK   
+3	           MMMMMMMMMMMMMMMMMMM          
+4	           MMMMMMMMMMMMMMMMMMM   MM     
+5	           MMMMMMMMMMMMMMMMMMM MMMMMM   
+6	           MMMMMMMMMMMMMMMMMM===MMMMM   
+7	               MMMMMMMMMM               
+8	 aaarrrrrr=======uuuu                   
+9	 aarrrrrrr=======rrr                    
+10	    aaaaa      uuuuuu=======aaaaaaaaaa  
+11	                uuuuu=======aaaaaaaaaa  
+12	           aaaaaauu===aaaaaaa           
+13	            aaaaaaa===aaaaaaa           
+14	             aaaaa=====aaaaa            
+15	               aaaa====a                
+16	  f           K          L     L K  KL  
+17	          R                   CO x      

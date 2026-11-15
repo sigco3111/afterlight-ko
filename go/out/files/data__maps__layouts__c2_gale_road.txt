@@ -1,15 +1,14 @@
-...."""""""""""",,....dddddddd.....,~~~~~~.,,.,.............
-....."""""""""".......dddddddd......~~~~~~..................
-....."""""""""........dddddddd......~~~~~~.........:::::::::
-............................#::#....~~~~~~...#::#.....ccc###
-.ssssss..sss.sssssssssss.sss#::#sssswwwwwwsss#::#sssscccc###
-R P  T   b    Pb        T b R T        b    R       b P  P b
- TP     P        T b     P  TPRP RR      RP     b P    bPP R
-TP   RPT   P       P  P     PP                P  P     P  P 
-    b R    R P T P                        T b    P   T  PbP 
-bP  R P       R PPb F             R          PP PP PP  bTb  
-                          h  Co             s               
-                       R          FP      gF    R       P   
-         s         bf        o                              
-   R             PP                                         
-Hesketh's hut. It smells of woodsmoke, fish and old pipe tobacco.
+1	...."""""""""""",,....dddddddd.....,~~~~~~.,,.,.............
+2	....."""""""""".......dddddddd......~~~~~~..................
+3	....."""""""""........dddddddd......~~~~~~.........:::::::::
+4	............................#::#....~~~~~~...#::#.....ccc###
+5	.ssssss..sss.sssssssssss.sss#::#sssswwwwwwsss#::#sssscccc###
+6	R P  T   b    Pb        T b R T        b    R       b P  P b
+7	 TP     P        T b     P  TPRP RR      RP     b P    bPP R
+8	TP   RPT   P       P  P     PP                P  P     P  P 
+9	    b R    R P T P                        T b    P   T  PbP 
+10	bP  R P       R PPb F             R          PP PP PP  bTb  
+11	                          h  Co             s               
+12	                       R          FP      gF    R       P   
+13	   R             PP                                         
+14	Hesketh's hut. It smells of woodsmoke, fish and old pipe tobacco.

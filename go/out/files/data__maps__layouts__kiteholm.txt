@@ -1,33 +1,23 @@
-            qqqq;;;;;;;;;;;;;;;;d               
-          qqqqqq;;;;;;;;;;;;;;;;dddd qqqqqq     
-          qqqqqq;;;;;;;;;;;;;;;;dddqqqqqqqqq    
-        ddqqqqqq;;;;;;;;;;;;;;;;dddqqqqqqqqqq   
-         dqqqqqqqdd:d::;;;::::ddddqqqqqqqqqqqq  
-      d ddddqqqq:::::::;;;:::::dddqqqqqqqqqqqq  
-     dddddddd:d::::::::;;;:::::::qqqqqqqqqqqqq  
-     d dddd::::::::::::::::::::::::::qqqqqqqqq  
-     dddddd::::::::::::::::::::::::::qqqqqqqqq  
-     dddddd::::::==========:::::::qqqqqqqqqqqq  
-==  ddddd::::::::==========::::::::qqqqqqqqqq   
-== ddddd:::::::::==========:::::::::qqqqqqqqd   
-=========::::::::==========:::::::::::qqqqdd d  
-=========::::::::==========:::::::::::::dddd d  
-=========::::::::==========::::::::::::::ddd d  
-=========::::::::==========:::::::::::::ddddd   
-=========::::::::==========::::::::::::::ddddd  
-==ddddd::::::::::::::::::::::::::::::::::ddd    
-== dddd::::::::::::::::::::::::::::::::::dddd   
-    dddqqqq:::::::::::::::::::::::::::::dddd    
-    dqqqqqqq::::::::::::::::::::::::::::ddd d   
-     qqqqqqqq:::::::::::::::::::::::::::ddd     
-     qqqqqqqq::::::::::::::::::::qqqqqddddd     
-     qqqqqqq:::::::::::::::::::qqqqqqqqqd       
-       qqqqd:::::::::::::::::::qqqqqqqqqqd      
-        ddddd:d::::::::::::::::qqqqqqqqqq       
-           dddddd:::::::::::::::qqqqqqqqq       
-        ======dddd::d:::::ddd:dddqqqqq          
-        ======dddddddddddddddddddddd            
-         ==     dddddd===ddddd dddd             
-         ==       dd d=== dddd                  
-                  a         CC         q        
-                La                          q   
+1	            qqqq;;;;;;;;;;;;;;;;d               
+2	          qqqqqq;;;;;;;;;;;;;;;;dddd qqqqqq     
+3	          qqqqqq;;;;;;;;;;;;;;;;dddqqqqqqqqq    
+4	        ddqqqqqq;;;;;;;;;;;;;;;;dddqqqqqqqqqq   
+5	         dqqqqqqqdd:d::;;;::::ddddqqqqqqqqqqqq  
+6	      d ddddqqqq:::::::;;;:::::dddqqqqqqqqqqqq  
+7	     dddddddd:d::::::::;;;:::::::qqqqqqqqqqqqq  
+8	     dddddd::::::==========:::::::qqqqqqqqqqqq  
+9	==  ddddd::::::::==========::::::::qqqqqqqqqq   
+10	== ddddd:::::::::==========:::::::::qqqqqqqqd   
+11	=========::::::::==========:::::::::::qqqqdd d  
+12	=========::::::::==========:::::::::::::dddd d  
+13	=========::::::::==========::::::::::::::ddd d  
+14	=========::::::::==========:::::::::::::ddddd   
+15	=========::::::::==========::::::::::::::ddddd  
+16	==ddddd::::::::::::::::::::::::::::::::::ddd    
+17	== dddd::::::::::::::::::::::::::::::::::dddd   
+18	        ======dddd::d:::::ddd:dddqqqqq          
+19	        ======dddddddddddddddddddddd            
+20	         ==     dddddd===ddddd dddd             
+21	         ==       dd d=== dddd                  
+22	                  a         CC         q        
+23	                La                          q   

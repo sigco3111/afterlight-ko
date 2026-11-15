@@ -1,5 +1,4 @@
-WWWWWWWWWWWWWWWWWWWWWW
-W===dddddddddddddd===W
-W===dddddd==dddddd===W
-  q  jqj      jqj  q  
-    FFFFFFFFFFFFFF    
+1	WWWWWWWWWWWWWWWWWWWWWW
+2	W===dddddddddddddd===W
+3	W===dddddd==dddddd===W
+4	    FFFFFFFFFFFFFF    

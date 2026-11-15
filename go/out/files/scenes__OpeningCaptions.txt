@@ -1,1 +1,1 @@
-.op-card-art
+1	.op-card-art

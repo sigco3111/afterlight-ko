@@ -1,11 +1,11 @@
-Bristleback
-Lanternjaw
-Gravelgut
-Mange
-Cinderwing
-Glasshide
-Gravemouth
- {blue|[hunting]}
- {dim|[done]}
-Adelind
-Agathe
+1	Bristleback
+2	Lanternjaw
+3	Gravelgut
+4	Mange
+5	Cinderwing
+6	Glasshide
+7	Gravemouth
+8	 {blue|[hunting]}
+9	 {dim|[done]}
+10	Adelind
+11	Agathe

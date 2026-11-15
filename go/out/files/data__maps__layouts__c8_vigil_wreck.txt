@@ -1,16 +1,16 @@
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWxxxxxxxxxxxxWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWxxxxxxxxxxxxWWWWWWWWW+++++++W
-WW+++++++++++WWWWWW+++WWWWWWWWWWWWWW+++++++W
-WW+++++++++++WWWWWW+++WWWWWWWWWWWW+++++++++W
-WW++++++ +++======= ========= ====+++++++++W
-WW+++++  ++++WWWWWWW++WWWWWWWW+++W+++++++++W
-WW+++++++++++WWWWWWW++WWWWWWWW+++WWW+++++++W
-WW+++++++++++W+++++++++++++WWW+++WWWWWWWWWWW
-WWWWWWWWWWWWWW+++++++++++++WW+++++++++++++WW
-WWWWWWWWWWWWWW+++++++++++++WW++++  +++++++WW
-                HH       E                  
-   CCO     C                                
-   CC     OO                                
-                              CC        C   
-               FFF FFF FFF              C   
+1	WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+2	WWWWWWWWWWWWWWWxxxxxxxxxxxxWWWWWWWWWWWWWWWWW
+3	WWWWWWWWWWWWWWWxxxxxxxxxxxxWWWWWWWWW+++++++W
+4	WW+++++++++++WWWWWW+++WWWWWWWWWWWWWW+++++++W
+5	WW+++++++++++WWWWWW+++WWWWWWWWWWWW+++++++++W
+6	WW++++++ +++======= ========= ====+++++++++W
+7	WW+++++  ++++WWWWWWW++WWWWWWWW+++W+++++++++W
+8	WW+++++++++++WWWWWWW++WWWWWWWW+++WWW+++++++W
+9	WW+++++++++++W+++++++++++++WWW+++WWWWWWWWWWW
+10	WWWWWWWWWWWWWW+++++++++++++WW+++++++++++++WW
+11	WWWWWWWWWWWWWW+++++++++++++WW++++  +++++++WW
+12	                HH       E                  
+13	   CCO     C                                
+14	   CC     OO                                
+15	                              CC        C   
+16	               FFF FFF FFF              C   

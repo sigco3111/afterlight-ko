@@ -1,11 +1,11 @@
-Look west
-The bow cuts through cloud the color of a bruise. Below: nothing at all, for a very long way.
-The mainmast. Someone has carved PIP into it at a height that suggests standing on a barrel. Below it, smaller: CORVIN SAYS NO.
-The foremast. A patched sail, a patched patch, and a single kite tangled in the rigging.
-@world
-Forge
-Corvin's chart table. Under the charts, a small painting of a woman in a Dawnguard sky-wing coat, laughing at whoever held the brush. On the back: "H.M. — don't you DARE frame this." It is framed.
-Corvin's books: "Navigation for the Reluctant," "Debts and How to Outlive Them," and a much-read book of children's bedtime stories with the price still on it.
-Ilse's stove. Something is simmering. It smells like home, if home were mostly onions.
-Ilse's shelf: bandages rolled tight, tinctures labeled in tiny exact handwriting. One jar just says: PIP. NO.
-Nell's forge, built into the ship's boiler. It runs on coal, spite and, lately, the heat of a Sun Shard on a long chain.
+1	Look west
+2	The bow cuts through cloud the color of a bruise. Below: nothing at all, for a very long way.
+3	The mainmast. Someone has carved PIP into it at a height that suggests standing on a barrel. Below it, smaller: CORVIN SAYS NO.
+4	The foremast. A patched sail, a patched patch, and a single kite tangled in the rigging.
+5	@world
+6	Forge
+7	Corvin's chart table. Under the charts, a small painting of a woman in a Dawnguard sky-wing coat, laughing at whoever held the brush. On the back: "H.M. — don't you DARE frame this." It is framed.
+8	Corvin's books: "Navigation for the Reluctant," "Debts and How to Outlive Them," and a much-read book of children's bedtime stories with the price still on it.
+9	Ilse's stove. Something is simmering. It smells like home, if home were mostly onions.
+10	Ilse's shelf: bandages rolled tight, tinctures labeled in tiny exact handwriting. One jar just says: PIP. NO.
+11	Nell's forge, built into the ship's boiler. It runs on coal, spite and, lately, the heat of a Sun Shard on a long chain.

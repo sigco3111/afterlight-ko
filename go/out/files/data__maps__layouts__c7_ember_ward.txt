@@ -1,5 +1,5 @@
-PPPPPPPPPPPPPPPPPPPP
-P++++++++XX++++++++P
- H      ^uHH^     C 
-  E E E      E E Ek 
- OE E  u    C  E E  
+1	PPPPPPPPPPPPPPPPPPPP
+2	P++++++++XX++++++++P
+3	 H      ^uHH^     C 
+4	  E E E      E E Ek 
+5	 OE E  u    C  E E  

@@ -1,40 +1,32 @@
- a#aaaaaaaaaaRMMMMMMMMMMMMMMMMMMRaaaaaaaaaa###
- aarRRRrrrrrrrMMMMMMMMMMMMMMMM;;;;;;;;;;;;;aa 
-  arRRRrrrrrrraaaaaaaa___aaaaa;;;;;;;;;;;;;a  
- aarrrrrrrrrrraaaaaaaa___aaaaa;;;;;;;;;;;;;a  
- aarrrrrrRRrrraaaaaaaa___aaaaa;;;;;;;;;;;;;aa 
-  arrrrrrRRrrraaaaaaaaaaaaaaaa;;;;;;;;;;;;;aa 
-  aRRrrrrrrrrra;;;;;;a;;;;;;;;;;;;;;;;;;;;;aa 
-   RRrrrrrrrrra;a;;;;;;;;;;;;a;;;;;;;;;;;;;aa 
-   rrrrrrrrrrra;;;;;;;;;;;;;;;;;;;;;;;;;;;;aa 
-   rrrRccRrrrra;;;;;;;;;;;;;;;;;;;;;;;;;;;;aa 
-   RRR____RRRra;;;;;;;;;;;;;;;;;;;;;;;;;;;;aa 
-   R________rra;;;;;;;;;;;;;;;;;aaaaaaaaaaaaa 
-   R___________;;;;;;;;;;;;;;;;;;aaaaaaaaaaaa 
-   R___________;;;;;;;;;;;;;;;;;;;aaaaaaaaaaa 
-   R________rra;;;;;;;;;;;;;;;;a;;;aaaaaaaaaa 
-   R________rra;;;;;;;;;;;;;;;;aa;;aaaaaaaaaa 
-   R________rra;a;;;;:::;;;;;a;aa;;;aaaaaaaaa 
-   RRRRRRRRRRra;;;;;;:::;a;;;;;aaa;;;aaaaaaa  
-   rrrrrrrRRRraaaaaa::::aaaaaaaaaaa;;aaaaaaa  
-   rrrrrrrrrrraaaaaa::::aaaaaaaaaaaaaaaa===   
-   rrrrrrrrrrraRRRaa:::aaaaaaaaaaaaaRaaa=== a 
-   rqqqqqqqqqqaRaaa::::aaaRRRRaaaaaaRaaaaaaaa 
-   aqqqqqqqqqqaRaaa::::aaaaaaRaaaaaaRaaaaaaaa 
-    qqqqqqqqqqaaaaa:::aaaaaaaRaRRRaaaaaaaaaaa 
-    qqqqqqqqqqaaaaa:::aaaaaaaaaaaaaaaaaaaaaaa 
-   aqqqqqqqqqqaaaaa:::aaaaaaaaaaaaaaaaaaaaaaa 
-   aaaaaaaaaaaaaaaa:::aaaaaaaaaaaaaaaaaaaaaaa 
-    aaaaaaaaaaaaaaa:::aaaaaaaaaaaaaaaaaaaaaa  
-    aaaaaaaaaaaaaaa:::aaaaaaaaaaaaaaaaaaaaa   
-     aaaaaaaaaaaaaa:::aaaaaaaaaaaaaaaaaaaa    
-      aaaaaaaaaaaaa:::aaaaaaaaaaaaaaaaaaa     
-                   d     do                   
-           d     S     d     Sd               
-         R R    | o     dd  d |  d            
-            RR    !         ! d               
-          !                 OC E E q  E E     
-                CC                         d  
-         dDR             R   D      D         
-        R               DD      dD Rd R       
-          d               dR  D     D     D   
+1	 a#aaaaaaaaaaRMMMMMMMMMMMMMMMMMMRaaaaaaaaaa###
+2	 aarRRRrrrrrrrMMMMMMMMMMMMMMMM;;;;;;;;;;;;;aa 
+3	  arRRRrrrrrrraaaaaaaa___aaaaa;;;;;;;;;;;;;a  
+4	 aarrrrrrrrrrraaaaaaaa___aaaaa;;;;;;;;;;;;;a  
+5	 aarrrrrrRRrrraaaaaaaa___aaaaa;;;;;;;;;;;;;aa 
+6	  arrrrrrRRrrraaaaaaaaaaaaaaaa;;;;;;;;;;;;;aa 
+7	  aRRrrrrrrrrra;;;;;;a;;;;;;;;;;;;;;;;;;;;;aa 
+8	   RRrrrrrrrrra;a;;;;;;;;;;;;a;;;;;;;;;;;;;aa 
+9	   rrrrrrrrrrra;;;;;;;;;;;;;;;;;;;;;;;;;;;;aa 
+10	   rrrRccRrrrra;;;;;;;;;;;;;;;;;;;;;;;;;;;;aa 
+11	   RRR____RRRra;;;;;;;;;;;;;;;;;;;;;;;;;;;;aa 
+12	   R________rra;;;;;;;;;;;;;;;;;aaaaaaaaaaaaa 
+13	   R___________;;;;;;;;;;;;;;;;;;aaaaaaaaaaaa 
+14	   R___________;;;;;;;;;;;;;;;;;;;aaaaaaaaaaa 
+15	   R________rra;;;;;;;;;;;;;;;;a;;;aaaaaaaaaa 
+16	   R________rra;;;;;;;;;;;;;;;;aa;;aaaaaaaaaa 
+17	   R________rra;a;;;;:::;;;;;a;aa;;;aaaaaaaaa 
+18	   RRRRRRRRRRra;;;;;;:::;a;;;;;aaa;;;aaaaaaa  
+19	   rrrrrrrRRRraaaaaa::::aaaaaaaaaaa;;aaaaaaa  
+20	   rrrrrrrrrrraaaaaa::::aaaaaaaaaaaaaaaa===   
+21	   rrrrrrrrrrraRRRaa:::aaaaaaaaaaaaaRaaa=== a 
+22	   rqqqqqqqqqqaRaaa::::aaaRRRRaaaaaaRaaaaaaaa 
+23	   aqqqqqqqqqqaRaaa::::aaaaaaRaaaaaaRaaaaaaaa 
+24	    qqqqqqqqqqaaaaa:::aaaaaaaRaRRRaaaaaaaaaaa 
+25	           d     S     d     Sd               
+26	         R R    | o     dd  d |  d            
+27	            RR    !         ! d               
+28	          !                 OC E E q  E E     
+29	                CC                         d  
+30	         dDR             R   D      D         
+31	        R               DD      dD Rd R       
+32	          d               dR  D     D     D   

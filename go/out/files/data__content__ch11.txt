@@ -1,11 +1,11 @@
-Rotwater
-Wither
-Execution
-Oathbreaker
-Paralysis
-Starfall
-Glasswyrm
-Mirage
-Bogcap
-Witherbark
-Thunderhawk
+1	Rotwater
+2	Wither
+3	Execution
+4	Oathbreaker
+5	Paralysis
+6	Starfall
+7	Glasswyrm
+8	Mirage
+9	Bogcap
+10	Witherbark
+11	Thunderhawk

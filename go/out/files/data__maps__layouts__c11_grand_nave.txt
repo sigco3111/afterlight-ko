@@ -1,20 +1,19 @@
-      KKKKKKKKKKKKKKKKKKKKKKKKKKKK      
-      KKKKKKKKMMMMMMMMMMMMKKKKKKKK      
-      KKKKKKKKMMxxxxxxxxMMKKKKKKKK      
-      KMMMMMMMMMxxxxxxxxMMMMMMMMMK      
-      RRRRRRRRMMMMMMMMMMMMRRRRRRRR      
-       aaaaaaaaaa;;;;;;aaaaaaaaa        
-   aaaaaaaaaaaaaaa;;;;aaaaaaaaaaaaaaa   
-  aaaaaaaaaaaaaaaa;;;;aaaaaaaaaaaaaaa   
-   aaaaaaaaaaaaaaa;;;;aaaaaaaaaaaaaaaa  
-   aaaaaaaaaaaaaaa;;;;aaaaaaaaaaaaaaaaa 
-   aaaa;;;;;;;;;;;;;;;;;;;;;;;;;;aaaaaa 
-  aaaaa;;;;;;;;;;;;;;;;;;;;;;;;;;aaaaa  
-         aaaaaaaaa;;;;aaaaaaaa          
-                aa;==;a a aa            
-              FFFFF   FFFF              
-        q              a   HH HHH       
-               jjj    jjj               
-         O C   jjj    jjj               
-        ! !   o         od              
-The tower door is barred from the far side.
+1	      KKKKKKKKKKKKKKKKKKKKKKKKKKKK      
+2	      KKKKKKKKMMMMMMMMMMMMKKKKKKKK      
+3	      KKKKKKKKMMxxxxxxxxMMKKKKKKKK      
+4	      KMMMMMMMMMxxxxxxxxMMMMMMMMMK      
+5	      RRRRRRRRMMMMMMMMMMMMRRRRRRRR      
+6	       aaaaaaaaaa;;;;;;aaaaaaaaa        
+7	   aaaaaaaaaaaaaaa;;;;aaaaaaaaaaaaaaa   
+8	  aaaaaaaaaaaaaaaa;;;;aaaaaaaaaaaaaaa   
+9	   aaaaaaaaaaaaaaa;;;;aaaaaaaaaaaaaaaa  
+10	   aaaaaaaaaaaaaaa;;;;aaaaaaaaaaaaaaaaa 
+11	   aaaa;;;;;;;;;;;;;;;;;;;;;;;;;;aaaaaa 
+12	  aaaaa;;;;;;;;;;;;;;;;;;;;;;;;;;aaaaa  
+13	         aaaaaaaaa;;;;aaaaaaaa          
+14	                aa;==;a a aa            
+15	              FFFFF   FFFF              
+16	        q              a   HH HHH       
+17	         O C   jjj    jjj               
+18	        ! !   o         od              
+19	The tower door is barred from the far side.

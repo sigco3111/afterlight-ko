@@ -1,4 +1,4 @@
-.dlg-text
-).join(',')}
-${dlg}
-PASS
+1	.dlg-text
+2	).join(',')}
+3	${dlg}
+4	PASS

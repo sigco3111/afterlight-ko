@@ -1,10 +1,10 @@
-    aa#########aaaaaa aa aa aaaaaa aaa    
-qqqqqqqqqqqqqqqqqqqq;;;qqqqqqqqqqqqqqqqqqq
-    x          xx  o   %  %   o %    %    
-                            oF L Fxox     
-     x       Do           o      D        
- b      R    D D            D DD bb   R   
-  R    b      bD D         D R D DbDD b   
-  D          D    D     D    RbRR   bDD b 
-      b     D b D        RD  D     bbR    
-            b    Db                  DD   
+1	    aa#########aaaaaa aa aa aaaaaa aaa    
+2	qqqqqqqqqqqqqqqqqqqq;;;qqqqqqqqqqqqqqqqqqq
+3	    x          xx  o   %  %   o %    %    
+4	                            oF L Fxox     
+5	     x       Do           o      D        
+6	 b      R    D D            D DD bb   R   
+7	  R    b      bD D         D R D DbDD b   
+8	  D          D    D     D    RbRR   bDD b 
+9	      b     D b D        RD  D     bbR    
+10	            b    Db                  DD   

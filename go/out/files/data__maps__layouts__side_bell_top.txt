@@ -1,8 +1,2 @@
-               a aa           
-      a aaaqqqqqqaqaqa        
-     aaaqqqRRRRRRRRRqaaa a    
-      a aqaqqa:::qqaaaaa      
-         aaaaa:::aaa a        
-            aa::: a           
-    oo               d        
-        Dd            D       
+1	     aaaqqqRRRRRRRRRqaaa a    
+2	        Dd            D       

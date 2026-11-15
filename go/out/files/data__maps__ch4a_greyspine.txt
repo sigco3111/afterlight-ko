@@ -1,31 +1,30 @@
-QUIET WAY. The snow above has been waiting all winter. Do not give it a reason.
-Resting my knees. They're older than the rest of me.
-Gray cloaks passed me on the lower trail two days ago. Forty of them, with a big man in front who never looked at the view.
-Who climbs a mountain and doesn't look at the view?
-Vigil Stone
-Cairn
-Frozen pack
-A shrine to the Keepers of Frosthollow. Pilgrims have tied strips of cloth to it — prayers, names, a child's mitten.
-Frost lily
-@world
-Came up for the Keeper's blessing. Stayed for the soup.
-There's an army camped at the foot of the mountain. Sunburst banners. Holy soldiers, I thought — but I watched them a whole evening, and they never once prayed.
-Sweep, sweep. I keep sweeping the steps to the tower.
-Nobody climbs them now. I sweep them anyway. Somebody should keep the way clear.
-Snow, snow, snow. Sweep, sweep, sweep.
-The mountain is very generous with its snow. I am very generous with my broom. We have an understanding.
-Run, Halloway. It's what Keepers' children are good at.
-The Bell Stair, Wren! GO!
-Memorial
-Bell tower
-Well
-The well is frozen over. Someone has chipped a hole in the ice and left a ladle beside it, the way you'd leave a key under a mat.
-Gate road's crawling with gray cloaks, sparrow. Wrong way.
-The Ice Score
-I keep airing the beds. Tolle would want them aired.
-He wrote from Saltglass. Two pages about the children and one line about himself: "I am managing." He underlined "managing." That boy.
-A guest book. Three winters back, in a big looping hand: "Sir Aldous Venn and squire. Couldn't sleep. Lovely tea."
-Steps cut into the ice by hand, worn down in the middle by centuries of monks' feet. Each step has a number carved beside it. You are on step four hundred and twelve.
-A little bell is carved into the wall by the Hearthstone, and under it: FOR THE ONES WHO HAD TO LEAVE IN A HURRY.
-blocker:c4a_frost_caves:rubble
-Boots on the stair behind us. There's no going back.
+1	QUIET WAY. The snow above has been waiting all winter. Do not give it a reason.
+2	Resting my knees. They're older than the rest of me.
+3	Gray cloaks passed me on the lower trail two days ago. Forty of them, with a big man in front who never looked at the view.
+4	Who climbs a mountain and doesn't look at the view?
+5	Vigil Stone
+6	Cairn
+7	Frozen pack
+8	A shrine to the Keepers of Frosthollow. Pilgrims have tied strips of cloth to it — prayers, names, a child's mitten.
+9	Frost lily
+10	@world
+11	Came up for the Keeper's blessing. Stayed for the soup.
+12	There's an army camped at the foot of the mountain. Sunburst banners. Holy soldiers, I thought — but I watched them a whole evening, and they never once prayed.
+13	Sweep, sweep. I keep sweeping the steps to the tower.
+14	Nobody climbs them now. I sweep them anyway. Somebody should keep the way clear.
+15	Snow, snow, snow. Sweep, sweep, sweep.
+16	The mountain is very generous with its snow. I am very generous with my broom. We have an understanding.
+17	Run, Halloway. It's what Keepers' children are good at.
+18	The Bell Stair, Wren! GO!
+19	Memorial
+20	Bell tower
+21	Well
+22	The well is frozen over. Someone has chipped a hole in the ice and left a ladle beside it, the way you'd leave a key under a mat.
+23	Gate road's crawling with gray cloaks, sparrow. Wrong way.
+24	The Ice Score
+25	I keep airing the beds. Tolle would want them aired.
+26	He wrote from Saltglass. Two pages about the children and one line about himself: "I am managing." He underlined "managing." That boy.
+27	A guest book. Three winters back, in a big looping hand: "Sir Aldous Venn and squire. Couldn't sleep. Lovely tea."
+28	Steps cut into the ice by hand, worn down in the middle by centuries of monks' feet. Each step has a number carved beside it. You are on step four hundred and twelve.
+29	A little bell is carved into the wall by the Hearthstone, and under it: FOR THE ONES WHO HAD TO LEAVE IN A HURRY.
+30	Boots on the stair behind us. There's no going back.

@@ -1,26 +1,25 @@
-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-S;;;;;;;____________uuu_____________;;;;;;;S
-S;;;;;;;__________uuuuuuuu__________;;;;;;;S
-S;;;;;;;__________uuuuuuuuu_________;;;;;;;S
-S;;;;;;;__________uuuuuuu___________;;;;;;;S
-S;;;;;;;____________uuuu____________;;;;;;;S
-S;;;;;;;UUUU;;;;;;;;;;;;;;;;;;;;rrrrrrrrrR;S
-S;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;rruuuuurrU;S
-S;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;rrruuuurrR;S
-S;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ruuuuuuuuR;S
-S;SSSSSSSSSSS;;;;;;;;;;;;;;;;;;;rruuuuuuuU;S
-S;ooooooooooS;;;;;;;;;;;;;;;;;;;ruuuuuuuuR;S
-S;ooooooooooS;;;;;;;;;;;;;;;;;;;rruuuuuuuR;S
-S;ooooooooooS;;;;;;;;;;;;;;;;;;;ruuuuuuurR;S
-S;ooooooooooS;;;;;;;;;;;;;;;;;;;rrruuuuurR;S
-S;ooooooooooo;;;;;;;;;;;;;;;;;;;rrruuuurrU;S
-S;ooooooooooo;;;;;;;;;;;;;;;;;;;rrrrrrrrrR;S
-S;ooooooooooS;;;;;;;;;;;;;;;;;;;rrrrrrrrrU;S
-S;ooooooooooS;;;;;;;;;;;;;;;;;;;rrrrrrrrrR;S
-S;UUUU;;;;;;;;;;;;;;;;;;;;;;;;;;;UUU;;;;;;;S
-S;;;;;;uuuuuu;;;;;;;;;;;;;;;;;;uuuuuu;;;;;;S
-S;;;;;Uuuuuuu;;;;;;;;;;;;;;;;;;uuuuuu;;;;;;S
-S;;;;;UUU;;;;;;;;;;;;;;;;;;;;;;;;uu;;;;;;;;S
-S;;;;;UUU;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;S
-    f     b                      dd         
-The Lantern door is cold and shut. The memory is not finished with you.
+1	SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+2	S;;;;;;;____________uuu_____________;;;;;;;S
+3	S;;;;;;;__________uuuuuuuu__________;;;;;;;S
+4	S;;;;;;;__________uuuuuuuuu_________;;;;;;;S
+5	S;;;;;;;__________uuuuuuu___________;;;;;;;S
+6	S;;;;;;;____________uuuu____________;;;;;;;S
+7	S;;;;;;;UUUU;;;;;;;;;;;;;;;;;;;;rrrrrrrrrR;S
+8	S;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;rruuuuurrU;S
+9	S;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;rrruuuurrR;S
+10	S;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ruuuuuuuuR;S
+11	S;SSSSSSSSSSS;;;;;;;;;;;;;;;;;;;rruuuuuuuU;S
+12	S;ooooooooooS;;;;;;;;;;;;;;;;;;;ruuuuuuuuR;S
+13	S;ooooooooooS;;;;;;;;;;;;;;;;;;;rruuuuuuuR;S
+14	S;ooooooooooS;;;;;;;;;;;;;;;;;;;ruuuuuuurR;S
+15	S;ooooooooooS;;;;;;;;;;;;;;;;;;;rrruuuuurR;S
+16	S;ooooooooooo;;;;;;;;;;;;;;;;;;;rrruuuurrU;S
+17	S;ooooooooooo;;;;;;;;;;;;;;;;;;;rrrrrrrrrR;S
+18	S;ooooooooooS;;;;;;;;;;;;;;;;;;;rrrrrrrrrU;S
+19	S;ooooooooooS;;;;;;;;;;;;;;;;;;;rrrrrrrrrR;S
+20	S;UUUU;;;;;;;;;;;;;;;;;;;;;;;;;;;UUU;;;;;;;S
+21	S;;;;;;uuuuuu;;;;;;;;;;;;;;;;;;uuuuuu;;;;;;S
+22	S;;;;;Uuuuuuu;;;;;;;;;;;;;;;;;;uuuuuu;;;;;;S
+23	S;;;;;UUU;;;;;;;;;;;;;;;;;;;;;;;;uu;;;;;;;;S
+24	S;;;;;UUU;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;S
+25	The Lantern door is cold and shut. The memory is not finished with you.

@@ -1,77 +1,77 @@
-Boneyard Lift Key
-Mags's key to the lift down to the Boneyard. Greasy, and proud of it.
-Odessa's Mining Permit
-Stamped in violet ink: ADMIT BEARERS. DO NOT DIE ON MY PROPERTY.
-Pilgrim's Clock
-A brass carriage clock from the Benediction. It stopped at seven minutes past the end of the world.
-Gambler's Ace
-LCK +12, critical rate +8%. Ferro swears it isn't marked.
-Mags's Goggles
-SPD +4, immune to Blind. Too big. You'll grow.
-Ledger Bailiff
-Odessa's debt collectors. They are polite right up to the moment they are not.
-Collection Hound
-Trained to find anyone who owes the Ledger money. It is never bored.
-Rustback Rat
-Rats that learned to eat rust. Their bite turns your blood a funny color.
-Hull plate, rivets and a grudge. The Foreman builds them out of whatever falls.
-Cogwisp
-The last spark of a dead engine, still looking for something to turn.
-Wreck Crow
-Collects shiny things from the wrecks. Considers your eyes shiny.
-Boneyard Picker
-Scrappers who went too deep and decided the wrecks belonged to them now.
-Rivet Drone
-A rivet gun that learned to fly. The Foreman bolts them together in a hurry.
-The Foreman
-Something in the Boneyard wanted to fly again, and built itself out of every ship that couldn't.
-Gilded Strongbox
-The Gilded Gull's strongbox. It has been hungry for a very long time.
-Hollow Pilgrim
-They were flying in to hear the Vespersong. They are still singing along.
-Squall Harpy
-Rides the Squall the way gulls rode the sea. Screams like one, too.
-Rigging Spider
-Spins its webs in the shrouds. Most of what it catches is lightning.
-Stormjelly
-A jelly of rainwater that drifts through the Squall, swallowing lightning.
-Drowned Templar
-The galleon's Choir guard. It still stands its watch, a year after the watch ended.
-Squallmaw
-A storm drake that nested in the Benediction's mainsail and fed on a year of lightning and hymns.
-Cinder Mole
-Burrows through rock that has gone soft with heat. Smells of toast.
-Sunslag
-Molten rock with a sun-ember for a heart. It does not like to be cooled.
-Flare Bat
-Its wings glow from inside. In the Cinderdeep, the lights that move are never lanterns.
-Ember Golem
-Slag that cooled in the shape of a miner. It still swings a pick.
-Shard Salamander
-Lives in the lava seams. Comes out to sun itself on the sun.
-The Sunworm
-A worm that found a piece of the broken sun and decided to live inside it.
-Dawnguard Marine
-The Choir's sky marines. They were the Dawnguard once. Some of them still believe it.
-Knight-Captain Severine
-Knight-Captain of the Steadfast. She lost an eye in the battle Corvin ran from, and has never forgiven him.
-The Foreman empties its furnace across the yard!
-Gears shriek. The Foreman overclocks — its plating glows red-hot!
-The Foreman's furnace roars white-hot...
-The Foreman bolts together a Rivet Drone from loose scrap!
-THUNDERHEAD! Lightning walks the whole deck!
-Squallmaw tears into the eye of the storm. Frost slides off its crackling hide — but the wind tears at its wings!
-Squallmaw drinks the lightning. The deck begins to hum...
-The Sunworm opens its throat — the light pours out!
-The Sunworm swallows the heart-ember. Its scales blaze white — ice hisses away to steam! But the glare cracks its armour along the seams...
-Light gathers behind the Sunworm's scales, brighter and brighter...
-Slag bubbles up from the floor and takes shape!
-"Dawnguard — BREAK THEM!" Severine drives her lance through the whole line!
-"Marines! To me!"
-"I said TO ME!"
-Severine sets her lance and plants her feet...
-The Ledger Exchange
-A smugglers' canyon in a fallen mountain. The Halcyon's grave — or her cradle.
-Where the airships fell when the sky broke.
-A pilgrim galleon pinned in a storm that would not end.
-Odessa's sun-ember mine. The only warm place left in the world.
+1	Boneyard Lift Key
+2	Mags's key to the lift down to the Boneyard. Greasy, and proud of it.
+3	Odessa's Mining Permit
+4	Stamped in violet ink: ADMIT BEARERS. DO NOT DIE ON MY PROPERTY.
+5	Pilgrim's Clock
+6	A brass carriage clock from the Benediction. It stopped at seven minutes past the end of the world.
+7	Gambler's Ace
+8	LCK +12, critical rate +8%. Ferro swears it isn't marked.
+9	Mags's Goggles
+10	SPD +4, immune to Blind. Too big. You'll grow.
+11	Ledger Bailiff
+12	Odessa's debt collectors. They are polite right up to the moment they are not.
+13	Collection Hound
+14	Trained to find anyone who owes the Ledger money. It is never bored.
+15	Rustback Rat
+16	Rats that learned to eat rust. Their bite turns your blood a funny color.
+17	Hull plate, rivets and a grudge. The Foreman builds them out of whatever falls.
+18	Cogwisp
+19	The last spark of a dead engine, still looking for something to turn.
+20	Wreck Crow
+21	Collects shiny things from the wrecks. Considers your eyes shiny.
+22	Boneyard Picker
+23	Scrappers who went too deep and decided the wrecks belonged to them now.
+24	Rivet Drone
+25	A rivet gun that learned to fly. The Foreman bolts them together in a hurry.
+26	The Foreman
+27	Something in the Boneyard wanted to fly again, and built itself out of every ship that couldn't.
+28	Gilded Strongbox
+29	The Gilded Gull's strongbox. It has been hungry for a very long time.
+30	Hollow Pilgrim
+31	They were flying in to hear the Vespersong. They are still singing along.
+32	Squall Harpy
+33	Rides the Squall the way gulls rode the sea. Screams like one, too.
+34	Rigging Spider
+35	Spins its webs in the shrouds. Most of what it catches is lightning.
+36	Stormjelly
+37	A jelly of rainwater that drifts through the Squall, swallowing lightning.
+38	Drowned Templar
+39	The galleon's Choir guard. It still stands its watch, a year after the watch ended.
+40	Squallmaw
+41	A storm drake that nested in the Benediction's mainsail and fed on a year of lightning and hymns.
+42	Cinder Mole
+43	Burrows through rock that has gone soft with heat. Smells of toast.
+44	Sunslag
+45	Molten rock with a sun-ember for a heart. It does not like to be cooled.
+46	Flare Bat
+47	Its wings glow from inside. In the Cinderdeep, the lights that move are never lanterns.
+48	Ember Golem
+49	Slag that cooled in the shape of a miner. It still swings a pick.
+50	Shard Salamander
+51	Lives in the lava seams. Comes out to sun itself on the sun.
+52	The Sunworm
+53	A worm that found a piece of the broken sun and decided to live inside it.
+54	Dawnguard Marine
+55	The Choir's sky marines. They were the Dawnguard once. Some of them still believe it.
+56	Knight-Captain Severine
+57	Knight-Captain of the Steadfast. She lost an eye in the battle Corvin ran from, and has never forgiven him.
+58	The Foreman empties its furnace across the yard!
+59	Gears shriek. The Foreman overclocks — its plating glows red-hot!
+60	The Foreman's furnace roars white-hot...
+61	The Foreman bolts together a Rivet Drone from loose scrap!
+62	THUNDERHEAD! Lightning walks the whole deck!
+63	Squallmaw tears into the eye of the storm. Frost slides off its crackling hide — but the wind tears at its wings!
+64	Squallmaw drinks the lightning. The deck begins to hum...
+65	The Sunworm opens its throat — the light pours out!
+66	The Sunworm swallows the heart-ember. Its scales blaze white — ice hisses away to steam! But the glare cracks its armour along the seams...
+67	Light gathers behind the Sunworm's scales, brighter and brighter...
+68	Slag bubbles up from the floor and takes shape!
+69	"Dawnguard — BREAK THEM!" Severine drives her lance through the whole line!
+70	"Marines! To me!"
+71	"I said TO ME!"
+72	Severine sets her lance and plants her feet...
+73	The Ledger Exchange
+74	A smugglers' canyon in a fallen mountain. The Halcyon's grave — or her cradle.
+75	Where the airships fell when the sky broke.
+76	A pilgrim galleon pinned in a storm that would not end.
+77	Odessa's sun-ember mine. The only warm place left in the world.

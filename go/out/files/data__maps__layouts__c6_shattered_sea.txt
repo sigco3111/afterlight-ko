@@ -1,32 +1,22 @@
-      ggg            aaaaaaa                                            
-    ggggggg      aaaaaaaaaa++++           uuuuuuu                       
-   g####ggg      aaaaaaaaaa++++          uuuuuuuuuu                     
-  gg####gggg=====aaaaaaaaaa++++a         uuuuuuuuuu  qqqq               
-  gggggggggg=====aaaaaaaaaaaaaaa         uuuuuuuuuuu qqqq               
-  gggggggggg     aaaaaaaaaaaaaaa   qqqq  uuuuuuuuuu                     
-    gggggg       aaaaaaaaaaaaaa    qqqq   uuuuuuuu                      
-        g           aaaaaaaa                ==                          
-                       ==                   ==           aaaaaaaa       
-                      q==                   ==          aaaaaaaaaa      
-                   qqqq==qqq                ==        aaaaaaaaaaaaa     
-    aaaaa          qqqqqqqqqq            qqq==q       aaaaaauuauaaaa    
-  aaaaaaaa       qqqqqggggqqqqq         qqqqqqqq     aaaauuuuuuuuaaaa   
- aaaaaaaaaa      qqqgggggggqqqq        qqqqqqqqq    aaaaauuuuuuuuaaaa   
-===aaaaaaaa=====qqqqggggggggqqq========qqqqqqqqqq===aaaauuuuuuuuuuaaa===
- aaaaaaaaa       qqqqggggggqqqqq       qqqqqqqqqq    aaauuuuuuuuuuaaa   
-  aaaaaaaa       qqqqqgggggqqqq         qqqqqqqq      aaauuuuuuuuaaaa   
-    aaaaa         qqqqqqqqqqq             qqqqq       aaaauauuaaaaaa    
-                    qqqqqqqqq                          aaaaaaaaaaaa     
-                       == q                            aaaaaaaaaaa      
-                       ==                                aaaaaa         
-            qqqq       ==          qq                                   
-            qqqq       ==        qqqqqq                                 
-                       ==        qqqqqq                                 
-                   aaaaaaaaaa      qq                                   
-               WWWWWWWW++WWWWWWWWW                                      
-              aW+++++++++++++++++W                                      
-              aW++++++++++WWWWW++Wa                               qqqq  
-  qq         aaW++++++++++W+++W++Wa               qqqq           qqqqqq 
- qqqq        aaW++++++++++W+++W++Wa               qqqq           qqqqqq 
- qqqqq       aaW+++++++++++++++++Wa                               qqqq  
-                                                           dD  d        
+1	    ggggggg      aaaaaaaaaa++++           uuuuuuu                       
+2	   g####ggg      aaaaaaaaaa++++          uuuuuuuuuu                     
+3	  gg####gggg=====aaaaaaaaaa++++a         uuuuuuuuuu  qqqq               
+4	  gggggggggg=====aaaaaaaaaaaaaaa         uuuuuuuuuuu qqqq               
+5	        g           aaaaaaaa                ==                          
+6	                       ==                   ==           aaaaaaaa       
+7	                      q==                   ==          aaaaaaaaaa      
+8	                   qqqq==qqq                ==        aaaaaaaaaaaaa     
+9	    aaaaa          qqqqqqqqqq            qqq==q       aaaaaauuauaaaa    
+10	===aaaaaaaa=====qqqqggggggggqqq========qqqqqqqqqq===aaaauuuuuuuuuuaaa===
+11	                       == q                            aaaaaaaaaaa      
+12	                       ==                                aaaaaa         
+13	            qqqq       ==          qq                                   
+14	            qqqq       ==        qqqqqq                                 
+15	                       ==        qqqqqq                                 
+16	               WWWWWWWW++WWWWWWWWW                                      
+17	              aW+++++++++++++++++W                                      
+18	              aW++++++++++WWWWW++Wa                               qqqq  
+19	  qq         aaW++++++++++W+++W++Wa               qqqq           qqqqqq 
+20	 qqqq        aaW++++++++++W+++W++Wa               qqqq           qqqqqq 
+21	 qqqqq       aaW+++++++++++++++++Wa                               qqqq  
+22	                                                           dD  d        

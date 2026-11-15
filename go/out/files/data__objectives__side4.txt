@@ -1,4 +1,3 @@
-chest:abyss_3:c0
-Cinderwing
-Glasshide
-Gravemouth
+1	Cinderwing
+2	Glasshide
+3	Gravemouth

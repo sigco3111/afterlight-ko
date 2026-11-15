@@ -1,12 +1,7 @@
-qdqqqqqqqqqqqqqssssssss#sss#######ssssss##
-ddddqqqqqqqqqqqssssssssssssssssssssssssss#
-qqqqqqqqqqqqqqqssssssssssssssssss:::::::::
-qqqqqqqqqqqqqqqsqssssssssssss:::::::::::::
-qqqqqqqqqqqqqqq:::::::::::::::::::ssssssss
-qqqqqqqqqqqqq:::::::::::::::::ssssssssssss
-qqqqqqqqqqq:::::qqqqssssssssssssssssssssss
-::::::::::::::qqqqqqsssssdddddddddssssssss
-::::::::::::qqqqqqqqsssssdddddddddssssssss
-         b    D        Ro                 
-  D      o                      OO   o    
-g       DRo o              k              
+1	qdqqqqqqqqqqqqqssssssss#sss#######ssssss##
+2	ddddqqqqqqqqqqqssssssssssssssssssssssssss#
+3	::::::::::::::qqqqqqsssssdddddddddssssssss
+4	::::::::::::qqqqqqqqsssssdddddddddssssssss
+5	         b    D        Ro                 
+6	  D      o                      OO   o    
+7	g       DRo o              k              

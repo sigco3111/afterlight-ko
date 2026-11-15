@@ -1,3 +1,2 @@
-Autosave · 
-sv-list panel
-.sv-faces
+1	Autosave · 
+2	.sv-faces

@@ -1,3 +1,3 @@
-The bells of Aurenne ring the hour.
-Not from here. I'd land on a chimney.
-Leap
+1	The bells of Aurenne ring the hour.
+2	Not from here. I'd land on a chimney.
+3	Leap

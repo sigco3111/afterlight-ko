@@ -1,3 +1,2 @@
-SSSSIIIIIIIIISSSS
- HH^         ^HH 
-  jj jj   jj jj  
+1	SSSSIIIIIIIIISSSS
+2	 HH^         ^HH 

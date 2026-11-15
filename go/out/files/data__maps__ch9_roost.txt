@@ -1,70 +1,70 @@
-Aunt Odessa says to give you the family discount. We don't have a family discount. She says to invent one.
-The Ledger Exchange. Everything's for sale, and everything's written down. Aunt Odessa's rule.
-Ferry
-I saw him shoot the line. From up here, I saw it.
-Tell him— no. Don't tell him anything. Just tell him Gemma says the paint's still ugly.
-He went up the plank? He actually went *up* it?
-I crewed the Halcyon six years. I left when he turned east. Maybe I'll come back when he turns around.
-I was his bosun, once. Best crew in the sky.
-When the sea went up, we had the engines hot and the kids' island in sight. He looked at it for a long time. Then he said "east."
-I got off at the first rock we came to. Haven't spoken to him since.
-Stormsilk. You brought back stormsilk.
-My Arlo flew a silk-rigger. Could I— no. No, it's for your ship. Just let me look at it a moment.
-...Thank you. It still smells of weather.
-I knit with sailcloth. It's all that falls out of the sky now — sails, and the people who were under them.
-My Arlo went up the morning the sun broke. I keep knitting him scarves. I've got eleven. He'll be ever so warm.
-The Noon Spire. Of course it was the Spire.
-I sang in the Choir for twenty years. There is nothing I want to say to the Hierophant that a hymn would carry.
-I was a Cantor of the Choir. I took off the robe the night the sun broke. Kept the hood. It's cold.
-Pilgrims still fly north, you know. To a white tower on the brightest shard. They say inside it is always the afternoon of a summer festival, and the dead are there, waiting.
-They say a great many things. The pilgrims don't come back to say otherwise.
-Bird stew! Bird stew! Don't ask what bird. I don't ask the birds what you are.
-There used to be seagulls, you know. Before. I miss complaining about them.
-We came from the Mirefen shards. Walked the sky-bridges, three weeks.
-Nia sleeps fine now. I don't. Somebody has to listen for the bridges creaking.
-You're going to try. You said. I heard you.
-Are you the girl from the song? The one with the red hair?
-Did you really break the sun?
-Yes. I did.
-Can you fix it?
-I'm going to try.
-The song doesn't say that part. Somebody should put it in.
-Lift's yours, with Mags's key. Mind the bottom — it bites.
-Not the lift. The Boneyard. The lift's very well behaved.
-Lift's chained. Mags keeps the key. Mags keeps everything.
-Down there's the Boneyard. Everything that fell out of the sky. Some of it's still moving.
-The skiff
-An empty mooring post. The cut line trails over the edge into nothing.
-Corvin's skiff: a one-man sky-boat, sleek and patched, moored to the Lip by a single line.
-Its tank is full. Someone has been keeping it full.
-The bow
-Ash, and the long scar in it where a ship used to lie.
-HALCYON, in chipped gold leaf. Below it, smaller, an older name has been painted over. You can just make out the first letters: H-A-L.
-A campfire of kite-sticks and chair legs. Someone has drawn a ship in the ash beside it, with a very large flag and a very small captain.
-A table made from a door. The chart on it is mostly blank, with careful notes in the margins: HERE BE NOTHING. HERE TOO. HERE, POSSIBLY, SOUP.
-Kite-tails and prayer-flags snap on the lines. Someone has stitched names onto them. Dozens of names. Under the newest: COME HOME.
-Ox's anvil, scattered with clock-hands. Dozens of them, all pointing different ways.
-The lift winch. A chalk tally on its housing counts the people who went down to the Boneyard this year. A second tally counts the ones who came up. The second one is shorter.
-The stocks. Someone has carved, very small, into the wood: THE GOAT WAS A DOG.
-Lift's chained. Mags has the key.
-@world
-Not yet. We came here for a ship.
-You... got a coil. Out of the Boneyard.
-...Go show Mags. She'll be insufferable. Let her.
-Mags. Wreck. Up the canyon. I'm not coming.
-Don't look at me like that, sparrow. Your mother used to look at me like that.
-Inn
-Beds upstairs. Two hundred. The Captain's old room's free — first time in a year he isn't sleeping on my bar.
-Beds upstairs, two hundred a night. Breakfast is whatever Marta caught. Don't ask what.
-the Last Call
-Zzz... five more minutes...
-...five more years...
-Bottles, labeled in Tuck's square hand: NOT FOR CORVIN. One new label, the ink still wet: STILL NOT FOR CORVIN. GOOD.
-Bottles, mostly empty, all labeled in Tuck's square hand: NOT FOR CORVIN.
-A card table. The felt is worn through in exactly one place: where the dealer's left hand rests.
-Debits on the left, credits on the right. Debtors on the carpet.
-Madam Quill has never once been wrong about a number. She's been wrong about people. Twice. She keeps a ledger of that too.
-Ledgers to the ceiling, each spine labeled with a year. The newest are labeled only: AFTER.
-A ledger lies open to a page near the back. There is a tidy gap where one page was torn out.
-A ledger lies open to a page near the back, worn soft with handling. ASHE, C. The column of figures runs to the bottom and over the page.
-A small statue of a woman holding scales. Someone has balanced a coin on each pan. They are perfectly level.
+1	Aunt Odessa says to give you the family discount. We don't have a family discount. She says to invent one.
+2	The Ledger Exchange. Everything's for sale, and everything's written down. Aunt Odessa's rule.
+3	Ferry
+4	I saw him shoot the line. From up here, I saw it.
+5	Tell him— no. Don't tell him anything. Just tell him Gemma says the paint's still ugly.
+6	He went up the plank? He actually went *up* it?
+7	I crewed the Halcyon six years. I left when he turned east. Maybe I'll come back when he turns around.
+8	I was his bosun, once. Best crew in the sky.
+9	When the sea went up, we had the engines hot and the kids' island in sight. He looked at it for a long time. Then he said "east."
+10	I got off at the first rock we came to. Haven't spoken to him since.
+11	Stormsilk. You brought back stormsilk.
+12	My Arlo flew a silk-rigger. Could I— no. No, it's for your ship. Just let me look at it a moment.
+13	...Thank you. It still smells of weather.
+14	I knit with sailcloth. It's all that falls out of the sky now — sails, and the people who were under them.
+15	My Arlo went up the morning the sun broke. I keep knitting him scarves. I've got eleven. He'll be ever so warm.
+16	The Noon Spire. Of course it was the Spire.
+17	I sang in the Choir for twenty years. There is nothing I want to say to the Hierophant that a hymn would carry.
+18	I was a Cantor of the Choir. I took off the robe the night the sun broke. Kept the hood. It's cold.
+19	Pilgrims still fly north, you know. To a white tower on the brightest shard. They say inside it is always the afternoon of a summer festival, and the dead are there, waiting.
+20	They say a great many things. The pilgrims don't come back to say otherwise.
+21	Bird stew! Bird stew! Don't ask what bird. I don't ask the birds what you are.
+22	There used to be seagulls, you know. Before. I miss complaining about them.
+23	We came from the Mirefen shards. Walked the sky-bridges, three weeks.
+24	Nia sleeps fine now. I don't. Somebody has to listen for the bridges creaking.
+25	You're going to try. You said. I heard you.
+26	Are you the girl from the song? The one with the red hair?
+27	Did you really break the sun?
+28	Yes. I did.
+29	Can you fix it?
+30	I'm going to try.
+31	The song doesn't say that part. Somebody should put it in.
+32	Lift's yours, with Mags's key. Mind the bottom — it bites.
+33	Not the lift. The Boneyard. The lift's very well behaved.
+34	Lift's chained. Mags keeps the key. Mags keeps everything.
+35	Down there's the Boneyard. Everything that fell out of the sky. Some of it's still moving.
+36	The skiff
+37	An empty mooring post. The cut line trails over the edge into nothing.
+38	Corvin's skiff: a one-man sky-boat, sleek and patched, moored to the Lip by a single line.
+39	Its tank is full. Someone has been keeping it full.
+40	The bow
+41	Ash, and the long scar in it where a ship used to lie.
+42	HALCYON, in chipped gold leaf. Below it, smaller, an older name has been painted over. You can just make out the first letters: H-A-L.
+43	A campfire of kite-sticks and chair legs. Someone has drawn a ship in the ash beside it, with a very large flag and a very small captain.
+44	A table made from a door. The chart on it is mostly blank, with careful notes in the margins: HERE BE NOTHING. HERE TOO. HERE, POSSIBLY, SOUP.
+45	Kite-tails and prayer-flags snap on the lines. Someone has stitched names onto them. Dozens of names. Under the newest: COME HOME.
+46	Ox's anvil, scattered with clock-hands. Dozens of them, all pointing different ways.
+47	The lift winch. A chalk tally on its housing counts the people who went down to the Boneyard this year. A second tally counts the ones who came up. The second one is shorter.
+48	The stocks. Someone has carved, very small, into the wood: THE GOAT WAS A DOG.
+49	Lift's chained. Mags has the key.
+50	@world
+51	Not yet. We came here for a ship.
+52	You... got a coil. Out of the Boneyard.
+53	...Go show Mags. She'll be insufferable. Let her.
+54	Mags. Wreck. Up the canyon. I'm not coming.
+55	Don't look at me like that, sparrow. Your mother used to look at me like that.
+56	Inn
+57	Beds upstairs. Two hundred. The Captain's old room's free — first time in a year he isn't sleeping on my bar.
+58	Beds upstairs, two hundred a night. Breakfast is whatever Marta caught. Don't ask what.
+59	the Last Call
+60	Zzz... five more minutes...
+61	...five more years...
+62	Bottles, labeled in Tuck's square hand: NOT FOR CORVIN. One new label, the ink still wet: STILL NOT FOR CORVIN. GOOD.
+63	Bottles, mostly empty, all labeled in Tuck's square hand: NOT FOR CORVIN.
+64	A card table. The felt is worn through in exactly one place: where the dealer's left hand rests.
+65	Debits on the left, credits on the right. Debtors on the carpet.
+66	Madam Quill has never once been wrong about a number. She's been wrong about people. Twice. She keeps a ledger of that too.
+67	Ledgers to the ceiling, each spine labeled with a year. The newest are labeled only: AFTER.
+68	A ledger lies open to a page near the back. There is a tidy gap where one page was torn out.
+69	A ledger lies open to a page near the back, worn soft with handling. ASHE, C. The column of figures runs to the bottom and over the page.
+70	A small statue of a woman holding scales. Someone has balanced a coin on each pan. They are perfectly level.

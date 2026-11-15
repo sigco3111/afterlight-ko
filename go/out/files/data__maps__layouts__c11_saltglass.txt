@@ -1,30 +1,23 @@
-               gggggggg g               
-            g ggggg===gggggg      ss    
-               gggg===ggg       ssssss  
-  sssss            ===         sssssss  
-  sssssss          ===         ssggggss 
- ssssssss          ===         ssggggss 
- ssssssss      gggg===g       ==ssssssss
-sssgggg===    ggggg===ggggg ====sssssss 
- ssgggg====  gggggggggggggg====ssssssss 
-  sssssss====gggggggggggggg==   ssssss  
-  sssss   ===gggggggggggggggg    s      
-             gg==gggggg==ggg            
-             g===gggggg===              
-              == ggggggg===             
-        sssss===         ===ssssss      
-      sssssss==ss       ss==ssssssss    
-    ssssssssssssss      sssssggggsss    
-    ssssssssssssss     ssssssggggssss   
-    sssggggsssssss     ssssssssssssss   
-     ssggggsssssss      ssssssssssss    
-     sssssss==ss        sss==ssssss     
-        ssss===          ====ssss       
-             ===ssssssss====            
-             s==ssssssss==              
-         ====ssssssssssssss             
-    sss======sssssssssssssss            
-   ssss===  sssssssssssssss             
-   ssssss     ssssssssssss              
-    ssss       ssss==sss                
-  oc                            x       
+1	            g ggggg===gggggg      ss    
+2	               gggg===ggg       ssssss  
+3	  sssss            ===         sssssss  
+4	  sssssss          ===         ssggggss 
+5	 ssssssss          ===         ssggggss 
+6	 ssssssss      gggg===g       ==ssssssss
+7	sssgggg===    ggggg===ggggg ====sssssss 
+8	 ssgggg====  gggggggggggggg====ssssssss 
+9	  sssssss====gggggggggggggg==   ssssss  
+10	  sssss   ===gggggggggggggggg    s      
+11	             gg==gggggg==ggg            
+12	             g===gggggg===              
+13	              == ggggggg===             
+14	        sssss===         ===ssssss      
+15	      sssssss==ss       ss==ssssssss    
+16	     sssssss==ss        sss==ssssss     
+17	        ssss===          ====ssss       
+18	             ===ssssssss====            
+19	             s==ssssssss==              
+20	         ====ssssssssssssss             
+21	    sss======sssssssssssssss            
+22	   ssss===  sssssssssssssss             
+23	    ssss       ssss==sss                

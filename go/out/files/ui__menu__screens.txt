@@ -1,16 +1,7 @@
-it-left panel
-it-desc panel
-st-left panel
-st-mid panel
-st-right panel
-<div class="dim">None</div>
-.dim
-set-list panel
-}</span>
-jn panel
-}</div>
-<div class="dim">No side quests yet.</div>
-Explore.
-<p class="dim">Nothing yet.</p>
-bs-left panel
-bs-detail panel
+1	<div class="dim">None</div>
+2	.dim
+3	}</span>
+4	}</div>
+5	<div class="dim">No side quests yet.</div>
+6	Explore.
+7	<p class="dim">Nothing yet.</p>

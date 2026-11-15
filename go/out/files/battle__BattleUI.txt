@@ -1,20 +1,15 @@
-b-party panel
-b-bar hp
-<i></i><span></span>
-b-bar mp
-.b-portrait
-.b-name
-.b-crest
-<div class="ag-label">AFTERGLOW</div><div class="ag-segs">
-</div>
-<span class="wk unk">?</span>
-panel victory
-<div class="v-title">Victory</div>
-<div class="v-members">
- <span class="v-up">LEVEL UP!</span>
-width:${(asc || prog).frac * 100}%
-</div><div class="v-hint">▼</div>
-panel levelup
- : ''}</span></div>
-<span class="cost">▸</span>
-<div class="cmd-desc">{0}{1}</div>
+1	<i></i><span></span>
+2	.b-portrait
+3	.b-name
+4	.b-crest
+5	<div class="ag-label">AFTERGLOW</div><div class="ag-segs">
+6	</div>
+7	<span class="wk unk">?</span>
+8	<div class="v-title">Victory</div>
+9	<div class="v-members">
+10	 <span class="v-up">LEVEL UP!</span>
+11	width:${(asc || prog).frac * 100}%
+12	</div><div class="v-hint">▼</div>
+13	 : ''}</span></div>
+14	<span class="cost">▸</span>
+15	<div class="cmd-desc">{0}{1}</div>

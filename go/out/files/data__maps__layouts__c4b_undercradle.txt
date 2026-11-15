@@ -1,19 +1,19 @@
-                      cc===c                      
-     ccccc            cc===c            cccc      
-    cccccccc        cccc===cccc       cccccccc    
-   cccCccccc       cccccccccccc      cccccccccc   
-   ccccccccc=======Cccccccccccc=======ccccccccc   
-   ccccccccc=======cccccccccccc=======ccccccccc   
-   cccccccccc      ccccccccccccC     cccccccccc   
-    cccccccc       ==ccccccccc        ccccccCc    
-     cccccc       ===ccc===cc           cccc      
-       cccccc==         ===                       
-      ccccccccc         ===                       
-      cccccccccc        ===                       
-       cCccccccc        ===                       
-       ccccccc          ===                       
-          c          ccc===cc                     
-                    cccc===ccc                    
-                     ccc===cc                     
-                   ccccc===ccccc                  
-                 ccccccc===cccccc                 
+1	                      cc===c                      
+2	     ccccc            cc===c            cccc      
+3	    cccccccc        cccc===cccc       cccccccc    
+4	   cccCccccc       cccccccccccc      cccccccccc   
+5	   ccccccccc=======Cccccccccccc=======ccccccccc   
+6	   ccccccccc=======cccccccccccc=======ccccccccc   
+7	   cccccccccc      ccccccccccccC     cccccccccc   
+8	    cccccccc       ==ccccccccc        ccccccCc    
+9	     cccccc       ===ccc===cc           cccc      
+10	       cccccc==         ===                       
+11	      ccccccccc         ===                       
+12	      cccccccccc        ===                       
+13	       cCccccccc        ===                       
+14	       ccccccc          ===                       
+15	          c          ccc===cc                     
+16	                    cccc===ccc                    
+17	                     ccc===cc                     
+18	                   ccccc===ccccc                  
+19	                 ccccccc===cccccc                 

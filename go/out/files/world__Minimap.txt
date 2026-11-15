@@ -1,8 +1,8 @@
-<i class="you">▲</i> You
-<i class="obj">◆</i> Objective
-<i class="side">◆</i> Side quest
-<i class="exit">■</i> Exit
-<i class="save">■</i> Hearthstone
-<i class="door">■</i> Door
-@world
-).join(';')}
+1	<i class="you">▲</i> You
+2	<i class="obj">◆</i> Objective
+3	<i class="side">◆</i> Side quest
+4	<i class="exit">■</i> Exit
+5	<i class="save">■</i> Hearthstone
+6	<i class="door">■</i> Door
+7	@world
+8	).join(';')}

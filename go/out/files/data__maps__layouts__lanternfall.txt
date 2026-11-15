@@ -1,31 +1,31 @@
-~~~~~s~........................::......ss~~~~~
-~~~ss.........................::..........s~~~
-~~~s............:.............::.........sss~~
-~~ss............:..;;;;;:;;;..::..........s~~~
-s~ss............::::;;;;;;::::::..........ss~~
-sssss..............;;;;;;;::::::::::::::::::::
-~ssss.....::::::::::;;::;;;;..::::::::::::::::
-s~sss..............;;;::;;;;............ss::::
-~~ssss................::................ss::::
-~~sssss...............::................ssss~~
-~~~ssssss.............::.............sssssss~~
-~~ssssssss............::...........sssssssss~~
-~~~s~sssssss.s........::..........ssssssss~~~~
-~~~~ssssssssssss.s....::....sssssssssssss~~~~~
-~~~~~~ssssssssssssssss===sssssssssssssss~~~~~~
-~~~~~~~s~sssssssssssss===sssssssssssss~~~~~~~~
-~~~~~~~~~ss~ssssssssss===ssssssssss~~~~~~~~~~~
-~~~~~~~~~~~~~~~sssssss===sssss~~~~~~~~~~~~~~~~
-                b    P  Pb       bT        P  
-                T         P PTP P       P  P  
-  PP                              P     T P   
-      Pf                         P   Tb       
-      b f    P b     Pb     P       P P       
-                    f     FF         f        
-             FFF F                            
-    g         gf  L s       L                 
-         g       fL        $L                 
-          g      ggg                    O     
-           Tg          L  g  T     h          
-                o    O   kg g                 
-The Lantern is sealed until the Kindling.
+1	~~~~~s~........................::......ss~~~~~
+2	~~~ss.........................::..........s~~~
+3	~~~s............:.............::.........sss~~
+4	~~ss............:..;;;;;:;;;..::..........s~~~
+5	s~ss............::::;;;;;;::::::..........ss~~
+6	sssss..............;;;;;;;::::::::::::::::::::
+7	~ssss.....::::::::::;;::;;;;..::::::::::::::::
+8	s~sss..............;;;::;;;;............ss::::
+9	~~ssss................::................ss::::
+10	~~sssss...............::................ssss~~
+11	~~~ssssss.............::.............sssssss~~
+12	~~ssssssss............::...........sssssssss~~
+13	~~~s~sssssss.s........::..........ssssssss~~~~
+14	~~~~ssssssssssss.s....::....sssssssssssss~~~~~
+15	~~~~~~ssssssssssssssss===sssssssssssssss~~~~~~
+16	~~~~~~~s~sssssssssssss===sssssssssssss~~~~~~~~
+17	~~~~~~~~~ss~ssssssssss===ssssssssss~~~~~~~~~~~
+18	~~~~~~~~~~~~~~~sssssss===sssss~~~~~~~~~~~~~~~~
+19	                b    P  Pb       bT        P  
+20	                T         P PTP P       P  P  
+21	  PP                              P     T P   
+22	      Pf                         P   Tb       
+23	      b f    P b     Pb     P       P P       
+24	                    f     FF         f        
+25	             FFF F                            
+26	    g         gf  L s       L                 
+27	         g       fL        $L                 
+28	          g      ggg                    O     
+29	           Tg          L  g  T     h          
+30	                o    O   kg g                 
+31	The Lantern is sealed until the Kindling.

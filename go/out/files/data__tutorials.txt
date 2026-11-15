@@ -1,11 +1,11 @@
-Battle
-Don't feel like fighting this one? *Auto* lets the party fight on its own ({key:info} turns it on and off), and *Skip* plays the whole battle out at once and shows the results.
-In the command menu, press {key:pageLeft} / {key:pageRight} to *Surge*: spend it to strengthen the action you pick.
-In the menu ({key:menu}), *Crests* sets each character's *Primary* Crest (stats, weapons, Arts) and *Secondary* Crest (its Arts too). Crests rank up with CP from battle.
-New gear! Open *Equipment* in the menu ({key:menu}) to put it on. What each character can wear depends on their primary Crest.
-Press {key:info} there to *Optimize*: the best you own, all at once.
-The game *autosaves* too, into three rotating slots. On the Save or Load screen, {key:info} exports a save to a file or imports one.
-Riding
-*Kindle* the Emberhart carries you on open roads and in the wilds. Press {key:ride} to ride, and again to get down.
-*The Compendium* is in the menu ({key:menu}). It records every creature you meet, chapter by chapter, with *???* where something is still out there.
-It fills in as you learn: weaknesses you strike or Scan, resistances you run into, moves you see. Fell three of a kind to learn its tactics. {key:pageLeft} / {key:pageRight} turn the sections.
+1	Battle
+2	Don't feel like fighting this one? *Auto* lets the party fight on its own ({key:info} turns it on and off), and *Skip* plays the whole battle out at once and shows the results.
+3	In the command menu, press {key:pageLeft} / {key:pageRight} to *Surge*: spend it to strengthen the action you pick.
+4	In the menu ({key:menu}), *Crests* sets each character's *Primary* Crest (stats, weapons, Arts) and *Secondary* Crest (its Arts too). Crests rank up with CP from battle.
+5	New gear! Open *Equipment* in the menu ({key:menu}) to put it on. What each character can wear depends on their primary Crest.
+6	Press {key:info} there to *Optimize*: the best you own, all at once.
+7	The game *autosaves* too, into three rotating slots. On the Save or Load screen, {key:info} exports a save to a file or imports one.
+8	Riding
+9	*Kindle* the Emberhart carries you on open roads and in the wilds. Press {key:ride} to ride, and again to get down.
+10	*The Compendium* is in the menu ({key:menu}). It records every creature you meet, chapter by chapter, with *???* where something is still out there.
+11	It fills in as you learn: weaknesses you strike or Scan, resistances you run into, moves you see. Fell three of a kind to learn its tactics. {key:pageLeft} / {key:pageRight} turn the sections.

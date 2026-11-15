@@ -1,2 +1,2 @@
-           P    P     PR     P R        
-               S      P S PR            
+1	           P    P     PR     P R        
+2	               S      P S PR            

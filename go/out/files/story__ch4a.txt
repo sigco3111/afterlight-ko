@@ -1,15 +1,15 @@
-...Ilse. Look.
-Being... hot?
- : 'Something used to sit in them'}.
-Define "owe."
-Oi!
-...Sorry.
-Sixteen.
-Mm.
-...Fourteen.
-Eleven, then.
-Yes, ma'am.
-...Yeah. Yeah, okay. Yes.
-Rogue.
-Pay 600 gold
-It's _tuning_ it.
+1	...Ilse. Look.
+2	Being... hot?
+3	 : 'Something used to sit in them'}.
+4	Define "owe."
+5	Oi!
+6	...Sorry.
+7	Sixteen.
+8	Mm.
+9	...Fourteen.
+10	Eleven, then.
+11	Yes, ma'am.
+12	...Yeah. Yeah, okay. Yes.
+13	Rogue.
+14	Pay 600 gold
+15	It's _tuning_ it.

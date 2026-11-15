@@ -1,3 +1,2 @@
-                                     xd   x     
-    a ^     Rx                                  
-       R  d                                oa   
+1	    a ^     Rx                                  
+2	       R  d                                oa   

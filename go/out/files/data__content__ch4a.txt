@@ -1,85 +1,85 @@
-Singing Saltglass
-Lift-glass from the Glass Caverns. It hums when you hold it to the sun — and when you hold it near the tuning forks.
-Halvard's Score
-The Dawnsong in Brother Halvard's cramped hand. One note is circled twice. Beside it: REFLECTION?
-Bell Stair Key
-An iron key, warm from Halvard's hand.
-Sand Blast
-Glare
-Siren Song
-Erupt
-Song of Breaking
-Avalanche
-Hold the Line
-Execution Sweep
-Thorne's Verdict
-Shield Wall
-Dune Scorpion
-The color of the dunes at noon. You find out it is there when it finds out you are.
-Wyrmling
-A sand wyrm hatchling: the length of a man and all appetite. Its mother is never far.
-Sun Wisp
-A shimmer of heat that decided to stay. Drinks fire. Fears the dark.
-Bone Vulture
-It is patient. In the Sunscar, patience always eats.
-Takes your water first. Then your boots. Then, if you complain, you.
-Raider Slinger
-Throws sand, stones and insults, all with remarkable accuracy.
-Mirage
-It wears the shape of what you want most. Up close it is only heat and hunger.
-Sandmaw
-A sand wyrm in its prime: forty feet of hunger that swims the dunes like open sea.
-Raider-king of the southern dunes. Laughs like a jackal. Fights like three of them.
-Glassback
-Its shell is saltglass. It chimes when it walks, which is the only mercy it offers.
-Prism Bat
-Wings thin enough to throw rainbows. It throws them in your eyes.
-Saltglass Golem
-The caverns grow them like geodes. Nobody knows what wakes them. Something does.
-Glass Crawler
-Spins its webs from molten sand. They set like glass, and so do you.
-Brood Wyrm
-The Queen's children. Half-grown and wholly furious.
-The Sand Wyrm Queen
-She has eaten caravans whole. Her scales are saltglass; her song is the sound of the desert breaking.
-Frost Wolf
-Hunts in the white. Its coat is snow; its breath is the cold that comes after.
-Crag Harpy
-They sing travelers to sleep in the snow. The snow does the rest.
-Rime Elemental
-A winter that learned to walk. It does not hate you. It only wishes you were still.
-Snowdrift Ogre
-Sleeps under the snow for months. Wakes up hungry and offended.
-Whitefang
-Old as the monastery, the monks say. Every squire who ever kept the Vigil has heard it howl.
-Icicle Bat
-Hangs from the ceiling like an icicle. Falls like one too, but with teeth.
-Gray cloaks over Dawnguard steel. They used to guard the dawn. Now they guard something else.
-Vesper Arbalist
-Crossbows wound with Choir prayers. The bolts still hurt.
-They hum the same few notes over and over. After a while, you catch yourself humming them too.
-Thorne's Guard
-Garrick's chosen. They do not speak. They do not retreat.
-Lord-Commander of the Dawnguard and the Hierophant's sword. Nobody has ever asked him to explain himself.
-The sand ERUPTS beneath your feet!
-Sandmaw shrieks. Something small and hungry answers from under the dunes!
-Sandmaw dives beneath the sand... the dune begins to tremble.
-"Ha! Lads — fresh meat, fresh water! GET IN HERE!"
-Sarn kicks up a wall of sand!
-The Queen bursts up through the glass floor!
-The Queen SHRIEKS. The cavern walls crack — and the glass comes down like rain!
-The Queen calls, and the walls answer with small hungry voices.
-The Queen sinks into the sand. The glass floor starts to hum...
-The Queen sings. Your armor sings back — and cracks.
-The mountain answers Whitefang's howl!
-Somewhere above, the pack answers.
-Whitefang throws back its head and HOWLS. Snow shivers on the slopes above...
-"Kneel, Kestrel."
-"Judgement."
-"Form up. Shields high. This will not take long."
-Garrick wipes blood from his mouth and laughs. "Good. GOOD. Again."
-"Enough." Garrick plants his greatsword in the snow. "Guard! To me!"
-"Still shaking, Kestrel? Aldous would be so proud."
-A town of glass and wind around the blind Keeper's Lantern. The caravans gather here.
-The snow monastery, where the oldest Dawnsong is carved in ice.
-Ysmay's Water & Sundries
+1	Singing Saltglass
+2	Lift-glass from the Glass Caverns. It hums when you hold it to the sun — and when you hold it near the tuning forks.
+3	Halvard's Score
+4	The Dawnsong in Brother Halvard's cramped hand. One note is circled twice. Beside it: REFLECTION?
+5	Bell Stair Key
+6	An iron key, warm from Halvard's hand.
+7	Sand Blast
+8	Glare
+9	Siren Song
+10	Erupt
+11	Song of Breaking
+12	Avalanche
+13	Hold the Line
+14	Execution Sweep
+15	Thorne's Verdict
+16	Shield Wall
+17	Dune Scorpion
+18	The color of the dunes at noon. You find out it is there when it finds out you are.
+19	Wyrmling
+20	A sand wyrm hatchling: the length of a man and all appetite. Its mother is never far.
+21	Sun Wisp
+22	A shimmer of heat that decided to stay. Drinks fire. Fears the dark.
+23	Bone Vulture
+24	It is patient. In the Sunscar, patience always eats.
+25	Takes your water first. Then your boots. Then, if you complain, you.
+26	Raider Slinger
+27	Throws sand, stones and insults, all with remarkable accuracy.
+28	Mirage
+29	It wears the shape of what you want most. Up close it is only heat and hunger.
+30	Sandmaw
+31	A sand wyrm in its prime: forty feet of hunger that swims the dunes like open sea.
+32	Raider-king of the southern dunes. Laughs like a jackal. Fights like three of them.
+33	Glassback
+34	Its shell is saltglass. It chimes when it walks, which is the only mercy it offers.
+35	Prism Bat
+36	Wings thin enough to throw rainbows. It throws them in your eyes.
+37	Saltglass Golem
+38	The caverns grow them like geodes. Nobody knows what wakes them. Something does.
+39	Glass Crawler
+40	Spins its webs from molten sand. They set like glass, and so do you.
+41	Brood Wyrm
+42	The Queen's children. Half-grown and wholly furious.
+43	The Sand Wyrm Queen
+44	She has eaten caravans whole. Her scales are saltglass; her song is the sound of the desert breaking.
+45	Frost Wolf
+46	Hunts in the white. Its coat is snow; its breath is the cold that comes after.
+47	Crag Harpy
+48	They sing travelers to sleep in the snow. The snow does the rest.
+49	Rime Elemental
+50	A winter that learned to walk. It does not hate you. It only wishes you were still.
+51	Snowdrift Ogre
+52	Sleeps under the snow for months. Wakes up hungry and offended.
+53	Whitefang
+54	Old as the monastery, the monks say. Every squire who ever kept the Vigil has heard it howl.
+55	Icicle Bat
+56	Hangs from the ceiling like an icicle. Falls like one too, but with teeth.
+57	Gray cloaks over Dawnguard steel. They used to guard the dawn. Now they guard something else.
+58	Vesper Arbalist
+59	Crossbows wound with Choir prayers. The bolts still hurt.
+60	They hum the same few notes over and over. After a while, you catch yourself humming them too.
+61	Thorne's Guard
+62	Garrick's chosen. They do not speak. They do not retreat.
+63	Lord-Commander of the Dawnguard and the Hierophant's sword. Nobody has ever asked him to explain himself.
+64	The sand ERUPTS beneath your feet!
+65	Sandmaw shrieks. Something small and hungry answers from under the dunes!
+66	Sandmaw dives beneath the sand... the dune begins to tremble.
+67	"Ha! Lads — fresh meat, fresh water! GET IN HERE!"
+68	Sarn kicks up a wall of sand!
+69	The Queen bursts up through the glass floor!
+70	The Queen SHRIEKS. The cavern walls crack — and the glass comes down like rain!
+71	The Queen calls, and the walls answer with small hungry voices.
+72	The Queen sinks into the sand. The glass floor starts to hum...
+73	The Queen sings. Your armor sings back — and cracks.
+74	The mountain answers Whitefang's howl!
+75	Somewhere above, the pack answers.
+76	Whitefang throws back its head and HOWLS. Snow shivers on the slopes above...
+77	"Kneel, Kestrel."
+78	"Judgement."
+79	"Form up. Shields high. This will not take long."
+80	Garrick wipes blood from his mouth and laughs. "Good. GOOD. Again."
+81	"Enough." Garrick plants his greatsword in the snow. "Guard! To me!"
+82	"Still shaking, Kestrel? Aldous would be so proud."
+83	A town of glass and wind around the blind Keeper's Lantern. The caravans gather here.
+84	The snow monastery, where the oldest Dawnsong is carved in ice.
+85	Ysmay's Water & Sundries

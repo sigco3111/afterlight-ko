@@ -1,22 +1,22 @@
-They say the Hierophant hasn't left Aurenne in eleven years. And he's coming _here_. For _our_ children.
-I've swept my step four times.
-You got VANGUARD? That's the best one! Can I hold your sword? Can I? Just the handle?
-Are you getting your Crest tomorrow? I hope I get Vanguard when I'm sixteen. Or Arcanist. Something with explosions.
-One Crest, one life, girl. My father was a Warden, I'm a Warden, my boy's a Warden.
-The light knows what you are. No sense arguing with the light.
-My Tamsy got Mender last spring. Cried for a week — she wanted Cantor.
-She's good at it now, though. Funny how the light knows.
-That white ship's got sails like an angel's wings. Never seen the like.
-Nor such a quiet crew.
-Tide's out further than I've ever seen. You can walk to the eel rocks.
-The sea's waiting for something.
-Any minute now! The Hierophant's ship! I've been here since dawn.
-If you see white sails, scream. I will too. We'll scream together.
-Tobias says the net's with Brisa. Tobias says a lot of things.
-Good luck tomorrow, love. Whatever the light says, you're still our Wren.
-Fish
-The village well. Someone has carved WREN + ILSE + THE SEA into the stone. You remember carving it.
-Your mother's herb garden. Rosemary, thyme, and a sea-lavender that has never once flowered.
-No time for the caves now.
-Not in this storm.
-The tide caves... Mom would kill me. I should do my chores first.
+1	They say the Hierophant hasn't left Aurenne in eleven years. And he's coming _here_. For _our_ children.
+2	I've swept my step four times.
+3	You got VANGUARD? That's the best one! Can I hold your sword? Can I? Just the handle?
+4	Are you getting your Crest tomorrow? I hope I get Vanguard when I'm sixteen. Or Arcanist. Something with explosions.
+5	One Crest, one life, girl. My father was a Warden, I'm a Warden, my boy's a Warden.
+6	The light knows what you are. No sense arguing with the light.
+7	My Tamsy got Mender last spring. Cried for a week — she wanted Cantor.
+8	She's good at it now, though. Funny how the light knows.
+9	That white ship's got sails like an angel's wings. Never seen the like.
+10	Nor such a quiet crew.
+11	Tide's out further than I've ever seen. You can walk to the eel rocks.
+12	The sea's waiting for something.
+13	Any minute now! The Hierophant's ship! I've been here since dawn.
+14	If you see white sails, scream. I will too. We'll scream together.
+15	Tobias says the net's with Brisa. Tobias says a lot of things.
+16	Good luck tomorrow, love. Whatever the light says, you're still our Wren.
+17	Fish
+18	The village well. Someone has carved WREN + ILSE + THE SEA into the stone. You remember carving it.
+19	Your mother's herb garden. Rosemary, thyme, and a sea-lavender that has never once flowered.
+20	No time for the caves now.
+21	Not in this storm.
+22	The tide caves... Mom would kill me. I should do my chores first.

@@ -1,44 +1,44 @@
-,,,,,,,,,,,o,oooooo,,,,,,,,,,,,,
-,,,,,,,,,,ooooooooooooo,,,,,,,,,
-,,,,,,,,ooooooooooooooooo,,,,,,,
-,,,,,,ooooooooooooooooooo,,,,,,,
-,,,,,,ooooooo......oooooooo,,,,,
-,,,,oooooo...........ooooooo,,,,
-,,,,oooooo.............ooooo,,,,
-,,,oooooo..............oooooo,,,
-,,,ooooo................oooo,,,,
-,,,ooooo................ooooo,,,
-,,::::oo................ooooo,,,
-::::::ooo..............oooooo,,,
-:::,ooooo..............ooooo,,,,
-,,,,,ooooo...........ooooooo,,,,
-,,,,,,ooooooo.....o.ooooooo,,,,,
-,,,,,,oooooooooooooooooooo,,,,,,
-,,,,,,,ooooooooooooooooo,,,,,,,,
-,,,,,,,,,ooooooooooooooo,,,,,,,,
-,,,,,,,,,,,oooooooo,o,,,,,,,,,,,
-,,,,,,,,,,,,,,oooo,,,,,,,,,,,,,,
-KK    K  TTTTP K T TPTK  T     T
- TT  TK TK  KTPTTTTTT TK  TPTTTT
- PT TT KT  TTPP  K   TP   PTT  T
-TP  P     P     g    PP  K P    
-TKK P KP Tf     g       P K TKPT
- P  PPKT                 KTPKTT 
-T       f    gg   g   G    T  T 
-TKT    g f                  PPKP
- KPP      K           K     T PT
-           f              G   TK
-  TB                 f g    T  T
-TKP       G         fg G G   KKK
-PTT                     f    PP 
-              B              TPP
-        g    G        g       TT
-                f     gG    PTT 
- TPPP   ff            $    TT T 
-T T   g            g     fPK TKK
-TPT  KKg                P KT KP 
-KP P  TTK               T K KTTP
-TKKTT TK T         T TKKP K TTKK
-PKT  TT TT  T       K KP   T KK 
- PP   T  T  T      K  PTTT PT PT
-P  T TK P  TK      TKKTTTKK PTTT
+1	,,,,,,,,,,,o,oooooo,,,,,,,,,,,,,
+2	,,,,,,,,,,ooooooooooooo,,,,,,,,,
+3	,,,,,,,,ooooooooooooooooo,,,,,,,
+4	,,,,,,ooooooooooooooooooo,,,,,,,
+5	,,,,,,ooooooo......oooooooo,,,,,
+6	,,,,oooooo...........ooooooo,,,,
+7	,,,,oooooo.............ooooo,,,,
+8	,,,oooooo..............oooooo,,,
+9	,,,ooooo................oooo,,,,
+10	,,,ooooo................ooooo,,,
+11	,,::::oo................ooooo,,,
+12	::::::ooo..............oooooo,,,
+13	:::,ooooo..............ooooo,,,,
+14	,,,,,ooooo...........ooooooo,,,,
+15	,,,,,,ooooooo.....o.ooooooo,,,,,
+16	,,,,,,oooooooooooooooooooo,,,,,,
+17	,,,,,,,ooooooooooooooooo,,,,,,,,
+18	,,,,,,,,,ooooooooooooooo,,,,,,,,
+19	,,,,,,,,,,,oooooooo,o,,,,,,,,,,,
+20	,,,,,,,,,,,,,,oooo,,,,,,,,,,,,,,
+21	KK    K  TTTTP K T TPTK  T     T
+22	 TT  TK TK  KTPTTTTTT TK  TPTTTT
+23	 PT TT KT  TTPP  K   TP   PTT  T
+24	TP  P     P     g    PP  K P    
+25	TKK P KP Tf     g       P K TKPT
+26	 P  PPKT                 KTPKTT 
+27	T       f    gg   g   G    T  T 
+28	TKT    g f                  PPKP
+29	 KPP      K           K     T PT
+30	           f              G   TK
+31	  TB                 f g    T  T
+32	TKP       G         fg G G   KKK
+33	PTT                     f    PP 
+34	              B              TPP
+35	        g    G        g       TT
+36	                f     gG    PTT 
+37	 TPPP   ff            $    TT T 
+38	T T   g            g     fPK TKK
+39	TPT  KKg                P KT KP 
+40	KP P  TTK               T K KTTP
+41	TKKTT TK T         T TKKP K TTKK
+42	PKT  TT TT  T       K KP   T KK 
+43	 PP   T  T  T      K  PTTT PT PT
+44	P  T TK P  TK      TKKTTTKK PTTT

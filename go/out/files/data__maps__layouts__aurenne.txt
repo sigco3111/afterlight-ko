@@ -1,45 +1,44 @@
-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-SS______________________________________,,,,,,,,SS
-SSdddddddd______________________________,,,,,,,,SS
-SSdddddddd___MMMMMMMMMMMMMMMMM__________,,,,,,,,SS
-SS;;;;___;;;;;;;;;;MMMM;MMMMMMMMMMMMMMMMMMMMMMMMSS
-SS;;;;;;;;;;;;;;;;;____;MMMMMMMMMMMMMMMMMMMMMMMMSS
-SS;;;;;;;;;;;;;;;;;____;MMMMMMMM,,,,,,,MMMMMMMMMSS
-SS;;;;;;;;;;;;;;;;;____;MMMMMM__MMMMMMMMMMMMMMMMSS
-SS;;;;;;;;;;;;;;;;;____;dddddd__ddddddddddddddddSS
-SS;;;;;;;;;;;;;;;;;____;ddddddddddddddddddddd___SS
-SS;;;;;;;;;;;;;;;;;____;ddddddddddddddddddd_____SS
-SS;:::::;;;;;;;;;;;____;ddddddddddddddddddd:d___SS
-SS;:::::;;;;;;;;;;;____;ddddddddddddd:ddddd:ddddSS
-SS;:::::;;;;;;;;;;;____;::::::::::::::::::::ddddSS
-SS;:::::;;;;;;;;;;;____;ddddmmddddddd:ddddddddddSS
-SS;:::::;;;;;;;;;;;____;ddmmmmmmddddd:ddddddddddSS
-SS;:::::;;;;;;;;;;;____;ddmmmmmmddddd:dmmmmmmdddSS
-SS;:::::;;;;;;;;;;;____;dddmmmmdddddd:dmmmmmmdddSS
-SS;;;;;;;;;;;;;;;;;____;ddddddddddddd:ddddddddddSS
-SS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;SS
-                                            Kff   
-         L                      L         BfK KK  
-                                          KK B    
-   h   h                       Q        FFF FFFF  
-                        L B      L     sL      L  
-         s       s              f Bff             
-  OO            C                  S f            
-          =  $  O      LL                         
-    g g OC       O            o           $       
-   o                                   O     OC   
-   Kg                                 FFFFF  o    
-    g oL          L                 k     d       
- n  g g  gg ngn  n      n ng        n     n      n
-TT T f g    Tf                   TB T T         f 
-          f B   T          bT              b   T  
- gT B    Tg b   T         b    TT T  T     fb    T
-TT T     Tb  BBb           b    fgT   bg  g    B T
-DAWNGUARD HALL. Squires report to the Quartermaster. Everyone else reports elsewhere.
-THE CHOIR INFIRMARY. Visiting hours at dawn and dusk. Please do not bleed on the step.
-A brass plate: MAGISTER IVO OSSENFELD, LANTERN THEORY. NO SOLICITORS. NO STUDENTS.
-Locked. Someone inside is practicing the harp, badly, with great determination.
-Locked. A note pinned to the door: GONE TO SALTGLASS. WATER THE FERNS, TERRENCE.
-A board nailed across the door: GUTTER COURT. KEEP OWT. THIS MEENS YOU.
-Locked. From inside, someone snores like a sawmill.
-Locked. The door has been mended so many times it is mostly mend.
+1	SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+2	SS______________________________________,,,,,,,,SS
+3	SSdddddddd______________________________,,,,,,,,SS
+4	SSdddddddd___MMMMMMMMMMMMMMMMM__________,,,,,,,,SS
+5	SS;;;;___;;;;;;;;;;MMMM;MMMMMMMMMMMMMMMMMMMMMMMMSS
+6	SS;;;;;;;;;;;;;;;;;____;MMMMMMMMMMMMMMMMMMMMMMMMSS
+7	SS;;;;;;;;;;;;;;;;;____;MMMMMMMM,,,,,,,MMMMMMMMMSS
+8	SS;;;;;;;;;;;;;;;;;____;MMMMMM__MMMMMMMMMMMMMMMMSS
+9	SS;;;;;;;;;;;;;;;;;____;dddddd__ddddddddddddddddSS
+10	SS;;;;;;;;;;;;;;;;;____;ddddddddddddddddddddd___SS
+11	SS;;;;;;;;;;;;;;;;;____;ddddddddddddddddddd_____SS
+12	SS;:::::;;;;;;;;;;;____;ddddddddddddddddddd:d___SS
+13	SS;:::::;;;;;;;;;;;____;ddddddddddddd:ddddd:ddddSS
+14	SS;:::::;;;;;;;;;;;____;::::::::::::::::::::ddddSS
+15	SS;:::::;;;;;;;;;;;____;ddddmmddddddd:ddddddddddSS
+16	SS;:::::;;;;;;;;;;;____;ddmmmmmmddddd:ddddddddddSS
+17	SS;:::::;;;;;;;;;;;____;ddmmmmmmddddd:dmmmmmmdddSS
+18	SS;:::::;;;;;;;;;;;____;dddmmmmdddddd:dmmmmmmdddSS
+19	SS;;;;;;;;;;;;;;;;;____;ddddddddddddd:ddddddddddSS
+20	SS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;SS
+21	                                            Kff   
+22	         L                      L         BfK KK  
+23	                                          KK B    
+24	   h   h                       Q        FFF FFFF  
+25	                        L B      L     sL      L  
+26	         s       s              f Bff             
+27	  OO            C                  S f            
+28	          =  $  O      LL                         
+29	    g g OC       O            o           $       
+30	   o                                   O     OC   
+31	   Kg                                 FFFFF  o    
+32	    g oL          L                 k     d       
+33	TT T f g    Tf                   TB T T         f 
+34	          f B   T          bT              b   T  
+35	 gT B    Tg b   T         b    TT T  T     fb    T
+36	TT T     Tb  BBb           b    fgT   bg  g    B T
+37	DAWNGUARD HALL. Squires report to the Quartermaster. Everyone else reports elsewhere.
+38	THE CHOIR INFIRMARY. Visiting hours at dawn and dusk. Please do not bleed on the step.
+39	A brass plate: MAGISTER IVO OSSENFELD, LANTERN THEORY. NO SOLICITORS. NO STUDENTS.
+40	Locked. Someone inside is practicing the harp, badly, with great determination.
+41	Locked. A note pinned to the door: GONE TO SALTGLASS. WATER THE FERNS, TERRENCE.
+42	A board nailed across the door: GUTTER COURT. KEEP OWT. THIS MEENS YOU.
+43	Locked. From inside, someone snores like a sawmill.
+44	Locked. The door has been mended so many times it is mostly mend.

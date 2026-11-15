@@ -1,37 +1,25 @@
-           aaaaaa..ooo.aaaaaa           
-         aaaa......ooo...aa.aaa         
-    RRRRRRRRRRRRRRRoooRRRRRRRRRRRRRRR   
-    Raa.a..........ooo..........aaa R   
-   aRaa,,,,,,,,,,..ooo..,,,,,,,,,,aaR   
-   aRa.,,,,,,,,,,..ooo..,,,,,,,,,,.aR   
-  aaR..,,,,,,,,,,..ooo..,,,,,,,,,,..Ra  
-   aR..,,,,,,,,,,..ooo..,,,,,,,,,,..Ra  
-  a.R..,,,,,,,,,,..ooo..,,,,,,,,,,..Raaa
-aaa.R..,,,,,,,,,,..ooo..,,,,,,,,,,..R.  
- a..R..............ooo..............R.a 
- a..Roooooooooooooooooooooooooooooo.R.a 
- .a.Roooooooooooooooooooooooooooooo.R.aa
-aaa.R..............ooo..............R.. 
- a..R..,,,,,,,,,,..ooo..,,,,,,......R. a
- a..R..,,,,,,,,,,..ooo..,,,,,wwwwww.Raaa
-   aR..,,,,,,,,,,..ooo..,,,,,w~~~~w.Ra  
-   aR..,,,,,,,,,,..ooo..,,,,=w~~~~waR   
-   aRa.,,,,,,,,,,..ooo..,,,,,wwwwwwaR   
-    Raa,,,,,,,,,,..ooo..,,,,,,...aa R   
-    R aa.a.........ooo.........aaaaaR   
-         aaa...a..ooooo..aaaaaaa        
-           a aaaa.ooooo.aaaaa           
-            a   aaoooooaaaa             
-       f ggfgg g        f ffgfff   K    
-        gtf ft f        fftg     g      
-              f          g f gft        
-       f ggf  fff       fff f  gff      
-        gt ggg  g        g g  g  g      
-       ggf f  tf         f  g f ff      
-       ffg gf ff        g f f fg        
-           g   ff       f               
-       fg g  g          f   gf          
-       ft f g           fg t f          
-       f  f g gff       f gff           
-           ft  gg       fg  f           
-     K   fff  f f           g           
+1	           aaaaaa..ooo.aaaaaa           
+2	         aaaa......ooo...aa.aaa         
+3	    RRRRRRRRRRRRRRRoooRRRRRRRRRRRRRRR   
+4	    Raa.a..........ooo..........aaa R   
+5	   aRaa,,,,,,,,,,..ooo..,,,,,,,,,,aaR   
+6	   aRa.,,,,,,,,,,..ooo..,,,,,,,,,,.aR   
+7	  aaR..,,,,,,,,,,..ooo..,,,,,,,,,,..Ra  
+8	   aR..,,,,,,,,,,..ooo..,,,,,,,,,,..Ra  
+9	  a.R..,,,,,,,,,,..ooo..,,,,,,,,,,..Raaa
+10	aaa.R..,,,,,,,,,,..ooo..,,,,,,,,,,..R.  
+11	 a..R..............ooo..............R.a 
+12	 a..Roooooooooooooooooooooooooooooo.R.a 
+13	 .a.Roooooooooooooooooooooooooooooo.R.aa
+14	aaa.R..............ooo..............R.. 
+15	 a..R..,,,,,,,,,,..ooo..,,,,,,......R. a
+16	 a..R..,,,,,,,,,,..ooo..,,,,,wwwwww.Raaa
+17	   aR..,,,,,,,,,,..ooo..,,,,,w~~~~w.Ra  
+18	   aR..,,,,,,,,,,..ooo..,,,,=w~~~~waR   
+19	   aRa.,,,,,,,,,,..ooo..,,,,,wwwwwwaR   
+20	    Raa,,,,,,,,,,..ooo..,,,,,,...aa R   
+21	    R aa.a.........ooo.........aaaaaR   
+22	         aaa...a..ooooo..aaaaaaa        
+23	           a aaaa.ooooo.aaaaa           
+24	       f ggfgg g        f ffgfff   K    
+25	     K   fff  f f           g           

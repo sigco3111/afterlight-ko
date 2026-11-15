@@ -1,11 +1,11 @@
-Tide pool
-A worn grave-slab: BRENNA HALLOWAY — FIRST OF US — SHE CUT THE STAIR.
-ODA HALLOWAY. SHE HELD THE LIGHT THROUGH THE STORM OF THE SEVENTY BOATS, AND ALL SEVENTY CAME HOME.
-IDE HALLOWAY. "SHE SANG FLAT AND NEVER ONCE MISSED A DAWN." Your grandmother. You remember her hands, and her terrible singing.
-Lamp
-Gate
-Carving
-A blank slab, smoothed and ready. Nothing carved on it yet.
-A small, newer stone, the letters cut in a careful, narrow hand you know very well: EDRIN — WHO WAS NOT A KEEPER, BUT KEPT US.
-The first Keeper, worn faceless by four hundred years of damp. Fresh candle stubs at her feet. Someone comes down here often. Someone who comes down from the top.
-The great lamp of Lanternfall. Its bed of brass is empty.
+1	Tide pool
+2	A worn grave-slab: BRENNA HALLOWAY — FIRST OF US — SHE CUT THE STAIR.
+3	ODA HALLOWAY. SHE HELD THE LIGHT THROUGH THE STORM OF THE SEVENTY BOATS, AND ALL SEVENTY CAME HOME.
+4	IDE HALLOWAY. "SHE SANG FLAT AND NEVER ONCE MISSED A DAWN." Your grandmother. You remember her hands, and her terrible singing.
+5	Lamp
+6	Gate
+7	Carving
+8	A blank slab, smoothed and ready. Nothing carved on it yet.
+9	A small, newer stone, the letters cut in a careful, narrow hand you know very well: EDRIN — WHO WAS NOT A KEEPER, BUT KEPT US.
+10	The first Keeper, worn faceless by four hundred years of damp. Fresh candle stubs at her feet. Someone comes down here often. Someone who comes down from the top.
+11	The great lamp of Lanternfall. Its bed of brass is empty.

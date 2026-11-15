@@ -1,5 +1,2 @@
-eq-left panel
-eq-items panel
-eq-stats panel
-<div class="dim">Choose a slot.</div>
-<span class="dim">— Remove —</span>
+1	<div class="dim">Choose a slot.</div>
+2	<span class="dim">— Remove —</span>

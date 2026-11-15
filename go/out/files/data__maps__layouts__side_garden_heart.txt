@@ -1,37 +1,21 @@
-         aaaaaaaaaaa a        
-      aaaa.a......aaaa        
-     aaaa...........a.a a     
-    aaa................aa     
-   aa....................aa   
-   a........wwooww.......aa   
-  aa......wwwoooowww.......a  
-  aa......wwwoooowww......aa  
-  ........wwwwoowwww.......aa 
- a........wwww===www........a 
- a..........ww===w..........a 
- aa...........oo=..........a  
- aa...........oo............aa
-  a...........oo...........aa 
-  aa..........oo..........aa  
-  aa..........oo..........a   
-   aaa........oo.........aa   
-    aa........oo.......aaa    
-      aaa.....oo.....aaaa     
-       aaa...oooo.a.aaaa      
-          aaaooooaa  a        
-         ff f    g g          
-         g f   f gf  g        
-     f f f g ff f     fg      
-     ffff  f   K    f  g      
-    f t      K   K      tf    
-     f   g          ffg f     
-    f   ff             ff     
-   g f              ff f f    
-       g  f       g    ff     
-     g    f g     f ff   ff   
-      g  g f      ffff f      
-   gf f  f fg            f    
-    f ft  g       g g ft      
-      f gf        g f ffgf    
-        fg  f     f    f      
-        g tg        t         
+1	      aaaa.a......aaaa        
+2	     aaaa...........a.a a     
+3	    aaa................aa     
+4	   aa....................aa   
+5	   a........wwooww.......aa   
+6	  aa......wwwoooowww.......a  
+7	  aa......wwwoooowww......aa  
+8	  ........wwwwoowwww.......aa 
+9	 a........wwww===www........a 
+10	 a..........ww===w..........a 
+11	 aa...........oo=..........a  
+12	 aa...........oo............aa
+13	  a...........oo...........aa 
+14	  aa..........oo..........aa  
+15	  aa..........oo..........a   
+16	   aaa........oo.........aa   
+17	    aa........oo.......aaa    
+18	      aaa.....oo.....aaaa     
+19	       aaa...oooo.a.aaaa      
+20	     ffff  f   K    f  g      
+21	    f t      K   K      tf    

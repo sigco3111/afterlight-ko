@@ -1,2 +1,1 @@
-Cairn
-blocker:c2_gale_road:goat_rocks
+1	Cairn

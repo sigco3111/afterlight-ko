@@ -1,14 +1,10 @@
-sssssssssssssssssssss_____ssssss:::ssssssggggggssssssssssss###
-:::::::::::::ssssssss_____sssss:::ssssssggggggggssssssssssss##
-:::::::::::::::sssssssssssssss:::sssssssggggggggssssssssssss##
-ssssssssssss:::::sssssssssssss::sssssssssgggggggsssssssssss###
-ssssssssssssss:::::sssss:::::::::ssssssssssggssssssssssssss###
-                    o        oxRR                             
-   x          R ox  ! o  oR  xxx                       c      
-              x ! Ro xRx!ox !xR                               
-                   xxx xo    xxx             c         o      
-                xx    x       x                               
-                 co  ! S |                                    
-           nnnnn g                                            
-               DD    D   D       *              C       k     
-   o     cx                                   c               
+1	sssssssssssssssssssss_____ssssss:::ssssssggggggssssssssssss###
+2	:::::::::::::ssssssss_____sssss:::ssssssggggggggssssssssssss##
+3	:::::::::::::::sssssssssssssss:::sssssssggggggggssssssssssss##
+4	ssssssssssss:::::sssssssssssss::sssssssssgggggggsssssssssss###
+5	ssssssssssssss:::::sssss:::::::::ssssssssssggssssssssssssss###
+6	                    o        oxRR                             
+7	   x          R ox  ! o  oR  xxx                       c      
+8	              x ! Ro xRx!ox !xR                               
+9	                 co  ! S |                                    
+10	               DD    D   D       *              C       k     

@@ -1,54 +1,54 @@
-mmm~~~mmmm~~~~~~o~ooooo~~~~~~~~~~~~mmmmm
-mm~~~~~mm~~~~ooooooooooooooo~~~~~~~~mmmm
-m~~~~~~~~~~oooooooooooooooooo~~~~~~~mmmm
-m~~~~~~~~~~ooooooooooooooooooo~~~~~~mmmm
-m~~~~~~~~~oooooooooooooooooooo~~~~~~mmmm
-mm~~~~~~~~~ooooooooooooooooo~o~~~~~~mmmm
-m~~~~~~~~~~~~~ooooo==oooooo~~~~~~~~~mmmm
-mm~~~~~~~~~~~~~~ooo==~~~~~~~~~~~~~~~mmmm
-mm~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~~mmm
-mm~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~mmmm
-m~~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~mmmm
-mm~~~~~~~~~~~~~~mmm==mmm~~~~~~~~~~~~mmmm
-mmm~~~~~~~~~~mmmmmmmmmmmmm~~~~~~~~~~mmmm
-mm~~~~~~~~~~~mmmmmmmmppppmm~~~~~~~~~~mmm
-m~~~~~~~~~~~~~mmmmmmmmmmmm~~~~~~~~~~~mmm
-m~~~~~~~~~~~~~~mmm==mmmm~~~~~~~~~~~~~~mm
-m~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~~~~mm
-m~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~~~mmm
-m~~~~~mmm~~~~~~mmm==mmm~~~~~~~~mmm~m~mmm
-mm~~mmmmmmm~~mmmmmmmmmmmm~~~~~mmmmmmmmmm
-mm~mmmmmmmm~mmmmmmmmmmmmmm~~~mmmmmmmmmmm
-mmmmmmmmmm====mmmmmmmmmm======mmmmmmmmmm
-mmmmmmmmmm====ppppmmmmmm======mmmmmmmmmm
-mmmmmmmmmmmm~mppppmmmmmmm~~~~mmmmmmmmmmm
-mmmmmmmmmmm~~~mmmmmmmmmm~~~~~mmmmmmmmmmm
-mmmmmmmppmm~~~~~mm==mmm~~~~~~mmmmppmmmmm
-mmmmmmmppm~~~~~~~~==~~~~~~~~~~mmmppmmmmm
-mmm~mmmmmmm~~~~~~~==~~~~~~~~~~~mmmm~mmmm
-mmm~mmmmmmm=~~~~~~==~~~~~~~~~~~~~~~~mmmm
-mmmmmmmmmmm===~~~~==~~~~~~~~~~~~~~~~mmmm
-mmmmmm~~~~~====~~~==~~~~~~~~~~~~~~~~mmmm
-mmmmmm~~~~~~~===mm==mmmmmm~~~~~~~~~~mmmm
-mmmmmm~~~~~~~m==mmmmmmmmmmm~~~~~~~~~mmmm
-mmm~~~~~~~~~mmmmmmmmmmmmmmmm~~~~~~~~mmmm
-mmmm~~~~~~~~mmmmmmmmmmmmmmm~~~~~~~~~~mmm
-mmmm~~~~~~~~~~mmmmmmmmmmm~~~~~~~~~~~mmmm
-n  D    TTD   T  T    n   T     n TD    
- T    DT T         DGDD            nnnn 
-                          D          DT 
-D                                   D DD
-D                 m     G            TDn
-D                                     DD
-T                                     DT
- TD      m       D    Gn                
-TD       m       n            D      DDD
-          n         n         m   n TD D
-D nGn                W               T  
-D  nmmu         D                G    n 
-D Gn     n                    n        n
-                  G    n             DDD
- n            mGn    n     n          DT
-n TT                m  D n           D  
- DDD                  G m           Tn  
-A red cord is knotted across the door: the old Mirefen sign for "fever within". It is tied very tightly.
+1	mmm~~~mmmm~~~~~~o~ooooo~~~~~~~~~~~~mmmmm
+2	mm~~~~~mm~~~~ooooooooooooooo~~~~~~~~mmmm
+3	m~~~~~~~~~~oooooooooooooooooo~~~~~~~mmmm
+4	m~~~~~~~~~~ooooooooooooooooooo~~~~~~mmmm
+5	m~~~~~~~~~oooooooooooooooooooo~~~~~~mmmm
+6	mm~~~~~~~~~ooooooooooooooooo~o~~~~~~mmmm
+7	m~~~~~~~~~~~~~ooooo==oooooo~~~~~~~~~mmmm
+8	mm~~~~~~~~~~~~~~ooo==~~~~~~~~~~~~~~~mmmm
+9	mm~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~~mmm
+10	mm~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~mmmm
+11	m~~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~mmmm
+12	mm~~~~~~~~~~~~~~mmm==mmm~~~~~~~~~~~~mmmm
+13	mmm~~~~~~~~~~mmmmmmmmmmmmm~~~~~~~~~~mmmm
+14	mm~~~~~~~~~~~mmmmmmmmppppmm~~~~~~~~~~mmm
+15	m~~~~~~~~~~~~~mmmmmmmmmmmm~~~~~~~~~~~mmm
+16	m~~~~~~~~~~~~~~mmm==mmmm~~~~~~~~~~~~~~mm
+17	m~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~~~~mm
+18	m~~~~~~~~~~~~~~~~~==~~~~~~~~~~~~~~~~~mmm
+19	m~~~~~mmm~~~~~~mmm==mmm~~~~~~~~mmm~m~mmm
+20	mm~~mmmmmmm~~mmmmmmmmmmmm~~~~~mmmmmmmmmm
+21	mm~mmmmmmmm~mmmmmmmmmmmmmm~~~mmmmmmmmmmm
+22	mmmmmmmmmm====mmmmmmmmmm======mmmmmmmmmm
+23	mmmmmmmmmm====ppppmmmmmm======mmmmmmmmmm
+24	mmmmmmmmmmmm~mppppmmmmmmm~~~~mmmmmmmmmmm
+25	mmmmmmmmmmm~~~mmmmmmmmmm~~~~~mmmmmmmmmmm
+26	mmmmmmmppmm~~~~~mm==mmm~~~~~~mmmmppmmmmm
+27	mmmmmmmppm~~~~~~~~==~~~~~~~~~~mmmppmmmmm
+28	mmm~mmmmmmm~~~~~~~==~~~~~~~~~~~mmmm~mmmm
+29	mmm~mmmmmmm=~~~~~~==~~~~~~~~~~~~~~~~mmmm
+30	mmmmmmmmmmm===~~~~==~~~~~~~~~~~~~~~~mmmm
+31	mmmmmm~~~~~====~~~==~~~~~~~~~~~~~~~~mmmm
+32	mmmmmm~~~~~~~===mm==mmmmmm~~~~~~~~~~mmmm
+33	mmmmmm~~~~~~~m==mmmmmmmmmmm~~~~~~~~~mmmm
+34	mmm~~~~~~~~~mmmmmmmmmmmmmmmm~~~~~~~~mmmm
+35	mmmm~~~~~~~~mmmmmmmmmmmmmmm~~~~~~~~~~mmm
+36	mmmm~~~~~~~~~~mmmmmmmmmmm~~~~~~~~~~~mmmm
+37	n  D    TTD   T  T    n   T     n TD    
+38	 T    DT T         DGDD            nnnn 
+39	                          D          DT 
+40	D                                   D DD
+41	D                 m     G            TDn
+42	D                                     DD
+43	T                                     DT
+44	 TD      m       D    Gn                
+45	TD       m       n            D      DDD
+46	          n         n         m   n TD D
+47	D nGn                W               T  
+48	D  nmmu         D                G    n 
+49	D Gn     n                    n        n
+50	                  G    n             DDD
+51	 n            mGn    n     n          DT
+52	n TT                m  D n           D  
+53	 DDD                  G m           Tn  
+54	A red cord is knotted across the door: the old Mirefen sign for "fever within". It is tied very tightly.

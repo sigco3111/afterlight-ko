@@ -1,34 +1,31 @@
-A mooring post as thick as a man, scorched black on the side that faces the mountain. Lightning loves this place.
-The Halcyon's mainmast. A tally of little lightning bolts is carved into it. Forty-one. The last one is very fresh, and very deep.
-@world
-The Gull's Nest — highest beds in Solmere! Eighty gold. The view's free. The vertigo's also free.
-the Gull's Nest
-Windward Exchange! Everything up here came up on a ship, so everything up here costs a ship's worth. Have a browse.
-The isle's risen a full fathom since this morning. I could feel it in my knees.
-Skyreach floats on light, they say. Seems it can float on stubbornness too, in a pinch.
-Skyreach floats on the Lantern's light, child. Has done for three hundred years.
-And the light holds the Thunderhead down beneath us. Two jobs, one Lantern. That's the old story.
-The Ardent says it's just a story. The Ardent gave our stone away. I'm old. I notice things.
-You went down beneath the isle for us. Even though you think the Hierophant is wrong.
-I don't know what to do with that. I have been praying about it. The wind has not answered.
-When the Vespersong is sung, no one will ever be lost to the storm again. No more empty chairs at supper.
-Don't you want that? Doesn't everyone want that?
-Ilka's put Skyreach-cut lift-crystals in that old tub. She'll climb like a lark now.
-Your captain flew her up through the Stormcrown on _desert glass_. Nobody up here will ever buy him a drink again — they'll be too busy telling the story.
-I saw you come up through the storm. Thought you were a falling barn.
-Then I thought: no, a barn would fly better.
-The Lord-Commander came on a black warship, three weeks back. The Ardent handed him our stone on the steps of the Lantern, and everybody cheered.
-I cheered. Loudest of anyone.
-...I don't know why I cheered.
-Depart
-A fountain fed by rain-catchers. Coins glint at the bottom: offerings to the wind, for safe flights. There are a great many coins.
-The Halcyon, nose-down in what used to be Ilka's shed. One mast is broken. The other is somehow holding a chicken.
-Ilka's yard. Where the Halcyon crashed, there is a neat pile of salvaged timber labeled, in large letters, CORVIN'S. YOU'RE PAYING FOR THIS.
-The Keel Lift's for the Keel-crew only. Ardent's orders.
-The cradle
-In the brass cradle where Skyreach's Dawnstone should sit, a single silver tuning fork stands upright, humming to itself.
-You know that note. You have been carrying it in your pack for weeks.
-Wreckage
-blocker:c4b_undercradle:gate1
-blocker:c4b_undercradle:gate2
-blocker:c4b_undercradle:gate3
+1	A mooring post as thick as a man, scorched black on the side that faces the mountain. Lightning loves this place.
+2	The Halcyon's mainmast. A tally of little lightning bolts is carved into it. Forty-one. The last one is very fresh, and very deep.
+3	@world
+4	The Gull's Nest — highest beds in Solmere! Eighty gold. The view's free. The vertigo's also free.
+5	the Gull's Nest
+6	Windward Exchange! Everything up here came up on a ship, so everything up here costs a ship's worth. Have a browse.
+7	The isle's risen a full fathom since this morning. I could feel it in my knees.
+8	Skyreach floats on light, they say. Seems it can float on stubbornness too, in a pinch.
+9	Skyreach floats on the Lantern's light, child. Has done for three hundred years.
+10	And the light holds the Thunderhead down beneath us. Two jobs, one Lantern. That's the old story.
+11	The Ardent says it's just a story. The Ardent gave our stone away. I'm old. I notice things.
+12	You went down beneath the isle for us. Even though you think the Hierophant is wrong.
+13	I don't know what to do with that. I have been praying about it. The wind has not answered.
+14	When the Vespersong is sung, no one will ever be lost to the storm again. No more empty chairs at supper.
+15	Don't you want that? Doesn't everyone want that?
+16	Ilka's put Skyreach-cut lift-crystals in that old tub. She'll climb like a lark now.
+17	Your captain flew her up through the Stormcrown on _desert glass_. Nobody up here will ever buy him a drink again — they'll be too busy telling the story.
+18	I saw you come up through the storm. Thought you were a falling barn.
+19	Then I thought: no, a barn would fly better.
+20	The Lord-Commander came on a black warship, three weeks back. The Ardent handed him our stone on the steps of the Lantern, and everybody cheered.
+21	I cheered. Loudest of anyone.
+22	...I don't know why I cheered.
+23	Depart
+24	A fountain fed by rain-catchers. Coins glint at the bottom: offerings to the wind, for safe flights. There are a great many coins.
+25	The Halcyon, nose-down in what used to be Ilka's shed. One mast is broken. The other is somehow holding a chicken.
+26	Ilka's yard. Where the Halcyon crashed, there is a neat pile of salvaged timber labeled, in large letters, CORVIN'S. YOU'RE PAYING FOR THIS.
+27	The Keel Lift's for the Keel-crew only. Ardent's orders.
+28	The cradle
+29	In the brass cradle where Skyreach's Dawnstone should sit, a single silver tuning fork stands upright, humming to itself.
+30	You know that note. You have been carrying it in your pack for weeks.
+31	Wreckage

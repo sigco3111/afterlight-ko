@@ -1,8 +1,8 @@
-            MMMMMMM           
-           MMMMMMMM           
-        MMMMMMMMMMMMMM        
-      MMMMMMMMMxMMMMMMM       
-       MMMMMMMMxMMMMMMM       
-        MMMMMMMxMMMMMM        
-          M MMMxMMMM          
-              MMM             
+1	            MMMMMMM           
+2	           MMMMMMMM           
+3	        MMMMMMMMMMMMMM        
+4	      MMMMMMMMMxMMMMMMM       
+5	       MMMMMMMMxMMMMMMM       
+6	        MMMMMMMxMMMMMM        
+7	          M MMMxMMMM          
+8	              MMM             

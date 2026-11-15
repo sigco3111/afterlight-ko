@@ -1,18 +1,12 @@
-            sssssssssss s           
-            ss==ssss==ss            
-             ===ssss===             
-           ===         ==cccc       
-      sssss==        cccccccccc     
-    ssssssssss      cccccccccccc    
-   ssssssssssss     cccccccccccc    
-   ssssssssssss     cccccwwwwccc    
-   ssswwwwsssss     cccccwwwwcc     
-   ssswwwwsssss      cccccccccc     
-    ssssss==s          c==ccc       
-      ssss===          ===          
-            ===ssssss===            
-            s==ssssss==s            
-             ssss==ssss             
-       o                VA          
-         *RxR          x*           
-     RV              % %            
+1	            ss==ssss==ss            
+2	             ===ssss===             
+3	           ===         ==cccc       
+4	      sssss==        cccccccccc     
+5	    ssssss==s          c==ccc       
+6	      ssss===          ===          
+7	            ===ssssss===            
+8	            s==ssssss==s            
+9	             ssss==ssss             
+10	       o                VA          
+11	         *RxR          x*           
+12	     RV              % %            

@@ -1,77 +1,51 @@
-kqkkkqkkqkkkkqkk,,,,,,,kqkkkqkqqkqqqkqqk
-kqqkqqkkkkkkkq,,,,,,,,,,,kqkkkkkqqqqqkkk
-kkkkkkqkkkqkk,,,,,,,,,,,,,,kqkqqkkqkkkqq
-kkkqkqqkqkkkq,,,,,,,,,,,,,,,qkkkqkkkkkqq
-kkkqqqqqqkkk,,,,,,,,,,,,,,,,kqqkqqqkkkkk
-kkkkkkkkqkqq,,,,,,,,,,,,,,,,kqqkkqkqqkkk
-kqkkkqkqkkkk,,,,,,,,,,,,,,,,kqqqkqqqkqqq
-kkqqkqkqkkkkkk,,,,,,,,,,,,,qkqqkqkkqqkkq
-kqkkkkkkkqkkkqq,,,,,,,,,,kqkqkkkkkkqqqkq
-kkkkkkkqkkkkkkkkk,,::,,,qkkqqkqkqkkkkkkk
-kqkkqk::kkkqkkkkkqk::qkkkkkkkkq::qqkqkkq
-kkkkkk:::kkqqkqqkkk::kkkqqqkkk:::kkqkqkk
-kqqqkkk::kkkqkqkkqq::kqkkkkkk:::kkkqkqkk
-kkqkqqk:::kkkkkkkqq::kkkkqkk:::kqqkkkkkq
-kkkkkqkq::::qkkkqkk::kkkkkk:::kqkkqkkkkq
-kkqkkkqkq::::qqkqkk::kkqqk:::qkkkkkqkkqq
-qqqkqqqqkkq:::qkkkq::qkkk:::kqkkkkkqkkkk
-kkkkqkqqkkkk::::kqk::kkq:::kkqkkkkkkqkqk
-kkkkkkkkkkkqk::::qq::qq:::kkqkkkkqkkkkqq
-kkqkkkkkqkkkkqk::qqqqqq::kkkkkqqkkkkkkkk
-kkqkkkqkqqkkkkkkqqq::qqkkkkqkkkqkkkqkkkk
-kqkkkqqqqqqkkkkkkkq::qkkqkkkkqkkkkkkkkkq
-kkkqqqqqqqqqkqqkkkk::qkkkqq:::kkkkkqqqkk
-qkkqqqqqqq::qkqkkkk::kqkkk::::kkkkkqkkkk
-kkqkqqqqqq::::kkkkk::kkq::::kqkkkkkkkqkk
-kkqkqqqqqqq::::kkkk::kq::::kkkkqkkkkkkkk
-kkkkkqqqqqqkk:::::k::::::kqkkkkkkkqkkkkk
-kkkkkqkkqkkkkk::::::::::kkkkkkkqqkkkkkkk
-kkkkkkkkkqkkkkqkk:::::qkkkkkkkkkkkkkkkkk
-kkkkkqkqkkqkkkkkqk:::kkkkkkkkkkkkkqqkkkk
-kkkkkkkkkkkkkkqkkkk::kkkkkkkqkkqkkkkkkqk
-qkkkkkkkkkkkqkkkkkk::kkkkkkkqkkkqkkkkkkk
-kkkqkqkkkkkkkkkkkkk::kkkkkkkkkkkkkkkkkkk
-kkkkkkkkkkkkkkkqkkk::kkkkkkkkkkkkkqkkkkk
-kkkkkqkkkkkkkkkkkkk::kkkkkkkkkkkkkkkkkkk
-kkkkkkkkkkkkkqkkkkk::kkqkkkkkkkqqkkkkkkk
-DDDDTTDTTDTTTDTTTTDDDTTDTTDDDTDDDDTDTTTT
-DTTDTTTTDDDTTTTDTDDDTDDTDDTDDDDDTTDTDDTT
-TTTDDDTTTDTTDTTT       TTTTTDDDTDDTTDTDD
-TTDDDDDTTTTDTT           DTDDDDDDTTDTTDT
-TTTDTDDDDTTDT              DTTTDTDTTTTTT
-DDTDDTTTTTDTD               DTTTDDDTDTDT
-TTTTDDDTDTDTf K           K TDDDDTDTDTTD
-TTDDDDTTDDTT                TTDDDTDDTDDD
-TTDDTTTDTDDD                TDTT DDTTDTD
-TDDT  Z DTTDTT             DTT    m DDTT
-TDT Z    TTTTT   $         DT     g  TTD
-DD     f TTDDD             TD        DDT
-TDD       TTDD             DT      G DTT
-TTT      TDTDDTTTTD  TTDDDDDTT       DDT
-TTTDB B  DDDDDDDTDT  TTTTTTDD       DDTT
-DDTTTTTG  DTTTTTTTD  TTTTTDD   TTDTTTDDT
-DTTTDTDD  m DTDTDTT  TTDDTD   TDTDTTDDTD
-TTTDTTTTT    TTTTTD  DTTTD   TDTTDDTTDTT
-TTDDTTDTTTT   TDTTT  TDTT  GDDTDDTDTTTTT
-DDTTTTTDTTTD   mTTT  TDD   DTTTTTDDTDTTT
-TTDTDTTTTTTTTG            DTDDTDDDTDTDTT
-TDTDTDTTTDDTTTD    G     TTDTTDTDTDTDTDT
-TTTDTTTDTTTTDTT     T    TTTTTDDDTTTDTDT
-TDTTTDTTDTDTDTD        G TDTTTDTDTTTTTTT
-TTDTTTTTTTTTTTT          DDTTDTTTDTTTTTD
-DTTTTTTT TTTDDTT       TDTTT  m   TTTTTT
-TDTTD      TTTTTDT G TTTTTTG  BG   TTTTT
-TDTD        TDTTTTT mTTTTTTm G   G TTDDT
-DDT    S    TDTTDDT  TDTDD   G     DTTTT
-TTDD          DTDTT GTTDm    G   G TTDDT
-TTTT     f    mTDTT  TT    T   G  TDTTTD
-TDTDD    G TTm    T  G   DTTTTTTTDTTTTTT
-TDDTTTTTTTTTTT          TTTTTTTTTDTTTTTT
-DTDDTDTTTTTTTTTTT  G  TTTTTTTTDDTDDTTTTT
-TTTTTDDTTDTTTTTT        DTTTTTTTTTTTTTTT
-TTTTTTTDTTTTTT            TTTTTTTDTTTTTT
-TTTTTDTDTDTTTT      m     TTTTTTDTTTTTTT
-TTTDTDTTTDTTDT            TTTTTTTTTTTTDT
-TTDDTTDTTTTTTTD          TDDTTTTTTTTTTTT
-TDTTTTTTDTTDTDTT        TTTTTTTTTTTTTTTT
-TTTTTTTDTTTTTTTTTT    TTTTTDTTTTTTDDTTTT
+1	kqkkkqkkqkkkkqkk,,,,,,,kqkkkqkqqkqqqkqqk
+2	kqqkqqkkkkkkkq,,,,,,,,,,,kqkkkkkqqqqqkkk
+3	kkkkkkqkkkqkk,,,,,,,,,,,,,,kqkqqkkqkkkqq
+4	kkkqkqqkqkkkq,,,,,,,,,,,,,,,qkkkqkkkkkqq
+5	kkkqqqqqqkkk,,,,,,,,,,,,,,,,kqqkqqqkkkkk
+6	kkkkkkkkqkqq,,,,,,,,,,,,,,,,kqqkkqkqqkkk
+7	kqkkkqkqkkkk,,,,,,,,,,,,,,,,kqqqkqqqkqqq
+8	kkqqkqkqkkkkkk,,,,,,,,,,,,,qkqqkqkkqqkkq
+9	kqkkkkkkkqkkkqq,,,,,,,,,,kqkqkkkkkkqqqkq
+10	kkkkkkkqkkkkkkkkk,,::,,,qkkqqkqkqkkkkkkk
+11	DDDDTTDTTDTTTDTTTTDDDTTDTTDDDTDDDDTDTTTT
+12	DTTDTTTTDDDTTTTDTDDDTDDTDDTDDDDDTTDTDDTT
+13	TTTDDDTTTDTTDTTT       TTTTTDDDTDDTTDTDD
+14	TTDDDDDTTTTDTT           DTDDDDDDTTDTTDT
+15	TTTDTDDDDTTDT              DTTTDTDTTTTTT
+16	DDTDDTTTTTDTD               DTTTDDDTDTDT
+17	TTTTDDDTDTDTf K           K TDDDDTDTDTTD
+18	TTDDDDTTDDTT                TTDDDTDDTDDD
+19	TTDDTTTDTDDD                TDTT DDTTDTD
+20	TDDT  Z DTTDTT             DTT    m DDTT
+21	TDT Z    TTTTT   $         DT     g  TTD
+22	DD     f TTDDD             TD        DDT
+23	TDD       TTDD             DT      G DTT
+24	TTT      TDTDDTTTTD  TTDDDDDTT       DDT
+25	TTTDB B  DDDDDDDTDT  TTTTTTDD       DDTT
+26	DDTTTTTG  DTTTTTTTD  TTTTTDD   TTDTTTDDT
+27	DTTTDTDD  m DTDTDTT  TTDDTD   TDTDTTDDTD
+28	TTTDTTTTT    TTTTTD  DTTTD   TDTTDDTTDTT
+29	TTDDTTDTTTT   TDTTT  TDTT  GDDTDDTDTTTTT
+30	DDTTTTTDTTTD   mTTT  TDD   DTTTTTDDTDTTT
+31	TTDTDTTTTTTTTG            DTDDTDDDTDTDTT
+32	TDTDTDTTTDDTTTD    G     TTDTTDTDTDTDTDT
+33	TTTDTTTDTTTTDTT     T    TTTTTDDDTTTDTDT
+34	TDTTTDTTDTDTDTD        G TDTTTDTDTTTTTTT
+35	TTDTTTTTTTTTTTT          DDTTDTTTDTTTTTD
+36	DTTTTTTT TTTDDTT       TDTTT  m   TTTTTT
+37	TDTTD      TTTTTDT G TTTTTTG  BG   TTTTT
+38	TDTD        TDTTTTT mTTTTTTm G   G TTDDT
+39	DDT    S    TDTTDDT  TDTDD   G     DTTTT
+40	TTDD          DTDTT GTTDm    G   G TTDDT
+41	TTTT     f    mTDTT  TT    T   G  TDTTTD
+42	TDTDD    G TTm    T  G   DTTTTTTTDTTTTTT
+43	TDDTTTTTTTTTTT          TTTTTTTTTDTTTTTT
+44	DTDDTDTTTTTTTTTTT  G  TTTTTTTTDDTDDTTTTT
+45	TTTTTDDTTDTTTTTT        DTTTTTTTTTTTTTTT
+46	TTTTTTTDTTTTTT            TTTTTTTDTTTTTT
+47	TTTTTDTDTDTTTT      m     TTTTTTDTTTTTTT
+48	TTTDTDTTTDTTDT            TTTTTTTTTTTTDT
+49	TTDDTTDTTTTTTTD          TDDTTTTTTTTTTTT
+50	TDTTTTTTDTTDTDTT        TTTTTTTTTTTTTTTT
+51	TTTTTTTDTTTTTTTTTT    TTTTTDTTTTTTDDTTTT

@@ -1,17 +1,11 @@
-cs-left panel
-<span class="tag p">PRIMARY</span>
-<span class="tag s">SECOND</span>
-cs-lock dim
-<em>One Crest, one life.</em> No one you know has ever changed theirs.
-cs-detail panel
-cs-who panel
-<div class="cd-req">Requires: 
-</div>
-<div class="cd-stats">
-<div class="cd-ranks">
-Art
-Support
-<div class="cd-mastery-head">Mastery Arts <span class="dim">— learned at Ascension stars, once mastered</span></div>
-sp-left panel
-sp-detail panel
-<div class="dim">Supports are passive abilities learned from Crest ranks. Any learned Support can be equipped, whatever your current Crest.</div>
+1	<span class="tag p">PRIMARY</span>
+2	<span class="tag s">SECOND</span>
+3	<em>One Crest, one life.</em> No one you know has ever changed theirs.
+4	<div class="cd-req">Requires: 
+5	</div>
+6	<div class="cd-stats">
+7	<div class="cd-ranks">
+8	Art
+9	Support
+10	<div class="cd-mastery-head">Mastery Arts <span class="dim">— learned at Ascension stars, once mastered</span></div>
+11	<div class="dim">Supports are passive abilities learned from Crest ranks. Any learned Support can be equipped, whatever your current Crest.</div>

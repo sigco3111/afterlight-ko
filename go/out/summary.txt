@@ -1,49 +1,50 @@
 기존 사전 키: 9983
-미수록 텍스트 후보: 5404 (제외 추정 코드 20152, 여러 줄 25)
+이번 반영: 0
+미수록 텍스트 후보: 5089 (제외 추정 코드 19961, 여러 줄 25)
 상위 폴더별:
-  data/maps	3396
+  data/maps	3151
   data/content	1112
   story/ch11_remnants.js	126
-  ui/menu	74
   story/lost.js	53
   data/hunt.js	52
   data/skills.js	46
+  ui/menu	42
   story/ch2_wold.js	37
   data/fish.js	32
   story/ch12.js	30
-  story/ch7.js	28
   story/ch2_port.js	27
+  story/ch7.js	27
   core/Input.js	26
   data/monsterInfo.js	21
   story/ch2_thistle.js	21
-  battle/BattleUI.js	20
   data/passives.js	20
   story/ch6.js	20
-  data/objectives	19
   data/artInfo.js	18
   story/ch12_finale.js	17
   story/postgame.js	17
-  ui/UI.js	17
+  battle/BattleUI.js	15
   story/ch4a.js	15
   story/colosseum.js	13
   story/ch4b.js	12
   data/tutorials.js	11
   story/ch8.js	11
   story/side.js	11
-  audio/songs.js	10
+  ui/UI.js	10
   story/ch3_battle.js	9
   world/Minimap.js	8
   i18n/dom.js	7
-  ui/Fishing.js	7
-  battle/BattleScene.js	6
+  audio/songs.js	6
+  ui/Fishing.js	6
+  battle/BattleScene.js	4
+  data/objectives	4
   debug/TestHarness.js	4
   story/ch3.js	4
   story/hunt.js	4
   world/FieldScene.js	4
-  world/WorldMapScene.js	4
   data/difficulty.js	3
   scenes/TitleScene.js	3
   story/ch3_fx.js	3
+  world/WorldMapScene.js	3
   audio/Audio.js	2
   scenes/OpeningScene.js	2
   story/ch2_common.js	2
@@ -53,13 +54,11 @@
   ui/files.js	2
   audio/VoiceLines.js	1
   battle/Actions.js	1
-  data/mount.js	1
   main.js	1
   scenes/OpeningCaptions.js	1
   script/Lines.js	1
   story/ch11.js	1
   story/ch4b_sky.js	1
   story/prologue.js	1
-  ui/Tutorial.js	1
   world/Autosave.js	1
   world/QuestGuide.js	1

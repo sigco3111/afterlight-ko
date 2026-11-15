@@ -1,16 +1,6 @@
-            aaa aaaa a              
-       aaaaaaaaaqqaaaa  aaa         
-        aqaqqqqqqqqqrrrqaa a        
-       aaqqqqqqqqqqqrrrqqaa  a      
-   a aqqqqqqqqqqqqqqrrrqqqqaqaaa    
-aaaqqqqaaaaaaaaaaaaaaaaaqqqqqqqq a  
- aqqqqqaaaaaaaaaaaaaaaaaaqqqqq======
-  qqqqqqaaaaaaaaaaaaaaaaaaqqqq======
- aqqqqqaaaaaaaaaaaaaaaaaqqqqqq======
-  a qqqqqqqaaaaaaqaqaaqqqqqqqaa     
-     aa aaaqqaqq:::qqqqaaa          
-        a aaaqaa:::aaaaa a          
-            aaaa:::aa  a            
-        d         dx  R             
-     o    o     oH  R               
-                      OC   x        
+1	 aqqqqqaaaaaaaaaaaaaaaaaaqqqqq======
+2	  qqqqqqaaaaaaaaaaaaaaaaaaqqqq======
+3	 aqqqqqaaaaaaaaaaaaaaaaaqqqqqq======
+4	        d         dx  R             
+5	     o    o     oH  R               
+6	                      OC   x        
