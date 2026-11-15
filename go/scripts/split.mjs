@@ -39,3 +39,5 @@ for (const f of files) {
 }
 writeFileSync('go/out/summary.json', JSON.stringify(summary, null, 1));
 console.log(JSON.stringify(summary));
+
+// 트리거 재시도
