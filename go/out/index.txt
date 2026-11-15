@@ -22,7 +22,6 @@ data/content/colosseum.js	44	194	0
 data/content/hunt.js	56	192	0
 data/content/postgame_battle.js	19	391	0
 data/content/side.js	179	508	0
-data/content/wilds.js	22	242	0
 data/fish.js	32	9	0
 data/hunt.js	52	65	0
 data/maps/bc_bellring.js	13	21	1
