@@ -1,0 +1,251 @@
+{
+ "dictKeys": 8059,
+ "count": 49,
+ "items": [
+  {
+   "f": "src/battle/BattleUI.js",
+   "l": 273,
+   "k": "<div class=\"v-learn\">{0} ascends: <b>★{1}</b>{2}</div>"
+  },
+  {
+   "f": "src/battle/BattleUI.js",
+   "l": 278,
+   "k": "<div class=\"v-learn\">{0} rank {1}: learned <b>{2}</b></div>"
+  },
+  {
+   "f": "src/battle/BattleUI.js",
+   "l": 279,
+   "k": "<div class=\"v-learn\">{0} mastered — Legacy: <b>{1}</b></div>"
+  },
+  {
+   "f": "src/battle/BattleUI.js",
+   "l": 423,
+   "k": "<div class=\"cmd-desc\">{0}{1}</div>"
+  },
+  {
+   "f": "src/battle/BattleUI.js",
+   "l": 424,
+   "k": "<div class=\"cmd-surge {0}\">{1}{2} Surge {3}{4}</div>"
+  },
+  {
+   "f": "src/scenes/TitleScene.js",
+   "l": 52,
+   "k": "\\n      <div class=\"ts-logo\"><div class=\"ts-pre\">{4}</div><div class=\"ts-name\">AFTERLIGHT</div><div class=\"ts-rule\"></div></div>\\n      <div class=\"ts-menu\"></div>\\n      <div class=\"ts-diff\" style=\"display:none\"></div>\\n      <div class=\"ts-foot\">{0} and the other arrows to move · {1} to confirm · {2} to cancel · {3} for the menu · remap in Settings → Controls</div>"
+  },
+  {
+   "f": "src/scenes/TitleScene.js",
+   "l": 151,
+   "k": "\\n      <div class=\"ts-diff-head\">Choose a difficulty</div>\\n      <div class=\"ts-diff-opts\">{0}</div>\\n      <div class=\"ts-diff-desc\">{1}</div>\\n      <div class=\"ts-diff-stats\">{2}</div>\\n      <div class=\"ts-diff-note\">You can change this at any time in Settings.</div>"
+  },
+  {
+   "f": "src/script/ScriptContext.js",
+   "l": 249,
+   "k": "<span class=\"hl\">Objective</span> — {0}"
+  },
+  {
+   "f": "src/ui/Fishing.js",
+   "l": 18,
+   "k": "<div class=\"fs-title\">Fishing</div><div class=\"fs-msg\">Waiting for a bite...</div>\\n      <div class=\"fs-bar\"><div class=\"fs-zone\"></div><div class=\"fs-mark\"></div></div>\\n      <div class=\"fs-pips\"></div><div class=\"fs-hint\">{0} Reel · {1} Give up</div>"
+  },
+  {
+   "f": "src/ui/Fishing.js",
+   "l": 44,
+   "k": "Caught a <span class=\"hl\">{0}</span>!{1}"
+  },
+  {
+   "f": "src/ui/Fishing.js",
+   "l": 74,
+   "k": "Landed a <b>{0}</b>!"
+  },
+  {
+   "f": "src/ui/Tutorial.js",
+   "l": 40,
+   "k": "<div class=\"tut-kicker\">Tutorial</div><div class=\"tut-title\">{0}</div>"
+  },
+  {
+   "f": "src/ui/UI.js",
+   "l": 336,
+   "k": "<div class=\"bl-row {0}\">{1}<span class=\"bl-text\">{2}</span></div>"
+  },
+  {
+   "f": "src/ui/UI.js",
+   "l": 336,
+   "k": "<span class=\"bl-who\">{0}</span>"
+  },
+  {
+   "f": "src/ui/menu/ArtsScreen.js",
+   "l": 88,
+   "k": "<div class=\"art-state no\">Unlocks at {0} ★{1} — {2} CP to go{3}</div>"
+  },
+  {
+   "f": "src/ui/menu/ArtsScreen.js",
+   "l": 90,
+   "k": "<div class=\"art-state no\">Equip {0} as primary or secondary Crest to use it in battle.</div>"
+  },
+  {
+   "f": "src/ui/menu/ArtsScreen.js",
+   "l": 92,
+   "k": "<div class=\"art-state ok\">Usable in battle ({0} Crest).</div>"
+  },
+  {
+   "f": "src/ui/menu/CompendiumScreen.js",
+   "l": 86,
+   "k": "<div class=\"cd-name\">???</div><div class=\"cd-tier\">{0}</div><div class=\"cd-desc dim\">Not yet recorded. Something is out there that the book has no name for.</div>"
+  },
+  {
+   "f": "src/ui/menu/CompendiumScreen.js",
+   "l": 118,
+   "k": "<ul class=\"cp-tactics\">{0}</ul>"
+  },
+  {
+   "f": "src/ui/menu/CompendiumScreen.js",
+   "l": 118,
+   "k": "<li>{0}</li>"
+  },
+  {
+   "f": "src/ui/menu/CompendiumScreen.js",
+   "l": 119,
+   "k": "<div class=\"dim cp-tactics-locked\">Fell {0} to learn how it fights. ({1}/{2})</div>"
+  },
+  {
+   "f": "src/ui/menu/CompendiumScreen.js",
+   "l": 119,
+   "k": "{0} of them"
+  },
+  {
+   "f": "src/ui/menu/CompendiumScreen.js",
+   "l": 120,
+   "k": "<div class=\"cd-name\">{0}{1}</div>\\n      <div class=\"cd-tier\">{2} · {3} · Lv {4} · <span class=\"cp-stars\" title=\"seen · felled · studied\">{5}</span> · Seen {6} · Felled {7}</div>\\n      <div class=\"cp-top\"><div class=\"bs-art\"></div><div class=\"cd-desc\">{8}</div></div>\\n      <div class=\"bs-row\"><b>Habitat</b> {9}</div>\\n      <div class=\"bs-row\"><b>HP</b> {10} · <b>Poise</b> {11} · <b>EXP</b> {12} · <b>Gold</b> {13} · <b>CP</b> {14}</div>\\n      <div class=\"bs-row\"><b>Weak</b> {15}</div>\\n      <div class=\"bs-row\"><b>Resists</b> {16}</div>\\n      <div class=\"bs-row\"><b>Immune</b> {17}</div>\\n      <div class=\"bs-row\"><b>Moves</b> {18}</div>\\n      <div class=\"bs-row\"><b>Drops</b> {19} · <b>Steal</b> {20}</div>\\n      <div class=\"bs-row cp-tactics-head\"><b>Tactics</b></div>{21}"
+  },
+  {
+   "f": "src/ui/menu/ControlsScreen.js",
+   "l": 27,
+   "k": "Press a key for <b>{0}</b> · <span class=\"key\">Del</span> Clear · <span class=\"key\">Esc</span> Cancel"
+  },
+  {
+   "f": "src/ui/menu/ControlsScreen.js",
+   "l": 28,
+   "k": "{0}{1}{2}{3} Choose {4} Change key <span class=\"key\">Esc</span> Back"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 85,
+   "k": "<div class=\"pc-name\">{0}</div><div>Lv {1}</div>\\n      <div class=\"dim\">Primary: <b style=\"color:{2}\">{3}</b></div>\\n      <div class=\"dim\">Secondary: <b>{4}</b></div>"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 113,
+   "k": "<div class=\"cd-name\" style=\"color:#8a8098\">??? </div><div class=\"cd-tier\">{0}</div>\\n        <div class=\"cd-desc\">A calling the Choir struck from its rolls long ago. Somewhere in the broken world, its crest-glass is still guarded.</div>\\n        <div class=\"cd-legacy\"><span class=\"k\">Rumor</span> {1}</div>"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 132,
+   "k": "<div class=\"cd-gear\">Weapons: {0}<br>Armor: {1}{2}</div>"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 133,
+   "k": "<div class=\"cd-prog\">Rank {0} — {1} CP to next<div class=\"mbar exp\"><i style=\"width:{2}%\"></i></div></div>"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 136,
+   "k": "<div class=\"cd-prog\">MASTERED · Ascension <span class=\"cd-stars\">{0}</span>{1}<div class=\"mbar exp asc\"><i style=\"width:{2}%\"></i></div></div>"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 136,
+   "k": " — {0} CP to ★{1}"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 140,
+   "k": "<div class=\"cd-legacy {0}\"><span class=\"k\">Legacy</span> {1} <span class=\"dim\">{2}</span></div>"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 143,
+   "k": "<div class=\"cd-legacy asc dim\">Each ★: all stats +{0}% as Primary, this Crest's Arts +{1}%; {2}★ adds a Support Point.{3}</div>"
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 143,
+   "k": " Now: stats +{0}%, Arts +{1}%."
+  },
+  {
+   "f": "src/ui/menu/CrestScreen.js",
+   "l": 234,
+   "k": "<div class=\"cd-name\">{0}</div><div class=\"cd-tier\">Cost {1} · from {2}</div><div class=\"cd-desc\">{3}</div>\\n      <div class=\"dim\" style=\"margin-top:18px\">Supports are passive abilities learned from Crest ranks. Any learned Support can be equipped, whatever your current Crest.</div>"
+  },
+  {
+   "f": "src/ui/menu/ShopScreen.js",
+   "l": 70,
+   "k": "<div class=\"sh-qty\">Quantity: <b>◂ {0} ▸</b> &nbsp; Total: <b>{1} G</b><div class=\"dim\">Z to confirm, X to cancel</div></div>"
+  },
+  {
+   "f": "src/ui/menu/common.js",
+   "l": 101,
+   "k": "\\n    <div class=\"pc-top\"><span class=\"pc-name\">{0}</span><span class=\"pc-lv\">Lv <b>{1}</b></span></div>\\n    <div class=\"pc-crest\" style=\"color:{2}\">{3} {4} <span class=\"pc-rank\">R{5}{6}</span>{7}</div>\\n    <div class=\"pc-vit\"><span>HP</span>{8}<span class=\"num\">{9}/{10}</span></div>\\n    <div class=\"pc-vit\"><span>MP</span>{11}<span class=\"num\">{12}/{13}</span></div>\\n    <div class=\"pc-vit small\"><span>EXP</span>{14}<span class=\"num\">{15} to next</span></div>"
+  },
+  {
+   "f": "src/ui/menu/screens.js",
+   "l": 139,
+   "k": "<div class=\"st-name\">{0}</div><div class=\"st-title\">{1}</div><div class=\"dim\">Age {2} · Lv {3}</div><div class=\"st-bio\">{4}</div>\\n      <div class=\"st-personal\"><b>{5}</b> — {6}</div>"
+  },
+  {
+   "f": "src/ui/menu/screens.js",
+   "l": 140,
+   "k": "<div class=\"sd-title\">Attributes</div>{0}"
+  },
+  {
+   "f": "src/ui/menu/screens.js",
+   "l": 142,
+   "k": "<div class=\"sd-title\">Crest Mastery</div><div class=\"dim\" style=\"margin-bottom:6px\">Mastered: {0} — all stats +{1}%</div>"
+  },
+  {
+   "f": "src/ui/menu/screens.js",
+   "l": 312,
+   "k": "<div class=\"jn-obj\"><div class=\"sd-title\">Current Objective</div><div class=\"jn-objtext\">{0}</div></div>\\n      <div class=\"sd-title\">Side Quests</div><div class=\"jn-quests\">{1}</div>\\n      <div class=\"sd-title\">The Story So Far</div>\\n      <div class=\"jn-log\">{2}</div>\\n      <div class=\"jn-meta\">Playtime {3} · Battles {4}</div>"
+  },
+  {
+   "f": "src/world/FieldScene.js",
+   "l": 593,
+   "k": "<span class=\"hl\">Hearthstone attuned</span> — travel back to {0} from the world map (Menu → Travel)."
+  },
+  {
+   "f": "src/world/QuestMarkers.js",
+   "l": 72,
+   "k": "Travel to <b>{0}</b> on the world map (Menu → Travel)."
+  },
+  {
+   "f": "src/world/QuestMarkers.js",
+   "l": 75,
+   "k": "Out to the world map, then on to <b>{0}</b>."
+  },
+  {
+   "f": "src/world/QuestMarkers.js",
+   "l": 86,
+   "k": "<div class=\"qt-head\">Objective</div><div class=\"qt-text\">{0}</div>{1}"
+  },
+  {
+   "f": "src/world/WorldMapScene.js",
+   "l": 225,
+   "k": "<div class=\"wm-side-list\">◆ Side quests: {0}</div>"
+  },
+  {
+   "f": "src/world/WorldMapScene.js",
+   "l": 226,
+   "k": "<div class=\"wm-stone-list\">Hearthstones: {0}</div>"
+  },
+  {
+   "f": "src/world/WorldMapScene.js",
+   "l": 249,
+   "k": "<div class=\"wm-dest{0}\"><span>{1}</span><em>{2}</em></div>"
+  },
+  {
+   "f": "src/world/WorldMapScene.js",
+   "l": 250,
+   "k": "<div class=\"cd-name\">Travel to…</div>{0}"
+  }
+ ]
+}

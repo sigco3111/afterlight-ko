@@ -1,0 +1,1113 @@
+{
+ "dataStoryCount": 11931,
+ "fillTextCount": 1,
+ "dataStory": [
+  {
+   "f": "src/data/artInfo.js",
+   "l": 10,
+   "t": "One foe"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 10,
+   "t": "All foes"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 10,
+   "t": "Random foes"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 10,
+   "t": "One ally"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 10,
+   "t": "All allies"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 14,
+   "t": "Weapon element"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 14,
+   "t": "Every element"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 19,
+   "t": "Leaps out of reach and lands on the next turn"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 20,
+   "t": "Steals an item"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 21,
+   "t": "Reveals a foe's HP and weaknesses"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 22,
+   "t": "Reveals every foe's HP and weaknesses"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 23,
+   "t": "The target acts at once"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 24,
+   "t": "Pushes the target's turn back"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 25,
+   "t": "Pushes back every foe's turn (half as far for bosses)"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 26,
+   "t": "Heals the party 15%"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 27,
+   "t": "Restores everyone to at least 60% HP"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 28,
+   "t": "Heals the party 50%"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 29,
+   "t": "Fully heals and cures the party"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 30,
+   "t": "Always lands as a weakness (breaks Poise)"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 31,
+   "t": "Strips the target's buffs"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 32,
+   "t": "Stronger the more HP you have lost"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 33,
+   "t": "Stronger the fuller the Afterglow gauge"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 34,
+   "t": "Cuts a quarter of current HP (8% against bosses)"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 36,
+   "t": "Heals the party 25% and restores 10% MP"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 37,
+   "t": "Revives the fallen"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 38,
+   "t": "Heals 30% HP and cures ailments"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 39,
+   "t": "Halves damage until your next turn"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 40,
+   "t": "Turns a foe into gold"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 41,
+   "t": "A random curse"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 42,
+   "t": "Fills the Afterglow gauge"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 84,
+   "t": "DEF and RES"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 85,
+   "t": "Never misses; always critical"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 88,
+   "t": "Quick: your next turn comes sooner"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 89,
+   "t": "Heavy: your next turn comes later"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 91,
+   "t": "A summon (Beast Bond: +30%)"
+  },
+  {
+   "f": "src/data/artInfo.js",
+   "l": 99,
+   "t": "art-line\">${d.line}</div>${d.effects.length ? `<div class=\"art-fx\">${d.effects.join("
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 10,
+   "t": "Afterglow gain +25%. Once per battle, survive a lethal blow at 1 HP."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 12,
+   "t": "Daughter of the Keeper of Lanternfall. Reads every book the tide brings in. Wants, more than anything, to leave."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 18,
+   "t": "Healing on allies below 30% HP is 50% stronger."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 20,
+   "t": "Wren's best friend since before either could walk. Herbalist's apprentice. Has a plan for everything, including the plan failing."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 26,
+   "t": "Once per battle, take a lethal blow meant for an ally."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 28,
+   "t": "Squire of the Dawnguard, exiled to Lanternfall after he froze during his knighting trial. Loud. Kind. Certain he is a coward."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 34,
+   "t": "Attacks may inflict a random ailment. Immune to Doom."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 36,
+   "t": "Washed ashore in a storm with no memory and a Crest no Lantern has ever seen."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 42,
+   "t": "Basic attacks may steal."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 44,
+   "t": "Aurenne street kid. Steals for a living, lies for fun, and would die before admitting he's eleven."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 47,
+   "t": "The Runaway Captain"
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 50,
+   "t": "1 in 6 chance a skill costs no MP and hits twice as hard."
+  },
+  {
+   "f": "src/data/characters.js",
+   "l": 52,
+   "t": "Captain of the airship Halcyon. Smuggler, gambler, Dawnguard deserter. Owes everyone money, including himself."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 8,
+   "t": "Lemonade (with mint)"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 8,
+   "t": "s lemonade, for Bess. It has been on its way for forty years."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 72,
+   "t": "A splinter of the broken sun that learned to walk. It is warm, and it is not kind."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 77,
+   "t": "The Choir's hounds, bred in the Spire's light. They cast no shadow at all."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 82,
+   "t": "An eye of noon, floating. Looking at it is like looking at the sun, which nobody has done for a year."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 84,
+   "t": "Vesper Lancer"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 87,
+   "t": "The Spire's guard. They have been promised the best day of their lives, as soon as their shift ends."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 89,
+   "t": "Choir Seraph"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 92,
+   "t": "A hymn given wings. It heals whatever stands between it and you."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 94,
+   "t": "Vesper Lift-Warden"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 97,
+   "t": "Keeper of the Spire's back door. He has turned away four hundred pilgrims and remembers every face."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 101,
+   "t": "Hour Knight"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 104,
+   "t": "Armor wound like a clock. It stops when it is struck — and so, for a moment, do you."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 109,
+   "t": "A moment that never ended, drifting. Cold as an afternoon that will not let you go home."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 111,
+   "t": "Memory Moth"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 114,
+   "t": "They eat memories the way other moths eat coats. The Spire is a feast."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 116,
+   "t": "Vesper Cantor"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 119,
+   "t": "They practice the Vespersong in shifts. Somebody, somewhere in the Spire, is always singing it."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 121,
+   "t": "The Hour-Warden"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 124,
+   "t": "The Spire's keeper of hours. It has only ever counted to twelve, and it has done so for forty years."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 128,
+   "t": "Festival Puppet"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 131,
+   "t": "\"Lovely day for it!\" it says, and smiles, and smiles, and comes for your throat."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 133,
+   "t": "Paper Lantern"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 136,
+   "t": "A festival lantern that drifted loose. The candle inside has burned for forty years and never got any shorter."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 138,
+   "t": "Gilded Hound"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 141,
+   "t": "Somebody's dog, remembered as a very good dog. Remembered a little too hard."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 143,
+   "t": "Festival Guard"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 146,
+   "t": "\"Welcome to the Festival of the Long Light. Enjoy the day.\" Forever."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 148,
+   "t": "Maypole Dancer"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 151,
+   "t": "She has been dancing round the maypole since before your parents were born. She would love you to join in."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 153,
+   "t": "Choir of the Dead"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 156,
+   "t": "Mercy's congregation. They sing for her because she promised them they would never have to stop."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 158,
+   "t": "Sister Mercy"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 161,
+   "t": "Evernoon's warden. She believes that a day which never ends cannot hurt anyone. She has never once been told no and believed it."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 168,
+   "t": "Where Evernoon comes apart, the Gloam comes in. It wears whatever it finds."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 170,
+   "t": "Frayed Puppet"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 173,
+   "t": "Its strings are cut. Its sentence is unfinished. It is very, very angry about both."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 175,
+   "t": "What the Noon Forgot"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 178,
+   "t": "Every sentence Evernoon never finished, knotted together into something that wants, very badly, to be heard."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 218,
+   "t": "\"Lovely day for—\""
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 218,
+   "t": "\"Any moment n—\""
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 218,
+   "t": "\"Ask me—\""
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 218,
+   "t": "\"Look how high it g—\""
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 218,
+   "t": "\"Have you seen my Lys—\""
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 226,
+   "t": "The Warden's clock-face cracks — its hands spin all the way back!"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 231,
+   "t": "TWELVE. The Hour-Warden strikes noon."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 234,
+   "t": "s hand moves. It is ${HOURS[c.m.hour]} o"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 241,
+   "t": "\"NOON.\" Every bell in Evernoon rings at once."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 242,
+   "t": "\"Sing with me, children.\""
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 244,
+   "t": "Mercy lets down her hood. \"You will not take her. You will not take ANY of them.\" She sings the Vespersong."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 249,
+   "t": "Hush. Be still. Be still forever.\""
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 250,
+   "t": "\"Rest now.\" A lullaby — and under it, the bells of Evernoon begin to swing..."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 256,
+   "t": "\"—IT!\" A hundred mouths finish the sentence at once."
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 258,
+   "t": "It begins to forget its own shape. Light pours through the gaps — light no longer heals it!"
+  },
+  {
+   "f": "src/data/content/ch10.js",
+   "l": 268,
+   "t": "A puppet tears loose from its body and staggers forward!"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 14,
+   "t": "Starfall Fragment"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 15,
+   "t": "s cutlass, from the wreck of the Gull's Return. Still sharp. He oiled it every Sunday."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 16,
+   "t": "s sigil, found lashed to your father's boat with a Keeper's knot."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 20,
+   "t": "Kite Letter"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 21,
+   "t": "\"The Lucky Shiv\""
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 22,
+   "t": "Kingfisher Logbook"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 22,
+   "t": "s log. The last page is addressed to someone."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 27,
+   "t": "Hush of the Choir"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 28,
+   "t": "Requiem of Glass"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 29,
+   "t": "Frozen Penance"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 30,
+   "t": "Bound in Ice"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 31,
+   "t": "Rime Shell"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 35,
+   "t": "Pollen of Forgetting"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 36,
+   "t": "Static Charge"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 41,
+   "t": "Little Bird"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 42,
+   "t": "Last Light"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 44,
+   "t": "Bed Rest"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 45,
+   "t": "Cold Triage"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 47,
+   "t": "Glitter Shriek"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 88,
+   "t": "It swims through the glass dunes the way an eel swims through weed. The dunes are in the sky now. It has not noticed."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 93,
+   "t": "A memory of water seen by someone dying of thirst."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 95,
+   "t": "Choir Husk"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 98,
+   "t": "Blindfolded and singing one note. Tamsin's acolytes sang the Dawnsong with their eyes covered, so they would hear it better."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 100,
+   "t": "Glass Scuttler"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 103,
+   "t": "Its shell is fused desert glass. Hit it hard enough and it rings."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 105,
+   "t": "The Blind Choir"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 108,
+   "t": "What remains of Keeper Tamsin: a choir of blindfolded voices singing so loudly they cannot hear the world end."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 110,
+   "t": "Choir Voice"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 113,
+   "t": "One voice of many. It sings harmony to a song no one else can hear."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 117,
+   "t": "Rime Monk"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 120,
+   "t": "The monks of Frosthollow kept a silent vigil. Some of them are still keeping it."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 122,
+   "t": "Snow Stalker"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 125,
+   "t": "It hunts by the sound of chattering teeth."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 127,
+   "t": "Glacier Golem"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 130,
+   "t": "The avalanche that killed Brother Halvard, gathered up and given a grudge."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 132,
+   "t": "Avalanche Wraith"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 135,
+   "t": "A slope of snow that remembers falling."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 137,
+   "t": "The Frozen Penitence"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 140,
+   "t": "Brother Halvard, kneeling in the snow, apologizing to a mountain. He has been at it for a year."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 144,
+   "t": "Rot Leech"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 147,
+   "t": "Mirefen's healers used leeches. The leeches have started using the healers."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 152,
+   "t": "Grows on whatever stopped moving."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 154,
+   "t": "Mire Mite"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 157,
+   "t": "Lives in the stilts. Bites the ankles of anyone who stands still too long."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 159,
+   "t": "Stilt Lurker"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 162,
+   "t": "It waits under the boardwalks for the rot to finish its work."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 164,
+   "t": "The Mire Mother"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 167,
+   "t": "Mother Osk, who nursed her village through the rot and could not stop when they died. She is still nursing."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 169,
+   "t": "Rot Child"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 172,
+   "t": "It cries like a feverish child. Do not listen too closely."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 179,
+   "t": "An oak that was old when Aurenne was a village. It is very tired of standing."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 181,
+   "t": "Briar Hound"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 184,
+   "t": "More thorn than dog, now. It still wags."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 186,
+   "t": "Dusk Moth"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 189,
+   "t": "Drawn to the last light in any room. Drinks it."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 191,
+   "t": "Faded Sprite"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 194,
+   "t": "Verdance's fairies were said to live as long as a summer. Summer ended."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 196,
+   "t": "The Withered Bloom"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 199,
+   "t": "Elowen, the oldest Keeper, who would not fade. She drank the forest to stay in bloom."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 203,
+   "t": "Squall Drake"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 206,
+   "t": "Stormcrown's riders flew drakes like these. The drakes kept flying."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 211,
+   "t": "It dives with the lightning, never before it."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 213,
+   "t": "Skyreach Sentinel"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 216,
+   "t": "Vasha's honor guard. The armor stands its watch with nothing inside."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 218,
+   "t": "Static Wisp"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 221,
+   "t": "A spark that got lost on the way down and decided to stay."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 223,
+   "t": "The Storm Herald"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 226,
+   "t": "Ardent Vasha, who gave the Hierophant her light because he asked so kindly. She is still announcing his coming."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 230,
+   "t": "Vesper Knight"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 233,
+   "t": "Cassian's chosen. They took the Vesper oath: to hold the moment, whatever it costs."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 235,
+   "t": "Dawnguard Elite"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 238,
+   "t": "The last of Garrick's men. They stayed because he stayed."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 240,
+   "t": "Vesper Cantor"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 243,
+   "t": "They sing the Vespersong in rounds, to keep the moment warm."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 245,
+   "t": "Bell Golem"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 248,
+   "t": "A bell from the City of Bells, given legs and told to toll for the end of time."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 250,
+   "t": "Captain Ivo Brask"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 253,
+   "t": "Garrick's second. He has polished the same breastplate every morning for a year, because no one told him to stop."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 255,
+   "t": "Lord-Commander Garrick"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 258,
+   "t": "Head of the Dawnguard and Cassian's sword. He has seen the world broken, and would rather it frozen."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 260,
+   "t": "Garrick Thorne"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 263,
+   "t": "No title now. No soldiers. Just a man with a sword, and another man with a sword."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 265,
+   "t": "Garrick Thorne"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 268,
+   "t": "He is bleeding. So is Bram. Neither of them is sitting down."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 272,
+   "t": "Drowned Memory"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 275,
+   "t": "Something that happened here, once, on an ordinary day. It wants to happen again."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 277,
+   "t": "Gull Wraith"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 280,
+   "t": "Lanternfall's gulls were always bold. They are bolder dead."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 282,
+   "t": "Tidewrack Horror"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 285,
+   "t": "Everything the sea took from Lanternfall, wound together and come home."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 287,
+   "t": "Lamplit Moth"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 290,
+   "t": "It has circled the Lantern for a year. It has never once thought of leaving."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 292,
+   "t": "Hound of the Black Rocks"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 295,
+   "t": "You fought it on the night Sable washed ashore. It remembers you. You were so much smaller."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 297,
+   "t": "Kept Light"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 300,
+   "t": "A little of the light she could not let go of."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 302,
+   "t": "The Keeper's Remnant"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 305,
+   "t": "Ysolde Halloway, Keeper of Lanternfall, still holding the last light so her daughter can reach the boat."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 309,
+   "t": "Abyss Crab"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 312,
+   "t": "It walked the sea floor its whole life. The floor is in the sky now. It keeps walking."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 314,
+   "t": "Sky Jelly"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 317,
+   "t": "It drifts above the reef, pulsing like a slow heart."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 319,
+   "t": "Wreck Eel"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 322,
+   "t": "It nests in the ribs of drowned ships."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 324,
+   "t": "The Undertow"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 327,
+   "t": "The storm that took Edrin Halloway, remembered by the sea it happened in."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 331,
+   "t": "Fever Wraith"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 334,
+   "t": "A fever that broke, a year too late."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 336,
+   "t": "Linen Shroud"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 339,
+   "t": "Clean sheets. Folded corners. Something still lying in them."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 341,
+   "t": "The Matron of Ash"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 344,
+   "t": "Every long night on every ward, given a voice. It sounds exactly like Ilse on her worst day."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 348,
+   "t": "Vigil Knight"
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 351,
+   "t": "Every knight who ever stood the vigil here left a little of themselves in the stone. It stands up to see if you are worthy."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 356,
+   "t": "The squires who failed the vigil. They are not angry. Only cold."
+  },
+  {
+   "f": "src/data/content/ch11.js",
+   "l": 358,
+   "t": "The Dread"
+  }
+ ],
+ "fillText": [
+  {
+   "f": "src/world/Minimap.js",
+   "l": 123,
+   "t": "g.fillText(name, x, y);"
+  }
+ ]
+}
