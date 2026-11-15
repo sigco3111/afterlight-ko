@@ -1,86 +1,100 @@
 FILES 82
 TOTAL 8607
 UNIQUE 7824
-CONFLICTS 454
-part 0side-a.json 111
-part ch10a.json 178
-part ch10b.json 167
-part ch10c.json 186
-part ch1112-names.json 17
-part ch11a.json 171
-part ch11b.json 71
-part ch12a.json 178
-part ch12b.json 166
-part ch12c.json 166
-part ch12d.json 164
-part ch13a.json 170
-part ch13b.json 170
-part ch13c.json 170
-part ch13d.json 170
-part ch14a.json 52
-part ch1a.json 64
-part ch1b.json 61
-part ch2a.json 240
-part ch2b.json 240
-part ch2c.json 152
-part ch3_side1.json 95
-part ch3_side2.json 77
-part ch3a.json 117
-part ch3b.json 221
-part ch3c.json 73
-part ch4a_mountain1.json 94
-part ch4a_mountain2.json 94
-part ch4a_mountain3.json 152
-part ch4b_sky1.json 88
-part ch4b_sky2.json 90
-part ch4b_sky3.json 144
-part ch4b_verdance1.json 93
-part ch4b_verdance2.json 93
-part ch4b_verdance3.json 98
-part ch5a.json 183
-part ch5b.json 234
-part ch6a.json 82
-part ch6b.json 88
-part ch6c.json 81
-part ch6d.json 90
-part ch7a.json 84
-part ch7b.json 85
-part ch7c.json 84
-part ch7d.json 77
-part ch89-names.json 24
-part ch8a.json 93
-part ch8b.json 78
-part ch8c.json 83
-part ch8d.json 77
-part ch9a.json 96
-part ch9b.json 92
-part ch9c.json 85
-part ch9d.json 107
-part ch9side.json 82
-part chars-a.json 40
-part crests-a.json 40
-part crests-b.json 35
-part enemies-a.json 18
-part enemies-b.json 16
-part enemies-c.json 18
-part eq-desc.json 136
-part equip-names-a.json 80
-part equip-names-b.json 72
-part equip-names-c.json 90
-part items.json 66
-part maps-names.json 504
-part names.json 131
-part pg-a.json 152
-part pg-b.json 152
-part pg-names.json 10
-part skills-a.json 68
-part skills-b.json 46
-part skills-c.json 45
-part skills-d.json 36
-part skills-e.json 34
-part skills-f.json 44
-part skills-g.json 68
-part skills-h.json 29
-part tutorial-battle.json 54
-part ui.json 56
-part ui2.json 69
+TEMPLATE_KEYS 4
+TEMPLATE_LINES 255
+SENTENCE_LINES 141
+sent src/audio/VoiceLines.js 1
+sent src/battle/Actions.js 3
+sent src/battle/BattleScene.js 2
+sent src/battle/BattleSystem.js 1
+sent src/battle/BattleUI.js 4
+sent src/core/Game.js 1
+sent src/debug/TestHarness.js 2
+sent src/render/PropFactory.js 1
+sent src/scenes/OpeningCaptions.js 1
+sent src/scenes/OpeningScene.js 1
+sent src/scenes/OpeningStages.js 1
+sent src/script/Lines.js 3
+sent src/script/ScriptContext.js 3
+sent src/story/ch10.js 2
+sent src/story/ch11.js 2
+sent src/story/ch11_remnants.js 1
+sent src/story/ch11_rites.js 2
+sent src/story/ch12.js 2
+sent src/story/ch2_common.js 2
+sent src/story/ch2_thistle.js 1
+sent src/story/ch3_side.js 2
+sent src/story/ch4a.js 1
+sent src/story/ch4a_mountain.js 2
+sent src/story/ch4b_sky.js 2
+sent src/story/ch4b_verdance.js 2
+sent src/story/ch5.js 1
+sent src/story/ch7.js 1
+sent src/story/ch8.js 4
+sent src/story/ch9.js 1
+sent src/story/ch9_side.js 2
+sent src/story/colosseum.js 11
+sent src/story/fishing.js 2
+sent src/story/hunt.js 7
+sent src/story/lost.js 2
+sent src/story/postgame.js 13
+sent src/story/prologue.js 1
+sent src/story/side.js 7
+sent src/ui/Fishing.js 1
+sent src/ui/SceneHints.js 2
+sent src/ui/Tutorial.js 2
+sent src/ui/UI.js 1
+sent src/ui/menu/ArtsScreen.js 4
+sent src/ui/menu/CompendiumScreen.js 3
+sent src/ui/menu/ControlsScreen.js 2
+sent src/ui/menu/CrestScreen.js 6
+sent src/ui/menu/EquipScreen.js 1
+sent src/ui/menu/SaveScreen.js 5
+sent src/ui/menu/ShopScreen.js 3
+sent src/ui/menu/screens.js 5
+sent src/world/FieldScene.js 1
+sent src/world/Minimap.js 1
+sent src/world/QuestMarkers.js 4
+sent src/world/WorldMapScene.js 3
+---SAMPLES---
+src/audio/VoiceLines.js:61 `Voice line ${id} failed to load: ${err.message}`
+src/battle/Actions.js:244 `Recovered ${g} gold from ${target.name}.`
+src/battle/Actions.js:504 `Transmuted ${g} gold!`
+src/battle/Actions.js:589 `Threw ${spend} gold!`
+src/battle/BattleScene.js:713 `Test: party lost battle '${this.params.troopId}' (levels ${this.sys.party.map((b) => b.level).join('/')})`
+src/battle/BattleScene.js:756 `Load last save — ${last.location || 'saved game'}`
+src/battle/BattleSystem.js:23 `Unknown troop ${troopId}`
+src/battle/BattleUI.js:253 `<div class="v-totals"><span>EXP <b>${summary.exp}</b></span><span>Gold <b>${summary.gold}</b></span><span>CP <b>${summary.cp}</b>
+src/battle/BattleUI.js:278 `<div class="v-learn">${name} mastered — Legacy: <b>${k.legacy.desc}</b></div>`
+src/battle/BattleUI.js:325 `Support Points ${r.supportFrom} → <b>${sp}</b>`
+src/battle/BattleUI.js:423 `<div class="cmd-surge ${surgeOk ? '' : 'off'}">${keyCap('pageLeft')}${keyCap('pageRight')} Surge ${'◆'.repeat(this.surge)}${'◇'.r
+src/core/Game.js:157 `Fast Mode ×${s.fastSpeed || 3}`
+src/debug/TestHarness.js:36 `Timed out waiting for idle — scene=${sc?.constructor?.name} map=${sc?.mapId ?? '-'} busy=${sc?.busy} stack=${game.sceneStack?.len
+src/debug/TestHarness.js:62 `Expectation failed: ${msg}` | `ok: ${msg}`
+src/render/PropFactory.js:555 `Unknown prop type: ${type}`
+src/scenes/OpeningCaptions.js:36 `Opening: unknown caption kind ${spec.kind}`
+src/scenes/OpeningScene.js:50 `<div class="op-bar top"></div><div class="op-bar bottom"></div><div class="op-captions"></div><div class="op-skip">${keyCap('canc
+src/scenes/OpeningStages.js:88 `Opening: unknown map ${mapId}`
+src/script/Lines.js:65 `Lines: can't read condition "${src}"`
+src/script/Lines.js:70 `Lines: unknown condition kind "${kind}:" in "${src}" (a flag whose name has a colon is written "flag:${kind}:${key}")`
+src/script/Lines.js:112 `Lines: can't read condition ${JSON.stringify(cond)}`
+src/script/ScriptContext.js:131 `Script: unknown actor '${id}'`
+src/script/ScriptContext.js:249 `<span class="hl">Objective</span> — ${text}`
+src/script/ScriptContext.js:295 `Rest at ${innName} for ${price} gold? (You have ${this.state.gold})`
+src/story/ch10.js:34 `${name} has stopped mid-word. The smile is still there. Nothing behind it is.`
+src/story/ch10.js:134 `Clocks stopped: ${n} of 3.`
+src/story/ch11.js:25 `Recover the Sun Shards (${n}/7): ${left.map((k) => k.place).join(', ')}. Set a course with Corvin at the helm.`
+src/story/ch11.js:36 `Sun Shards: *${n} / 7*`
+src/story/ch11_remnants.js:379 `The rod drinks the storm and goes quiet. (${done}/3 grounded)`
+src/story/ch11_rites.js:605 `${given} of seven. Keep looking — they hum, if you get close. A bit like a kettle thinking about it.`
+src/story/ch11_rites.js:611 `Oh, _lovely_. Hold still, little one — there. That\'s ${total} of seven on the chart.`
+src/story/ch12.js:151 `The dancers wait for a beat that never comes. (Sundials woken: ${dialsDone(s.state)}/3)`
+src/story/ch12.js:188 `Wake the remaining sundials (${n}/3 woken).`
+src/story/ch2_common.js:30 `Coach to ${dest.name}, the long way round the wold. Two days, forty gold, and you\'ll hear every one of my opinions.`
+src/story/ch2_common.js:31 `Ride to ${dest.name} for 40 gold? (You have ${s.state.gold})`
+src/story/ch2_thistle.js:142 `That\'s ${n} of three down. The big one in the north-east field — Old Strawman — he was my granddad\'s. Leave him for last.`
+src/story/ch3_side.js:76 `The ${note === 'mid' ? 'middle' : note} bell rings out${seq.length > 1 ? ', and the others answer faintly' : ''}.`
+src/story/ch3_side.js:96 `${n} of four. My heart is old, Page, but it is patient.`
+src/story/ch4a.js:572 `Pay Corvin's debt? (You have ${s.state.gold} gold)`
+src/story/ch4a_mountain.js:202 `Three lilies, child. ${s.state.inventory.count('frost_lily') ? 'You\'ve found some — bless you. A few more.' : 'Off the trail, in
